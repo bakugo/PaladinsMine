@@ -27898,7 +27898,11 @@ League_Tier_name
 item_desc
 Stinger
 item_name
-{"itemDescription":{"description":"Vulcan places a mine. Once activated, enemies stepping into the radius will detonate it, dealing dmg to nearby enemies. The mine also deals knockback to both enemies and vulcan. Once fully deployed, Vulcan can activate the ability again to detonate it early or the mine will explode automatically after 20s.","secondaryDescription":"","menuitems": [{"description":"Ability:", "value":"Ground Target"},{"description":"Affects:", "value":"Enemy"},{"description":"Damage:", "value":"Magical"},{"description":"Activation Radius:", "value":"20"},{"description":"Explosion Radius:", "value":"25"}],"rankitems": [{"description":"Damage:", "value":"!{rankprog:80,120,160,200,240}! (!{pexists:!{pprop:1008,0.2,+#}!,+20% of your magical power}!)"},{"description":"Deploy Time:", "value":"!{rankprog:0.5}!s"}],"cooldown":"!{rankprog:12}!s","cost":"!{rankprog:60,65,70,75,80}!"}}ЊMagma MineЊVulcan Mine - Deployable 1ЊVulcan Mine - Sub 1ЊSuccessful basic attacks no longer slow.
+{"itemDescription":{"description":"Vulcan places a mine. Once activated, enemies stepping into the radius will detonate it, dealing dmg to nearby enemies. The mine also deals knockback to both enemies and vulcan. Once fully deployed, Vulcan can activate the ability again to detonate it early or the mine will explode automatically after 20s.","secondaryDescription":"","menuitems": [{"description":"Ability:", "value":"Ground Target"},{"description":"Affects:", "value":"Enemy"},{"description":"Damage:", "value":"Magical"},{"description":"Activation Radius:", "value":"20"},{"description":"Explosion Radius:", "value":"25"}],"rankitems": [{"description":"Damage:", "value":"!{rankprog:80,120,160,200,240}! (!{pexists:!{pprop:1008,0.2,+#}!,+20% of your magical power}!)"},{"description":"Deploy Time:", "value":"!{rankprog:0.5}!s"}],"cooldown":"!{rankprog:12}!s","cost":"!{rankprog:60,65,70,75,80}!"}}
+Magma Mine
+Vulcan Mine - Deployable 1
+Vulcan Mine - Sub 1
+Successful basic attacks no longer slow.
 item_short_desc
 {"itemDescription":{"description":"This item gives the owner increased movement speed and attack speed.","menuitems": [{"value":"+30%", "description":"Attack Speed"},{"value":"+10%", "description":"Movement Speed"}],"secondaryDescription":"PASSIVE - When a basic attack hits a target, the attacking movement speed debuff is removed from you for 1 second."}}
 item_desc
@@ -28138,7 +28142,15 @@ You are slowed and Ah Muzen Cab deals increased damage to you.
 EFFECT_GROUP_desc
 Honey
 EFFECT_GROUP_name
-Vulcan Mine - Sub 2ЊVulcan Mine - Sub 3ЊVulcan Mine - Sub 4ЊVulcan Mine - Sub 5ЊVulcan Mine - Deployable 2ЊVulcan Mine - Deployable 3ЊVulcan Mine - Deployable 4ЊVulcan Mine - Deployable 5ЊCAUTION!  The Fire Giant is a strong enemy.  Killing him grants all teammates a powerful buff for 4 minutes and grants everyone on your team a bonus of 150 gold.   (Hard Difficulty)
+Vulcan Mine - Sub 2
+Vulcan Mine - Sub 3
+Vulcan Mine - Sub 4
+Vulcan Mine - Sub 5
+Vulcan Mine - Deployable 2
+Vulcan Mine - Deployable 3
+Vulcan Mine - Deployable 4
+Vulcan Mine - Deployable 5
+CAUTION!  The Fire Giant is a strong enemy.  Killing him grants all teammates a powerful buff for 4 minutes and grants everyone on your team a bonus of 150 gold.   (Hard Difficulty)
 BUFF = +70 Magical Power, +50 Physical Power, Regen 4% of your health and 2% of your mana every 5 seconds.  Your damage versus Towers and Phoenixes will also be increased by 15%.
 Game_Tip_tip
 Fire Giant Lair
@@ -28164,9 +28176,12 @@ Nu Wa Stealth
 VV_text
 Basic Attack Damage
 property_ui_name
-Nu Wa Fog StealthЊogЊStealth
+Nu Wa Fog Stealth
+Stealth
 EFFECT_GROUP_name
-Prevent StealthЊNu Wa Fog Damage 1ЊogЊNu Wa Fog
+Prevent Stealth
+Nu Wa Fog Damage 1
+Nu Wa Fog
 BOT_name
 Type /r [name] [msg] to reply to private messages
 HELP_CHAT_REPLY
@@ -28174,7 +28189,9 @@ Stinger
 EFFECT_GROUP_name
 Pickup Effect
 EFFECT_GROUP_name
-{"itemDescription":{"description":"Nu Wa draws upon the power of the five-colored elemental crystals. When she uses an ability, it activates its corresponding crystal for 10s, granting her an additional bonus. When all crystals are active, Nu Wa transforms into her true snake form, refreshing the duration of all crystal bonuses for another 10s.","secondaryDescription":"","menuitems": [{"description":"Ability:", "value":"Buff"},{"description":"Affects:", "value":"Self"}],"rankitems": [{"description":"Wood Crystal Bonus:", "value":"!{rankprog:10}! HP5 (Always Active)"}],"cooldown":"","cost":""}}ЊElemental CrystalsЊ{"itemDescription":{"description":"Vulcan slams his hammer down creating a shockwave that travels in a line, damaging and knocking enemies into the air. The damage and knockback falls off to 25% at the outermost edges of the shockwave.","secondaryDescription":"","menuitems": [{"description":"Ability:", "value":"Line"},{"description":"Affects:", "value":"Enemy"},{"description":"Damage:", "value":"Magical"},{"description":"Radius:", "value":"10"}],"rankitems": [{"description":"Damage:", "value":"!{rankprog:200,300,400,500,600}! (!{pexists:!{pprop:1008,0.80,+#}!,+80% of your magical power}!)"}],"cooldown":"!{rankprog:90}!s","cost":"!{rankprog:90,100,110,120,130}!s"}}
+{"itemDescription":{"description":"Nu Wa draws upon the power of the five-colored elemental crystals. When she uses an ability, it activates its corresponding crystal for 10s, granting her an additional bonus. When all crystals are active, Nu Wa transforms into her true snake form, refreshing the duration of all crystal bonuses for another 10s.","secondaryDescription":"","menuitems": [{"description":"Ability:", "value":"Buff"},{"description":"Affects:", "value":"Self"}],"rankitems": [{"description":"Wood Crystal Bonus:", "value":"!{rankprog:10}! HP5 (Always Active)"}],"cooldown":"","cost":""}}
+Elemental Crystals
+{"itemDescription":{"description":"Vulcan slams his hammer down creating a shockwave that travels in a line, damaging and knocking enemies into the air. The damage and knockback falls off to 25% at the outermost edges of the shockwave.","secondaryDescription":"","menuitems": [{"description":"Ability:", "value":"Line"},{"description":"Affects:", "value":"Enemy"},{"description":"Damage:", "value":"Magical"},{"description":"Radius:", "value":"10"}],"rankitems": [{"description":"Damage:", "value":"!{rankprog:200,300,400,500,600}! (!{pexists:!{pprop:1008,0.80,+#}!,+80% of your magical power}!)"}],"cooldown":"!{rankprog:90}!s","cost":"!{rankprog:90,100,110,120,130}!s"}}
 item_desc
 Pyroclastic Flow
 item_name
@@ -28186,7 +28203,8 @@ Soul Reaver
 EFFECT_GROUP_name
 Your next damaging ability against a god deals 15% of their maximum health in additional damage.
 EFFECT_GROUP_desc
-Wood CrystalЊCrystal Bonus
+Wood Crystal
+Crystal Bonus
 EFFECT_GROUP_name
 Crystal
 EFFECT_GROUP_name
@@ -28208,9 +28226,13 @@ Sting
 ITEM_name
 Honey Bee Damage Buff
 EFFECT_GROUP_name
-{"itemDescription":{"description":"DECAY (Dark Stance) - Hel fires a projectile that explodes on contact, doing damage to all enemies in a 15 ft radius. RESTORATION (Light Stance) - Hel fires a projectile that does damage to a single target and heals Hel on a successful hit.","secondaryDescription":"","menuitems": [{"description":"Ability:", "value":"Projectile"},{"description":"Affects:", "value":"Enemy"},{"description":"Damage:", "value":"Magical"}],"rankitems": [{"description":"Dark Damage:", "value":"!{rankprog:70,120,170,220,270}! (!{pexists:!{pprop:1008,0.50,+#}!,+50% of your magical power}!)"},{"description":"Light Damage:", "value":"!{rankprog:70,120,170,220,270}! (!{pexists:!{pprop:1008,0.50,+#}!,+50% of your magical power}!)"},{"description":"Light Heal:", "value":"!{rankprog:50,95,140,185,230}!"}],"cooldown":"!{rankprog:8}!s","cost":"!{rankprog:70,75,80,85,90}!"}}ЊNu Wa FireballЊTerracotta Warrior
+{"itemDescription":{"description":"DECAY (Dark Stance) - Hel fires a projectile that explodes on contact, doing damage to all enemies in a 15 ft radius. RESTORATION (Light Stance) - Hel fires a projectile that does damage to a single target and heals Hel on a successful hit.","secondaryDescription":"","menuitems": [{"description":"Ability:", "value":"Projectile"},{"description":"Affects:", "value":"Enemy"},{"description":"Damage:", "value":"Magical"}],"rankitems": [{"description":"Dark Damage:", "value":"!{rankprog:70,120,170,220,270}! (!{pexists:!{pprop:1008,0.50,+#}!,+50% of your magical power}!)"},{"description":"Light Damage:", "value":"!{rankprog:70,120,170,220,270}! (!{pexists:!{pprop:1008,0.50,+#}!,+50% of your magical power}!)"},{"description":"Light Heal:", "value":"!{rankprog:50,95,140,185,230}!"}],"cooldown":"!{rankprog:8}!s","cost":"!{rankprog:70,75,80,85,90}!"}}
+Nu Wa Fireball
+Terracotta Warrior
 BOT_name
-Clay SoldiersЊMagma BombЊAh Muzen Cab Voice Pack
+Clay Soldiers
+Magma Bomb
+Ah Muzen Cab Voice Pack
 ITEM_name
 Bakasura Voice Pack
 ITEM_name
