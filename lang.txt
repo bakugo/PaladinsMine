@@ -36839,7 +36839,7 @@ Incinerator [Common]
 BOT_name
 The Master Mechanic
 BOT_desc
-Damage Over Time × Shields and Deployables
+Damage Over Time · Shields and Deployables
 BOT_lore
 Common Grenade Launcher
 item_short_desc
@@ -42037,11 +42037,11 @@ The Godslayer
 BOT_desc
 Androxus
 BOT_name
-Burst Damage × Crowd Control
+Burst Damage · Crowd Control
 BOT_lore
 The Hunter's Daughter
 BOT_desc
-Rapid Attacks × High Health and Shields
+Rapid Attacks · High Health and Shields
 BOT_lore
 The Self-Appointed Knight
 BOT_desc
@@ -42049,19 +42049,19 @@ The Winter Witch
 BOT_lore
 The Winter Witch
 BOT_desc
-Rapid Attacks × Mobility and Shields
+Rapid Attacks · Mobility and Shields
 BOT_lore
-Burst Damage × Crowd Control and Healing
+Burst Damage · Crowd Control and Healing
 BOT_lore
 The Rogue Alchemist
 BOT_desc
-Burst Damage × Mobility
+Burst Damage · Mobility
 BOT_lore
-Damage Over Time × Mobility and Deception
+Damage Over Time · Mobility and Deception
 BOT_lore
 The Twilight Assassin
 BOT_desc
-Rapid Attacks × Healing and Deployables
+Rapid Attacks · Healing and Deployables
 BOT_lore
 The Lightning Orc
 BOT_desc
@@ -57985,7 +57985,7 @@ The Grove
 CHAOSCAPTURE_RavenousB
 The Market
 CHAOSCAPTURE_RavenousC
-Rapid Attacks × Mobility and Healing
+Rapid Attacks · Mobility and Healing
 BOT_lore
 Deck Name
 property_ui_name
@@ -76628,9 +76628,9 @@ Copy of Avatar Vendor
 Loot_Table_name
 Reversal Deployable
 Deployable_name
-Burst Damage × Mobility and Healing
+Burst Damage · Mobility and Healing
 BOT_lore
-Burst Damage × Crowd Control and Deception
+Burst Damage · Crowd Control and Deception
 BOT_lore
 Stealth
 EFFECT_GROUP_name
@@ -76911,7 +76911,7 @@ Timber
 ITEM_name
 Aqua
 ITEM_name
-Rapid Attacks × Deployables × Deception
+Rapid Attacks · Deployables · Deception
 BOT_lore
 Hunter
 ITEM_name
@@ -77349,13 +77349,13 @@ Rename
 PALADINS_RENAME
 Edit
 PALADINS_EDIT
-Edit Champion Decks × Edit Common Decks
+Edit Champion Decks · Edit Common Decks
 PALADINS_EDITCHAMPIONDECKS
 Champion Loadouts
 PALADINS_CHAMPIONDECKS
 Common Decks
 PALADINS_COMMONDECKS
-View Champions × View Appearances
+View Champions · View Appearances
 PALADINS_VIEWCHAMPIONS
 Card Crafting
 PALADINS_CARDCRAFTING
@@ -77367,7 +77367,7 @@ Select Common or Champion Cards
 PALADINS_SELECTCOMMONORCHAMPIONCARDS
 Weapon Skin
 PALADINS_WEAPONSKIN
-Craft Cards × Craft Appearances × Loot Chests
+Craft Cards · Craft Appearances · Loot Chests
 PALADINS_CRAFTINGSUBTITLE
 Sniper
 BOT_desc
@@ -77631,7 +77631,7 @@ Twilight
 ITEM_name
 Drogoz
 ITEM_name
-Burst Damage × Mobility
+Burst Damage · Mobility
 BOT_lore
 Swap Target for Dimensional Link
 Deployable_desc
@@ -86911,7 +86911,8 @@ Serpent Temple Co-op
 map_game_friendly_name
 Serpent Temple Co-op
 map_game_name
-%.2fÐŠPALADINS_BINOCS_HEADING
+%.2f°
+PALADINS_BINOCS_HEADING
 RANGE: %.1fM
 PALADINS_BINOCS_RANGE
 TARGETS: %i
@@ -116379,7 +116380,7 @@ item_name
 item_desc
 Binary Star I
 item_name
-[Weapon] Star Splitter now deals {scale=289|17} damage every 0.4s.
+[Weapon] Star Splitter now deals {scale=306|18} damage every 0.4s.
 item_desc
 Reposition I
 item_name
@@ -128412,6 +128413,10 @@ Moji Lore
 ITEM_name
 While the rest of the rabbit-like leipori fled to the forests to avoid getting involved in the war raging across the Realm, Moji took it upon herself to summon the great nature spirits to defend the world. She charges into battle atop her trusty familiar, Po-Li, who carries her through the fray as she unleashes a maelstrom of sorcerous destruction on her enemies. Once the war is over and the Realm has returned to its natural state, she hopes to return to the forest and help her people begin the healing process, restoring all that was lost.
 ITEM_desc
+Moji WOTD
+Activity_Goal_title
+Moji WOTD
+Activity_Goal_name
 None
 VV_TEXT
 Patrol
@@ -131665,4 +131670,6 @@ A map change order is pending
 MAP_CHANGE_ORDER_PENDING
 This queue does not allow Exclusive Parties.
 EXCLUSIVE_PARTIES_NOT_ALLOWED
+Cannot use multiple accounts to claim rewards in the same twitch campaign.
+TWITCH_CAMPAIGN_VIOLATION
 A
