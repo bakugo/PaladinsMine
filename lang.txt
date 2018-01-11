@@ -36839,7 +36839,7 @@ Incinerator [Common]
 BOT_name
 The Master Mechanic
 BOT_desc
-Damage Over Time · Shields and Deployables
+Damage Over Time × Shields and Deployables
 BOT_lore
 Common Grenade Launcher
 item_short_desc
@@ -42037,11 +42037,11 @@ The Godslayer
 BOT_desc
 Androxus
 BOT_name
-Burst Damage · Crowd Control
+Burst Damage × Crowd Control
 BOT_lore
 The Hunter's Daughter
 BOT_desc
-Rapid Attacks · High Health and Shields
+Rapid Attacks × High Health and Shields
 BOT_lore
 The Self-Appointed Knight
 BOT_desc
@@ -42049,19 +42049,19 @@ The Winter Witch
 BOT_lore
 The Winter Witch
 BOT_desc
-Rapid Attacks · Mobility and Shields
+Rapid Attacks × Mobility and Shields
 BOT_lore
-Burst Damage · Crowd Control and Healing
+Burst Damage × Crowd Control and Healing
 BOT_lore
 The Rogue Alchemist
 BOT_desc
-Burst Damage · Mobility
+Burst Damage × Mobility
 BOT_lore
-Damage Over Time · Mobility and Deception
+Damage Over Time × Mobility and Deception
 BOT_lore
 The Twilight Assassin
 BOT_desc
-Rapid Attacks · Healing and Deployables
+Rapid Attacks × Healing and Deployables
 BOT_lore
 The Lightning Orc
 BOT_desc
@@ -57985,7 +57985,7 @@ The Grove
 CHAOSCAPTURE_RavenousB
 The Market
 CHAOSCAPTURE_RavenousC
-Rapid Attacks · Mobility and Healing
+Rapid Attacks × Mobility and Healing
 BOT_lore
 Deck Name
 property_ui_name
@@ -76628,9 +76628,9 @@ Copy of Avatar Vendor
 Loot_Table_name
 Reversal Deployable
 Deployable_name
-Burst Damage · Mobility and Healing
+Burst Damage × Mobility and Healing
 BOT_lore
-Burst Damage · Crowd Control and Deception
+Burst Damage × Crowd Control and Deception
 BOT_lore
 Stealth
 EFFECT_GROUP_name
@@ -76911,7 +76911,7 @@ Timber
 ITEM_name
 Aqua
 ITEM_name
-Rapid Attacks · Deployables · Deception
+Rapid Attacks × Deployables × Deception
 BOT_lore
 Hunter
 ITEM_name
@@ -77349,13 +77349,13 @@ Rename
 PALADINS_RENAME
 Edit
 PALADINS_EDIT
-Edit Champion Decks · Edit Common Decks
+Edit Champion Decks × Edit Common Decks
 PALADINS_EDITCHAMPIONDECKS
 Champion Loadouts
 PALADINS_CHAMPIONDECKS
 Common Decks
 PALADINS_COMMONDECKS
-View Champions · View Appearances
+View Champions × View Appearances
 PALADINS_VIEWCHAMPIONS
 Card Crafting
 PALADINS_CARDCRAFTING
@@ -77367,7 +77367,7 @@ Select Common or Champion Cards
 PALADINS_SELECTCOMMONORCHAMPIONCARDS
 Weapon Skin
 PALADINS_WEAPONSKIN
-Craft Cards · Craft Appearances · Loot Chests
+Craft Cards × Craft Appearances × Loot Chests
 PALADINS_CRAFTINGSUBTITLE
 Sniper
 BOT_desc
@@ -77631,7 +77631,7 @@ Twilight
 ITEM_name
 Drogoz
 ITEM_name
-Burst Damage · Mobility
+Burst Damage × Mobility
 BOT_lore
 Swap Target for Dimensional Link
 Deployable_desc
@@ -86911,8 +86911,7 @@ Serpent Temple Co-op
 map_game_friendly_name
 Serpent Temple Co-op
 map_game_name
-%.2f°
-PALADINS_BINOCS_HEADING
+%.2fÐŠPALADINS_BINOCS_HEADING
 RANGE: %.1fM
 PALADINS_BINOCS_RANGE
 TARGETS: %i
@@ -90780,7 +90779,7 @@ Forest Payload Only
 map_game_name
 Twitch Prime Crown
 ITEM_name
-Limited Twitch Prime Exclusive.
+Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
 ITEM_desc
 Boss
 ITEM_desc
@@ -91376,7 +91375,7 @@ X Spikes
 ITEM_name
 Ruckus Passive
 item_name
-Limited Twitch Prime Exclusive.
+Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
 ITEM_desc
 Temple Isle Assault
 map_game_friendly_name
@@ -116659,7 +116658,7 @@ ENT Terminus Mastery Obsidian
 ITEM_name
 ENT Terminus Mastery Spray
 ITEM_name
-Limited Twitch Prime Exclusive.
+Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
 ITEM_desc
 Primal Prowler
 ITEM_name
@@ -123649,7 +123648,7 @@ SLT - Collection - Bomb King - Twitch
 Loot_Table_name
 Twitch Prime King
 ITEM_name
-Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at Twitch.com
+Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
 ITEM_desc
 Ice Royale
 map_game_friendly_name
@@ -125475,7 +125474,7 @@ item_name
 item_desc
 Twitch Prime King Spray
 item_name
-Limited Twitch Prime Exclusive.
+Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
 item_desc
 zDeprecated The Void Protects II
 item_name
@@ -128021,7 +128020,7 @@ ui_autogen_1023
 ui_autogen_1024
 Moji
 item_short_desc
-Moji MVP 01
+Yippee Ki Yay
 item_name
 Moji MVP 01
 item_desc
