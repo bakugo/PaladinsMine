@@ -74156,7 +74156,7 @@ Sunspear Push Tail
 map_game_friendly_name
 Sunspear Push Tail
 map_game_name
-WIP Magistrate's Archives (Onslaught)
+Magistrate's Archives (Onslaught)
 MSL_name
 Push Tail
 Match_Queue_name
@@ -116624,7 +116624,7 @@ Keep (TDM)
 map_game_friendly_name
 WIP Keep (TDM)
 map_game_name
-WIP Magistrate's Archives (TDM)
+Magistrate's Archives (TDM)
 MSL_name
 SLT - Set - Terminus - Monolith
 Loot_Table_name
@@ -117661,11 +117661,11 @@ WIP Triumph (Siege)
 map_game_name
 Magistrate's Archives (Onslaught) 
 map_game_friendly_name
-WIP Magistrate's Archives (Onslaught)
+Magistrate's Archives (Onslaught)
 map_game_name
 Magistrate's Archives (TDM)
 map_game_friendly_name
-WIP Magistrate's Archives (TDM)
+Magistrate's Archives (TDM)
 map_game_name
 Multi-Target No Silence
 DEVICE_name
@@ -123377,7 +123377,7 @@ WIP Eastwatch (Siege)
 map_game_name
 Magistrate's Archives
 map_game_friendly_name
-WIP Magistrate's Archives (Onslaught)
+Magistrate's Archives (Onslaught)
 map_game_name
 Salt
 map_game_friendly_name
@@ -128141,7 +128141,7 @@ Magistrate's Archives (TDM)
 Match_Queue_name
 Magistrate's Archives (TDM)
 map_game_friendly_name
-WIP Magistrate's Archives (TDM)
+Magistrate's Archives (TDM)
 map_game_name
 ENT Moji Mastery Cosmic
 ITEM_name
@@ -128423,6 +128423,8 @@ LIVE Ascension Peak
 map_game_name
 Custom S_AscensionPeak
 MSL_name
+Ascension Peak
+map_game_friendly_name
 Practice Ascension Peak
 map_game_name
 Ascension Peak
@@ -128431,6 +128433,42 @@ Ranked Ascension Peak
 map_game_name
 Ascension Peak
 Match_Queue_name
+Capture Objectives and push the Payload to the enemy base. 
+Match_Queue_desc
+TC Spring Festival Chest
+ITEM_name
+Chest for Tencent's Spring Festival
+ITEM_desc
+SLT - TC Chest - Spring Festival Chest - Emotes 
+Loot_Table_name
+SLT - TC Chest - Spring Festival Chest - Rare
+Loot_Table_name
+SLT - TC Chest - Spring Festival Chest - Epic
+Loot_Table_name
+SLT - TC Chest - Spring Festival Chest - Mount
+Loot_Table_name
+Chest Loot Vendor - Tencent Spring Festival Chest
+Loot_Table_name
+TC Valentines Chest
+ITEM_name
+Obtainable only for Tencent
+ITEM_desc
+SLT - TC Chest - Valentines Chest - 1
+Loot_Table_name
+SLT - TC Chest - Valentines Chest - 2
+Loot_Table_name
+SLT - TC Chest - Valentines Chest - 3
+Loot_Table_name
+SLT - TC Chest - Valentines Chest - 4
+Loot_Table_name
+SLT - TC Chest - Valentines Chest - 5
+Loot_Table_name
+Chest Loot Vendor - Tencent Valentines Chest
+Loot_Table_name
+Grand Prize
+Activity_Goal_title
+Grand Prize for Completing Lore Quests!
+Activity_Goal_desc
 None
 VV_TEXT
 Patrol
