@@ -21571,7 +21571,7 @@ Favor is earned from playing missions, and can be used to unlock gods and skins.
 Game_Tip_tip
 Loading5
 Game_Tip_title
-What did Viktor say when he was renovating his house? "Garage Incoming!"
+Champions like Viktor deal Direct Damage that can be reduced by items like Haven.
 Game_Tip_tip
 Loading6
 Game_Tip_title
@@ -21603,7 +21603,7 @@ VGS is a great way to communicate with your team!
 Game_Tip_tip
 Loading13
 Game_Tip_title
-Good Luck, Have Fun!
+Players who work well as a team are more likely to win their games!
 Game_Tip_tip
 Loading14
 Game_Tip_title
@@ -21647,7 +21647,7 @@ You can check a Champion's Skills screen inside a match.
 Game_Tip_tip
 Loading21
 Game_Tip_title
-Have you checked out Paladins esports?
+Get involved with esports at esports.paladins.com
 Game_Tip_tip
 Loading22
 Game_Tip_title
@@ -30944,7 +30944,7 @@ Co-Op Arena v2
 map_game_friendly_name
 Arena v2 Practice (Co-Op)
 map_game_name
-Fernando is actually a really nice guy, you just have to get to know him.
+Frontline Champions like Fernando are great for defending their allies and holding an objective.
 Game_Tip_tip
 Loading30
 Game_Tip_title
@@ -33645,8 +33645,7 @@ Active items cannot be sold after puchasing, once you leave your fountain.
 Game_Tip_tip
 Loading2
 Game_Tip_title
-Champions gain increased credits for playing their role 
-  Damages profit from dealing damage or Supports profit from healing.
+Champions gain bonus credits for actions in the match like dealing damage or healing.
 Game_Tip_tip
 Loading2
 Game_Tip_title
@@ -33738,7 +33737,7 @@ Players can join ranked either solo or in groups of 2.
 Game_Tip_tip
 Loading25
 Game_Tip_title
-What would Grover do?
+Support Champions like Jenos can heal their allies while dealing good damage.
 Game_Tip_tip
 Loading26
 Game_Tip_title
@@ -33746,7 +33745,7 @@ There's special music for Siege matches tied at 3-3.
 Game_Tip_tip
 Loading 32
 Game_Tip_title
-Radiant Chests that are earned every time you level up contain cards, skins, emotes, poses, sprays, and more!
+Radiant Chests that are earned every time you level up contain cards for all Champions!
 Game_Tip_tip
 Loading 35
 Game_Tip_title
@@ -39052,7 +39051,7 @@ Firemode 2 is for recovering a percentage of damage received.
 DEVICE_desc
 Recovery
 item_name
-Channel your inner energy and heal for 1000 Health over 1s.
+Channel your inner energy and heal for 1000 Health over 1.5s.
 item_desc
 Custom Value 1 is the % of damage converted to healing.
 DEVICE_desc
@@ -60049,8 +60048,6 @@ Attack
 PALADINS_Attack
 Defend
 PALADINS_Defend
-Summoning Mount
-PALADINS_SummoningMount
 Victory
 PALADINS_Victory
 Defeat
@@ -60490,7 +60487,7 @@ Shield Allies
 item_short_desc
 Healing Totem
 item_name
-Deploy a totem with 1500 health that heals nearby allies for 420 Health every second and lasts 6 seconds.
+Deploy a totem with 1000 health that heals nearby allies for 420 Health every second and lasts 6 seconds.
 item_desc
 Minigun Projectile Version
 item_name
@@ -72728,9 +72725,9 @@ Unstable I
 item_name
 [Weapon] Consecutive attacks stack increasing weapon damage by 2%, max 5 stacks.
 item_desc
-Card Vendor Rank 3
+zDeprecated Card Vendor Rank 3
 Loot_Table_name
-Card Vendor Rank 2
+zDeprecated Card Vendor Rank 2
 Loot_Table_name
 Card Vendor Rank 1 Common
 Loot_Table_name
@@ -73470,7 +73467,7 @@ Ensnare Subdevice
 item_name
 Healing Wave
 item_name
-Card Vendor Rank 4
+zDeprecated Card Vendor Rank 4
 Loot_Table_name
 1.2s Stun * Charge
 item_short_desc
@@ -73804,7 +73801,7 @@ item_name
 item_desc
 Ice Storm
 item_name
-Fire a massive ice storm that lasts 4 seconds damages for 40 every .25 seconds, slows, and Cripples targets inside.
+Summon a massive ice storm that deals 40 damage every .25 seconds, slows and Cripples targets inside, and lasts 4 seconds.
 item_desc
 Foundation I
 item_name
@@ -74611,7 +74608,7 @@ zDeprecated (Briars & Blossoms ability)
 item_name
 Throwing Axe
 item_name
-Hurl your axe dealing 330 damage.
+Hurl your axe dealing 300 damage.
 Bonus Damage: The Axe deals more damage the further it travels, up to 825.
 item_desc
 Chickens
@@ -74620,7 +74617,7 @@ Evil Mojo
 item_name
 Throw a flask that deals 200 damage and turns enemies into chickens with 1500 health for 4s. Victims are returned to their previous state when the effect ends.
 item_desc
-Explosive Flask
+Evil Mojo
 EFFECT_GROUP_name
 500 HP Heal
 item_short_desc
@@ -74628,7 +74625,7 @@ Healing Potion
 item_name
 Throw a healing potion that heals teammates for 1200 Health when it explodes. Reactivating the ability will instantly cause Healing Potion to explode.
 item_desc
-Explosive Flask
+Healing Potion
 EFFECT_GROUP_name
 Pull 2 * Nature's Grasp
 item_short_desc
@@ -74766,7 +74763,7 @@ A short range blunderbuss shooting 13 pellets that deal a total of 500 damage, e
 item_desc
 Deploy a dome shield
 item_short_desc
-A crossbow that deals 650 damage every .75 seconds.
+A crossbow that deals 680 damage every .75 seconds.
 item_desc
 A short range flamethrower that deals 35 damage per hit every .1s and applies a Damage Over Time effect for 200 damage over 2s. The Flame Lance cannot be manually reloaded and instead recharges when not being used.
 item_desc
@@ -75937,53 +75934,53 @@ item_desc
 item_name
 This is a device to apply a heal block of 500 to yourself.
 item_desc
-Default Androxus WEP
+Default Revolver
 ITEM_name
 Default
 ITEM_desc
 Default
 ITEM_desc
-Default Barik WEP
+Default Blunderbuss
 ITEM_name
 Default
 ITEM_desc
-Default Buck WEP
+Default Shotgun
 ITEM_name
 Default
 ITEM_desc
-Default Cassie WEP
+Default Crossbow
 ITEM_name
 Default
 ITEM_desc
-Default Evie WEP
+Default Ice Staff
 ITEM_name
 Default
 ITEM_desc
-Default Fernando WEP
+Default Flame Lance
 ITEM_name
 Default
 ITEM_desc
-Default Grohk WEP
+Default Lightning Staff
 ITEM_name
 Default
 ITEM_desc
-Default Grover WEP
+Default Throwing Axe
 ITEM_name
 Default
 ITEM_desc
-Default Kinessa WEP
+Default Sniper Rifle
 ITEM_name
 Default
 ITEM_desc
-Default Pip WEP
+Default Potion Launcher
 ITEM_name
 Default
 ITEM_desc
-Default Ruckus WEP
+Default Miniguns
 ITEM_name
 Default
 ITEM_desc
-Default Skye WEP
+Default Wrist Crossbow
 ITEM_name
 Starter Deck Grover
 Loot_Table_name
@@ -76109,8 +76106,7 @@ Weapon Skin Vendor
 Loot_Table_name
 Oppressor Mine
 item_name
-Kinessa throws out up to 2 mines that deal 4 damage every .2s to connected enemies. Oppressor Mines slow affected players by 30%. 
-Bonus Damage: Your Carbine deals 30% increased damage to enemies affected by Oppressor Mines.
+Kinessa throws out up to 2 mines that deal 20 damage every .2s to connected enemies.
 item_desc
 Oppressor Mine Subdevice
 item_name
@@ -76248,7 +76244,7 @@ item_name
 item_desc
 Well Stocked I
 item_name
-[Oppressor Mine] Increase your maximum deployed mine count by {scale=1|1}.
+[Oppressor Mine] Activating Oppressor Mine generates 1 Ammo every .5s for {scale=1|1}s.
 item_desc
 Energy Charge - Cassie
 item_name
@@ -76294,7 +76290,7 @@ Glacier Keep Capture And Siege
 map_game_name
 Amplitude I
 item_name
-[Oppressor Mine] Increase the beam range of Oppressor Mines by {scale=15|15}%.
+[Oppressor Mine] Increase the beam range of Oppressor Mines by {scale=10|10}%.
 item_desc
 Calibrate I
 item_name
@@ -76350,7 +76346,7 @@ Illusionist weapon placeholder; currently just a copy of Axe with a different me
 item_desc
 Default
 ITEM_desc
-Default Ying WEP
+Default Mirror
 ITEM_name
 Mines Reveal * 10s
 item_short_desc
@@ -76538,7 +76534,7 @@ attacks reveal
 DEVICE_name
 Octoppressor I
 item_name
-[Oppressor Mine] Oppressor Mines slow enemies for {scale=2.5|2.5}% more.
+[Oppressor Mine] Enemies affected by Oppressor Mines receive {scale=8|8}% less healing.
 item_desc
 -1.5s CD * Oppressor Mine
 item_short_desc
@@ -76729,7 +76725,7 @@ Ritual Survival
 map_game_name
 LIVE Casual Practice 
 MSL_name
-Infiltrator
+Tactical
 ITEM_name
 Sulfur
 ITEM_name
@@ -77797,11 +77793,11 @@ item_name
 item_desc
 Default
 ITEM_desc
-Default Drogoz WEP
+Default Rocket Launcher
 ITEM_name
 Default
 ITEM_desc
-Default Bomb King WEP
+Default Bomb
 ITEM_name
 (TEST) Self chicken
 item_name
@@ -84661,7 +84657,7 @@ Viktor
 ITEM_name
 Default Viktor
 ITEM_name
-Default Viktor WEP
+Default Assault Rifle
 ITEM_name
 Skirmish Arena
 map_game_name
@@ -86363,42 +86359,12 @@ PALADINS_BURN_CARDS_TIP1
 PALADINS_BURN_CARDS_TIP2
 Overtime
 PALADINS_OVERTIME
-Bleeding
-PALADINS_STATUS_BLEEDING
-Burning
-PALADINS_STATUS_BURNING
-Confused
-PALADINS_STATUS_CONFUSED
-Stunned
-PALADINS_STATUS_STUNNED
-Disarmed
-PALADINS_STATUS_DISARMED
-Feared
-PALADINS_STATUS_FEARED
-Frozen
-PALADINS_STATUS_FROZEN
 Frozen
 PALADINS_STATUS_FROZEN
 Hexed
 PALADINS_STATUS_HEXED
-Rooted
-PALADINS_STATUS_ROOTED
-Reduced Healing
-PALADINS_STATUS_POISONED
-Silenced
-PALADINS_STATUS_SILENCED
-Dazed
-PALADINS_STATUS_DAZED
 Attack Slowed
 PALADINS_STATUS_ATTACKSLOWED
-Slowed
-PALADINS_STATUS_SLOWED
-Revealed
-PALADINS_STATUS_MARKED
-Polymorph
-PALADINS_STATUS_POLYMORPH
-Crippled
-PALADINS_STATUS_CRIPPLED
 DAMAGE\nTOTAL
 PALADINS_DAMAGE_TOTAL
 Frostbite Caverns
@@ -86975,7 +86941,7 @@ Default Makoa
 ITEM_name
 Default
 ITEM_desc
-Default Makoa WEP
+Default Cannon
 ITEM_name
 GK v2 Siege
 map_game_friendly_name
@@ -88138,7 +88104,7 @@ Witch Doctor Inhand (Deprecated)
 item_name
 Matte
 ITEM_name
-Default Mal'Damba WEP
+Default Spitting Cobra
 ITEM_name
 Survivor
 Activity_Goal_title
@@ -89654,7 +89620,7 @@ A long bow that draws back an arrow and releases it for up to 1000 damage every 
 item_desc
 Bow Fire Audio
 EFFECT_GROUP_name
-Default Sha Lin WEP
+Default Long Bow
 ITEM_name
 Energy Charge - Longbow
 item_name
@@ -90080,13 +90046,13 @@ zDeprecated Slow Dampener IV
 item_name
 [Armor] You cannot be slowed below 80% of your base movement speed.
 item_desc
-Default Pip ACC
+Default Goggles
 ITEM_name
 Quick Loader I
 item_name
 [Weapon] Eliminations increase your reload speed by {scale=3.5|3.5}% for 5s.
 item_desc
-Infiltrator Goggles
+Tactical Goggles
 ITEM_name
 Mad Scientist Lenses
 ITEM_name
@@ -90100,7 +90066,7 @@ item_name
 item_desc
 Default
 ITEM_desc
-Default Bomb King ACC
+Default Crown
 ITEM_name
 zDeprecated Quick Loader III
 item_name
@@ -90464,9 +90430,9 @@ item_short_desc
 item_short_desc
 [Oppressor Mine] The Cooldown of Oppressor Mine is reduced.
 item_short_desc
-[Oppressor Mine] Oppressor Mines may target additional enemies.
+[Oppressor Mine] Enemies affected by Oppressor Mines receive less healing.
 item_short_desc
-[Oppressor Mine] Increase your maximum deployed mine count.
+[Oppressor Mine]  Activating Oppressor Mine generates ammo.
 item_short_desc
 [Transporter] Increases the flight speed of Transporter,
 item_short_desc
@@ -90772,7 +90738,7 @@ Peridot Crown
 ITEM_name
 Emerald Crown
 ITEM_name
-Wave
+Default Cassie Emote
 item_name
 Forest Payload Only
 map_game_friendly_name
@@ -90940,39 +90906,39 @@ item_name
 item_desc
 @@source_name@@ hit @@target_name@@ for @@int_value@@ damage (@@int_value2@@ mitigated).
 MSG_COMBAT_SHIELD_DAMAGE
-Vogue
+Default Ying Emote
 item_name
-Salute
+Default Viktor Emote
 item_name
-Taunt
+Default Grohk Emote
 item_name
-Gloat
+Default Ruckus Emote
 item_name
-Meditate
+Default Makoa Emote
 item_name
-Guffaw
+Default Fernando Emote
 item_name
-Enforcer
+Default Kinessa Emote
 item_name
 Tree Pose
 item_name
-Merriment
+Default Barik Emote
 item_name
-Hover
+Default Drogoz Emote
 item_name
-Showoff
+Default Bomb King Emote
 item_name
 Flirting
 item_name
-Grandstand
+Default Androxus Emote
 item_name
-Elated
+Default Pip Emote
 item_name
-Greeting
+Default Evie Emote
 item_name
 RETICLE BLOOM
 PALADINS_RETICLEBLOOM
-Flex
+Default Buck Emote
 item_name
 [Weapon] Reload faster.
 item_short_desc
@@ -91018,9 +90984,9 @@ PRACTICE PAYLOAD VS AI OPPONENTS
 PALADINS_PAYLOAD_TRAINING_DESC
 BATTLE VS PLAYERS OF EQUAL SKILL
 PALADINS_VERSUS_DESC
-Axe Spin
+Default Grover Emote
 item_name
-Standoff
+Default Skye Emote
 item_name
 (TEST) Self damage reduction (direct)
 item_name
@@ -91348,7 +91314,7 @@ Crippling Throw
 item_name
 Default
 ITEM_desc
-Default Makoa ACC
+Default Shell
 ITEM_name
 Montego Shell
 ITEM_name
@@ -91362,7 +91328,7 @@ Standoff Siege
 map_game_name
 Default
 ITEM_desc
-Default Androxus ACC
+Default Horns
 ITEM_name
 Sanguine Horns
 ITEM_name
@@ -91499,7 +91465,7 @@ Viktor Head 0D
 ITEM_name
 Default
 ITEM_desc
-Default Viktor ACC
+Default Crew Cut
 ITEM_name
 Soldier + Buzz Cut
 ITEM_name
@@ -92229,7 +92195,7 @@ End User License Agreement
 PALADINS_EULA_TITLE
 Default
 ITEM_desc
-Default Mal'Damba ACC
+Default Mask
 ITEM_name
 Hexer's
 ITEM_desc
@@ -92373,7 +92339,7 @@ Enemies can halt the Payload progress by standing near it.
 Game_Tip_tip
 Default
 ITEM_desc
-Default Evie ACC
+Default Pigtails
 ITEM_name
 EvieAcc1
 ITEM_name
@@ -92413,7 +92379,7 @@ Evocation
 ITEM_name
 Default
 ITEM_desc
-Default Barik ACC
+Default Eyeshields
 ITEM_name
 Foreman Eyeshields
 ITEM_name
@@ -92447,6 +92413,7 @@ Artisan
 ITEM_desc
 Artisan
 ITEM_name
+Default Mal'Damba Emote
 item_name
 Obtainable in the Radiant Chest.
 ITEM_desc
@@ -92474,7 +92441,7 @@ Kinessa Skin00E
 ITEM_name
 Kinessa Acc0B
 ITEM_name
-Default Kinessa ACC
+Default Bandage
 ITEM_name
 Default
 ITEM_desc
@@ -92494,7 +92461,7 @@ Cutthroat Bandana
 ITEM_name
 Default
 ITEM_desc
-Default Grohk ACC
+Default Mane
 ITEM_name
 Sharpshooter
 ITEM_desc
@@ -92570,7 +92537,7 @@ Daring Flame Lance
 ITEM_name
 Default
 ITEM_desc
-Default Fernando ACC
+Default Bulwark
 ITEM_name
 Fernando Acc0B
 ITEM_name
@@ -92756,7 +92723,7 @@ Lust Rocket Launcher
 ITEM_name
 Default
 ITEM_desc
-Default Drogoz ACC
+Default Shackles
 ITEM_name
 Tyrant's Shackles
 ITEM_name
@@ -92896,7 +92863,7 @@ Conjuration Pigtails
 ITEM_name
 Emote Vendor - Common
 Loot_Table_name
-Classic
+Default Voice
 ITEM_name
 Honorable Bulwark
 ITEM_name
@@ -93248,11 +93215,11 @@ Evocation
 ITEM_name
 Troublemaker Collection
 ITEM_name
-Charcoal
+Charcoal Collection
 ITEM_name
-Mad Scientist
+Mad Scientist Collection
 ITEM_name
-Team Fortress 2
+Team Fortress 2 Collection
 ITEM_name
 MalDamba Ult Snake Fear Deployable
 Deployable_name
@@ -93696,7 +93663,7 @@ This is another test of the subtitle system for Paladins.
 PALADINS_TUTORIAL_TEST_2
 Default
 ITEM_desc
-Default Skye ACC
+Default Guise
 ITEM_name
 Aqua
 ITEM_desc
@@ -93740,7 +93707,7 @@ Aqua Wrist Crossbow
 ITEM_name
 Default
 ITEM_desc
-Default Ying ACC
+Default Veil
 ITEM_name
 SLT - PRESS - Founders + 8000 Crystals
 Loot_Table_name
@@ -94563,25 +94530,25 @@ SLT - Set - Kinessa - Viking
 Loot_Table_name
 SLT - Set - Kinessa - Cutthroat
 Loot_Table_name
-Onslaught
+Onslaught Collection
 ITEM_name
-Black Ice
+Black Ice Collection
 ITEM_name
-Tribesman
+Tribesman Collection
 ITEM_name
 Beast
 ITEM_name
-Operative
+Operative Collection
 ITEM_name
-Infiltrator
+Tactical Collection
 ITEM_name
-Raider
-ITEM_name
-Viking
+Raider Collection
 ITEM_name
 Viking
 ITEM_name
-Cutthroat
+Viking Collection
+ITEM_name
+Cutthroat Collection
 ITEM_name
 Tutorial
 map_game_friendly_name
@@ -94798,7 +94765,7 @@ Emote Vendor - Default
 Loot_Table_name
 Default
 ITEM_desc
-Default Buck ACC
+Default Sigil
 ITEM_name
 Commando
 ITEM_desc
@@ -94868,15 +94835,15 @@ Triggerman
 ITEM_name
 SLT - Set - Buck - Commando
 Loot_Table_name
-Commando
+Commando Collection
 ITEM_name
-Spray Default
+Default Spray
 item_name
 SLT - Bundle - BombKing - Pumpking
 Loot_Table_name
 Default
 ITEM_desc
-Default Grover ACC
+Default Foliage
 ITEM_name
 Saffron Foliage
 ITEM_name
@@ -95013,7 +94980,7 @@ SLT - Set - Grover - Saffron
 Loot_Table_name
 SLT - Set - Grover - Lavender
 Loot_Table_name
-Winter
+Winter Collection
 ITEM_name
 Paladins XP Boost
 ITEM_name
@@ -95069,7 +95036,7 @@ SLT - Set - Buck - Mesa
 Loot_Table_name
 SLT - Set - Buck - Summit
 Loot_Table_name
-Brawler
+Brawler Collection
 ITEM_name
 Summit
 ITEM_name
@@ -95121,9 +95088,9 @@ SLT - Set - Cassie - Northern Watch
 Loot_Table_name
 SLT - Set - Cassie - Timber
 Loot_Table_name
-Northern Watch
+Northern Watch Collection
 ITEM_name
-Timber
+Timber Collection
 ITEM_name
 Alpine
 ITEM_name
@@ -95133,7 +95100,7 @@ Envy Sigil
 ITEM_name
 Alpine
 ITEM_desc
-Envy
+Envy Collection
 ITEM_name
 SLT - Set - Buck - Envy
 Loot_Table_name
@@ -95261,11 +95228,11 @@ Renowned Long Bow
 ITEM_name
 Default
 ITEM_desc
-Default Sha Lin ACC
+Default Headband
 ITEM_name
 Sha Lin
 item_short_desc
-Bravado
+Default Sha Lin Emote
 item_name
 Ritual
 map_game_friendly_name
@@ -96261,7 +96228,7 @@ Colossal Chest
 ITEM_name
 Contains Rare, Epic, and Exclusive Skins.
 ITEM_desc
-Contains Cards and Cosmetics. Enchanted Key guarantees unique items.
+Contains Cards for all champions.
 ITEM_desc
 SLT Colossal Chest - Treasure Roll
 Loot_Table_name
@@ -96323,7 +96290,7 @@ Epic Champion Pack Legendary Upgrade
 ITEM_name
 SLT - Collection - Buck - Brawler / Envy
 Loot_Table_name
-Brawler Collection
+zDelete
 ITEM_name
 Sha Lin
 item_short_desc
@@ -96792,7 +96759,7 @@ Recharge
 item_name
 Default
 ITEM_desc
-Default Ruckus ACC
+Default Tunic
 ITEM_name
 Obtainable in the Radiant Chest.
 ITEM_desc
@@ -96878,7 +96845,7 @@ CassieV2
 ITEM_name
 Default
 ITEM_desc
-Default Torvald WEP
+Default Gauntlet
 ITEM_name
 Default Torvald
 ITEM_name
@@ -96937,7 +96904,7 @@ Runic Blast
 item_name
 Default
 ITEM_desc
-Default Tyra WEP
+Default Auto Rifle
 ITEM_name
 Default Tyra
 ITEM_name
@@ -97517,7 +97484,7 @@ Digital Loot Pack
 ITEM_name
 Default
 ITEM_desc
-Default Cassie ACC
+Default Braid
 ITEM_name
 PerfExperiment
 map_game_friendly_name
@@ -97547,7 +97514,7 @@ SLT - Collection - Kinessa - Cutthroat
 Loot_Table_name
 SLT - Collection - Kinessa - Viking
 Loot_Table_name
-SLT - Collection - Pip - Infiltrator
+SLT - Collection - Pip - Tactical
 Loot_Table_name
 SLT - Collection - Pip - Raider
 Loot_Table_name
@@ -97563,35 +97530,35 @@ SLT - Collection - Ying - Snapdragon
 Loot_Table_name
 SLT - Gold Card - Amplitude
 Loot_Table_name
-Commando Collection
+zDelete
 ITEM_name
-Black Ice Collection
+zDelete
 ITEM_name
-Onslaught Collection
+zDelete
 ITEM_name
-Tribesman Collection
+zDelete
 ITEM_name
 Beast Collection
 ITEM_name
-Winter Collection
+zDelete
 ITEM_name
-Cutthroat Collection
+zDelete
 ITEM_name
-Viking Collection
+zDelete
 ITEM_name
-Infiltrator Collection
+zDelete
 ITEM_name
-Raider Collection
+zDelete
 ITEM_name
 H.A.W.K. Collection
 ITEM_name
 Chrome Collection
 ITEM_name
-Operative Collection
+zDelete
 ITEM_name
-Charcoal Collection
+zDelete
 ITEM_name
-Snap Dragon Collection
+Snapdragon Collection
 ITEM_name
 Merrymaker
 ITEM_name
@@ -97749,7 +97716,7 @@ T_Beach PvE
 map_game_name
 Tyra
 item_short_desc
-Tracker
+Default Tyra Emote
 item_name
 Serpent Beach
 map_game_friendly_name
@@ -98297,7 +98264,7 @@ SLT - Collection - Viktor - Invitational 2017
 Loot_Table_name
 SLT - Collection - Ying - Convention 2017
 Loot_Table_name
-Convention 2017
+Convention 2017 Collection
 ITEM_name
 Invitational Viktor
 ITEM_name
@@ -98478,7 +98445,7 @@ Stun
 EFFECT_GROUP_name
 Default
 ITEM_desc
-Default Tyra ACC
+Default Tress
 ITEM_name
 PvE Ritual
 map_game_friendly_name
@@ -99248,149 +99215,148 @@ Spray
 SETTINGS_CONTROLS_DEVICE_SPRAY
 Energy Charge - Tyra
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 Obtainable in the Weapon Chest.
 ITEM_desc
 Genie's Winged Prism
 ITEM_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Axe Spin
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Bravado
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 Obtainable in the Weapon Chest.
 ITEM_desc
 Genie's Cloud Prism
 ITEM_name
-Obtainable in the Gold and Radiant Chests.
+Elated
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Enforcer
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Flex
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Gloat
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Grandstand
 ITEM_desc
-Default.
+Greeting
 ITEM_desc
-Default.
+Guffaw
 ITEM_desc
-Default.
+Hover
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Meditate
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Merriment
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Salute
 ITEM_desc
 Maeve
 BOT_name
 of Blades
 BOT_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Showoff
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Standoff
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Taunt
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Tracker
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Vogue
 ITEM_desc
-Default.
+Wave
 ITEM_desc
 Obtainable in the Radiant Chest.
 ITEM_desc
@@ -99400,7 +99366,7 @@ Obtainable in the Radiant Chest.
 ITEM_desc
 Default
 ITEM_desc
-Default Maeve ACC
+Default Clasp
 ITEM_name
 Master Pipter
 BOT_name
@@ -99425,7 +99391,7 @@ Genie
 ITEM_name
 Default
 ITEM_desc
-Default Maeve WEP
+Default Daggers
 ITEM_name
 Energy Charge - Maeve
 item_name
@@ -99499,7 +99465,7 @@ Hit Sound
 EFFECT_GROUP_name
 Default
 ITEM_desc
-Default Torvald ACC
+Default Rucksack
 ITEM_name
 Skin00B
 ITEM_desc
@@ -99722,11 +99688,11 @@ Recovery
 EFFECT_GROUP_name
 Loading 27
 Game_Tip_title
-Drogoz doesn't like it very much when people call him a lizard.
+Champions like Drogoz deal Area Damage that can be reduced by items like Blast Shields.
 Game_Tip_tip
 Loading 28
 Game_Tip_title
-Who would you rather hug? Bomb King or Plushy Makoa?
+Many weapons, like Androxus's Revolver, can headshot for an extra 50% damage.
 Game_Tip_tip
 Loading 29
 Game_Tip_title
@@ -99817,7 +99783,7 @@ K_StoneKeep
 map_game_name
 Default
 ITEM_desc
-Default Inara ACC
+Default Blossom
 ITEM_name
 Inara
 ITEM_name
@@ -99825,7 +99791,7 @@ Barrier Rental
 ITEM_name
 Default
 ITEM_desc
-Default Inara WEP
+Default Spear
 ITEM_name
 Inara
 ITEM_name
@@ -99995,9 +99961,9 @@ Torvald
 item_short_desc
 Excelsior
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 Torvald
 ITEM_name
@@ -100161,9 +100127,9 @@ SLT - Set - Skye - Heartbreaker
 Loot_Table_name
 Torvald
 item_short_desc
-Surprised
+Default Torvald Emote
 item_name
-Obtainable in the Gold and Radiant Chests.
+Surprised
 ITEM_desc
 Wolf Pack
 item_name
@@ -100189,7 +100155,7 @@ SLT - Collection - Viktor - Code Green
 Loot_Table_name
 Code Green
 ITEM_name
-SLT - Collection - Skye - Heartbreaker
+SLT - Collection - Valentine
 Loot_Table_name
 Obtainable in the Valentine's Chest.
 ITEM_desc
@@ -100283,7 +100249,7 @@ item_name
 item_desc
 Totemic Ward I
 item_name
-[Healing Totem] Allies healed by Healing Totem receive CC Immunity for 2s and Healing Totem heals for {scale=42.5|2.5}% more.
+[Healing Totem] Allies healed by Healing Totem receive CC Immunity for 2s and Healing Totem heals for {scale=32.5|2.5}% more.
 item_desc
 Your Movement Speed has been increased.
 EFFECT_GROUP_desc
@@ -100605,7 +100571,7 @@ Pluck I
 item_name
 [Dredge Anchor] Gain {scale=57.5|3.5}% bonus damage on your first shot after hitting an enemy with Dredge Anchor.
 item_desc
-Mal'Damba
+Autofire Mal'Damba
 BOT_name
 zDeprecated Featherlite II
 item_name
@@ -100913,7 +100879,7 @@ item_name
 item_desc
 Evolve
 EFFECT_GROUP_name
-Slice Right
+Default Maeve Emote
 item_name
 [Weapon] Snake Toss deals an additional 500 damage. 
 item_short_desc
@@ -100955,7 +100921,7 @@ item_name
 item_desc
 Loading38
 Game_Tip_title
-Ruckus writes our loading screen tips. He's bringin' out the big puns!
+Remember to use your ultimate ability, it won't charge past 100% energy.
 Game_Tip_tip
 Aerial Assault I
 item_name
@@ -100999,7 +100965,7 @@ item_name
 item_desc
 Suppression I
 item_name
-[Oppressor Mine] Multiple Oppressor Mines can now affect the same target and Oppressor Mines now deal {scale=85|5}% more damage.
+[Oppressor Mine] Oppressor Mines can now affect 2 more targets and Sniper Shots against enemies affected by Mines deal {scale=4|4}% more damage.
 item_desc
 Wand of Overgrowth
 item_name
@@ -101119,7 +101085,7 @@ Pistols
 DEVICE_name
 Default Lex
 ITEM_name
-Default Lex WEP
+Default Magnums
 ITEM_name
 Mark Shot
 item_name
@@ -101202,7 +101168,7 @@ Maeve
 item_short_desc
 Copy Cat
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 Grotto A
 map_game_friendly_name
@@ -101288,7 +101254,7 @@ item_desc
 item_name
 Test device to temporarily increase your own speed.
 item_desc
-Duplicate Vendor Dust Cosmetic
+Duplicate Vendor Gold Cosmetic
 Loot_Table_name
 1000 Essence
 ITEM_desc
@@ -101312,7 +101278,7 @@ Flair Chest
 ITEM_name
 Chest Loot Vendor - Flair Chest
 Loot_Table_name
-Obtainable in the Gold and Radiant Chests.
+Slice Right
 ITEM_desc
 Obtainable in the Colossal Chest
 ITEM_desc
@@ -101384,7 +101350,7 @@ Maeve
 item_short_desc
 Rapscallion
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 Obtainable in the Champion Skin Chest.
 ITEM_desc
@@ -101398,7 +101364,7 @@ Tank it to the Limit
 map_game_friendly_name
 K_StoneKeep PVE
 map_game_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 Blue Team
 PALADINS_SPECTATOR_TEAM_1_NAME
@@ -101496,7 +101462,7 @@ Tank it to the Limit
 map_game_friendly_name
 K_StoneKeep PVE
 map_game_name
-Maeve
+Still Maeve
 BOT_name
 Blade Assassin
 BOT_desc
@@ -101542,11 +101508,11 @@ Default Seris
 ITEM_name
 Default
 ITEM_desc
-Default Seris WEP
+Default Trappings
 ITEM_name
 Default
 ITEM_desc
-Default Seris ACC
+Default Hood
 ITEM_name
 Energy Charge - Seris
 item_name
@@ -101582,7 +101548,7 @@ Undercity B
 map_game_friendly_name
 WIP Undercity B
 map_game_name
-Explosive Flask
+Healing Potion
 EFFECT_GROUP_name
 Shadow Travel
 item_name
@@ -101962,9 +101928,9 @@ item_name
 item_desc
 Inara
 item_short_desc
-Reverence
+Default Inara Emote
 item_name
-BarrierTank emote01
+Reverence
 item_desc
 zDeprecated Crag III
 item_name
@@ -101978,7 +101944,7 @@ Inara
 item_short_desc
 Paramount
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 [Earthen Guard] Activating Earthen Guard generates ammo.
 item_short_desc
@@ -102441,7 +102407,7 @@ Exalted
 ITEM_name
 SLT - Collection - Androxus - Exalted
 Loot_Table_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 72000 Essence
 ITEM_desc
@@ -102598,11 +102564,11 @@ map_game_name
 item_name
 This is a device to reduce healing by 100%
 item_desc
-Tencent Alpha Payload
+Tencent TDM Coop
 Match_Queue_short_desc
-Tencent Alpha Payload
+Tencent TDM Coop
 Match_Queue_name
-Tencent Alpha Payload
+Tencent TDM Coop
 Match_Queue_desc
 Tencent Alpha OnSlaught Queue (Coop)
 Match_Queue_short_desc
@@ -102703,7 +102669,7 @@ Obtainable in the Radiant Chest.
 ITEM_desc
 Loading 39
 Game_Tip_title
-I asked Fernando if he was getting grey hair. He said "I will not dye, not yet amigo."
+Defensive ultimates like Fernando's Immortal are best used to keep your team alive.
 Game_Tip_tip
 PvE_Lightning Staff_Rng
 item_name
@@ -103041,7 +103007,7 @@ Default Willo
 ITEM_name
 Default
 ITEM_desc
-Default Willo WEP
+Default Wand
 ITEM_name
 Energy Charge - Fairy
 item_name
@@ -103531,24 +103497,24 @@ Death Hastens I
 item_name
 [Weapon] Your Weapon Shots deal {scale=21.25|1.25}% more damage to targets over 65% Health.
 item_desc
-SLT - Collection - Fernando - Mech
+SLT - Collection - Fernando - FN-01 Helios
 Loot_Table_name
 DZ-03 Draco Collection
 ITEM_name
 item_short_desc
-Appeal Denied
+Default Lex Emote
 item_name
-Lawman emote
+Appeal Denied
 item_desc
 item_short_desc
 Deadshot
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 item_short_desc
 Reach for the Sky
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 [Retribution] Deal 30% more damage to your Retribution target and reduce the Cooldown of Retribution by 15s.
 item_short_desc
@@ -103773,7 +103739,7 @@ Lawbringer Magnums
 ITEM_name
 Default
 ITEM_desc
-Default Lex ACC
+Default Circlet
 ITEM_name
 Obtainable in the Radiant Chest.
 ITEM_desc
@@ -103795,7 +103761,7 @@ Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
 Loading 40
 Game_Tip_title
-Grohk has quite the green thumb. His garden is surging with flowers.
+Some ultimates like Grohk's Tempest provide both defensive and offensive bonuses.
 Game_Tip_tip
 +250% * Proj. Speed stim
 DEVICE_name
@@ -103912,7 +103878,7 @@ LadyLiberty
 BOT_name
 Elven Illusionist
 BOT_desc
-Volcanic
+Volcanic Collection
 ITEM_name
 Unlock by reaching player level 30 during the Beta.
 ITEM_desc
@@ -103924,7 +103890,7 @@ Nova Strike
 ITEM_name
 Obtainable in the Champion Skin Chest.
 ITEM_desc
-Default Ash WEP
+Default Burst Cannon
 ITEM_name
 Default
 ITEM_desc
@@ -104680,7 +104646,7 @@ Wanderer
 item_name
 Seris
 item_short_desc
-Favor
+Default Seris Emote
 item_name
 Seris
 item_short_desc
@@ -105185,7 +105151,7 @@ SLT - Collection - Bomb King - Biz King
 Loot_Table_name
 Alley Cat
 ITEM_name
-Biz-King
+Biz-King Collection
 ITEM_name
 Justicar
 ITEM_name
@@ -105347,7 +105313,7 @@ Historian
 ITEM_name
 Arcanist
 ITEM_name
-Tinder
+Tinder Collection
 ITEM_name
 zDelete
 Loot_Table_name
@@ -105363,9 +105329,9 @@ SLT - Bundle - Makoa - Volcanic
 Loot_Table_name
 SLT - Bundle - Mal'Damba - Chancelor
 Loot_Table_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 TestBot_DarkLord
 BOT_name
@@ -105441,7 +105407,7 @@ PerfCompareMap
 map_game_name
 Flower Dance
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Scarlet Charger
 item_name
@@ -105455,7 +105421,7 @@ Default Zhin
 ITEM_name
 Default
 ITEM_desc
-Default Zhin ACC
+Default Topknot
 ITEM_name
 Energy Charge - Darklord
 item_name
@@ -105684,7 +105650,7 @@ Splinter-Blades
 ITEM_name
 Obtainable in the Overgrown Weapons Chest.
 ITEM_desc
-Caecilian Rocket Launcer
+Caecilian Rocket Launcher
 ITEM_name
 Obtainable in the Overgrown Weapons Chest.
 ITEM_desc
@@ -105724,7 +105690,7 @@ Loot_Table_name
 item_name
 SLT - Chest - Collections Test
 Loot_Table_name
-Default Zhin WEP
+Default Inferno Blade
 ITEM_name
 Smolder I
 item_name
@@ -105744,7 +105710,7 @@ Willo
 item_short_desc
 Criss-Cross
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Arid v2
 map_game_friendly_name
@@ -105760,7 +105726,7 @@ Counter Attack
 item_name
 Default
 ITEM_desc
-Default Willo ACC
+Default Wings
 ITEM_name
 Dark Fairy
 ITEM_desc
@@ -105870,9 +105836,9 @@ Custom S_Brightmarsh
 MSL_name
 Willo
 item_short_desc
-Lofty Laugh
+Default Willo Emote
 item_name
-Fairy Emote
+Lofty Laugh
 item_desc
 Capture Objectives and push the Payload to the enemy base.
 Match_Queue_short_desc
@@ -105886,9 +105852,9 @@ of the Summer Court
 ITEM_name
 Fire a blast of Fae energy that deals 500 damage every 0.75 seconds.
 item_desc
-Fire out a toxic spore that reduces healing by 90% in an area for 5s. Enemies affected by the spore that move out of the infested area cannot heal for 2s.
+Fire out a toxic spore that deals 100 damage and reduces healing by 90% in an area for 5s. Enemies affected by the spore that move out of the infested area cannot heal for 2s.
 item_desc
-Toss a seed that explodes after a 1 second fuse, dealing 500 damage and spawning 4 additional seeds that each explode for 400 damage after 1 second.
+Toss a seed that explodes after a 1 second fuse, dealing 400 damage and spawning 4 additional seeds that each explode for 400 damage after 1 second.
 item_desc
 Quickly flutter your wings and propel yourself forwards and upwards.
 item_desc
@@ -105970,7 +105936,7 @@ Evolve
 EFFECT_GROUP_name
 Chest Loot Vendor - REKT
 Loot_Table_name
-SLT - Chest - REKT Chest - Epic - Exclusive
+SLT - Chest - REKT Chest - Epic Weapons - Exclusive
 Loot_Table_name
 [Armor] Gain crowd control reduction.
 item_short_desc
@@ -106946,13 +106912,13 @@ Buck
 item_short_desc
 Showman
 item_name
-Buck Wrestler
+Obtainable in the Gold Chest.
 item_desc
 Buck
 item_short_desc
 Gunshow
 item_name
-Buck wrestler MVP
+Obtainable in the Gold Chest.
 item_desc
 Robot Ying
 ITEM_desc
@@ -107575,7 +107541,7 @@ map_game_name
 item_short_desc
 Inferno
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Androxus
 BOT_name
@@ -108515,7 +108481,7 @@ item_desc
 item_short_desc
 Give Me a Break
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Rift
 map_game_friendly_name
@@ -108531,7 +108497,7 @@ The War Machine
 ITEM_name
 Default
 ITEM_desc
-Default Ash ACC
+Default Bangs
 ITEM_name
 Obtainable in the Radiant Chest.
 ITEM_desc
@@ -108617,7 +108583,7 @@ Available for purchase at Mastery Level 15.
 ITEM_desc
 Available for purchase at Mastery Level 10.
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 Available for purchase at Mastery Level 10.
 ITEM_desc
@@ -108695,7 +108661,7 @@ SLT - Collection - Barik - Stone Cut
 Loot_Table_name
 SLT - Collection - Pip - Pandamonium
 Loot_Table_name
-Pandamonium
+Pandamonium Collection
 ITEM_name
 ENT Ash Mastery Cosmic
 ITEM_name
@@ -108922,9 +108888,9 @@ ITEM_name
 ENT Ying Mastery Obsidian
 ITEM_name
 item_short_desc
-Easy Mark
+Default Ash Emote
 item_name
-Obtainable in the Gold and Radiant Chests.
+Easy Mark
 item_desc
 1500 Essence
 ITEM_desc
@@ -109098,15 +109064,15 @@ Obtainable in the Champion Skin Chest.
 ITEM_desc
 DarkLord
 item_short_desc
-Disappointment
+Default Zhin Emote
 item_name
-Emote01
+Disappointment
 item_desc
 DarkLord
 item_short_desc
 Dragon's Breath
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Androxus
 item_short_desc
@@ -109118,7 +109084,7 @@ DarkLord
 item_short_desc
 Crouching Tiger
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Fernando
 item_short_desc
@@ -109196,13 +109162,13 @@ Chest Claim Vendor Tencent
 Loot_Table_name
 Default Lian
 ITEM_name
-Default Lian WEP
+Default Heirloom Rifle
 ITEM_name
 Default Jenos
 ITEM_name
 Default
 ITEM_desc
-Default Jenos WEP
+Default Star Splitter
 ITEM_name
 Snowfall Junction (Onslaught)
 map_game_friendly_name
@@ -109694,7 +109660,7 @@ DarkLord
 item_short_desc
 Kindle
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 TencentFillerItem
 ITEM_name
@@ -109716,7 +109682,7 @@ SLT - Chest - Flair Chest - Epic Exclusive
 Loot_Table_desc
 SLT - Chest - Flair Chest - Rare Exclusive
 Loot_Table_name
-Blood Moon
+Blood Moon Collection
 ITEM_name
 Quicksilver
 ITEM_name
@@ -109865,7 +109831,7 @@ Available for purchase at Mastery Level 15.
 ITEM_desc
 Cosmic Wand
 ITEM_name
-Default Strix WEP
+Default Talon Rifle
 ITEM_name
 Presence
 item_name
@@ -109885,9 +109851,9 @@ SLT - Chest - Summer Chest - Rare - Exclusive
 Loot_Table_name
 SLT - Chest - Summer Chest - Epic - Exclusive
 Loot_Table_name
-Longboard
+Longboard Collection
 ITEM_name
-Sun Kissed
+Sun Kissed Collection
 ITEM_name
 SLT - Set - Cassie - Beach
 Loot_Table_name
@@ -110258,7 +110224,7 @@ item_name
 item_desc
 Default
 ITEM_desc
-Default Jenos ACC
+Default Visage
 ITEM_name
 Tencent Summer2017 Rental
 item_name
@@ -110539,7 +110505,7 @@ Lian
 item_short_desc
 Condemn
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Obtainable in the VIP Store.
 ITEM_desc
@@ -110647,7 +110613,7 @@ Lian
 item_short_desc
 Nobility
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Tencent Christmas2016 Rental
 item_name
@@ -110774,9 +110740,9 @@ Champion Vendor Rental
 Loot_Table_name
 Lian
 item_short_desc
-Cast Out
+Default Lian Emote
 item_name
-Lian Emote 01
+Cast Out
 item_desc
 Sierra
 map_game_friendly_name
@@ -110796,7 +110762,7 @@ Obtainable in the Festive Chest.
 item_desc
 Default
 ITEM_desc
-Default Lian ACC
+Default Hairpin
 ITEM_name
 Dire Wolf Collection
 ITEM_name
@@ -110822,7 +110788,7 @@ SLT - Set - Inara - Ice Walker
 Loot_Table_name
 Default
 ITEM_desc
-Default Talus WEP
+Default Veracharger
 ITEM_name
 SLT - Set - Evie - Merry Maker
 Loot_Table_name
@@ -111474,11 +111440,11 @@ Astro
 item_short_desc
 Parting Gift
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Astro
 item_short_desc
-Event Horizon
+Default Jenos Emote
 item_name
 Obtainable in the Flair and Radiant Chests.
 item_desc
@@ -111490,7 +111456,7 @@ Astro
 item_short_desc
 Almighty
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Defiler Collection
 ITEM_name
@@ -111858,7 +111824,7 @@ Test for mace boy
 item_desc
 Default
 ITEM_desc
-Default Terminus WEP
+Default Massacre Axe
 ITEM_name
 V1-KTOR
 ITEM_name
@@ -111886,7 +111852,7 @@ item_desc
 item_short_desc
 Relentless I
 item_name
-[Scope] Reduce the movement speed penalty of Scope by {scale=10|10}%.
+[Weapon] Reduce the movement speed penalty of Scope by {scale=10|10}%.
 item_desc
 zDeprecated Relentless II
 item_name
@@ -112024,7 +111990,7 @@ item_desc
 item_short_desc
 Roost I
 item_name
-[Scope] While stationary and in Scope, consume {scale=4|4}% less Stealth resource
+[Scope] While using Scope gain {scale=3|3}% damage reduction.
 item_desc
 Cooled Mags I
 item_name
@@ -112450,15 +112416,15 @@ Self Knock Back
 EFFECT_GROUP_name
 Self Damage
 EFFECT_GROUP_name
-Chest Loot Vendor - Galactic Chest
+Chest Loot Vendor - Deep Space Chest
 Loot_Table_name
-SLT - Chest - Galactic Chest - Epic Exclusive
+SLT - Chest - Deep Space Chest - Epic Exclusive
 Loot_Table_name
-SLT - Chest - Galactic Chest - Kinessa Skins
+SLT - Chest - Deep Space Chest - Kinessa Skins
 Loot_Table_name
-SLT - Chest - Galactic Chest - Epic Breadcrumb
+SLT - Chest - Deep Space Chest - Epic Breadcrumb
 Loot_Table_name
-SLT - Chest - Galactic Chest - General
+SLT - Chest - Deep Space Chest - General
 Loot_Table_name
 SLT - Set - Lex - SciFi
 Loot_Table_desc
@@ -112532,7 +112498,7 @@ Star Slayer Rental
 ITEM_name
 Default
 ITEM_desc
-Default Talus ACC
+Default Spires
 ITEM_name
 VIP Points
 ITEM_name
@@ -112956,20 +112922,20 @@ SLT - Set - Cassie - Ipanema
 Loot_Table_name
 SLT - Set - Lex - Sarrada
 Loot_Table_name
-Sarrada
+Sarrada Collection
 ITEM_name
-Copacabana
+Copacabana Collection
 ITEM_name
 Strix
 item_short_desc
 360 No Scope
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Strix
 item_short_desc
+Default Strix Emote
 item_name
-Owl emote
 item_desc
 Obtainable in the VIP Store.
 ITEM_desc
@@ -112993,7 +112959,7 @@ ITEM_desc
 ITEM_name
 Default
 ITEM_desc
-Default Strix ACC
+Default Cowl
 ITEM_name
 Default
 ITEM_desc
@@ -113081,7 +113047,7 @@ Strix
 item_short_desc
 Mission Accomplished
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Strix
 item_short_desc
@@ -113308,7 +113274,7 @@ SLT - Collection - Grohk - Tribesman-RENTAL
 Loot_Table_name
 SLT - Collection - Skye - Operative-RENTAL
 Loot_Table_name
-SLT - Collection - Pip - Infiltrator-RENTAL
+SLT - Collection - Pip - Tactical-RENTAL
 Loot_Table_name
 SLT - Collection - Pip - Raider-RENTAL
 Loot_Table_name
@@ -113326,9 +113292,9 @@ SLT - Collection - Evie - Troublemaker-RENTAL
 Loot_Table_name
 SLT - Collection - Cassie - Vampire Slayer-RENTAL
 Loot_Table_name
-SLT - Collection - BombKing - Pumpking-RENTAL
+SLT - Collection - BombKing - Pumpking-RENTAL - 3 Day
 Loot_Table_name
-SLT - Collection - Ruckus - Starslayer-RENTAL
+SLT - Collection - Ruckus - Starslayer-RENTAL - 3 Day
 Loot_Table_name
 SLT - Collection - Evie - Merrymaker-RENTAL
 Loot_Table_name
@@ -113348,7 +113314,7 @@ SLT - Collection - Androxus - PS4-RENTAL
 Loot_Table_name
 SLT - Collection - Viktor - Soldier +-RENTAL
 Loot_Table_name
-SLT - Collection - Skye - Heartbreaker-RENTAL
+zDelete
 Loot_Table_name
 SLT - Collection - Willo - Viceroy-RENTAL
 Loot_Table_name
@@ -113356,7 +113322,7 @@ SLT - Collection - Drogoz - Dreadhunter-RENTAL
 Loot_Table_name
 SLT - Collection - Androxus - Exalted-RENTAL
 Loot_Table_name
-SLT - Collection - Fernando - Mech-RENTAL
+SLT - Collection - Fernando - FN-01 Helios-RENTAL
 Loot_Table_name
 SLT - Collection - Kinessa - Spacehunter - Bought-RENTAL
 Loot_Table_name
@@ -113368,7 +113334,7 @@ SLT - Collection - Maeve - Alley Cat-RENTAL
 Loot_Table_name
 SLT - Collection - Bomb King - Biz King-RENTAL
 Loot_Table_name
-SLT - Collection - Grover - Doom Shroom-RENTAL
+SLT - Collection - Grover - Doom Shroom-RENTAL - 3 Day
 Loot_Table_name
 SLT - Collection - Pip - Invader-RENTAL
 Loot_Table_name
@@ -113430,7 +113396,7 @@ SLT - Collection - Buck - Obsidian-RENTAL
 Loot_Table_name
 SLT - Collection - Willo - Obsidian-RENTAL
 Loot_Table_name
-SLT - Set- Androxus - Steam Demon-RENTAL
+SLT - Set- Androxus - Steam Demon-RENTAL - 3 Day
 Loot_Table_name
 SLT - Collection - Tyra - Dire Wolf-RENTAL
 Loot_Table_name
@@ -113478,9 +113444,9 @@ SLT - Collection - Cassie - Obsidian-RENTAL
 Loot_Table_name
 SLT - Collection - Cassie - Cosmic-RENTAL
 Loot_Table_name
-SLT - Collection - Lex - L-Exo-RENTAL
+SLT - Collection - Lex - L-Exo-RENTAL - 3 Day
 Loot_Table_name
-SLT - Collection - Viktor - V1-KTOR-RENTAL
+SLT - Collection - Viktor - V1-KTOR-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Makoa - Montego-RENTAL
 Loot_Table_name
@@ -113654,39 +113620,39 @@ SLT - Set - Lian - Peridot-RENTAL
 Loot_Table_name
 SLT - Set - Strix - Ghillie-RENTAL
 Loot_Table_name
-SLT - Viktor - Charcoal - Promo-RENTAL
+SLT - Viktor - Charcoal - Promo-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Skye - Chrome-RENTAL
+SLT - Set - Skye - Chrome-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Ying - Snapdragon-RENTAL
 Loot_Table_name
-SLT - Set - Fernando - Onslaught-RENTAL
+SLT - Set - Fernando - Onslaught-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Evie - Black Ice-RENTAL
+SLT - Set - Evie - Black Ice-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Grohk - Tribesman-RENTAL
+SLT - Set - Grohk - Tribesman-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Grohk - Beast-RENTAL
 Loot_Table_name
-SLT - Set - Skye - Operative-RENTAL
+SLT - Set - Skye - Operative-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Pip - Infiltrator-RENTAL
 Loot_Table_name
-SLT - Set - Pip - Raider-RENTAL
+SLT - Set - Pip - Raider-RENTAL - 3 Day
 Loot_Table_name
 SLT - PROMO - Kinessa - Viking-RENTAL
 Loot_Table_name
-SLT - Set - Kinessa - Cutthroat-RENTAL
+SLT - Set - Kinessa - Cutthroat-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Buck - Commando-RENTAL
+SLT - Set - Buck - Commando-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Grover - Winter-RENTAL
+SLT - Set - Grover - Winter-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Buck - Brawler-RENTAL
 Loot_Table_name
-SLT - Set - Ruckus - H.A.W.K.-RENTAL
+SLT - Set - Ruckus - H.A.W.K.-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Cassie - Northern Watch-RENTAL
+SLT - Set - Cassie - Northern Watch-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Cassie - Timber-RENTAL
 Loot_Table_name
@@ -113710,19 +113676,19 @@ SLT - Set - Sha Lin - Burrito-RENTAL
 Loot_Table_name
 SLT - Collection - Maeve - Alley Cat-RENTAL
 Loot_Table_name
-SLT - Set - Bomb King - Biz King-RENTAL
+SLT - Set - Bomb King - Biz King-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Cassie - Tinder-RENTAL
+SLT - Set - Cassie - Tinder-RENTAL - 3 Day
 Loot_Table_name
 SLT - Collection - Pip - Pandamonium-RENTAL
 Loot_Table_name
-SLT - Set - Mal'Damba - Defiler-RENTAL
+SLT - Set - Mal'Damba - Defiler-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Ruckus - B.E.T.A.-RENTAL
+SLT - Set - Ruckus - B.E.T.A.-RENTAL - 3 Day
 Loot_Table_name
 SLT Cassie Vampire Slayer-RENTAL
 Loot_Table_name
-SLT - Set - Evie - Troublemaker-RENTAL
+SLT - Set - Evie - Troublemaker-RENTAL - 3 Day
 Loot_Table_name
 SLT - Pip - Mad Scientist - Set-RENTAL
 Loot_Table_name
@@ -113734,7 +113700,7 @@ SLT - Bundle - BombKing - Pumpking-RENTAL
 Loot_Table_name
 SLT - Set - Buck - Kingpin-RENTAL
 Loot_Table_name
-SLT - Set - Makoa - Plushy-RENTAL
+SLT - Set - Makoa - Plushy-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Makoa - Cuddly-RENTAL
 Loot_Table_name
@@ -113746,11 +113712,11 @@ SLT - Bundle - Evie - Merrymaker-RENTAL
 Loot_Table_name
 SLT - Set - Skye - Heartbreaker-RENTAL
 Loot_Table_name
-SLT - Set - Drogoz - Dreadhunter-RENTAL
+SLT - Set - Drogoz - Dreadhunter-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Fernando - Helios-RENTAL
+SLT - Set - Fernando - Helios-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Kinessa - Nova Strike-RENTAL
+SLT - Set - Kinessa - Nova Strike-RENTAL - 3 Day
 Loot_Table_name
 SLT - Bundle - Makoa - Volcanic-RENTAL
 Loot_Table_name
@@ -113921,9 +113887,9 @@ Obtainable in the VIP Store.
 ITEM_desc
 Obtainable in the VIP Store.
 ITEM_desc
-Vanguard
+Khan
 BOT_name
-Vanguard
+Khan
 BOT_desc
 Bolt Pistol
 item_name
@@ -113933,7 +113899,7 @@ Pursuit
 DEVICE_name
 Alt Fire for Lawman's Pursuit
 DEVICE_desc
-Bolter
+KhanLMB
 item_name
 Bolter
 DEVICE_name
@@ -113943,7 +113909,7 @@ Alt Fire for Lawman's Pursuit
 DEVICE_desc
 Copy of Androxus
 ITEM_name
-Vanguard
+Khan
 ITEM_name
 WIP Rage (TDM)
 map_game_friendly_name
@@ -114007,13 +113973,13 @@ Default Vivian
 ITEM_name
 Raeve Collection
 ITEM_name
-Default Vivian ACC
+Default Slick
 ITEM_name
 Light Machine Gun
 item_name
 Announcer Pack Vendor - Rental
 Loot_Table_name
-Default Vivian WEP
+Default LMG
 ITEM_name
 Precision Sights
 item_name
@@ -114207,7 +114173,7 @@ SLT - Collection - Fernando - Erebos - RENTAL
 Loot_Table_name
 SLT - Collection - Maeve - Raeve
 Loot_Table_name
-SLT - Collection - Maeve - Raeve - RENTAL
+SLT - Collection - Maeve - Raeve - RENTAL - 3 Day
 Loot_Table_name
 SLT - Collection - Androxus - Steam Demon
 Loot_Table_name
@@ -114223,13 +114189,13 @@ Goddess Collection
 ITEM_name
 SLT - Set - Jenos - Eclipse
 Loot_Table_name
-SLT - Set - Jenos - Eclipse-RENTAL
+SLT - Set - Jenos - Eclipse-RENTAL - 3 Day
 Loot_Table_name
 Eclipse
 ITEM_name
 SLT - Set - Barik - Hi-Tek
 Loot_Table_name
-SLT - Set - Barik - Hi-Tek-RENTAL
+SLT - Set - Barik - Hi-Tek-RENTAL - 3 Day
 Loot_Table_name
 Hi-Tek
 ITEM_name
@@ -114267,19 +114233,19 @@ Tilted (Onslaught)
 map_game_friendly_name
 WIP Tilted (Onslaught)
 map_game_name
-VanguardF
+KhanF
 item_name
 Your Movement Speed is increased.
 EFFECT_GROUP_desc
 Rocket Boots
 EFFECT_GROUP_name
-VanguardQ
+KhanQ
 item_name
 Default
 ITEM_desc
 Default
 ITEM_desc
-Default Terminus ACC
+Default Binding
 ITEM_name
 A short to medium ranged weapon that deals 110 damage every 0.1s.
 item_desc
@@ -114734,15 +114700,15 @@ Obtainable in the Radiant Chest.
 ITEM_desc
 Demon
 item_short_desc
-Yatta
+Default Talus Emote
 item_name
-Demon Emote 01
+Yatta
 item_desc
 Demon
 item_short_desc
 Home Run
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Booty Box
 ITEM_name
@@ -114876,7 +114842,7 @@ SLT - Collection - Makoa - Dutchman-RENTAL
 Loot_Table_name
 Ying Boogie Dance
 ITEM_desc
-SLT - Set - Barik - Swashbuckler-RENTAL
+SLT - Set - Barik - Swashbuckler-RENTAL - 3 Day
 Loot_Table_name
 SLT - Collection - Barik - Swashbuckler
 Loot_Table_name
@@ -114894,7 +114860,7 @@ SLT - Collection - Kinessa - Star Silver-RENTAL
 Loot_Table_name
 Star Silver Collection
 ITEM_name
-SLT - Set - Makoa - Dutchman-RENTAL
+SLT - Set - Makoa - Dutchman-RENTAL - 3 Day
 Loot_Table_name
 Obtainable in the Booty Box.
 ITEM_desc
@@ -114960,7 +114926,7 @@ Talus
 item_short_desc
 A Better Tomorrow
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 This is My Style
 Activity_Goal_title
@@ -115111,7 +115077,7 @@ SLT - Collection - Evie - Witch
 Loot_Table_name
 SLT - Collection - Evie - Witch-RENTAL
 Loot_Table_name
-VanguardRMB
+KhanRMB
 item_name
 Quarry Onslaught
 map_game_friendly_name
@@ -115125,7 +115091,7 @@ Custom O_Foreman'sRise
 MSL_name
 Foreman's Rise (Onslaught)
 Match_Queue_name
-Deflector Shield Deployable
+Khan Shield Deployable
 Deployable_name
 Booty Box Spray Rental
 ITEM_name
@@ -115218,11 +115184,11 @@ Get Clucked
 item_name
 Obtainable in the VIP Store.
 item_desc
-Default Vanguard
+Default Khan
 ITEM_name
 Doubles team's VIP Points this match
 ITEM_desc
-Default Vanguard ACC
+Default Khan ACC
 ITEM_name
 Default Vanguard WEP
 ITEM_name
@@ -115460,7 +115426,7 @@ SLT - Autobuy - Terminus
 Loot_Table_name
 Default
 ITEM_desc
-Default Vanguard WEP
+Default Khan WEP
 ITEM_name
 Obtainable in the World Wide Chest.
 ITEM_desc
@@ -115667,7 +115633,7 @@ Terminus
 item_short_desc
 Arisen
 item_name
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 item_desc
 Copy of Head Vendor Rare
 Loot_Table_name
@@ -115797,11 +115763,11 @@ Practice Foreman's Rise
 map_game_name
 Default
 ITEM_desc
-Default Moji WEP
+Default Familiar
 ITEM_name
 Default
 ITEM_desc
-Default Moji ACC
+Default Hat
 ITEM_name
 Foreman's Rise (Onslaught)
 map_game_friendly_name
@@ -116013,7 +115979,7 @@ Chibi
 item_short_desc
 SLT - Collection - Drogoz - Draco
 Loot_Table_name
-SLT - Collection - Drogoz - Draco-RENTAL
+SLT - Collection - Drogoz - Draco-RENTAL - 3 Day
 Loot_Table_name
 TestSprayFrontlineWins
 item_name
@@ -116057,7 +116023,7 @@ Blind Rage
 item_name
 Terminus
 item_short_desc
-Respite
+Default Terminus Emote
 item_name
 Fire a projectile that deals 250 damage. Fire an additional projectile for every Calamity Charge you have stored.
 item_desc
@@ -116146,9 +116112,9 @@ zDeprecated Strength of Stone III
 item_name
 zDeprecated Strength of Stone IV
 item_name
-Obtainable in the Gold and Radiant Chests.
+Respite
 ITEM_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 Obtainable in the Galaxy Chest.
 ITEM_desc
@@ -116376,7 +116342,7 @@ item_name
 item_desc
 Efflorescence I
 item_name
-[Blossom] Increase the passive healing and area of Blossom by {scale=85|5}0
+[Blossom] Increase the passive healing of Blossom by {scale=85|5}% and increase it's area by 50%
 item_desc
 Binary Star I
 item_name
@@ -116482,7 +116448,7 @@ Lian
 ITEM_short_desc
 Rental
 ITEM_desc
-Golden Rifle
+Golden Heirloom Rifle
 ITEM_name
 Rental
 ITEM_desc
@@ -116695,7 +116661,7 @@ SLT - Collection - Ash - Hellion
 Loot_Table_name
 SLT - Set - Talus - Oni
 Loot_Table_name
-SLT - Set - Talus - Oni-RENTAL
+SLT - Set - Talus - Oni-RENTAL - 3 Day
 Loot_Table_name
 SLT - Collection - Talus - Oni
 Loot_Table_name
@@ -116703,11 +116669,11 @@ SLT - Collection - Talus - Oni-RENTAL
 Loot_Table_name
 SLT - Set - Ash - Ronin
 Loot_Table_name
-SLT - Set - Ash - Ronin-RENTAL
+SLT - Set - Ash - Ronin-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Skye - Kunoichi
 Loot_Table_name
-SLT - Set - Skye - Kunoichi-RENTAL
+SLT - Set - Skye - Kunoichi-RENTAL - 3 Day
 Loot_Table_name
 Obtainable in the Feudal Chest.
 ITEM_desc
@@ -116759,21 +116725,21 @@ item_desc
 item_name
 Applies VFX to the instigator and any other players in range.
 item_desc
-Frost Giant
+Obtainable in a bundle somewhere iduno
 ITEM_desc
-Terminus ACC Skin01A
+Jotunn's Spire
 ITEM_name
-Frost Giant
+Buy in a bundle TBD
 ITEM_desc
-Terminus Skin01A
+Jotunn
 ITEM_name
 Dragonskin I
 item_name
 [Armor] The amount of Booster you have also acts as a shield that can absorb up to {scale=255|15} damage.
 item_desc
-Frost Giant
+Buy it in SMITE first nah it's in a bundle
 ITEM_desc
-Terminus WEP Skin01A
+Jotunn's Wrath
 ITEM_name
 Terminus Champion Spray
 item_name
@@ -116869,7 +116835,7 @@ Grapeshot
 DEVICE_name
 Just Breathe I
 item_name
-[Scout] Crossbow shots deal up to {scale=42.5|2.5}% increased damage over 150 units.
+[Scout] Crossbow shots deal up to {scale=22|2}% increased damage past 70 units.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -116885,9 +116851,9 @@ Normal Healing Potion
 DEVICE_name
 Lead Vial Healing Potion
 DEVICE_name
-Explosive Flask
+Healing Potion
 EFFECT_GROUP_name
-Explosive Flask
+Healing Potion
 EFFECT_GROUP_name
 FINISH THEM! I
 item_name
@@ -116961,7 +116927,7 @@ Lian WEP Skin02A
 ITEM_name
 Terminus
 ITEM_short_desc
-Obtainable in the Gold and Radiant Chests.
+Obtainable in the Gold Chest.
 ITEM_desc
 Copy of Respite
 ITEM_name
@@ -117573,7 +117539,7 @@ item_name
 item_desc
 Loading44
 Game_Tip_title
-Alyssa was here. :^)
+If you have feedback for us please contact our community team on the official forums.
 Game_Tip_tip
 Keep Onslaught (TDM)
 map_game_friendly_name
@@ -117649,7 +117615,7 @@ SLT - Chest - World Wide Chest - Rare
 Loot_Table_name
 SLT - Set - Tyra - Red Winter
 Loot_Table_name
-Red Winter
+Red Winter Collection
 ITEM_name
 Enchanted Forest (Conquest) 
 map_game_friendly_name
@@ -117835,7 +117801,7 @@ Heal Cone
 DEVICE_name
 Life Exchange I
 item_name
-[Shatter] Shatter now instantly heals your target for {scale=680|40} health per active illusion, but consumes your illusions.
+[Shatter] Shatter now instantly heals your target for {scale=680|40} health per active illusion, but consumes your illusions. The Cooldown of Shatter is reduced by 1s.
 item_desc
 Diana Test Map
 map_game_friendly_name
@@ -117845,7 +117811,7 @@ PerfCompareMap
 map_game_friendly_name
 PerfCompareMap
 map_game_name
-[Flare] Increase the Projectile Speed of Flare by 100, increase its Damage by {scale=255|15}%, and reduce its Cooldown by 10s.
+[Flare] Flare deals {scale=255|15}% more Damage, its Projectile Speed is increased by 100, and its Cooldown is reduced by 10s.
 item_desc
 Pre-Fire Activate Sound
 EFFECT_GROUP_name
@@ -117889,7 +117855,7 @@ SLT - Collection - Grohk - Cosmic
 Loot_Table_name
 SLT - Collection - Grohk - Cosmic-RENTAL
 Loot_Table_name
-SLT - Set - Tyra - Red Winter-RENTAL
+SLT - Set - Tyra - Red Winter-RENTAL - 3 Day
 Loot_Table_name
 zDeprecated Runic Ammunition II
 item_name
@@ -118359,9 +118325,9 @@ Chest Loot Vendor - Gold Chest
 Loot_Table_name
 Churchill
 item_short_desc
-Preparation
+Default Vivian Emote
 item_name
-Churchill Emote
+Preparation
 item_desc
 zDelete
 Loot_Table_name
@@ -118399,7 +118365,7 @@ SLT - Chest - Gold Chest - Epic Skins Exclusive
 Loot_Table_name
 Obtainable in the Lunar Chest.
 ITEM_desc
-Lunar Rocket Launch
+Lunar Rocket Launcher
 ITEM_name
 Paladins World Championship 2018
 item_short_desc
@@ -118441,13 +118407,13 @@ SLT - Chest - Gold Chest - Rare Skins Rental
 Loot_Table_name
 SLT - Chest - Gold Chest - Epic Skins Rental
 Loot_Table_name
-SLT - Set - Buck - Buck Wild-RENTAL
+SLT - Set - Buck - Buck Wild-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Pip - Invader-RENTAL
+SLT - Set - Pip - Invader-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Cassie - Nightbane-RENTAL
 Loot_Table_name
-SLT - Set - Ying - Replicant-RENTAL
+SLT - Set - Ying - Replicant-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Sha Lin - Vigilante-RENTAL
 Loot_Table_name
@@ -118477,7 +118443,7 @@ Reduce the Damage you take from Area of Effect attacks by 14%. Gain 10% Max Heal
 DEVICE_desc
 Reduce the Damage you take from Area of Effect attacks by 21%. Gain 30% Max Health and Damage.
 DEVICE_desc
-SLT - Set - Androxus - Exalted-RENTAL
+SLT - Set - Androxus - Exalted-RENTAL - 3 Day
 Loot_Table_name
 Increase your Mount Speed by 45%. Gain 30% Max Health and Damage.
 DEVICE_desc
@@ -118727,7 +118693,7 @@ Churchill
 item_short_desc
 Delegate
 item_name
-Churchill Emote
+Obtainable in the Gold Chest.
 item_desc
 Hi Jeff
 item_name
@@ -119073,9 +119039,9 @@ PQ_250000_DAMAGE_ESN
 Activity_name
 Very Important
 Activity_Goal_title
-Accrue a total of 400 VIP points from matches.
+Accrue a total of 400 VIP points.
 Activity_Goal_desc
-Accrue a total of 400 VIP points from matches.
+Accrue a total of 400 VIP points.
 Activity_Goal_name
 Accrue a total of 400 VIP points from matches.
 Activity_title
@@ -121907,7 +121873,7 @@ zDeprecated XL Mag V
 item_name
 [Weapon] Increase your ammo count by 10.
 item_desc
-Card Vendor Rank 5
+zDeprecated Card Vendor Rank 5
 Loot_Table_name
 VIP Tier Rewards Vendor
 Loot_Table_name
@@ -122055,7 +122021,7 @@ SLT - Chest - Androxus Chest - Legendary
 Loot_Table_name
 Drop Androxus Cards!!!!
 ITEM_desc
-Androxus Chest
+Champion Chest Androxus
 ITEM_name
 Nov 16th
 Activity_Goal_name
@@ -122129,19 +122095,19 @@ SLT - Spray Rental - Victorian
 Loot_Table_name
 Merc
 ITEM_short_desc
-Infiltrator
+Obtainable in the VIP Store.
 ITEM_desc
-Strix ACC Skin04A
+Infiltrator's Menace
 ITEM_name
 Merc
 ITEM_short_desc
-Infiltrator
+Obtainable in the VIP Store.
 ITEM_desc
-Strix Skin04A
+Infiltrator
 ITEM_name
-Infiltrator
+Obtainable in the VIP Store.
 ITEM_desc
-Strix WEP Skin04A
+Infiltrator's Deathstroke
 ITEM_name
 Lore Quest 1
 Activity_Goal_title
@@ -122511,29 +122477,29 @@ Vivian_Deck2
 ITEM_name
 Paladins X Inner SLT
 Loot_Table_name
-Obsidian Mastery
+Available for purchase at Mastery Level 10.
 ITEM_desc
 Obsidian Visage
 ITEM_name
 Paladins X DLC SLT
 Loot_Table_name
-Cosmic Mastery
+Available for purchase at Mastery Level 15.
 ITEM_desc
 Cosmic Visage
 ITEM_name
-Obsidian Mastery
+Available for purchase at Mastery Level 10.
 ITEM_desc
 Obsidian Jenos
 ITEM_name
-Cosmic Mastery
+Available for purchase at Mastery Level 15.
 ITEM_desc
 Cosmic Jenos
 ITEM_name
-Obsidian Mastery
+Available for purchase at Mastery Level 10.
 ITEM_desc
 Obsidian Star Splitter
 ITEM_name
-Cosmic Mastery
+Available for purchase at Mastery Level 15.
 ITEM_desc
 Cosmic Star Splitter
 ITEM_name
@@ -122569,7 +122535,7 @@ Astro
 item_short_desc
 Jenos Mastery Emote
 item_name
-Mastery Emote
+Available for purchase at Mastery Level 8.
 item_desc
 A-bomb-inable Spray
 item_name
@@ -122585,9 +122551,9 @@ Obtainable at VIP Tier 4.
 item_desc
 Jenos
 item_short_desc
-Jenos Mastery MVP 01
+Jenos Mastery Pose
 item_name
-Jenos Mastery MVP
+Available for purchase at Mastery Level 5.
 item_desc
 Lore Bucket 1
 Loot_Table_name
@@ -123027,45 +122993,45 @@ Chest Loot Vendor - Ying Chest
 Loot_Table_name
 Chest Loot Vendor - Zhin Chest
 Loot_Table_name
-Ash Chest
+Champion Chest Ash
 ITEM_name
-Barik Chest
+Champion Chest Barik
 ITEM_name
-Bomb King Chest
+Champion Chest Bomb King
 ITEM_name
-Buck Chest
+Champion Chest Buck
 ITEM_name
-Cassie Chest
+Champion Chest Cassie
 ITEM_name
-Drogoz Chest
+Champion Chest Drogoz
 ITEM_name
-Evie Chest
+Champion Chest Evie
 ITEM_name
-Fernando Chest
+Champion Chest Fernando
 ITEM_name
-Grohk Chest
+Champion Chest Grohk
 ITEM_name
-Grover Chest
+Champion Chest Grover
 ITEM_name
-Inara Chest
+Champion Chest Inara
 ITEM_name
-Jenos Chest
+Champion Chest Jenos
 ITEM_name
-Kinessa Chest
+Champion Chest Kinessa
 ITEM_name
-Lex Chest
+Champion Chest Lex
 ITEM_name
-Lian Chest
+Champion Chest Lian
 ITEM_name
-Maeve Chest
+Champion Chest Maeve
 ITEM_name
-Makoa Chest
+Champion Chest Makoa
 ITEM_name
-Mal'damba Chest
+Champion Chest Mal'damba
 ITEM_name
-Pip Chest
+Champion Chest Pip
 ITEM_name
-Ruckus Chest
+Champion Chest Ruckus
 ITEM_name
 Lore Quest 3
 Activity_Goal_title
@@ -123073,17 +123039,17 @@ Be patient, the boy
 Activity_Goal_desc
 Date 3
 Activity_Goal_name
-Sha Lin Chest
+Champion Chest Sha Lin
 ITEM_name
-Seris Chest
+Champion Chest Seris
 ITEM_name
-Skye Chest
+Champion Chest Skye
 ITEM_name
-Strix Chest
+Champion Chest Strix
 ITEM_name
-Talus Chest
+Champion Chest Talus
 ITEM_name
-Terminus Chest
+Champion Chest Terminus
 ITEM_name
 Lore Quest 3
 Activity_Goal_title
@@ -123091,17 +123057,17 @@ Slap the boy
 Activity_Goal_desc
 Lore Quest 3
 Activity_Goal_name
-Torvald Chest
+Champion Chest Torvald
 ITEM_name
-Tyra Chest
+Champion Chest Tyra
 ITEM_name
-Viktor Chest
+Champion Chest Viktor
 ITEM_name
-Vivian Chest
+Champion Chest Vivian
 ITEM_name
-Willo Chest
+Champion Chest Willo
 ITEM_name
-Ying Chest
+Champion Chest Ying
 ITEM_name
 Lore Quest 4
 Activity_Goal_title
@@ -123109,7 +123075,7 @@ Wait again
 Activity_Goal_desc
 Date 4
 Activity_Goal_name
-Zhin Chest
+Champion Chest Zhin
 ITEM_name
 Lore Quest 5
 Activity_Goal_title
@@ -123243,7 +123209,7 @@ WIP Ice Royale
 map_game_name
 WIP Ice Royale
 MSL_name
-WIP BR
+WIP BG
 MSL_name
 Salty Springs (Siege)
 map_game_friendly_name
@@ -123265,7 +123231,7 @@ Arid_v2 (Siege)
 map_game_friendly_name
 WIP Arid_v2 (Siege) 
 map_game_name
-Loot Crate
+BattleGrounds Item Chest
 Deployable_name
 Eastwatch (Siege) 
 map_game_friendly_name
@@ -126757,13 +126723,13 @@ Lore Bucket 3
 Loot_Table_desc
 Lore Bucket 3
 Loot_Table_name
-Card Vendor Legendary Rank 2
+zDeprecated Card Vendor Legendary Rank 2
 Loot_Table_name
-Card Vendor Legendary Rank 3
+zDeprecated Card Vendor Legendary Rank 3
 Loot_Table_name
-Card Vendor Legendary Rank 4
+zDeprecated Card Vendor Legendary Rank 4
 Loot_Table_name
-Card Vendor Legendary Rank 5
+zDeprecated Card Vendor Legendary Rank 5
 Loot_Table_name
 Lore Bucket 4
 Loot_Table_desc
@@ -127093,9 +127059,9 @@ Chest Loot Vendor - Tencent Gold Chest
 Loot_Table_name
 OB64 Conversion Item
 ITEM_name
-SLT - Set - Tyra - Baroness-RENTAL
+SLT - Set - Tyra - Baroness-RENTAL - 3 Day
 Loot_Table_name
-SLT - TC - Set - Ying - Quicksilver-RENTAL
+SLT - TC - Set - Ying - Quicksilver-RENTAL - 3 Day
 Loot_Table_name
 Guaranteed <font color='#E38B00'>Non-Rental Item</font> within the next <font color='#BFFEFF'>%d</font> items.
 Activity_Goal_title
@@ -127123,73 +127089,73 @@ Lore Quest Rewards
 Loot_Table_Items_name
 Magic Grass 1
 Deployable_name
-Drops Androxus Cards. Will not drop duplicates of any fully leveled cards.
+Drops Androxus Cards.
 ITEM_desc
-Drops Ash Cards. Will not drop duplicates of any fully leveled cards.
+Drops Ash Cards.
 ITEM_desc
-Drops Barik Cards. Will not drop duplicates of any fully leveled cards.
+Drops Barik Cards.
 ITEM_desc
-Drops Bomb King Cards. Will not drop duplicates of any fully leveled cards.
+Drops Bomb King Cards.
 ITEM_desc
-Drops Buck Cards. Will not drop duplicates of any fully leveled cards.
+Drops Buck Cards.
 ITEM_desc
-Drops Cassie Cards. Will not drop duplicates of any fully leveled cards.
+Drops Cassie Cards.
 ITEM_desc
-Drops Drogoz Cards. Will not drop duplicates of any fully leveled cards.
+Drops Drogoz Cards.
 ITEM_desc
-Drops Evie Cards. Will not drop duplicates of any fully leveled cards.
+Drops Evie Cards.
 ITEM_desc
-Drops Fernando Cards. Will not drop duplicates of any fully leveled cards.
+Drops Fernando Cards.
 ITEM_desc
-Drops Grohk Cards. Will not drop duplicates of any fully leveled cards.
+Drops Grohk Cards.
 ITEM_desc
-Drops Grover Cards. Will not drop duplicates of any fully leveled cards.
+Drops Grover Cards.
 ITEM_desc
-Drops Inara Cards. Will not drop duplicates of any fully leveled cards.
+Drops Inara Cards.
 ITEM_desc
-Drops Jenos Cards. Will not drop duplicates of any fully leveled cards.
+Drops Jenos Cards.
 ITEM_desc
-Drops Kinessa Cards. Will not drop duplicates of any fully leveled cards.
+Drops Kinessa Cards.
 ITEM_desc
-Drops Lex Cards. Will not drop duplicates of any fully leveled cards.
+Drops Lex Cards.
 ITEM_desc
-Drops Lian Cards. Will not drop duplicates of any fully leveled cards.
+Drops Lian Cards.
 ITEM_desc
-Drops Maeve Cards. Will not drop duplicates of any fully leveled cards.
+Drops Maeve Cards.
 ITEM_desc
-Drops Makoa Cards. Will not drop duplicates of any fully leveled cards.
+Drops Makoa Cards.
 ITEM_desc
-Drops Mal'damba Cards. Will not drop duplicates of any fully leveled cards.
+Drops Mal'damba Cards.
 ITEM_desc
-Drops Pip Cards. Will not drop duplicates of any fully leveled cards.
+Drops Pip Cards.
 ITEM_desc
-Drops Ruckus Cards. Will not drop duplicates of any fully leveled cards.
+Drops Ruckus Cards.
 ITEM_desc
-Drops Seris Cards. Will not drop duplicates of any fully leveled cards.
+Drops Seris Cards.
 ITEM_desc
-Drops Sha Lin Cards. Will not drop duplicates of any fully leveled cards.
+Drops Sha Lin Cards.
 ITEM_desc
-Drops Skye Cards. Will not drop duplicates of any fully leveled cards.
+Drops Skye Cards.
 ITEM_desc
-Drops Strix Cards. Will not drop duplicates of any fully leveled cards.
+Drops Strix Cards.
 ITEM_desc
-Drops Talus Cards. Will not drop duplicates of any fully leveled cards.
+Drops Talus Cards.
 ITEM_desc
-Drops Terminus Cards. Will not drop duplicates of any fully leveled cards.
+Drops Terminus Cards.
 ITEM_desc
-Drops Torvald Cards. Will not drop duplicates of any fully leveled cards.
+Drops Torvald Cards.
 ITEM_desc
-Drops Tyra Cards. Will not drop duplicates of any fully leveled cards.
+Drops Tyra Cards.
 ITEM_desc
-Drops Viktor Cards. Will not drop duplicates of any fully leveled cards.
+Drops Viktor Cards.
 ITEM_desc
-Drops Vivian Cards. Will not drop duplicates of any fully leveled cards.
+Drops Vivian Cards.
 ITEM_desc
-Drops Willo Cards. Will not drop duplicates of any fully leveled cards.
+Drops Willo Cards.
 ITEM_desc
-Drops Ying Cards. Will not drop duplicates of any fully leveled cards.
+Drops Ying Cards.
 ITEM_desc
-Drops Zhin Cards. Will not drop duplicates of any fully leveled cards.
+Drops Zhin Cards.
 ITEM_desc
 700 Gold
 Loot_Table_Items_name
@@ -127200,11 +127166,11 @@ Loot_Table_Items_name
 700 Gold
 Loot_Table_Items_name
 SLT - Set - Pip - Invader -RENTAL
-SLT - Collection - Buck - Triggerman - Rental
+SLT - Collection - Buck - Triggerman - Rental 3 Day
 Loot_Table_name
 SLT - Collection - Zhin - Conqueror-RENTAL
 Loot_Table_name
-SLT - Collection - Makoa - Cuddly-RENTAL
+SLT - Collection - Makoa - Cuddly-RENTAL - 3 Day
 Loot_Table_name
 Mount Vendor - Rental
 Loot_Table_name
@@ -127212,17 +127178,17 @@ Copy of Collections Rental Vendor
 Loot_Table_name
 SLT - Set - Jenos - Capricorn-RENTAL
 Loot_Table_name
-SLT - TC - Set - Zhin - Conqueror-RENTAL
+SLT - TC - Set - Zhin - Conqueror-RENTAL - 3 Day
 Loot_Table_name
-SLT - TC - Set - Cassie - Blood Moon-RENTAL
+SLT - TC - Set - Cassie - Blood Moon-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Lex - Beach-RENTAL
+SLT - Set - Lex - Beach-RENTAL - 3 Day
 Loot_Table_name
-SLT - TC - Set - Seris - Infernal-RENTAL
+SLT - TC - Set - Seris - Infernal-RENTAL - 3 Day
 Loot_Table_name
-SLT - Set - Torvald - Clockwork-RENTAL
+SLT - Set - Torvald - Clockwork-RENTAL - 3 Day
 Loot_Table_name
-SLT - TC - Set - Willo - Hemlock-RENTAL
+SLT - TC - Set - Willo - Hemlock-RENTAL - 3 Day
 Loot_Table_name
 Festive
 item_short_desc
@@ -127262,7 +127228,7 @@ ITEM_name
 ITEM_desc
 72000 Gold
 ITEM_name
-SLT - Collection - Grohk - Brimstone-RENTAL
+SLT - Collection - Grohk - Brimstone-RENTAL - 3 Day
 Loot_Table_name
 Endure
 map_game_friendly_name
@@ -127437,17 +127403,17 @@ Obtainable by Tencent
 ITEM_desc
 SLT - TC - Collection - Fernando - God of War
 Loot_Table_name
-SLT - Set - Mal'Damba - Chancellor-RENTAL
+SLT - Set - Mal'Damba - Chancellor-RENTAL - 1 Day
 Loot_Table_name
 TC Cuddly Collection
 ITEM_name
-SLT - TC - Set - Ying - Genie-RENTAL
+SLT - TC - Set - Ying - Genie-RENTAL - 1 Day
 Loot_Table_name
-SLT - TC - Set - Sha Lin - Guardian-RENTAL
+SLT - TC - Set - Sha Lin - Guardian-RENTAL - 1 Day
 Loot_Table_name
-SLT - TC - Set - Viktor - Code Green Comms-RENTAL
+SLT - TC - Set - Viktor - Code Green Comms-RENTAL - 1 Day
 Loot_Table_name
-SLT - TC - Collection - Fernando - God of War-RENTAL
+SLT - TC - Collection - Fernando - God of War-RENTAL - 3 Day
 Loot_Table_name
 Lore Seeker Grand Prize
 Activity_Goal_name
@@ -127507,7 +127473,7 @@ Rider Leg Movement Cloud Deployable
 Deployable_name
 Obtainable in the Galaxy Chest.
 ITEM_desc
-SLT - Collection - Zhin - Ebon Star-RENTAL
+SLT - Collection - Zhin - Ebon Star-RENTAL - 3 Day
 Loot_Table_name
 Toot Subdevice
 item_name
@@ -127675,7 +127641,7 @@ Pity Timer - Shalin Chest
 Activity_name
 Pity Timer - Skye Chest
 Activity_name
-Copy of Iron Sights
+*BR* Iron Sights
 item_name
 Look down the barrel of your rifle. Gain improved accuracy but move 50% Slower.
 item_desc
@@ -127693,7 +127659,7 @@ Heal within the AoE.
 EFFECT_GROUP_desc
 Totem
 EFFECT_GROUP_name
-Kinessa WEP Skin02A
+Buster Rifle
 ITEM_name
 Robo Rider
 ITEM_desc
@@ -127727,9 +127693,9 @@ Chest Loot Vendor - Lunar Chest
 Loot_Table_name
 LIVE Tencent Xmas
 MSL_name
-Australian
+Obtainable in the World Wide Chest.
 ITEM_desc
-Grover ACC Skin04A
+The G'Day Mate
 ITEM_name
 Casual Queue vs AI for Tencent Snow Theme maps temp placement
 Match_Queue_short_desc
@@ -127779,9 +127745,9 @@ Lotus
 ITEM_name
 Lotus Collection
 ITEM_name
-Lex WEP Skin03A
+REKT Stingers
 ITEM_name
-REKT
+Obtainable in the REKT Weapons Chest.
 ITEM_desc
 SLT - Collection - Tyra - Lotus
 Loot_Table_name
@@ -127887,17 +127853,17 @@ On Teleport Cleanse
 EFFECT_GROUP_name
 DEPRECATED AoE Explosion
 DEVICE_name
-Dark Space
+Obtainable in the Gold Chest.
 ITEM_desc
-Viktor ACC Skin07B
+Reaver Headguard
 ITEM_name
-Dark Space
+Obtainable in the Gold Chest.
 ITEM_desc
-Viktor Skin06B
+Reaver
 ITEM_name
-Dark Space
+Obtainable in the Gold Chest.
 ITEM_desc
-Viktor WEP Skin09B
+Reaver Firestorm
 ITEM_name
 Madame
 ITEM_name
@@ -127939,7 +127905,7 @@ Leave a cloud that grants allies 30% movement speed and {scale=510|30} health ov
 item_desc
 Players you kill drop a pick up that heals you for {scale=680|40} when picked up.
 item_desc
-Consuming a victim of your ultimate recharges your Ult by 50% and heals you for {scale=850|50}.
+Consuming a victim of your ultimate recharges your ultimate by 50% and heals you for {scale=850|50}.
 item_desc
 Scoot I
 item_name
@@ -127957,9 +127923,9 @@ Dense Woods I
 item_name
 Your Magic Marks last {scale=.4|.4}s longer.
 item_desc
-Drops Moji Cards. Will not drop duplicates of any fully leveled cards.
+Drops Moji Cards.
 ITEM_desc
-Moji Chest
+Champion Chest Moji
 ITEM_name
 SLT - Chest - Moji Chest - Legendary
 Loot_Table_name
@@ -127989,15 +127955,15 @@ Heal for {scale=20|20} health per second while Magic Barrier is active.
 item_desc
 Moji
 item_short_desc
-Detour
+Default Moji Emote
 item_name
-Rider Emote 01
+Detour
 item_desc
 Moji
 item_short_desc
 Reward
 item_name
-Rider Emote 02
+Obtainable in the Gold Chest.
 item_desc
 District
 map_game_friendly_name
@@ -128023,7 +127989,7 @@ Moji
 item_short_desc
 Yippee Ki Yay
 item_name
-Moji MVP 01
+Obtainable in the Gold Chest.
 item_desc
 Every 0.6s your familiar fires out a magic projectile that deals 250 Damage. Deal more damage for every stack of Magic Mark on the target.
 item_desc
@@ -128059,7 +128025,7 @@ Trade District
 map_game_friendly_name
 Practice Trade District
 map_game_name
-Epic Loot Crate
+BattleGrounds Zeppelin Chest
 Deployable_name
 Custom T_TradeDistrict
 MSL_name
@@ -128155,17 +128121,17 @@ ENT Moji Mastery Spray
 ITEM_name
 UNCOMMON BOOTS
 item_short_desc
-*BR* LEATHER BOOTS
+*BR* Boots Uncommon I
 item_name
-+ 10% Armor
++ 10% Movement Speed
 item_desc
 BR Boots Vendor
 Loot_Table_name
-BR Gloves Vendor
+BR Helmet Vendor
 Loot_Table_name
 BR Armor Vendor
 Loot_Table_name
-BR Crystal Vendor
+BR Weapon Vendor
 Loot_Table_name
 zDelete
 Loot_Table_name
@@ -128179,7 +128145,7 @@ SLT - Set - Moji - Rose Petal-RENTAL
 Loot_Table_name
 Obtainable in the Lunar Chest.
 ITEM_desc
-SLT - Collection - Seris - Madame-RENTAL
+SLT - Collection - Seris - Madame-RENTAL - 3 Day
 Loot_Table_name
 SLT - Set - Seris - Madame-RENTAL
 Loot_Table_name
@@ -128191,141 +128157,141 @@ SLT - Collection - Lian - High Elf-RENTAL
 Loot_Table_name
 UNCOMMON ARMOR
 item_short_desc
-*BR* RAGGED JACKET
+*BR* Armor Uncommon I
 item_name
 UNCOMMON GLOVES
 item_short_desc
-*BR* RUSTED GAUNTLETS
+*BR* Helmet Uncommon I
 item_name
 UNCOMMON CRYSTAL
 item_short_desc
-*BR* UNEARTHED CRYSTAL
+*BR* Weapon Uncommon I
 item_name
-+ 10% Damage
++10% Damage
 item_desc
-+ 10% Armor Penetration
+- 15% Crowd Control Duration
 item_desc
 + 10% Max Health
 item_desc
 RARE BOOTS
 item_short_desc
-*BR* PLATED BOOTS
+*BR* Boots Rare I
 item_name
-+ 20% Armor
++ 20% Movement Speed
 item_desc
 EPIC BOOTS
 item_short_desc
-*BR* BOOTS OF THE STEED
+*BR* Boots Epic I
 item_name
-+ 50% Armor*+ 45% Mount Speed
++ 30% Movement Speed
 item_desc
 EPIC BOOTS
 item_short_desc
-*BR* BOOTS OF SWIFTNESS
+*BR* Boots Epic II
 item_name
-+ 50% Armor*+ 30% Movement Speed
+- 60% Out of Combat Time
 item_desc
 EPIC BOOTS
 item_short_desc
-*BR* BOOTS OF TRACKING
+*BR* Boots of Tracking
 item_name
 + 50% Armor*+ 200% Stealth Detection
 item_desc
-LEGENDARY BOOTS
+Legendary Boots
 item_short_desc
-*BR* WORLD STOMPERS
+*BR* Boots Legendary I
 item_name
-+ 100% Armor*+ 30% Movement Speed*+ 45% Mount Speed
++ 50% Movement Speed
 item_desc
-RARE ARMOR
+UNCOMMON HELMET
 item_short_desc
-*BR* PADDED JACKET
+*BR* Time Uncommon I
 item_name
-+ 20% Max Health
-item_desc
-EPIC ARMOR
-item_short_desc
-*BR* JACKET OF GLORY
-item_name
-+ 50% Max Health*+ 1000 Health on Kills
++ 10% Cooldown Reduction
 item_desc
 EPIC ARMOR
 item_short_desc
-*BR* JACKET OF HUNGERING VOID
+*BR* Armor Epic I
 item_name
-+ 50% Max Health*+ 30% Lifesteal
++ 50% Max Health
 item_desc
 EPIC ARMOR
 item_short_desc
-*BR* JACKET OF WELLNESS
+*BR* Armor Epic II
 item_name
-+ 50% Max Health*+ 30% Healing from Others
++ 50% Shield and Deployable Health
+item_desc
+EPIC ARMOR
+item_short_desc
+*BR* Armor Epic III
+item_name
++ 3% Health per Second
 item_desc
 LEGENDARY ARMOR
 item_short_desc
-*BR* ETERNAL PLATING
+*BR* Armor Legendary I
 item_name
-+ 100% Max Health*+ 30% Lifesteal*+ 30% Healing from Others
++ 100% Max Health
 item_desc
 RARE GLOVES
 item_short_desc
-*BR* SILVER GAUNTLETS
+*BR* Helmet Rare I
 item_name
-+ 20% Armor Penetration
+- 30% Crowd Control Duration
 item_desc
 EPIC GLOVES
 item_short_desc
-*BR* GAUNTLETS OF TIME
+*BR* Helmet Epic I
 item_name
-+ 50% Armor Penetration*- 30% Ability Cooldowns
+- 60% Crowd Control Duration
 item_desc
 EPIC GLOVES
 item_short_desc
-*BR* GAUNTLETS OF THE WEST
+*BR* Helmet Epic II
 item_name
-+ 50% Armor Penetration*+ 60% Reload Speed
+- 50% Headshot Damage
 item_desc
 EPIC GLOVES
 item_short_desc
-*BR* GAUNTLETS OF STEADINESS
+*BR* Helmet Epic III
 item_name
-+ 50% Armor Penetration*- 90% Crowd Control Duration
++ 200% Stealth Detection
 item_desc
 LEGENDARY GLOVES
 item_short_desc
-*BR* HAND OF THE GODS
+*BR* Helmet Legendary I
 item_name
-+ 50% Armor Penetration*+ 60% Reload Speed*- 90% Crowd Control Duration
+- 90% Crowd Control Duration
 item_desc
 RARE CRYSTAL
 item_short_desc
-*BR* POLISHED CRYSTAL
+*BR* Weapon Rare I
 item_name
 + 20% Damage
 item_desc
 EPIC CRYSTAL
 item_short_desc
-*BR* CRYSTAL OF DESTRUCTION
+*BR* Weapon Epic I
 item_name
-+ 50% Damage*+ 250% Damage to Shields
++ 50% Damage
 item_desc
 EPIC CRYSTAL
 item_short_desc
-*BR* CRYSTAL OF WEAKENING
+*BR* Weapon Epic II
 item_name
-+ 50% Damage*- 90% Reduced Healing on Targets
++ 225% Shield Damage
 item_desc
 EPIC CRYSTAL
 item_short_desc
-*BR* CRYSTAL OF ULTIMATUMS
+*BR* Weapon Epic III
 item_name
-+ 50% Damage*+ 100% Ultimate Charge Rate
++ 90% Reduced Healing on Targets
 item_desc
 LEGENDARY CRYSTAL
 item_short_desc
-*BR* THE MOTHER LODE
+*BR* Weapon Legendary I
 item_name
-+ 100% Damage*- 90% Reduced Healing on Targets*+ 250% Damage to Shields
++ 100% Damage
 item_desc
 Glimmer I
 item_name
@@ -128379,9 +128345,9 @@ Gain {scale=4|4}% lifesteal against enemies with the maximum number of Magic Mar
 item_desc
 Guaranteed <font color='#E38B00'>Non-Rental Item</font> within the next <font color='#BFFEFF'>%d</font> items.
 Activity_Goal_desc
-Copy of Collections Vendor
+zDelete
 Loot_Table_name
-Copy of Collections Vendor
+zDelete
 Loot_Table_name
 Guaranteed <font color='#E38B00'>Non-Rental Item</font> within the next <font color='#BFFEFF'>%d</font> items.
 Activity_Goal_desc
@@ -128409,14 +128375,188 @@ Initial Pull Stun
 EFFECT_GROUP_name
 Post Pull Stun
 EFFECT_GROUP_name
+Frostbite Caverns
+map_game_friendly_name
+LIVE Frostbite Caverns
+map_game_name
+Frostbite Cavern
+map_game_friendly_name
+Practice Frostbite Cavern
+map_game_name
+Hidden Temple
+map_game_friendly_name
+LIVE Hidden Temple
+map_game_name
+Hidden Temple
+map_game_friendly_name
+Practice Hidden Temple
+map_game_name
+Outpost
+map_game_friendly_name
+LIVE Outpost
+map_game_name
+Outpost
+map_game_friendly_name
+Practice Outpost
+map_game_name
+KhanE
+item_name
+Post Pull Stun
+EFFECT_GROUP_name
+Initial Pull Stun
+EFFECT_GROUP_name
+Knockback Hit
+EFFECT_GROUP_name
+Sci-Fi
+ITEM_desc
+SLT - Autobuy - Moji
+Loot_Table_name
+Initial Hook and Throw
+DEVICE_name
+Wall/Player Hit AoE
+DEVICE_name
+Winter Olympics
+ITEM_desc
+Grover WEP Skin01B
+ITEM_name
+Winter Olympics
+ITEM_desc
+Torvald WEP Skin03A
+ITEM_name
+Yellow/Black/Red
+ITEM_desc
+Fernando Wep Skin06A
+ITEM_name
+Red/White
+ITEM_desc
+Pip Wep Skin00H
+ITEM_name
+White Star
+ITEM_desc
+Vivian Wep Skin00F
+ITEM_name
+Winter Olympics
+ITEM_desc
+BombKing WEP Skin00I
+ITEM_name
 Moji Lore
 ITEM_name
 While the rest of the rabbit-like leipori fled to the forests to avoid getting involved in the war raging across the Realm, Moji took it upon herself to summon the great nature spirits to defend the world. She charges into battle atop her trusty familiar, Po-Li, who carries her through the fray as she unleashes a maelstrom of sorcerous destruction on her enemies. Once the war is over and the Realm has returned to its natural state, she hopes to return to the forest and help her people begin the healing process, restoring all that was lost.
 ITEM_desc
+Chest Bundle Vendor - Gold
+Loot_Table_name
+Gold Chest x5
+ITEM_name
+Gold Chest x10
+ITEM_name
+Gold Chest x15
+ITEM_name
+Gold Chest x20
+ITEM_name
+SLT - Bundle - Gold Chest [10]
+Loot_Table_name
+SLT - Bundle - Gold Chest [5]
+Loot_Table_name
+SLT - Bundle - Gold Chest [15]
+Loot_Table_name
+SLT - Bundle - Gold Chest [20]
+Loot_Table_name
+Chest Bundle Vendor - Diamond
+Loot_Table_name
+Diamond Chest x10
+ITEM_name
+Diamond Chest x15
+ITEM_name
+Diamond Chest x20
+ITEM_name
+Diamond Chest x5
+ITEM_name
+SLT - Bundle - Diamond Chest [10]
+Loot_Table_name
+SLT - Bundle - Diamond Chest [15]
+Loot_Table_name
+SLT - Bundle - Diamond Chest [20]
+Loot_Table_name
+SLT - Bundle - Diamond Chest [5]
+Loot_Table_name
+Reach Level 5
+Activity_Goal_title
+Reach Level 5
+Activity_Goal_name
+Reach Level Mid
+Activity_Goal_title
+Reach Level Mid
+Activity_Goal_name
+Reach Level Max
+Activity_Goal_title
+Reach Level Max
+Activity_Goal_name
+ME_REACH_LEVEL_5
+Activity_name
+ME_REACH_LEVEL_MID
+Activity_name
+ME_REACH_LEVEL_MAX
+Activity_name
+First Purchase
+Activity_Goal_title
+First Purchase
+Activity_Goal_name
+ME_FIRST_PURCHASE
+Activity_name
+Jenos Mastery Spray
+item_name
+Available for purchase at Mastery Level 12.
+item_desc
+Cosmic Jenos
+ITEM_name
 Moji WOTD
 Activity_Goal_title
 Moji WOTD
 Activity_Goal_name
+Booster Weapon Vendor - Tencent
+Loot_Table_name
+Used by Tencent to sale booster weapon
+Loot_Table_desc
+Pink/Purple
+ITEM_desc
+Skye ACC Skin05A
+ITEM_name
+Pink/Purple
+ITEM_desc
+Skye Skin05A
+ITEM_name
+Pink/Purple
+ITEM_desc
+Skye WEP Skin04A
+ITEM_name
+SLT - Collection - Jenos - Cosmic
+Loot_Table_name
+SLT - Collection - Jenos - Cosmic-RENTAL
+Loot_Table_name
+SLT - Collection - Jenos - Obsidian
+Loot_Table_name
+SLT - Collection - Jenos - Obsidian-RENTAL
+Loot_Table_name
+Obsidian Jenos
+ITEM_name
+OldKhanF2
+item_name
+Lower your weapon and run 65% faster.
+item_desc
+Activate Audio
+EFFECT_GROUP_name
+wind CAM fx
+EFFECT_GROUP_name
+OldKhanF3
+item_name
+SLT - Collection - Strix - Infiltrator
+Loot_Table_name
+SLT - Collection - Strix - Infiltrator-RENTAL
+Loot_Table_name
+Infiltrator Collection
+ITEM_name
+Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
+ITEM_desc
 Ascension Peak
 map_game_friendly_name
 LIVE Ascension Peak
@@ -128431,10 +128571,974 @@ Ascension Peak
 map_game_friendly_name
 Ranked Ascension Peak
 map_game_name
+Healing Grenade
+item_name
+It's a GRENADE that HEALS!
+item_desc
+Capture Objectives and push the Payload to the enemy base. 
+Match_Queue_short_desc
 Ascension Peak
 Match_Queue_name
 Capture Objectives and push the Payload to the enemy base. 
 Match_Queue_desc
+Equivalent Exchange
+item_name
+Quick Draw
+item_name
+Sleight of Hand
+item_name
+Buying Time
+item_name
+Elusive
+item_name
+Watchful
+item_name
+Battlement
+item_name
+Brawl
+item_name
+Castleforged
+item_name
+Frevor
+item_name
+Furious Charge
+item_name
+Gatecrasher
+item_name
+HeavyMetal
+item_name
+Indomitable
+item_name
+Percussion
+item_name
+Rampart
+item_name
+Siege Engine
+item_name
+Thrive
+item_name
+Trebuchet
+item_name
+Vanguard
+item_name
+War Machine
+item_name
+Watch Tower
+item_name
+Your enemies are revealed.
+EFFECT_GROUP_desc
+Scout
+EFFECT_GROUP_name
+You are revealed.
+EFFECT_GROUP_desc
+Scout
+EFFECT_GROUP_name
+Infiltrator
+ITEM_name
+Obtainable in the VIP Store.
+ITEM_desc
+Star God
+ITEM_name
+Jotunn
+ITEM_name
+Infiltrator Spray
+item_name
+Hideout
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Perfect Block
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Wild Fire
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Blade Dance
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Another Mans Treasure
+item_name
+Falling Star
+item_name
+Fuel for the Fire
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Double Time
+item_name
+Heartless
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Failsafe
+item_name
+Field Deploy
+item_name
+Forged Alloy
+item_name
+Foundation
+item_name
+Fuel Efficiency
+item_name
+Master Stance
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Healing Station
+item_name
+Up In Smoke
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Dragon Oil
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+One Mans Scrap
+item_name
+Ablative Coating
+item_name
+Embers
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Backdraft
+item_name
+Bomb Shelter
+item_name
+Fan The Flames
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Countdown
+item_name
+Footwork
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Infamy
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Jolt
+item_name
+Kings New Cloak
+item_name
+Kindling
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Reinforced Casing
+item_name
+Copy of Brawl
+item_name
+Concussion
+item_name
+Breathe
+item_name
+Giga Siphon
+item_name
+Malice
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Leg Day
+item_name
+Viciousness
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Reconstruction
+item_name
+Seismic Wave
+item_name
+Relativity
+item_name
+Street Sweeper
+item_name
+Tangled
+item_name
+Space Jam
+item_name
+Incitement
+item_name
+Astral Cycle
+item_name
+Onslaught
+item_name
+Inner Peace
+item_name
+Retrograde
+item_name
+Blast Shower
+item_name
+Drain Life
+item_name
+Sidereal
+item_name
+Fatal Sign
+item_name
+Cosmic Barrier
+item_name
+Intense Training
+item_name
+Eclipse
+item_name
+Lunge
+item_name
+Heavenly Pull
+item_name
+Sky Warden
+item_name
+Inertia
+item_name
+Lightyears
+item_name
+Fuel Tank
+item_name
+Hot Swap
+item_name
+Lorentz Configuration
+item_name
+Masterful
+item_name
+Penumbra
+item_name
+Propel
+item_name
+Solar Sails
+item_name
+Survival
+item_name
+Star Seeker
+item_name
+Beam Me Up
+item_name
+Frigid Field
+item_name
+Bob and Weave
+item_name
+Avalanche
+item_name
+Calibrate
+item_name
+Biting Cold
+item_name
+Headstrong
+item_name
+Battlegrounds Duo
+Match_Queue_short_desc
+Battlegrounds Duo
+Match_Queue_desc
+Cold Blooded
+item_name
+Reconfigure
+item_name
+Flicker
+item_name
+Well Stocked
+item_name
+Restore
+item_name
+Great Distance
+item_name
+Battlegrounds Quad
+Match_Queue_short_desc
+Battlegrounds Quad
+Match_Queue_desc
+Impact
+item_name
+Battlegrounds Solo
+Match_Queue_short_desc
+Battlegrounds Solo
+Match_Queue_desc
+Commencement
+item_name
+Riftwalk
+item_name
+Compel
+item_name
+Teleport
+item_name
+Hardiness
+item_name
+Jukeboots
+item_name
+The Hunted
+item_name
+Warrants Out
+item_name
+Flitter
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Bloodline
+item_name
+Just Believe
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Nectar
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Divine Right
+item_name
+Swift Jade
+item_name
+Heat Transfer
+item_name
+Hijinks
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Twilight
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Shenanigans
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Disappear
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Lie In Wait
+item_name
+Incinerate
+item_name
+Tangible
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Efficiency
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Launch
+item_name
+Pyre
+item_name
+Rewind
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Running Start
+item_name
+Safe Travel
+item_name
+Towering Barrier
+item_name
+Heir to the Throne
+item_name
+Heraldry
+item_name
+Highborn
+item_name
+Inheritance
+item_name
+Electrostatic
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Manifest Destiny
+item_name
+Haunting
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Noble Crest
+item_name
+Revitalizing Gem
+item_name
+Healing Rain
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Royal Seal
+item_name
+Shining Topaz
+item_name
+Signet Ring
+item_name
+Outreach
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Eagle's Emerald
+item_name
+Shamanic Might
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Present Arms
+item_name
+Superiority
+item_name
+Totemic Rescue
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Persistence
+item_name
+Scar Tissue
+item_name
+Street Runner
+item_name
+Gentle Breeze
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Heavenly Agility
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Natures Quickness
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Perennial
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Pick Up
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Walk It Off
+item_name
+Rebound
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Patch Up
+item_name
+Carapace
+item_name
+Cloudbreaker
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Crag
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Lodestone
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Harden
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Stonebulwark
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Whetstone
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Lighter Cannonballs
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Sea Legs
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Strongarm
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Ancient Power
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Evenescent
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Revitalize
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Antediluvian
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Daredevil
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Perseverance
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Primeval Might
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Dark Vision
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Eternal
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Last Remnant
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Reclamation
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Relic Affinity
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Spirited
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Transient
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Guts
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Carry Through
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Eerie Presence
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Nowhere to Hide
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Scapegoat
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Lighter Gourd
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Otherworldly
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Unchecked Ambition
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Bushwhacked
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Cooled Mags
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Spirits Touch
+item_name
+Controlling Nature
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Dexterous
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Escape Plan
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Hidden Reserves
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Flare XL
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Guerilla Tactics
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Hunt Master
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Infused Crystals
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Overburn
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Patience
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Resourceful
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Stalker
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+AcrobatsTrick
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Tactical Retreat
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Trigger Control
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Grizzled
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+White Knuckle
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Escape Artist
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+From Above
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Gift Giver
+item_name
+Pep In The Step
+item_name
+Refreshing Jog
+item_name
+Sprint
+item_name
+Sturdy
+item_name
+Lightweight Alloy
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Unfair Advantage
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Contingency
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Crack The Whip
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Eyes On The Prize
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Joyless Eyes
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Numbed Heart
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Boop
+item_name
+Cozy
+item_name
+Dense Woods
+item_name
+Necromantic Might
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Glimmer
+item_name
+Harmonious
+item_name
+Morning Breath
+item_name
+One Step Ahead
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Strength of Stone
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Nature's Blessing
+item_name
+Abomination
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Plans Within Plans
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Blood and Stone
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Devastation
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+It Waits
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Powerslave
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Forsaken
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Hulking Monstrosity
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Runic Ammunition
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+It Follows
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+It Watches
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Informants
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Battlegrounds Duo
+Match_Queue_name
+Battlegrounds Quad
+Match_Queue_name
+Symbiotic
+item_name
+Battlegrounds Solo
+Match_Queue_name
+Will O The Wisp
+item_name
+Wobbles
+item_name
+Fluffy
+item_name
+Greater Good
+item_name
+Peppy
+item_name
+Scoot
+item_name
+Playing God
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Scurry
+item_name
+Unfeeling
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+We Can Rebuild Him
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Shimmering
+item_name
+Wrecking Ball
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Despoiler
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+No Chill
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Air Cooled
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Countermeasure
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Fuel Reserves
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Nanotechnology
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Proximity
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Refraction
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Warden
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Bane
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Dark Sight
+item_name
+Fade To Black
+item_name
+Nether Siphon
+item_name
+Revenant
+item_name
+Spirit Leech
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Confound
+item_name
+Poisoner
+item_name
+Decrepify
+item_name
+Dissipate
+item_name
+Guerilla Warfare
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Ninja
+item_name
+Run And Gun
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+QuickSmoker
+item_name
+Compensator
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Slip Away
+item_name
+Tactical Reload
+item_name
+Fire In The Hole
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Arcane Etching
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Eldritch Speed
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Glyph of Siphoning
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Hearthwarder
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Vital Grasp
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Induction
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Quicksand
+item_name
+Bandolier
+item_name
+Hit And Run
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Incensed
+item_name
+Hot Potato
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Quick Release
+item_name
+Windwall
+item_name
+Turn The Table
+item_name
+Bullseye
+item_name
+Favored Quarry
+item_name
+Run Them Down
+item_name
+Hunting Season
+item_name
+Strike True
+item_name
+Scramble
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Ranger
+item_name
+Survivalist
+item_name
+Second Wind
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Volatile
+item_name
+Speed Load
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Graviton
+item_name
 TC Spring Festival Chest
 ITEM_name
 Chest for Tencent's Spring Festival
@@ -128465,10 +129569,2306 @@ SLT - TC Chest - Valentines Chest - 5
 Loot_Table_name
 Chest Loot Vendor - Tencent Valentines Chest
 Loot_Table_name
+BR Time Vendor
+Loot_Table_name
+BR Healing Vendor
+Loot_Table_name
+Elven Road
+PALADINS_BG_AREA_ElvenRoad
+RARE HELMET
+item_short_desc
+*BR* Time Rare I
+item_name
++ 20% Cooldown Reduction
+item_desc
+EPIC HELMET
+item_short_desc
+*BR* Time Epic III
+item_name
++ 45% Ultimate Charge Rate
+item_desc
+EPIC HELMET
+item_short_desc
+*BR* Time Epic II
+item_name
++ 60% Reload Speed
+item_desc
+EPIC HELMET
+item_short_desc
+*BR* Time Epic I
+item_name
++ 30% Cooldown Reduction
+item_desc
+LEGENDARY HELMET
+item_short_desc
+*BR* Time Legendary I
+item_name
++ 50% Cooldown Reduction
+item_desc
+Uncommon Pendant
+item_short_desc
+*BR* Healing Uncommon I
+item_name
++ 10% Healing Given
+item_desc
+Rare Pendant
+item_short_desc
+*BR* Healing Rare I
+item_name
++ 20% Healing Given
+item_desc
+Epic Pendant
+item_short_desc
+*BR* Healing Epic II
+item_name
++ 50% Lifesteal
+item_desc
+Epic Pendant
+item_short_desc
+*BR* Healing Epic III
+item_name
+50% Healing Received
+item_desc
+Epic Pendant
+item_short_desc
+*BR* Healing Epic I
+item_name
++ 30% Healing Given
+item_desc
+Legendary Pendant
+item_short_desc
+*BR* Healing Legendary I
+item_name
++ 50% Healing Given
+item_desc
+Rare Armor
+item_short_desc
+*BR* Armor Rare I
+item_name
++ 20% Max Health
+item_desc
+Obtainable in the Radiant Chest. 
+item_desc
+Obtainable in the Radiant Chest. 
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Copy of Weapon Vendor Rare
+Loot_Table_name
+Copy of Weapon Vendor Rare
+Loot_Table_name
+Vendor to hold rewards for achievements
+Loot_Table_desc
+Copy of Achievement Reward Vendor
+Loot_Table_name
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+map_game_friendly_name
+WIP BR
+map_game_name
+map_game_friendly_name
+WIP BR
+map_game_name
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+Obtainable in the Radiant Chest.
+item_desc
+map_game_friendly_name
+WIP BG
+map_game_name
+map_game_friendly_name
+WIP BR
+map_game_name
+WIP BR
+MSL_name
+SLT - TC Chest - Diamond Chest - Legendary Collection
+Loot_Table_name
+SLT - TC Chest - Diamond Chest - Legendary Collection Rental
+Loot_Table_name
 Grand Prize
 Activity_Goal_title
 Grand Prize for Completing Lore Quests!
 Activity_Goal_desc
+Card Shrine
+Deployable_name
+Revive
+PALADINS_REVIVE
+Obtainable in the Hats Chest.
+ITEM_desc
+Grohk Lobster
+ITEM_name
+Revives
+PALADINS_REVIVES
+Remain
+PALADINS_REMAIN
+Obtainable in the Hats Chest.
+ITEM_desc
+Squidbert
+ITEM_name
+Croakie
+ITEM_name
+Obtainable in the Hats Chest.
+ITEM_desc
+Obtainable in the Hats Chest
+ITEM_desc
+Prickly
+ITEM_name
+Obtainable in the Hats Chest.
+ITEM_desc
+In the Bag
+ITEM_name
+Snow Owl
+ITEM_short_desc
+Obtainable in the Hat Chest
+ITEM_desc
+Bad Mother Clucker
+ITEM_name
+Ying
+item_short_desc
+Carnival Dance
+item_name
+Valentines Dance
+item_desc
+Ying
+ITEM_short_desc
+Valentines Dance
+ITEM_desc
+Carnival Dance
+ITEM_name
+SLT - Collection - Terminus - Jotunn
+Loot_Table_name
+Jotunn Collection
+ITEM_name
+Jotunn Spray
+item_name
+*BR* Boots Epic III
+item_name
++ 45% Mount Speed
+item_desc
+Battlegrounds Polymorph Test
+BOT_name
+Chest Loot Vendor - Silly Hats
+Loot_Table_name
+SLT - Chest - Silly Hats Chest - Rare - Exclusive
+Loot_Table_name
+Obtainable from Events and Promotions.
+ITEM_desc
+Hats Chest
+ITEM_name
+Get in a bundle bundle
+ITEM_desc
+Find it in a super bundle somewhere
+ITEM_desc
+Lore Seeker Grand Prize
+ITEM_name
+Lore Seeker Grand Prize
+ITEM_desc
+Lore Seeker Grand Prize
+Loot_Table_Items_name
+Fix Lore Seeker Grand Prize
+Loot_Table_name
+Lore Seeker Grand Prize
+Loot_Table_Items_name
+Gold has never looked better.
+ITEM_desc
+Exalted Collection
+ITEM_name
+HRX 2018 Collection
+ITEM_name
+SLT - Collection - Drogoz - HRX 2018
+Loot_Table_name
+The Winter Wonder Witch
+ITEM_desc
+Merrymaker Collection
+ITEM_name
+Cuddly Collection
+ITEM_name
+B.E.T.A. Collection
+ITEM_name
+SLT - Collection - Ruckus - B.E.T.A.
+Loot_Table_name
+SLT - Collection - Ruckus - B.E.T.A.-RENTAL
+Loot_Table_name
+Coldsnap Collection
+ITEM_name
+SLT - Collection - Strix - Coldsnap
+Loot_Table_name
+SLT - Collection - Strix - Coldsnap-RENTAL
+Loot_Table_name
+Expo 2018 Collection
+ITEM_name
+SLT - Collection - Seris - Expo 2018
+Loot_Table_name
+SLT - Collection - Seris - Expo 2018-RENTAL
+Loot_Table_name
+Roses are red, Violets are blue, I'd rather be dead, than stuck with you!
+ITEM_desc
+Heartbreaker Collection
+ITEM_name
+SLT - Collection - Terminus - Jotunn-RENTAL
+Loot_Table_name
+The Baroness is a foe of consequence.
+ITEM_desc
+Baroness Collection
+ITEM_name
+SLT - Collection - Jenos - Eclipse
+Loot_Table_name
+Eclipse Collection
+ITEM_name
+*BR* Armor Uncommon II
+item_name
++ 10% Shield and Deployable Health
+item_desc
+*BR* Armor Uncommon III
+item_name
++ 1% Health per Second
+item_desc
+Rare Armor
+item_short_desc
+*BR* Armor Rare II
+item_name
++20% Shield and Deployable Health
+item_desc
+*BR* Boots Uncommon II
+item_name
+- 20% Out of Combat Time 
+item_desc
+*BR* Boots Uncommon III
+item_name
++ 15% Mount Speed
+item_desc
+*BR* Weapon Rare II
+item_name
++ 150% Shield Damage
+item_desc
+*BR* Weapon Uncommon II
+item_name
+- 30% Reduced Healing on Targets
+item_desc
+*BR* Weapon Uncommon III
+item_name
++ 75% Shield Damage
+item_desc
+*BR* Helmet Rare II
+item_name
+- 20% Headshot Damage
+item_desc
+*BR* Helmet Uncommon II
+item_name
+- 10% Headshot Damage
+item_desc
+*BR* Helmet Uncommon III
+item_name
++ 50% Stealth Detection
+item_desc
+*BR* Boots Rare II
+item_name
+- 40% Out of Combat Time
+item_desc
+*BR* Healing Rare II
+item_name
++ 30% Lifesteal
+item_desc
+*BR* Healing Uncommon II
+item_name
++ 20% Lifesteal
+item_desc
+*BR* Healing Uncommon III
+item_name
++ 20% Healing Received
+item_desc
+*BR* Time Rare II
+item_name
++ 40% Reload Speed
+item_desc
+*BR* Time Uncommon II
+item_name
++ 20% Reload Speed
+item_desc
+*BR* Time Uncommon III
+item_name
++ 15% Ultimate Charge Rate
+item_desc
+OldKhanF
+item_name
+*BR* Weapon Rare III
+item_name
+- 60% Reduced Healing on Targets
+item_desc
+Rare Armor
+item_short_desc
+*BR* Armor Rare III
+item_name
++ 2% Health per Second
+item_desc
+*BR* Helmet Rare III
+item_name
++ 100% Stealth Detection
+item_desc
+*BR* Boots Rare III
+item_name
++ 30% Mount Speed
+item_desc
+*BR* Healing Rare III
+item_name
++ 30% Healing Received
+item_desc
+*BR* Time Rare III
+item_name
++ 30% Ultimate Charge Rate
+item_desc
+Hi-Tek Collection
+ITEM_name
+SLT - Collection - Barik - Hi-Tek
+Loot_Table_name
+Royale Test
+MSL_name
+Royale Test
+Match_Queue_short_desc
+Royale Test
+Match_Queue_name
+Royale Test
+Match_Queue_desc
+Win 100 Ranked Games
+ITEM_desc
+Warbound
+ITEM_name
+Champion Skills
+PALADINS_ChampionSkills
+Copy of Champion Chest Vendor WOTD
+Loot_Table_name
+Copy of Champion Chest Vendor WOTD
+Loot_Table_name
+Champion Chest Vendor BR Reward
+Loot_Table_name
+SLT - Collection - Grohk - Brimstone-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Ruckus - B.E.T.A.-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Tyra - Baroness-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Grohk - Brimstone-RENTAL - 1 Day
+Loot_Table_name
+SLT - Set - Bomb King - Biz King-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Grover - Doom Shroom-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Evie - Black Ice-RENTAL - 15 Day
+Loot_Table_name
+SLT - Viktor - Charcoal - Promo-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Skye - Chrome-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Buck - Commando-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Zhin - Ebon Star-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Kinessa - Cutthroat-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Mal'Damba - Defiler-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Jenos - Eclipse-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Lex - L-Exo-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Androxus - Exalted-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Ruckus - H.A.W.K.-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Barik - Hi-Tek-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Cassie - Northern Watch-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Fernando - Onslaught-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Skye - Operative-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Pip - Raider-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Set - Ying - Quicksilver-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Cassie - Tinder-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Grohk - Tribesman-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Grover - Winter-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - BombKing - Pumpking-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Makoa - Cuddly-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Collection - Fernando - God of War-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Buck - Triggerman - Rental 15 Day
+Loot_Table_name
+SLT - Collection - Viktor - V1-KTOR-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Buck - Buck Wild-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Maeve - Raeve - RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Ruckus - Starslayer-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Mal'Damba - Chancellor-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Torvald - Clockwork-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Set - Viktor - Code Green Comms-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Drogoz - Dreadhunter-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Makoa - Dutchman-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Fernando - Helios-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Evie - Troublemaker-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Set - Sha Lin - Guardian-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Pip - Invader-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Set - Seris - Infernal-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Skye - Kunoichi-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Set - Willo - Hemlock-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Lex - Beach-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Set - Ying - Genie-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Kinessa - Nova Strike-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Set - Zhin - Conqueror-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Talus - Oni-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Makoa - Plushy-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Set - Cassie - Blood Moon-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Tyra - Red Winter-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Ying - Replicant-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Barik - Swashbuckler-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set- Androxus - Steam Demon-RENTAL - 15 Day
+Loot_Table_name
+SLT - Set - Ash - Ronin-RENTAL - 15 Day
+Loot_Table_name
+Event Horizon
+ITEM_desc
+Favor
+ITEM_desc
+Store Bundle - Androxus - Steam Demon
+Loot_Table_name
+Store Bundle - Ash - Ronin
+Loot_Table_name
+Store Bundle - Barik - Swashbuckler
+Loot_Table_name
+Store Bundle - Buck - Kingpin
+Loot_Table_name
+Store Bundle - Cassie - Dune Crawler
+Loot_Table_name
+Store Bundle - Drogoz - Dreadhunter
+Loot_Table_name
+Store Bundle - Evie - Troublemaker
+Loot_Table_name
+Store Bundle - Evie - Troublemaker
+Loot_Table_name
+Store Bundle - Fernando - FN-01 Helios
+Loot_Table_name
+Store Bundle - Grohk - Brimstone
+Loot_Table_name
+Store Bundle - Grover - Doom Shroom
+Loot_Table_name
+Store Bundle - Inara - Ice Walker
+Loot_Table_name
+Store Bundle - Lex - L-Exo
+Loot_Table_name
+Store Bundle - Makoa - Plushy
+Loot_Table_name
+Store Bundle - Mal'Damba - Chancellor
+Loot_Table_name
+Store Bundle - Pip - Invader
+Loot_Table_name
+Store Bundle - Seris - Infernal
+Loot_Table_name
+Store Bundle - Sha Lin - Vigilante
+Loot_Table_name
+Store Bundle - Skye - Kunoichi
+Loot_Table_name
+Store Bundle - Talus - Oni
+Loot_Table_name
+Store Bundle - Torvald - Dark Lord
+Loot_Table_name
+Store Bundle - Tyra - Dire Wolf
+Loot_Table_name
+Store Bundle - Viktor - V1-KTOR
+Loot_Table_name
+Store Bundle - Willo - Hemlock
+Loot_Table_name
+Store Bundle - Ying - Genie
+Loot_Table_name
+Store Bundle - Zhin - Ebon Star
+Loot_Table_name
+SLT - Set - Kinessa - Viking-RENTAL - 15 Day 
+Loot_Table_name
+SLT - Collection - Skye - Heartbreaker
+Loot_Table_name
+Obtainable in the Valentine Chest.
+ITEM_desc
+Copy of Colossal Chest x15
+ITEM_name
+Badlands
+PALADINS_BG_AREA_POI_1
+Docks
+PALADINS_BG_AREA_POI_2
+Snow Town
+PALADINS_BG_AREA_POI_3
+Lumber Yard
+PALADINS_BG_AREA_POI_4
+Old Town
+PALADINS_BG_AREA_POI_5
+Three Hills
+PALADINS_BG_AREA_POI_6
+Ruins
+PALADINS_BG_AREA_POI_7
+Temple
+PALADINS_BG_AREA_POI_8
+Farms
+PALADINS_BG_AREA_POI_9
+Citadel
+PALADINS_BG_AREA_POI_10
+37Shotgun
+item_name
+Primary fire short blast
+DEVICE_desc
+Fire Sound
+EFFECT_GROUP_name
+*BR* Pet Health Test
+item_name
+*BR2* Illuminate Uncommon
+item_name
++ 100% Stealth Reveal Range
+item_desc
+*BR2* Illuminate Rare
+item_name
++ 200% Stealth Reveal Range
+item_desc
+SLT - Chest - REKT Chest - Epic Skins - Exclusive
+Loot_Table_name
+*BR2* Resilience Uncommon
+item_name
+- 30% Crowd Control Duration
+item_desc
+Resilience
+EFFECT_GROUP_name
+Resilience
+EFFECT_GROUP_name
+Resilience
+EFFECT_GROUP_name
+*BR2* Illuminate Epic
+item_name
++ 300% Stealth Reveal Range
+item_desc
+*BR2* Illuminate Legendary
+item_name
++25% Damage*+ 300% Stealth Reveal Range
+item_desc
+*BR2* Resilience Legendary
+item_name
++25% Damage*- 90% Crowd Control Duration
+item_desc
+Resilience
+EFFECT_GROUP_name
+Resilience
+EFFECT_GROUP_name
+Resilience
+EFFECT_GROUP_name
+*BR2* Resilience Rare
+item_name
+- 60% Crowd Control Duration
+item_desc
+*BR2* Resilience Epic
+item_name
+- 90% Crowd Control Duration
+item_desc
+*BR2* Haven Uncommon
+item_name
+- 7% Direct Damage Taken
+item_desc
+*BR2* Haven Rare
+item_name
+- 14% Direct Damage Taken
+item_desc
+*BR2* Haven Epic
+item_name
+- 21% Direct Damage Taken
+item_desc
+*BR2* Haven Legendary
+item_name
++25% Health*- 21% Direct Damage Taken
+item_desc
+*BR2* Blast Shields Uncommon
+item_name
+- 7% AoE Damage Taken
+item_desc
+*BR2* Blast Shields Rare
+item_name
+- 14% AoE Damage Taken
+item_desc
+*BR2* Blast Shields Epic
+item_name
+- 21% AoE Damage Taken
+item_desc
+*BR2* Morale Boost Uncommon
+item_name
++ 15% Ultimate Charge Rate
+item_desc
+*BR2* Morale Boost Rare
+item_name
++ 30% Ultimate Charge Rate
+item_desc
+*BR2* Morale Boost Epic
+item_name
++ 45% Ultimate Charge Rate
+item_desc
+*BR2* Nimble Uncommon
+item_name
++ 10% Movement Speed
+item_desc
+Nimble
+EFFECT_GROUP_name
+Nimble
+EFFECT_GROUP_name
+Nimble
+EFFECT_GROUP_name
+*BR2* Nimble Rare
+item_name
++ 20% Movement Speed
+item_desc
+*BR2* Nimble Epic
+item_name
++ 30% Movement Speed
+item_desc
+*BR2* Master Riding Uncommon
+item_name
++ 15% Mount Speed
+item_desc
+Master Riding
+EFFECT_GROUP_name
+Master Riding
+EFFECT_GROUP_name
+Master Riding
+EFFECT_GROUP_name
+*BR2* Master Riding Rare
+item_name
++ 30% Mount Speed
+item_desc
+*BR2* Master Riding Epic
+item_name
++ 45% Mount Speed
+item_desc
+*BR2* Chronos Uncommon
+item_name
++ 10% CDR
+item_desc
+Chronos
+EFFECT_GROUP_name
+Chronos
+EFFECT_GROUP_name
+Chronos
+EFFECT_GROUP_name
+*BR2* Chronos Rare
+item_name
++ 20% CDR
+item_desc
+*BR2* Chronos Epic
+item_name
++ 30% CDR
+item_desc
+*BR2* Veteran Uncommon
+item_name
++ 4% Health Per Second Out of Combat
+item_desc
+-72% * Combat Duration
+DEVICE_name
+Combat duration is reduced by 72%.
+DEVICE_desc
+-72% * Combat Duration
+DEVICE_name
+Combat duration is reduced by 72%.
+DEVICE_desc
+-72% * Combat Duration
+DEVICE_name
+Combat duration is reduced by 72%.
+DEVICE_desc
+*BR2* Veteran Rare
+item_name
++ 8% Health Per Second Out of Combat
+item_desc
+*BR2* Veteran Epic
+item_name
++ 12% Health Per Second Out of Combat
+item_desc
+*BR2* Rejuvenate Uncommon
+item_name
++ 10% Healing from Others
+item_desc
+*BR2* Rejuvenate Rare
+item_name
++ 20% Healing from Others
+item_desc
+*BR2* Rejuvenate Epic
+item_name
++ 30% Healing from Others
+item_desc
+*BR2* Morale Boost Legendary
+item_name
++ 25% Health*+ 45% Ultimate Charge Rate
+item_desc
+ZdeprecatedCopy of *BR2* Morale Boost Legendary
+item_name
+[Armor] Increase your Ultimate charge rate by {45}%. 
+item_desc
+*BR2* Life Rip Uncommon
+item_name
++ 10% Lifesteal
+item_desc
+*BR2* Blast Shields Legendary
+item_name
++25% Health*- 21% AoE Damage Taken
+item_desc
+*BR2* Life Rip Rare
+item_name
++ 20% Lifesteal
+item_desc
+*BR2* Life Rip Epic
+item_name
++ 30% Lifesteal
+item_desc
+*BR2* Nimble Legendary
+item_name
++ 25% Damage*+ 30% Movement Speed
+item_desc
+Nimble
+EFFECT_GROUP_name
+*BR2* Master Riding Legendary
+item_name
++ 25% Damage*+ 45% Mount Speed
+item_desc
+Master Riding
+EFFECT_GROUP_name
+*BR2* Kill to Heal Uncommon
+item_name
++ 300 Health on Kill
+item_desc
+You have been healed.
+EFFECT_GROUP_desc
+Kill To Heal
+EFFECT_GROUP_name
+You have been healed.
+EFFECT_GROUP_desc
+Kill To Heal
+EFFECT_GROUP_name
+You have been healed.
+EFFECT_GROUP_desc
+Kill To Heal
+EFFECT_GROUP_name
+*BR2* Chronos Legendary
+item_name
+ 25% Health*+ 30% CDR
+item_desc
+Chronos
+EFFECT_GROUP_name
+*BR2* Kill to Heal Rare
+item_name
++ 600 Health on Kill
+item_desc
+*BR2* Kill to Heal Epic
+item_name
++ 25% Damage*+ 900 Health on Kill
+item_desc
+*BR2* Deft Hands Uncommon
+item_name
++ 20% Reload Speed
+item_desc
+*BR2* Veteran Legendary
+item_name
+ +25% Damage*+ 12% Health Per Second Out of Combat
+item_desc
+*BR2* Deft Hands Rare
+item_name
++ 40% Reload Speed
+item_desc
+*BR2* Deft Hands Epic
+item_name
++ 60% Reload Speed
+item_desc
+*BR2* Bulldozer Uncommon
+item_name
++ 50% Deployable Damage
+item_desc
+Battle Focus
+EFFECT_GROUP_name
+Battle Focus
+EFFECT_GROUP_name
+Battle Focus
+EFFECT_GROUP_name
+*BR2* Rejuvenate Legendary
+item_name
++ 25% Health*+ 30% Healing from Others
+item_desc
+*BR2* Bulldozer Rare
+item_name
++ 100% Deployable Damage
+item_desc
+*BR2* Bulldozer Epic
+item_name
++ 150% Deployable Damage
+item_desc
+*BR2* Life Rip Legendary
+item_name
++ 25% Health*+ 30% Lifesteal
+item_desc
+*BR2* Wrecker Uncommon
+item_name
++ 75% Shield Damage
+item_desc
+Battle Focus
+EFFECT_GROUP_name
+Battle Focus
+EFFECT_GROUP_name
+Battle Focus
+EFFECT_GROUP_name
+*BR2* Kill to Heal Legendary
+item_name
++ 900 Health on Kill
+item_desc
+You have been healed.
+EFFECT_GROUP_desc
+Kill To Heal
+EFFECT_GROUP_name
+*BR2* Items Vendor
+Loot_Table_name
+*BR2* Wrecker Rare
+item_name
++ 150% Shield Damage
+item_desc
+*BR2* Wrecker Epic
+item_name
++ 225% Shield Damage
+item_desc
+*BR2* Cauterize Uncommon
+item_name
+- 30% Reduced Healing on Targets
+item_desc
+*BR2* Cauterize Rare
+item_name
+- 60% Reduced Healing on Targets
+item_desc
+*BR2* Cauterize Epic
+item_name
++ 90% Reduced Healing on Targets
+item_desc
+*BR2* Deft Hands Legendary
+item_name
++ 25% Damage*+ 60% Reload Speed
+item_desc
+*BR2* Bulldozer Epic Legendary
+item_name
++ 25% Damage*+ 150% Deployable Damage
+item_desc
+Battle Focus
+EFFECT_GROUP_name
+*BR2* Wrecker Legendary
+item_name
++ 25% Health*+ 225% Shield Damage
+item_desc
+Battle Focus
+EFFECT_GROUP_name
+*BR2* Cauterize Legendary
+item_name
++ 25% Health*+ 90% Reduced Healing on Targets
+item_desc
+SLT - TC - Set - Viktor - Charcoal-RENTAL - 15 Day
+Loot_Table_name
+Drops Androxus Cards.
+ITEM_desc
+Champion Legendary Chest Androxus
+ITEM_name
+Drops Ash Cards.
+ITEM_desc
+Champion Legendary Chest Ash
+ITEM_name
+Drops Barik Cards.
+ITEM_desc
+Champion Legendary Chest Barik
+ITEM_name
+Drops Bomb King Cards.
+ITEM_desc
+Champion Legendary Chest Bomb King
+ITEM_name
+Pity Timer - Ash Legendary Chest
+Activity_name
+Drops Buck Cards.
+ITEM_desc
+Champion Legendary Chest Buck
+ITEM_name
+Drops Cassie Cards.
+ITEM_desc
+Champion Legendary Chest Cassie
+ITEM_name
+Pity Timer - Androxus Legendary Chest
+Activity_name
+Drops Drogoz Cards.
+ITEM_desc
+Champion Legendary Chest Drogoz
+ITEM_name
+Pity Timer - Barik Legendary Chest
+Activity_name
+Drops Evie Cards.
+ITEM_desc
+Champion Legendary Chest Evie
+ITEM_name
+Pity Timer - Bomb King Legendary Chest
+Activity_name
+Drops Fernando Cards.
+ITEM_desc
+Champion Legendary Chest Fernando
+ITEM_name
+Drops Grohk Cards.
+ITEM_desc
+Champion Legendary Chest Grohk
+ITEM_name
+Pity Timer - Buck Legendary Chest
+Activity_name
+Drops Grohk Cards.
+ITEM_desc
+Copy of Copy of Grohk Chest
+ITEM_name
+Booster Bundle - Androxus
+Loot_Table_name
+Pity Timer - Cassie Legendary Chest
+Activity_name
+Drops Grover Cards.
+ITEM_desc
+Champion Legendary Chest Grover
+ITEM_name
+Pity Timer - Drogoz Legendary Chest
+Activity_name
+Drops Inara Cards.
+ITEM_desc
+Champion Legendary Chest Inara
+ITEM_name
+Pity Timer - Evie Legendary Chest
+Activity_name
+Drops Jenos Cards.
+ITEM_desc
+Champion Legendary Chest Jenos
+ITEM_name
+Pity Timer - Fernando Legendary Chest
+Activity_name
+Drops Kinessa Cards.
+ITEM_desc
+Champion Legendary Chest Kinessa
+ITEM_name
+Pity Timer - Grohk Legendary Chest
+Activity_name
+Pity Timer - Grover Legendary Chest
+Activity_name
+Drops Lex Cards.
+ITEM_desc
+Champion Legendary Chest Lex
+ITEM_name
+Pity Timer - Inara Legendary Chest
+Activity_name
+Drops Lian Cards.
+ITEM_desc
+Champion Legendary Chest Lian
+ITEM_name
+Pity Timer - Jenos Legendary Chest
+Activity_name
+Drops Maeve Cards.
+ITEM_desc
+Champion Legendary Chest Maeve
+ITEM_name
+Pity Timer - Kinessa Legendary Chest
+Activity_name
+Drops Makoa Cards.
+ITEM_desc
+Champion Legendary Chest Makoa
+ITEM_name
+Pity Timer - Lex Legendary Chest
+Activity_name
+Drops Mal'damba Cards.
+ITEM_desc
+Champion Legendary Chest Mal'damba
+ITEM_name
+Pity Timer - Lian Legendary Chest
+Activity_name
+Drops Moji Cards.
+ITEM_desc
+Champion Legendary Chest Moji
+ITEM_name
+Pity Timer - Maeve Legendary Chest
+Activity_name
+Pity Timer - Makoa Legendary Chest
+Activity_name
+Drops Pip Cards.
+ITEM_desc
+Champion Legendary Chest Pip
+ITEM_name
+Drops Ruckus Cards.
+ITEM_desc
+Champion Legendary Chest Ruckus
+ITEM_name
+Drops Seris Cards.
+ITEM_desc
+Champion Legendary Chest Seris
+ITEM_name
+Booster Bundle - Ash
+Loot_Table_name
+Drops Sha Lin Cards.
+ITEM_desc
+Champion Legendary Chest Sha Lin
+ITEM_name
+Drops Skye Cards.
+ITEM_desc
+Champion Legendary Chest Skye
+ITEM_name
+Drops Strix Cards.
+ITEM_desc
+Champion Legendary Chest Strix
+ITEM_name
+Drops Talus Cards.
+ITEM_desc
+Champion Legendary Chest Talus
+ITEM_name
+Drops Terminus Cards.
+ITEM_desc
+Champion Legendary Chest Terminus
+ITEM_name
+Drops Torvald Cards.
+ITEM_desc
+Champion Legendary Chest Torvald
+ITEM_name
+Drops Tyra Cards.
+ITEM_desc
+Champion Legendary Chest Tyra
+ITEM_name
+Drops Viktor Cards.
+ITEM_desc
+Champion Legendary Chest Viktor
+ITEM_name
+Drops Vivian Cards.
+ITEM_desc
+Champion Legendary Chest Vivian
+ITEM_name
+Drops Willo Cards.
+ITEM_desc
+Champion Legendary Chest Willo
+ITEM_name
+Drops Ying Cards.
+ITEM_desc
+Champion Legendary Chest Ying
+ITEM_name
+Drops Zhin Cards.
+ITEM_desc
+Champion Legendary Chest Zhin
+ITEM_name
+Booster Bundle - Barik
+Loot_Table_name
+Booster Bundle - Bomb King
+Loot_Table_name
+Booster Bundle - Buck
+Loot_Table_name
+Booster Bundle - Cassie
+Loot_Table_name
+Booster Bundle - Drogoz
+Loot_Table_name
+Pity Timer - Maldamba Legendary Chest
+Activity_name
+Pity Timer - Pip Legendary Chest
+Activity_name
+Pity Timer - Ruckus Legendary Chest
+Activity_name
+Pity Timer - Seris Legendary Chest
+Activity_name
+Pity Timer - Strix Legendary Chest
+Activity_name
+Pity Timer - Talus Legendary Chest
+Activity_name
+Pity Timer - Terminus Legendary Chest
+Activity_name
+Booster Bundle - Evie
+Loot_Table_name
+Pity Timer - Torvald Legendary Chest
+Activity_name
+Pity Timer - Tyra Legendary Chest
+Activity_name
+Pity Timer - Viktor Legendary Chest
+Activity_name
+Pity Timer - Vivian Legendary Chest
+Activity_name
+Booster Bundle - Fernando
+Loot_Table_name
+Pity Timer - Willo Legendary Chest
+Activity_name
+Pity Timer - Ying Legendary Chest
+Activity_name
+Pity Timer - Zhin Legendary Chest
+Activity_name
+Pity Timer - Shalin Legendary Chest
+Activity_name
+Booster Bundle - Grohk
+Loot_Table_name
+Pity Timer - Skye Legendary Chest
+Activity_name
+Pity Timer - Moji Legendary Chest
+Activity_name
+Booster Bundle - Grover
+Loot_Table_name
+Booster Bundle - Inara
+Loot_Table_name
+Booster Bundle - Jenos
+Loot_Table_name
+Booster Bundle - Kinessa
+Loot_Table_name
+Booster Bundle - Lex
+Loot_Table_name
+Booster Bundle - Lian
+Loot_Table_name
+*BR* Streak Modifier
+item_name
+Booster Bundle - Maeve
+Loot_Table_name
+Booster Bundle - Makoa
+Loot_Table_name
+Booster Bundle - Mal'Damba
+Loot_Table_name
+Booster Bundle - Pip
+Loot_Table_name
+Booster Bundle - Ruckus
+Loot_Table_name
+Booster Bundle - Seris
+Loot_Table_name
+Booster Bundle - Sha Lin
+Loot_Table_name
+Booster Bundle - Skye
+Loot_Table_name
+Booster Bundle - Strix
+Loot_Table_name
+Booster Bundle - Talus
+Loot_Table_name
+Booster Bundle - Terminus
+Loot_Table_name
+Booster Bundle - Torvald
+Loot_Table_name
+Booster Bundle - Tyra
+Loot_Table_name
+Booster Bundle - Viktor
+Loot_Table_name
+Booster Bundle - Vivian
+Loot_Table_name
+Booster Bundle - Willo
+Loot_Table_name
+Booster Bundle - Ying
+Loot_Table_name
+Booster Bundle - Zhin
+Loot_Table_name
+Booster Bundle - Moji
+Loot_Table_name
+Chest Bundle A
+Loot_Table_name
+Chest Bundle B
+Loot_Table_name
+Chest Bundle C
+Loot_Table_name
+Store Bundle - Strix - Infiltrator
+Loot_Table_name
+Store Bundle - Terminus - Jotunn
+Loot_Table_name
+Store Bundle - Ruckus - Robo Rider
+Loot_Table_name
+Store Bundle - Tyra - Dragonstalker
+Loot_Table_name
+SND_Notify_Waypoint
+SND_Notify_BGDeploying
+SND_Notify_BGDeployed
+SND_Notify_BGFogAlertShown
+SND_Notify_BGFogAlertAnimating
+SND_Notify_FogWarning
+SND_Notify_TeammateDied
+SND_Notify_TeamWon
+SND_Notify_TeamWiped
+SND_Notify_MovementUnlocked
+SND_Notify_BGZeppelinInTransit
+SND_Notify_BGZeppelinDeploying
+SND_Notify_BGZeppelinDone
+Tyra RoyaleEX
+BOT_name
+The Untamed
+BOT_desc
+Battlegrounds Yolo
+Match_Queue_name
+WIP BG YOLO
+MSL_name
+BG YOLO
+map_game_friendly_name
+WIP BG YOLO
+map_game_name
+Tyra Royale Ex
+ITEM_name
+Storm Bolter
+item_name
+Bolter
+DEVICE_name
+*BR* Side Arm
+item_name
+A semi-automatic pistol that deals 250 damage per shot.
+item_desc
+Default
+ITEM_desc
+Default Side Arm BR
+ITEM_name
+Androxus - Booster Pack
+ITEM_name
+Ascension Peak
+map_game_friendly_name
+LIVE Ascension Peak
+map_game_name
+Ascension Peak
+map_game_friendly_name
+LIVE Ascension Peak
+map_game_name
+Store Bundle Vendor - Booster Pack
+Loot_Table_name
+Copy of A-bomb-inable
+ITEM_name
+zDepricate 
+ITEM_name
+Ash - Booster Pack
+ITEM_name
+Barik - Booster Pack
+ITEM_name
+Bomb King - Booster Pack
+ITEM_name
+Buck - Booster Pack
+ITEM_name
+Cassie - Booster Pack
+ITEM_name
+Drogoz - Booster Pack
+ITEM_name
+Evie - Booster Pack
+ITEM_name
+Fernando - FN-01 Helios Skin Bundle
+ITEM_name
+Grohk - Booster Pack
+ITEM_name
+Grover - Booster Pack
+ITEM_name
+Inara - Booster Pack
+ITEM_name
+Jenos - Booster Pack
+ITEM_name
+Kinessa - Booster Pack
+ITEM_name
+Lex - Booster Pack
+ITEM_name
+Lian - Booster Pack
+ITEM_name
+Maeve - Booster Pack
+ITEM_name
+Makoa - Booster Pack
+ITEM_name
+Mal'Damba - Booster Pack
+ITEM_name
+Pip - Booster Pack
+ITEM_name
+Ruckus - Booster Pack
+ITEM_name
+Seris - Booster Pack
+ITEM_name
+Sha Lin - Booster Pack
+ITEM_name
+Skye - Booster Pack
+ITEM_name
+Strix - Booster Pack
+ITEM_name
+Talus - Booster Pack
+ITEM_name
+Terminus - Booster Pack
+ITEM_name
+Torvald - Booster Pack
+ITEM_name
+Tyra - Booster Pack
+ITEM_name
+Viktor - Booster Pack
+ITEM_name
+Vivian - Booster Pack
+ITEM_name
+Willo - Booster Pack
+ITEM_name
+Ying - Booster Pack
+ITEM_name
+Zhin - Booster Pack
+ITEM_name
+Moji - Booster Pack
+ITEM_name
+XOXO
+Activity_Goal_title
+XOXO
+Activity_Goal_desc
+Daily Rewards Claimed
+Activity_Goal_name
+XOXO
+Activity_title
+XOXO
+Activity_desc
+Daily Rewards Claimed
+Activity_name
+BRMale
+BOT_name
+The Lone Wolf
+BOT_desc
+Default
+ITEM_desc
+Default BRMale ACC
+ITEM_name
+Default
+ITEM_desc
+Default BRMale
+ITEM_name
+*BR* Assault Rifle
+item_name
+Fire one shot every 0.1 seconds that deals 130 damage. Effective up to Medium Range. 
+Bonus Damage: The first four rounds in your magazine each deal 40 additional damage.
+item_desc
+Default
+ITEM_desc
+*BR* Default Assault Rifle
+ITEM_name
+*BR* Light Machine Gun
+item_name
+Fire a shot every 0.14s dealing 170 damage. Effective up to Medium range. While firing you move 50% slower.
+item_desc
+*BR* Healing Potion
+item_name
+Throw a healing potion that heals teammates for 1200 Health when it explodes. Reactivating the ability will instantly cause Healing Potion to explode.
+item_desc
+Normal Healing Potion
+DEVICE_name
+Healing Potion
+EFFECT_GROUP_name
+Healing Potion
+EFFECT_GROUP_name
+Lead Vial Healing Potion
+DEVICE_name
+Healing Potion
+EFFECT_GROUP_name
+Healing Potion
+EFFECT_GROUP_name
+Default
+ITEM_desc
+*BR* Default LMG
+ITEM_name
+*BR* Blossom
+item_name
+Passively Heal nearby allies for 80 health a second. Activate this ability to heal nearby allies instantly for 900.
+item_desc
+*BR* Sensor Drone
+item_name
+Throw out a deployable sensor that reveals enemies to you in a large radius.
+item_desc
+*BR* Sniper Rifle
+item_name
+A powerful rifle that fires one 1200 damage shot every second.
+item_desc
+Default
+ITEM_desc
+*BR* Default Talon Rifle
+ITEM_name
+*BR* Grumpy Bomb
+item_name
+Throw a Grumpy Bomb that grows angrier over 3s, exploding dealing 800 damage and stunning all targets in range for 2s.
+item_desc
+*BR* Precision Sights
+item_name
+Look down the barrel of your machine gun. You gain improved accuracy but move 50% slower. The slow does not stack with firing your gun.
+item_desc
+*BR* Scope
+item_name
+Look down your scope and gain pin point accuracy.
+Flare: Fire a flare that reveals enemies in a large radius.
+item_desc
+*BR* Auto Rifle
+item_name
+Fire one shot every 0.09 seconds that deals 120 damage. Effective up to Medium Range.
+item_desc
+Default
+ITEM_desc
+*BR* Default Auto Rifle
+ITEM_name
+*BR* Crossbow
+item_name
+A crossbow that deals 680 damage every .75 seconds.
+item_desc
+*BR* Healing Totem
+item_name
+Deploy a totem with 1000 health that heals nearby allies for 420 Health every second and lasts 6 seconds.
+item_desc
+Default
+ITEM_desc
+*BR* Default Crossbow
+ITEM_name
+*BR* Healing Totem Subdevice
+item_name
+Heal within the AoE.
+EFFECT_GROUP_desc
+Totem
+EFFECT_GROUP_name
+*BR* Totemic Ward
+Deployable_name
+Main Deployable used by Grohk's Totemic Ward ability. No shield unless Grohk Dome Deployable is set up to act like one.
+Deployable_desc
+*BR* Potion Launcher
+item_name
+A custom launcher that fires volatile potions every 1s that explode in an area on impact dealing 600 damage per hit.
+item_desc
+Default
+ITEM_desc
+*BR* Default Potion Launcher
+ITEM_name
+*BR* Shotgun
+item_name
+A massive shotgun that fires 20 small pieces of shrapnel that deal up to 700 damage every 1s. Effective at Short Range.
+item_desc
+Primary fire short blast
+DEVICE_desc
+Fire Sound
+EFFECT_GROUP_name
+Default
+ITEM_desc
+*BR* Default Shotgun
+ITEM_name
+*BR* Long Bow
+item_name
+A long bow that draws back an arrow and releases it for up to 1000 damage every 1.5s.
+item_desc
+Default
+ITEM_desc
+*BR* Default Long Bow
+ITEM_name
+*BR* Magnums
+item_name
+Dual semi-automatic magnums that deal 350 damage per shot. Effective up to Medium range.
+item_desc
+Pistols
+DEVICE_name
+Pursuit
+DEVICE_name
+Alt Fire for Lawman's Pursuit
+DEVICE_desc
+Default
+ITEM_desc
+*BR* Default Magnums
+ITEM_name
+Default
+ITEM_desc
+*BR* Default Revolver
+ITEM_name
+*BR* Revolver
+item_name
+A six shot semi-automatic revolver that deals 580 damage per shot every .36s. Effective at Short Range.
+item_desc
+Revolver
+DEVICE_name
+*BR* Vivian Ward Deployable
+Deployable_name
+*BR* Churchill Ward Subdevice
+item_name
+*BR* Daggers
+item_name
+Throw two Daggers every second that each deal 400 Damage.
+item_desc
+Crossbow Fire Sound
+EFFECT_GROUP_name
+*BR* Gourd
+item_name
+Toss a gourd full of venom that heals allies for 280 Health every second and damages enemies for 200 Damage every second.
+item_desc
+Default
+ITEM_desc
+*BR* Default Daggers
+ITEM_name
+*BR* Rocket Launcher
+item_name
+Bombard lesser creatures with explosive rockets that deal 850 damage per shot every 0.85 seconds.
+item_desc
+Knockback
+EFFECT_GROUP_name
+self dmg
+EFFECT_GROUP_name
+Self Knock Back
+EFFECT_GROUP_name
+Self Damage
+EFFECT_GROUP_name
+Default
+ITEM_desc
+*BR* Default Rocket Launcher
+ITEM_name
+*BR* MalDamba Gourd Deployable
+Deployable_name
+*BR* Gourd Subdevice
+item_name
+*BR* Barricade
+item_name
+Deploy a barricade that provides cover. Barricade has 5000 health and lasts 4 seconds or until destroyed.
+item_desc
+*BR* Barik Barricade Deployable
+Deployable_name
+*BR* Thrust
+item_name
+Jet upwards into the air. Hold <CMD=GBA_Jump> to use your booster.
+item_desc
+*BR* Frag Grenade
+item_name
+Throw a fragmentation grenade dealing up to 750 damage. Holding <CMD=GBA_Ability_2> will cook the grenade and reduce its detonation time. 
+Bonus Damage: Affected enemies take 15% increased damage from you for 4s.
+item_desc
+*BR* Blink
+item_name
+Teleport forward a short distance.
+item_desc
+camera fx
+EFFECT_GROUP_name
+*BR* Fire Bomb
+item_name
+Hurl an incendiary device that leaves a pool of fire for 6s. Enemies that contact the fire will burn for 9% of their maximum health over 0.6s and have their healing reduced by 50%. Continued Contact refreshes this effect. 
+item_desc
+*BR* Fire Bomb Subdevice
+item_name
+*BR* Withdraw
+item_name
+Leap backwards and enter stealth for 2s, leaving a mirage at your original location for 3.5s.
+item_desc
+*BR* Salty Molotov Deployable
+Deployable_name
+*BR* Heroic Leap
+item_name
+Buck leaps an incredible height and distance.
+item_desc
+Leap Activate Sound
+EFFECT_GROUP_name
+*BR* Charge
+item_name
+Dash forward at great speed dealing 200 damage.
+item_desc
+*BR* Recovery
+item_name
+Channel your inner energy and heal for 1000 Health over 1.5s.
+item_desc
+Recovery
+EFFECT_GROUP_name
+Fire Sound
+EFFECT_GROUP_name
+*BR* Hidden
+item_name
+Enter stealth for 7.5 seconds. Getting too close to enemy players will reveal you while in stealth.
+item_desc
+Stealth
+EFFECT_GROUP_name
+*BR* Oppressor Mine Subdevice
+item_name
+*BR* Oppressor Mine
+item_name
+Kinessa throws out up to 2 mines that deal 4 damage every .2s to connected enemies. Oppressor Mines slow affected players by 30%. 
+Bonus Damage: Your Carbine deals 30% increased damage to enemies affected by Oppressor Mines.
+item_desc
+*BR* Ghost Walk
+item_name
+Become untargetable and gain 20% movement speed for 1s. Removes all debuffs on use.
+item_desc
+Scurry
+EFFECT_GROUP_name
+Scurry
+EFFECT_GROUP_name
+*BR* Weapon Vendor
+Loot_Table_name
+*BR* Oppressor Mine Deployable
+Deployable_name
+*BR* Altfire Vendor
+Loot_Table_name
+*BR* Ability1 Vendor
+Loot_Table_name
+*BR* Ability2 Vendor
+Loot_Table_name
+*BR2* Weapon Vendor
+Loot_Table_name
+*BR2* Ability1 Vendor
+Loot_Table_name
+*BR2* Ability2 Vendor
+Loot_Table_name
+*BR2* Ability2 Vendor
+Loot_Table_name
+*BR* Emitter
+item_name
+Create an energy shield around yourself for 3.5s, absorbing 2500 damage. Nearby enemies are slowed by 10% for 2s.
+item_desc
+You are receiving less damage.
+EFFECT_GROUP_desc
+Emitter
+EFFECT_GROUP_name
+AOE Slow
+EFFECT_GROUP_desc
+Emitter
+EFFECT_GROUP_name
+Viktor BR
+ITEM_name
+For Battle Royale
+EFFECT_GROUP_desc
+Store Bundle Vendor - Standard Skins
+Loot_Table_name
+Store Bundle Vendor - New Skins
+Loot_Table_name
+zDelete
+Loot_Table_name
+Store Bundle Vendor - Chest Bundles
+Loot_Table_name
+Androxus - Steam Demon Skin Bundle
+ITEM_name
+Ash - Ronin Skin Bundle
+ITEM_name
+zDelete
+ITEM_name
+Barik - Swashbuckler Skin Bundle
+ITEM_name
+Buck - Kingpin Skin Bundle
+ITEM_name
+Cassie - Dune Crawler Skin Bundle
+ITEM_name
+Drogoz - Dreadhunter Skin Bundle
+ITEM_name
+Evie - Troublemaker Skin Bundle
+ITEM_name
+Grohk - Brimstone Skin Bundle
+ITEM_name
+Grover - Doom Shroom Skin Bundle
+ITEM_name
+Inara - Ice Walker Skin Bundle
+ITEM_name
+Lex - L-Exo Skin Bundle
+ITEM_name
+Makoa - Plushy Skin Bundle
+ITEM_name
+Mal'Damba - Chancellor Skin Bundle
+ITEM_name
+Pip - Invader Skin Bundle
+ITEM_name
+Seris - Infernal Skin Bundle
+ITEM_name
+Sha Lin - Vigilante Skin Bundle
+ITEM_name
+Skye - Kunoichi Skin Bundle
+ITEM_name
+Talus - Oni Skin Bundle
+ITEM_name
+Torvald - Dark Lord Skin Bundle
+ITEM_name
+Tyra - Dire Wolf Skin Bundle
+ITEM_name
+Viktor - V1-KTOR Skin Bundle
+ITEM_name
+Willo - Hemlock Skin Bundle
+ITEM_name
+Ying - Genie Skin Bundle
+ITEM_name
+Zhin - Ebon Star Skin Bundle
+ITEM_name
+Chest Bundle - A
+ITEM_name
+Chest Bundle - B
+ITEM_name
+Chest Bundle - C
+ITEM_name
+Strix - Infiltrator Skin Bundle
+ITEM_name
+Terminus - Jotunn Skin Bundle
+ITEM_name
+Test RoyaleTest
+map_game_friendly_name
+Test RoyaleTest
+map_game_name
+Damage Generic Key - Diamond Chest
+ITEM_name
+Guarantees Chest drop items for Damage class in Diamond chest
+ITEM_desc
+Flank Generic Key - Diamond Chest
+ITEM_name
+Guarantees Chest drops only items for Flank Class for Diamond Chest
+ITEM_desc
+Front Line Generic Key - Diamond Chest
+ITEM_name
+Guarantees Chest drops only unique items for Front Line class
+ITEM_desc
+Support Generic Key - Diamond Chest
+ITEM_name
+Guarantees Chest drops only unique items for Support Class 
+ITEM_desc
+*BR* Legendary Frontline
+item_name
+Increase your health by 200.
+item_desc
+*BR* Legendary Support
+item_name
+Heal for 15% more.
+item_desc
+*BR* Legendary Damage
+item_name
+Deal 5% more damage.
+item_desc
+*BR* Legendary Flank
+item_name
+Increase your Movement Speed by 15%.
+item_desc
++%d Cards
+UILootWeapons.m_lsNumCards
+Damage Generic Key - Gold Chest
+ITEM_name
+Guarantees Chest drops only unique items for Damage class in Gold Chest
+ITEM_desc
+Flank Generic Key - Gold Chest
+ITEM_name
+Guarantees Chest drops only items for Flank Class in Gold Chest
+ITEM_desc
+Front Line Generic Key - Gold Chest
+ITEM_name
+Guarantees Chest drops only unique items for Front Line class in Gold Chest
+ITEM_desc
+Support Generic Key - Gold Chest
+ITEM_name
+Guarantees Chest drops only unique items for Support Class in Gold Chest
+ITEM_desc
+*BR2* Legendary Card Vendor
+Loot_Table_name
+SLT- Tencent Obsolete Chest Items
+Loot_Table_name
+DO NOT DELETE! Store unused tencent obsolete chest items
+Loot_Table_desc
+SND_Notify_MapShow
+SND_Notify_MapHide
+SND_Notify_BG75Remain
+SND_Notify_BG50Remain
+SND_Notify_BG25Remain
+SND_Notify_BG5Remain
+SND_Notify_BGFirstBlood
+Recurring Champion Chest Bundle
+ITEM_name
+Default
+ITEM_desc
+*BR* Default Side Arm
+ITEM_name
+Tencent Hats Chest
+item_name
+Hats chest
+item_desc
+Jotunn
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Reaver Spray
+item_name
+Obtainable in the Gold Chest.
+item_desc
+SLT - TC - Set - Kinessa - Star Silver
+Loot_Table_name
+TC Star Silver
+ITEM_name
+Tencent Star Silver Skin
+ITEM_desc
+SLT - TC - Set - Cassie - Dune Crawler
+Loot_Table_name
+TC Dune Crawler
+ITEM_name
+TC Brimstone
+ITEM_name
+Tencent Brimstone Skin
+ITEM_desc
+TC Ebon Star
+ITEM_name
+Tencent Ebon Star Skin
+ITEM_desc
+SLT - TC - Set - Grohk - Brimstone
+Loot_Table_name
+SLT - TC - Set - Zhin - Ebon Star
+Loot_Table_name
+Khan
+ITEM_name
+Test RoyaleTest
+map_game_friendly_name
+Test RoyaleTest
+map_game_name
+DATA PLACEHOLDER
+DEVICE_name
+Reaver Collection
+ITEM_name
+SLT - Collection - Viktor - Reaver
+Loot_Table_name
+SLT - Collection - Viktor - Reaver-RENTAL
+Loot_Table_name
+Epic Loot Crate
+Deployable_desc
+Loot Crate
+Deployable_desc
+BattleGrounds Player Chest
+Deployable_name
+Downed Champ Loot Crate
+Deployable_desc
+Nightbane
+ITEM_desc
+Androxus WEP Skin08A
+ITEM_name
+Nightbane
+ITEM_desc
+Androxus ACC Skin06A
+ITEM_name
+Nightbane
+ITEM_desc
+Androxus Skin06A
+ITEM_name
+Entitlement Vendor
+Loot_Table_name
+Do not use, for Tencent only
+Loot_Table_desc
+SLT - Tencent Champoion Pack
+Loot_Table_name
+All champions
+Loot_Table_Items_desc
+Founder Pack
+Loot_Table_Items_name
+Champion pack tier 1 receipt
+Loot_Table_Items_name
+Gives the player a flag showing that they have made a real-money purchase.
+Loot_Table_Items_desc
+Thank you
+Loot_Table_Items_name
+Tencent Champion Pack - DONOTUSE
+Loot_Table_Items_name
+Primal Prowler  - Tencent
+Loot_Table_Items_name
+SLT - Collection - Buck - Kingpin-RENTAL
+Loot_Table_name
+SLT - TC - Collection - Fernando - God of War-RENTAL - 1 Day
+Loot_Table_name
+SLT - Collection - Makoa - Cuddly-RENTAL - 1 Day
+Loot_Table_name
+SLT - Collection - Zhin - Ebon Star-RENTAL - 1 Day
+Loot_Table_name
+SLT - Set - Drogoz - DZ-03 Draco Rental
+Loot_Table_name
+SLT - Collection - Seris - Madame-RENTAL - 1 Day
+Loot_Table_name
+Battlegrounds Bundle
+Loot_Table_name
+SLT - Collection - Willo - Firecracker-RENTAL - 1 Day
+Loot_Table_name
+SLT - Collection - Jenos - Millennium
+Loot_Table_name
+SLT - Collection - Ruckus - Sprocket
+Loot_Table_name
+SLT - Collection - Lex - Justicar
+Loot_Table_name
+SLT - Collection - Viktor - Navy
+Loot_Table_name
+SLT - Set - Drogoz - DZ-03 Draco
+Loot_Table_name
+SLT - Collection - Cassie - Coral
+Loot_Table_name
+SLT - Collection - Tyra - Lotus-RENTAL - 1 Day
+Loot_Table_name
+SLT - Collection - Drogoz - Draco-RENTAL - 1 Day
+Loot_Table_name
+DZ-03 Draco Set
+ITEM_name
+SLT - Set - Tyra - Lotus Rental
+Loot_Table_name
+Lotus Set
+ITEM_name
+SLT - Set - Willo - Firecracker Rental
+Loot_Table_name
+Copy of SLT - Collection - Buck - Buck Wild-RENTAL
+Loot_Table_name
+Copy of SLT - Collection - Buck - Buck Wild-RENTAL
+Loot_Table_name
+Copy of SLT - Collection - Buck - Buck Wild-RENTAL
+Loot_Table_name
+SLT - Set - Buck - Buck Wild-RENTAL - 1 Day
+Loot_Table_name
+SLT - Set - Grover - Doom Shroom-RENTAL - 1 Day
+Loot_Table_name
+SLT - TC - Set - Grover - Doom Shroom-RENTAL - 1 Day
+Loot_Table_name
+SLT - Set - Makoa - Prosperous Rental
+Loot_Table_name
+SLT - TC - Set - Zhin - Conqueror-RENTAL - 1 Day
+Loot_Table_name
+SLT - TC - Set - Ying - Quicksilver-RENTAL - 1 Day
+Loot_Table_name
+SLT - Set - Zhin - Greed-RENTAL - 1 Day
+Loot_Table_name
+SLT - TC - Set - Cassie - Blood Moon-RENTAL - 1 Day
+Loot_Table_name
+SLT - TC - Set - Seris - Infernal-RENTAL - 1 Day
+Loot_Table_name
+SLT - TC - Set - Willo - Hemlock-RENTAL - 1 Day
+Loot_Table_name
+Recurring Champion Chest SLT
+Loot_Table_name
+Standard death fog damage
+DEVICE_name
+Royale Chicken death fog damage
+DEVICE_name
 None
 VV_TEXT
 Patrol
@@ -129982,7 +133382,7 @@ Player spawned
 Player spawned
 Player directed to map
 Player Directed
-Class Bundle (1st 30)
+Class Bundle
 Class Bundle
 @@PLAYER_NAME@@ does not accept whispers.
 CHAT_MSG_IGNORED_BY_PLAYER
@@ -130688,7 +134088,7 @@ ES26 (Talent)
 VV_text
 ES27 (Property Debug)
 VV_text
-ES28 (** Unused **)
+ES28 (Burn Card 5) (Only in BG)
 VV_text
 Please connect to Xbox Live to continue.
 XBL_NOT_LOGGED_IN
@@ -130750,9 +134150,9 @@ Export to Launch
 VV_text
 Export to TgClient
 VV_text
-ES29 (** Unused **)
+ES29 (Burn Card 6) (Only in BG)
 VV_text
-ES30 (** Unused **)
+ES30 (Streak Bonus) (Only in BG)
 VV_text
 ES31 (** Unused **)
 VV_text
@@ -131676,6 +135076,8 @@ Cat Mount Skin
 Cat Mount Skin
 Completed Tutorial
 Completed Tutorial
+Play a Game
+Play a Game
 Featured
 UI_HINT_FEATURED
 Permanent
@@ -131722,6 +135124,78 @@ A map change order is pending
 MAP_CHANGE_ORDER_PENDING
 This queue does not allow Exclusive Parties.
 EXCLUSIVE_PARTIES_NOT_ALLOWED
+You were recently reported for poor behavior, with the reasoning (Harassment). Continued reports against your account can result in negative action on your account.
+Report Notification Harassment
+You were recently reported for poor behavior, with the reasoning (Intentional Feeding). Continued reports against your account can result in negative action on your account.
+Report Notification Intentional Feeding
+You were recently reported for poor behavior, with the reasoning (Leaving the Game (AFK)). Continued reports against your account can result in negative action on your account.
+Report Notification Leaving the Game
+You were recently reported for poor behavior, with the reasoning (Other). Continued reports against your account can result in negative action on your account.
+Report Notification Other
+An action has been taken against a player you have reported.
+Reported Player Action
 Cannot use multiple accounts to claim rewards in the same twitch campaign.
 TWITCH_CAMPAIGN_VIOLATION
-A
+Reach Level 5
+Reach Level 5
+Reach Level Mid
+Reach Level Mid
+Reach Level Max
+Reach Level Max
+Opened In-Game Store
+Opened In-Game Store
+First Purchase
+First Purchase
+Purchase
+Purchase
+Unable to connect to Steam. Please make sure you are launching the game from Steam and have the appropriate parental permissions to run it.
+STEAM_INIT_FAILURE
+Royale Weapon
+VV_text
+Royale AltFire
+VV_text
+Royale Ability Q
+VV_text
+Royale Ability F
+VV_text
+Recurring
+Recurring
+ES33 (Dynamic Card 1)
+VV_text
+ES34 (Dynamic Card 2)
+VV_text
+ES35 (Dynamic Card 3)
+VV_text
+ES36 (Dynamic Card 4)
+VV_text
+ES37 (Dynamic Card 5)
+VV_text
+ES38 (Dynamic Card 6)
+VV_text
+ES39 (Dynamic Card 7)
+VV_text
+ES40 (Dynamic Card 8)
+VV_text
+ES41 (Dynamic Card 9)
+VV_text
+ES42 (Dynamic Card 10)
+VV_text
+ES43 (Dynamic Card 11)
+VV_text
+ES44 (Dynamic Card 12)
+VV_text
+ES45 (Dynamic Card 13)
+VV_text
+ES46 (Dynamic Card 14)
+VV_text
+ES47 (Dynamic Card 15)
+VV_text
+ES48 (Dynamic Card 16)
+VV_text
+PaladinsRoyaleSkills
+VV_text
+You have a party member who is running a 32-bit game client (@@player_name@@) so you cannot join this queue.
+MATCH_TEAM_MEMBER_CLIENT_32BIT
+You are running a 32-bit game client, which is not allowed by this queue.
+NOT_ALLOWED_CLIENT_32BIT
+B
