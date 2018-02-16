@@ -42082,9 +42082,9 @@ Fireball
 item_name
 Shoot a ball of fire that deals 450 damage.
 item_desc
-Cassie
+Cassie Voice Pack
 ITEM_name
-Fernando
+Fernando Voice Pack
 ITEM_name
 Custom Value 1: How high to leap.
 Custom Value 2: How far to leap.
@@ -42770,7 +42770,7 @@ Badlands
 map_game_name
 Badlands
 Match_Queue_name
-Ruckus and Bolt
+Ruckus and Bolt Voice Pack
 ITEM_name
 (TEST) Enemy stun proc
 item_name
@@ -62193,11 +62193,11 @@ DEVICE_desc
 DEVICE_name
 Your weapon attacks deal 125% more damage to targets that are on fire.
 DEVICE_desc
-Skye
+Skye Voice Pack
 ITEM_name
-Barik
+Barik Voice Pack
 ITEM_name
-Grohk
+Grohk Voice Pack
 ITEM_name
 Using your Movement Ability breaks all Crowd Control and Status Effects, and makes you immune to new ones for 4s.
 DEVICE_desc
@@ -66401,14 +66401,15 @@ You are Disarmed.
 EFFECT_GROUP_desc
 Kinetics
 EFFECT_GROUP_name
+Pip Voice Pack
 ITEM_name
 You are Disarmed.
 EFFECT_GROUP_desc
 Kinetics
 EFFECT_GROUP_name
-Evie
+Evie Voice Pack
 ITEM_name
-Buck
+Buck Voice Pack
 ITEM_name
 Chaos Co-Op
 map_game_friendly_name
@@ -74378,7 +74379,7 @@ Double Trouble
 item_name
 [Nature's Grasp] Hitting an enemy with Nature's Grasp also pulls another enemy within 20ft of your initial target.
 item_desc
-Grover
+Grover Voice Pack
 ITEM_name
 Friendly Beacon Destroyed
 PALADINS_ALERT_FRIENDLYBEACONRESET
@@ -76494,7 +76495,7 @@ Mutagen
 item_name
 [Smoke Screen][+25% Per Rank] Hitting a target with Smoke Screen instantly consumes all active DOTs, dealing {25/50/75/100}% of the remaining damage.
 item_desc
-Kinessa
+Kinessa Voice Pack
 ITEM_name
 Instantly * Consume DoTs
 item_short_desc
@@ -76879,7 +76880,7 @@ item_short_desc
 item_name
 Copy of Minigun with setup time removed.
 item_desc
-Androxus
+Androxus Voice Pack
 ITEM_name
 Conjuration
 ITEM_name
@@ -78417,7 +78418,7 @@ Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
 Battle Focus
 EFFECT_GROUP_name
-Ying
+Ying Voice Pack
 ITEM_name
 +{150} HP * Every Enemy hit
 item_short_desc
@@ -83901,7 +83902,7 @@ item_name
 item_desc
 +{200}% Faster *  Fire Spit
 item_short_desc
-Drogoz
+Drogoz Voice Pack
 ITEM_name
 +20% * Weapon Dmg
 item_short_desc
@@ -86420,7 +86421,7 @@ zDeprecated Air Blast IV
 item_name
 [Poppy Bomb] Poppy Bomb increases your Air Control by 40% until you land.
 item_desc
-Bomb King
+Bomb King Voice Pack
 ITEM_name
 Always Show Player Health
 PALADINS_HEALTHBARS
@@ -86855,7 +86856,7 @@ Blocks 50% of incoming damage from a Direct Hit attack.
 item_desc
 Blocks 50% of incoming damage from a Direct Hit attack.
 EFFECT_GROUP_desc
-Viktor
+Viktor Voice Pack
 ITEM_name
 Ice River
 map_game_friendly_name
@@ -88396,9 +88397,9 @@ item_desc
 item_short_desc
 Escape Artist I
 item_name
-[Weightless] Gain {scale=6.125|6.125}% Damage Reduction during Weightless, but attacking cancels Weightless.
+[Weightless] Gain {scale=3|3}% Damage Reduction during Weightless.
 item_desc
-Makoa
+Makoa Voice Pack
 ITEM_name
 (TEST) OOC Stun
 item_name
@@ -88614,7 +88615,7 @@ item_name
 item_desc
 Kinetics I
 item_name
-[Blast Shot] Blast Shot reduces healing by {scale=4|4}% more.
+[Blast Shot] Blast Shot reduces healing by {scale=9|9}%.
 item_desc
 zDeprecated Kinetics II
 item_name
@@ -91521,7 +91522,7 @@ zDeprecated Chop Down IV
 item_name
 [Crippling Throw] Reduce the Cooldown of Crippling Throw by 2s.
 item_desc
-Mal Damba
+Mal'Damba Voice Pack
 ITEM_name
 Search for player
 PALADINS_SEARCH_FOR_PLAYER
@@ -92863,7 +92864,7 @@ Conjuration Pigtails
 ITEM_name
 Emote Vendor - Common
 Loot_Table_name
-Default Voice
+Default Voice Voice Pack
 ITEM_name
 Honorable Bulwark
 ITEM_name
@@ -92897,13 +92898,13 @@ PerfCaptureMap
 map_game_friendly_name
 PerfCaptureMap
 map_game_name
-Mad Scientist
+Mad Scientist Voice Pack
 ITEM_name
-Night Bane
+Night Bane Voice Pack
 ITEM_name
-Troublemaker
+Troublemaker Voice Pack
 ITEM_name
-Team Fortress 2
+Team Fortress 2 Voice Pack
 ITEM_name
 This is a test of the Paladins tutorial announcer subtitle system.
 PALADINS_TUTORIAL_TEST
@@ -94827,7 +94828,7 @@ SLT - Champion Pack Tier 3
 Loot_Table_name
 Tyra
 ITEM_name
-Triggerman
+Triggerman Voice Pack
 ITEM_name
 SLT - Set - Buck - Triggerman
 Loot_Table_name
@@ -94908,7 +94909,7 @@ Shooting Range
 map_game_friendly_name
 Shooting Range Local
 map_game_name
-Sha Lin
+Sha Lin Voice Pack
 ITEM_name
 ICON NEEDED!
 ITEM_desc
@@ -95104,7 +95105,7 @@ Envy Collection
 ITEM_name
 SLT - Set - Buck - Envy
 Loot_Table_name
-Pumpking
+Pumpking Voice Pack
 ITEM_name
 Trade
 PALADINS_TRADE
@@ -96262,7 +96263,7 @@ ZZREDACTED Grover MVP 02
 ITEM_name
 SLT - Bundle - Sha Lin - Default
 Loot_Table_name
-Plushy
+Plushy Voice Pack
 ITEM_name
 ICON NEEDED!
 ITEM_desc
@@ -96924,7 +96925,7 @@ zDeprecated (Falling Star ability)
 item_name
 Falling Star Subdevice
 item_name
-Star Slayer
+Star Slayer Voice Pack
 ITEM_name
 SLT - Chest - Colossal - Legendary
 Loot_Table_name
@@ -97560,7 +97561,7 @@ zDelete
 ITEM_name
 Snapdragon Collection
 ITEM_name
-Merrymaker
+Merrymaker Voice Pack
 ITEM_name
 Azure Braid
 ITEM_name
@@ -97626,7 +97627,7 @@ Invitational 2017 Rifle
 ITEM_name
 Included in the 2017 Digital Loot Pack
 ITEM_desc
-Tyra
+Tyra Voice Pack
 ITEM_name
 Included in the 2017 Digital Loot Pack
 ITEM_desc
@@ -99793,7 +99794,7 @@ Default
 ITEM_desc
 Default Spear
 ITEM_name
-Inara
+Inara Voice Pack
 ITEM_name
 Stone Keep
 map_game_friendly_name
@@ -99935,7 +99936,7 @@ Code Green Cover
 ITEM_name
 Genie
 ITEM_name
-Genie
+Genie Voice Pack
 ITEM_name
 Code Green AR-Compact
 ITEM_name
@@ -99965,7 +99966,7 @@ Obtainable in the Gold Chest.
 ITEM_desc
 Obtainable in the Gold Chest.
 ITEM_desc
-Torvald
+Torvald Voice Pack
 ITEM_name
 Obtainable in Valentine's Chest.
 ITEM_desc
@@ -100139,13 +100140,13 @@ Obtainable in Code Green Chest.
 ITEM_desc
 Obtainable in Code Green Chest.
 ITEM_desc
-Code Green
+Code Green Voice Pack
 ITEM_name
 SLT Valentine's Chest - Treasure Roll
 Loot_Table_name
 Heartbreaker
 ITEM_name
-Heartbreaker
+Heartbreaker Voice Pack
 ITEM_name
 SLT - Chest - Code Green - Rare - Exclusive
 Loot_Table_name
@@ -100845,7 +100846,7 @@ Keep Push
 map_game_friendly_name
 WIP Keep Push
 map_game_name
-Maeve
+Maeve Voice Pack
 ITEM_name
 Stacked Odds
 Activity_Goal_title
@@ -101694,7 +101695,7 @@ Sunken City
 map_game_friendly_name
 WIP Bog_Torn
 map_game_name
-Dreadhunter
+Dreadhunter Voice Pack
 ITEM_name
 Dreadhunter
 ITEM_name
@@ -102313,7 +102314,7 @@ Blue
 ITEM_desc
 Celestine Spear
 ITEM_name
-Inara
+Inara Voice Pack
 ITEM_name
 Salt
 map_game_friendly_name
@@ -103397,10 +103398,11 @@ PvE - Torvald - Ranged4
 ITEM_name
 Destroyer of Worlds
 ITEM_name
+Lex Voice Pack
 ITEM_name
-FN-01 Helios
+FN-01 Helios Voice Pack
 ITEM_name
-Volcanic
+Volcanic Voice Pack
 ITEM_name
 Primal Court
 map_game_friendly_name
@@ -103673,7 +103675,7 @@ BOT_name
 BOT_desc
 PvE_The Law_Free
 item_name
-Seris
+Seris Voice Pack
 ITEM_name
 CC Immunity & Health
 EFFECT_GROUP_desc
@@ -103886,7 +103888,7 @@ SLT - Collection - Sha Lin - Burrito
 Loot_Table_name
 Burrito Collection
 ITEM_name
-Nova Strike
+Nova Strike Voice Pack
 ITEM_name
 Obtainable in the Champion Skin Chest.
 ITEM_desc
@@ -105077,7 +105079,7 @@ Primal Court
 map_game_friendly_name
 PvE_Survival Primal Court
 map_game_name
-Chancellor
+Chancellor Voice Pack
 ITEM_name
 Jaguar Falls
 map_game_friendly_name
@@ -105672,7 +105674,7 @@ Obtainable in the Overgrown Weapons Chest.
 ITEM_desc
 Lotus Long Bow
 ITEM_name
-Doom Shroom
+Doom Shroom Voice Pack
 ITEM_name
 Obtainable in the Summer Chest.
 ITEM_desc
@@ -105680,7 +105682,7 @@ Obtainable in the Overgrown Weapons Chest.
 ITEM_desc
 Dragonfly Wristbow
 ITEM_name
-Invader
+Invader Voice Pack
 ITEM_name
 Alien Skin for Pip
 ITEM_desc
@@ -105764,7 +105766,7 @@ Obtainable in the Radiant Chest.
 ITEM_desc
 Bluebell Wand
 ITEM_name
-Willo
+Willo Voice Pack
 ITEM_name
 Obtainable in the REKT Weapons Chest.
 ITEM_desc
@@ -106468,11 +106470,11 @@ Bomb King
 ITEM_name
 Bomb King Announcer Pack
 ITEM_desc
-Buck Wild
+Buck Wild Voice Pack
 ITEM_name
 Wrestler Voice Pack for Buck
 ITEM_desc
-Vigilante
+Vigilante Voice Pack
 ITEM_name
 Super Hero Voicepack for ShaLin
 ITEM_desc
@@ -106926,7 +106928,7 @@ Replicant
 ITEM_name
 Robot Ying
 ITEM_desc
-Replicant's Filimants
+Replicant's Filaments
 ITEM_name
 Robot Ying
 ITEM_desc
@@ -107555,6 +107557,7 @@ District
 map_game_friendly_name
 WIP District KOTH
 map_game_name
+Ash Voice Pack
 ITEM_name
 Dockwork One-Round
 map_game_friendly_name
@@ -109362,7 +109365,7 @@ Cosmic Evie
 ITEM_name
 Obsidian Evie
 ITEM_name
-Zhin
+Zhin Voice Pack
 ITEM_name
 Voice pack for Zhin the DarkLord
 ITEM_desc
@@ -109410,7 +109413,7 @@ Obtainable in the Summer Chest.
 ITEM_desc
 Freedom Daggers
 ITEM_name
-Replicant
+Replicant Voice Pack
 ITEM_name
 Ying-Bot
 ITEM_desc
@@ -110023,15 +110026,15 @@ item_name
 item_desc
 Flare
 item_name
-Steam Demon
+Steam Demon Voice Pack
 ITEM_name
 Obtainable in the Champion Skin Chest.
 ITEM_desc
-Sun Kissed
+Sun Kissed Voice Pack
 ITEM_name
 Obtainable in the Summer Chest.
 ITEM_desc
-Longboard
+Longboard Voice Pack
 ITEM_name
 Obtainable in the Summer Chest.
 ITEM_desc
@@ -110531,9 +110534,9 @@ Community
 ITEM_desc
 Infernal Censer
 ITEM_name
-Ice Walker
+Ice Walker Voice Pack
 ITEM_name
-Dire Wolf
+Dire Wolf Voice Pack
 ITEM_name
 Available for purchase at Mastery Level 10.
 ITEM_desc
@@ -110563,7 +110566,7 @@ Halloween Event
 map_game_friendly_name
 WIP Halloween Event
 map_game_name
-Lian
+Lian Voice Pack
 ITEM_name
 Obtainable in the Feudal Chest.
 ITEM_desc
@@ -111046,7 +111049,7 @@ Clockwork
 ITEM_name
 Chest Loot Vendor - Clockwork Chest
 Loot_Table_name
-Jenos
+Jenos Voice Pack
 ITEM_name
 Quarry Onslaught
 map_game_friendly_name
@@ -111494,11 +111497,11 @@ Halloween Event
 map_game_friendly_name
 WIP Halloween Event
 map_game_name
-Hemlock
+Hemlock Voice Pack
 ITEM_name
 Dark Ember Willo/Fairy
 ITEM_desc
-Clockwork
+Clockwork Voice Pack
 ITEM_name
 Obtainable in the Clockwork Chest.
 ITEM_desc
@@ -111826,11 +111829,11 @@ Default
 ITEM_desc
 Default Massacre Axe
 ITEM_name
-V1-KTOR
+V1-KTOR Voice Pack
 ITEM_name
 Obtainable in the Deep Space Chest.
 ITEM_desc
-Kunoichi
+Kunoichi Voice Pack
 ITEM_name
 Obtainable in the Feudal Chest.
 ITEM_desc
@@ -112286,7 +112289,7 @@ zDeprecated Resourceful IV
 item_name
 [Quick Switch] Every 2 seconds your rifle is out, the cooldown of Flare is reduced by 1.
 item_desc
-Ronin
+Ronin Voice Pack
 ITEM_name
 Obtainable in the Feudal Chest.
 ITEM_desc
@@ -113025,15 +113028,15 @@ Default
 ITEM_desc
 Default
 ITEM_desc
-Strix
+Strix Voice Pack
 ITEM_name
 Owl Voice pack
 ITEM_desc
-Conqueror
+Conqueror Voice Pack
 ITEM_name
 Obtainable in the VIP Pack.
 ITEM_desc
-L-Exo Suit
+L-Exo Suit Voice Pack
 ITEM_name
 Obtainable in the Deep Space Chest.
 ITEM_desc
@@ -113734,7 +113737,7 @@ SLT - Set - Lex - L-Exo-RENTAL
 Loot_Table_name
 SLT - Set - Viktor - V1-KTOR-RENTAL
 Loot_Table_name
-SLT - Set - Ruckus - Starslayer-RENTAL
+SLT - TC - Set - Ruckus - Starslayer-RENTAL
 Loot_Table_name
 SLT - Bundle - Makoa - Default-RENTAL
 Loot_Table_name
@@ -113901,7 +113904,7 @@ Alt Fire for Lawman's Pursuit
 DEVICE_desc
 KhanLMB
 item_name
-Bolter
+Heavy Repeater
 DEVICE_name
 Pursuit
 DEVICE_name
@@ -114051,11 +114054,11 @@ Shade (Onslaught)
 map_game_friendly_name
 WIP Shade v2 (Onslaught)
 map_game_name
-Raeve
+Raeve Voice Pack
 ITEM_name
 Obtainable in the VIP Store.
 ITEM_desc
-Goddess
+Goddess Voice Pack
 ITEM_name
 Obtainable in the VIP Store.
 ITEM_desc
@@ -114337,15 +114340,15 @@ Reach a 20 kill streak in a match
 Activity_desc
 ACH_UNSTOPPABLE
 Activity_name
-Infernal
+Infernal Voice Pack
 ITEM_name
 Demonic Seris Voice Pack
 ITEM_desc
-Swashbuckler
+Swashbuckler Voice Pack
 ITEM_name
 Obtainable in the Booty Box.
 ITEM_desc
-Talus
+Talus Voice Pack
 ITEM_name
 Talus Voice Pack
 ITEM_desc
@@ -114602,7 +114605,7 @@ Wins As Frontline Tracking
 Activity_desc
 Wins As Frontline Tracking
 Activity_name
-Dutchman
+Dutchman Voice Pack
 ITEM_name
 Obtainable in the Booty Box.
 ITEM_desc
@@ -115697,11 +115700,11 @@ Bewitching Spray
 item_name
 Wickerman Spray
 item_name
-Wickerman
+Wickerman Voice Pack
 ITEM_name
 Scarecrow
 ITEM_desc
-Bewitching
+Bewitching Voice Pack
 ITEM_name
 Obtainable in the Little Box of Horrors.
 ITEM_desc
@@ -116075,14 +116078,15 @@ zDeprecated Blood and Stone III
 item_name
 zDeprecated Blood and Stone IV
 item_name
-DZ-03 Draco
+DZ-03 Draco Voice Pack
 ITEM_name
 Obtainable in the VIP Store.
 ITEM_desc
+Oni Voice Pack
 ITEM_name
 Obtainable in the Feudal Chest.
 ITEM_desc
-Terminus
+Terminus Voice Pack
 ITEM_name
 Terminus VoicePack
 ITEM_desc
@@ -116605,13 +116609,13 @@ Pilot Suit
 ITEM_name
 Resplendent Collection
 ITEM_name
-Arctic
+Obtainable in the War Chest and Digital Deluxe Edition DLCs.
 ITEM_desc
-Pip ACC Skin06A
+Arctic Goggles
 ITEM_name
-Arctic
+Obtainable in the War Chest and Digital Deluxe Edition DLCs.
 ITEM_desc
-Pip Skin08A
+Arctic
 ITEM_name
 SLT - Set - Terminus - Monolith-RENTAL
 Loot_Table_name
@@ -116677,7 +116681,7 @@ SLT - Set - Skye - Kunoichi-RENTAL - 3 Day
 Loot_Table_name
 Obtainable in the Feudal Chest.
 ITEM_desc
-zDelete
+aab Voice Pack
 ITEM_name
 Ronin
 ITEM_name
@@ -116823,7 +116827,7 @@ Enemy DoT
 EFFECT_GROUP_name
 Wekono's Curse I
 item_name
-[Mending Spirits] May now be cast on enemies to deal {scale=42.5|2.5}% of the healing value as damage over 3s.
+[Mending Spirits] Mending Spirits may now be cast on enemies to deal {scale=440|40} damage over 2s.
 item_desc
 Leaden Cannonball I
 item_name
@@ -117219,7 +117223,7 @@ Keep Onslaught (TDM)
 map_game_friendly_name
 WIP Keep Onslaught (TDM)
 map_game_name
-Enforcer
+Enforcer Voice Pack
 ITEM_name
 Obtainable in the Front Line Pack.
 ITEM_desc
@@ -117503,7 +117507,7 @@ Tencent Gold Rental
 item_name
 Tencent chest rental.
 item_desc
-Red Winter
+Red Winter Voice Pack
 ITEM_name
 Obtainable in the World Wide Chest.
 ITEM_desc
@@ -118521,11 +118525,11 @@ Your weapon shots deal 150% increased Damage to Deployables. Gain 30% Max Health
 DEVICE_desc
 SLT - Chest - Gold Chest - Epic Weapons Rental
 Loot_Table_name
-Vivian
+Vivian Voice Pack
 ITEM_name
 Vivian/ChurchHill Voicepack
 ITEM_desc
-Dark Lord
+Dark Lord Voice Pack
 ITEM_name
 Obtainable in the Galaxy Chest.
 ITEM_desc
@@ -118667,7 +118671,7 @@ Copy of Copy of Alley Cat
 ITEM_name
 Unlock All Current and Future Champions!
 ITEM_short_desc
-Dune Crawler
+Dune Crawler Voice Pack
 ITEM_name
 Obtainable in the Galaxy Chest.
 ITEM_desc
@@ -119111,7 +119115,7 @@ Vigilante
 ITEM_name
 Deceiver
 ITEM_name
-Silvertongue
+Silvertongue Collection
 ITEM_name
 Manipulator
 ITEM_name
@@ -121905,17 +121909,17 @@ Sort order of > 0 designates that item as the main reward item. Should only have
 Loot_Table_desc
 Sort order of > 0 designates that item as the main reward item. Should only have one item with sort order > 0
 Loot_Table_desc
-Star God
+Obtainable in the War Chest and Digital Deluxe Edition DLCs.
 ITEM_desc
-Jenos ACC Skin03A
+Exarch's Star Gazer
 ITEM_name
-Star God
+Obtainable in the War Chest and Digital Deluxe Edition DLCs.
 ITEM_desc
-Jenos Skin02A
+Exarch
 ITEM_name
-Star God
+Obtainable in the War Chest and Digital Deluxe Edition DLCs.
 ITEM_desc
-Jenos WEP Skin03A
+Exarch's Constellation
 ITEM_name
 Festive
 item_short_desc
@@ -122015,7 +122019,7 @@ SLT - Chest - Androxus Chest - Rare
 Loot_Table_name
 SLT - Chest - Androxus Chest - Common
 Loot_Table_name
-A-bomb-inable
+A-bomb-inable Voice Pack
 ITEM_name
 SLT - Chest - Androxus Chest - Legendary
 Loot_Table_name
@@ -122051,15 +122055,15 @@ Drop Androxus Cards!!!!
 ITEM_desc
 Androxus Chest Grande [Unused]
 ITEM_name
-Dragon Hunter
+Drake Fire Voice Pack
 ITEM_name
 Dragon Hunter Tyra
 ITEM_desc
-Brimstone
+Brimstone Voice Pack
 ITEM_name
 Obtainable in the Diamond Chest.
 ITEM_desc
-Divine
+Divine Voice Pack
 ITEM_name
 Obtainable at VIP Tier 4.
 ITEM_desc
@@ -122259,7 +122263,7 @@ Damage Inner SLT
 Loot_Table_name
 Damage DLC SLT
 Loot_Table_name
-Galaxy Lian
+Galaxy Lian Voice Pack
 ITEM_name
 Galaxy Lian Voice Pack
 ITEM_desc
@@ -123613,7 +123617,7 @@ Amazon Bundle Initial SLT
 Loot_Table_name
 SLT - Collection - Bomb King - Twitch
 Loot_Table_name
-Twitch Prime King
+Twitch Prime King Voice Pack
 ITEM_name
 Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
 ITEM_desc
@@ -127258,17 +127262,17 @@ Obtainable in the Gold Chest.
 ITEM_desc
 Obtainable in the Gold Chest.
 ITEM_desc
-Ebon Star
+Ebon Star Voice Pack
 ITEM_name
 Obtainable in the Galaxy Chest
 ITEM_desc
-Mercenary
+Mercenary Voice Pack
 ITEM_name
 Strix Mercenary Skin Voice Pack
 ITEM_desc
 SLT - Collection - Pip - Pandamonium
 Loot_Table_name
-Slave Princess
+Slave Princess Voice Pack
 ITEM_name
 Lian Slave Princess
 ITEM_desc
@@ -127703,7 +127707,7 @@ Tencent Xmas
 Match_Queue_name
 Casual Queue vs AI for Tencent Snow Theme maps temp placement
 Match_Queue_desc
-Moji
+Moji Voice Pack
 ITEM_name
 Moji default Voice Pack
 ITEM_desc
@@ -127757,7 +127761,7 @@ SLT - Collection - Willo - Firecracker
 Loot_Table_name
 SLT - Set - Willo - Firecracker
 Loot_Table_name
-High Elf
+High Elf Voice Pack
 ITEM_name
 Obtainable in the VIP Store.
 ITEM_desc
@@ -127865,7 +127869,7 @@ Obtainable in the Gold Chest.
 ITEM_desc
 Reaver Firestorm
 ITEM_name
-Madame
+Madame Voice Pack
 ITEM_name
 Obtainable in the Lunar Chest.
 ITEM_desc
@@ -128427,9 +128431,9 @@ Yellow/Black/Red
 ITEM_desc
 Fernando Wep Skin06A
 ITEM_name
-Red/White
+Obtainable in the War Chest and Digital Deluxe Edition DLCs.
 ITEM_desc
-Pip Wep Skin00H
+Arctic Potion Launcher
 ITEM_name
 White Star
 ITEM_desc
@@ -128633,13 +128637,13 @@ You are revealed.
 EFFECT_GROUP_desc
 Scout
 EFFECT_GROUP_name
-Infiltrator
+Infiltrator Voice Pack
 ITEM_name
 Obtainable in the VIP Store.
 ITEM_desc
-Star God
+Exarch Voice Pack
 ITEM_name
-Jotunn
+Jotunn Voice Pack
 ITEM_name
 Infiltrator Spray
 item_name
@@ -130727,7 +130731,7 @@ item_name
 item_desc
 *BR2* Kill to Heal Epic
 item_name
-+ 25% Damage*+ 900 Health on Kill
++ 900 Health on Kill
 item_desc
 *BR2* Deft Hands Uncommon
 item_name
@@ -131131,7 +131135,7 @@ Store Bundle - Terminus - Jotunn
 Loot_Table_name
 Store Bundle - Ruckus - Robo Rider
 Loot_Table_name
-Store Bundle - Tyra - Dragonstalker
+Store Bundle - Tyra - Drakefire
 Loot_Table_name
 SND_Notify_Waypoint
 SND_Notify_BGDeploying
@@ -131160,7 +131164,7 @@ WIP BG YOLO
 map_game_name
 Tyra Royale Ex
 ITEM_name
-Storm Bolter
+Storm Bolter 6
 item_name
 Bolter
 DEVICE_name
@@ -131632,9 +131636,9 @@ Chest Bundle - B
 ITEM_name
 Chest Bundle - C
 ITEM_name
-Strix - Infiltrator Skin Bundle
+Infiltrator Strix Bundle
 ITEM_name
-Terminus - Jotunn Skin Bundle
+Jotunn Terminus Bundle
 ITEM_name
 Test RoyaleTest
 map_game_friendly_name
@@ -131743,7 +131747,7 @@ SLT - TC - Set - Grohk - Brimstone
 Loot_Table_name
 SLT - TC - Set - Zhin - Ebon Star
 Loot_Table_name
-Khan
+Khan Voice Pack
 ITEM_name
 Test RoyaleTest
 map_game_friendly_name
@@ -131869,6 +131873,342 @@ Standard death fog damage
 DEVICE_name
 Royale Chicken death fog damage
 DEVICE_name
+DemonTeleport
+item_name
+SLT - Collection - Ruckus - Robo Force
+Loot_Table_name
+SLT - Collection - Ruckus - Robo Force-RENTAL
+Loot_Table_name
+SLT - Collection - Tyra - Drakefire
+Loot_Table_name
+Robo Force Collection
+ITEM_name
+Drakefire Collection
+ITEM_name
+Robo Force Ruckus Bundle
+ITEM_name
+Drakefire Tyra Bundle
+ITEM_name
+map_game_friendly_name
+WIP BG
+map_game_name
+Robo Ruckus Voice Pack
+ITEM_name
+Biker Vivian Voice Pack
+ITEM_name
+Ruckus Robo Force
+item_name
+Obtainable in the x
+item_desc
+Tyra Drakefire
+item_name
+Obtainable in the x
+item_desc
+SLT - Collection - Tyra - Drakefire-RENTAL
+Loot_Table_name
+Centered Skill Bar
+PALADINS_3PSKILLS
+Drop Androxus Cards!!!!
+ITEM_desc
+Copy of Androxus Chest Grande [Unused]
+ITEM_name
+Unlock All Current and Future Champions!
+ITEM_short_desc
+All standard champion voice packs
+ITEM_desc
+Champion Pack
+ITEM_name
+Get the Edge in Battle and Style!
+ITEM_short_desc
+Jenos Exarch Collection|Pip Arctic Collection|4x Diamond Chests|4x Gold Chests|30 Day Booster|5 Champion Chests for all Current and Future Champions
+ITEM_desc
+War Chest
+ITEM_name
+Get both DLCs at even Greater Value
+ITEM_short_desc
+All War Chest Content|All Champion Pack Content|28 Day VIP Membership|40,000 VIP Points
+ITEM_desc
+Digital Deluxe Edition
+ITEM_name
+Champion Pack Receipt
+ITEM_name
+War Chest Receipt
+ITEM_name
+Digital Deluxe Edition Receipt
+ITEM_name
+Exarch Collection
+ITEM_name
+Arctic Collection
+ITEM_name
+Obtainable in the War Chest and Digital Deluxe Edition DLCs.
+ITEM_desc
+zDelete
+Loot_Table_name
+SLT - Collection - Pip - Arctic
+Loot_Table_name
+SLT - Collection - Jenos - Exarch
+Loot_Table_name
+War Chest Durables SLT
+Loot_Table_name
+War Chest Consumables SLT
+Loot_Table_name
+War Chest DLC Durables
+ITEM_name
+Exarch Spray
+item_name
+Digital Deluxe Edition DLC Durables
+ITEM_name
+War Chest Inner SLT
+Loot_Table_name
+War Chest DLC SLT
+Loot_Table_name
+SLT - Champion Pack
+Loot_Table_name
+Digital Deluxe Edition Durables SLT
+Loot_Table_name
+Digital Deluxe Edition Consumables SLT
+Loot_Table_name
+Arctic Spray
+item_name
+Obtainable in the Deep Space Chest
+item_desc
+Digital Deluxe Edition Inner SLT
+Loot_Table_name
+Digital Deluxe Edition SLT
+Loot_Table_name
+Tencent Legendary Card Chest
+item_name
+Ronin
+ITEM_desc
+Zhin ACC Skin03A
+ITEM_name
+Ronin
+ITEM_short_desc
+Ronin
+ITEM_desc
+Zhin Skin03A
+ITEM_name
+Ronin
+ITEM_short_desc
+Ronin
+ITEM_desc
+Zhin WEP Skin04A
+ITEM_name
+Ronin
+ITEM_short_desc
+SLT - TC - Set - Zhin - Ebon Star Rental
+Loot_Table_name
+SLT - TC - Set - Grohk - Brimstone Rental
+Loot_Table_name
+Future
+ITEM_desc
+Ash ACC Skin03A
+ITEM_name
+Future
+ITEM_desc
+Ash Skin02A
+ITEM_name
+Future
+ITEM_desc
+Ash WEP Skin02A
+ITEM_name
+SND_Notify_Royale_DeathField
+Asiatic
+ITEM_desc
+Jenos ACC Skin05A
+ITEM_name
+Asiatic
+ITEM_short_desc
+Asiatic
+ITEM_desc
+Jenos Skin03A
+ITEM_name
+Asiatic
+ITEM_short_desc
+Asiatic
+ITEM_desc
+Jenos WEP Skin04A
+ITEM_name
+Asiatic
+ITEM_short_desc
+BG Rewards
+Loot_Table_name
+Storm Bolter
+item_name
+Bolter
+DEVICE_name
+Platemail I
+item_name
+Gain {scale=30|30} Health.
+item_desc
+Battle Focus
+EFFECT_GROUP_name
+Bloodthirst I
+item_name
+Gain {2|2}% Lifesteal.
+item_desc
+Androxus Recurring Champion Chest Recipe
+Loot_Table_name
+Excessive Force I
+item_name
+Increase your clip size by {scale=1|1}.
+item_desc
+Lifetaker I
+item_name
+Eliminations reduce your active Cooldowns by {4|4}%.
+item_desc
+Vigorous Defense I
+item_name
+Heal {scale=5|5} health per second while your shield is up.
+item_desc
+Hopeguard I
+item_name
+Receive {scale=3|3}% increased healing while your shield is up.
+item_desc
+testfdsfsdafds
+Loot_Table_name
+Androxus Recurring Chest Recipe
+Loot_Table_name
+Ready for War I
+item_name
+Increase the recharge rate of your shield by {scale=2|2}%.
+item_desc
+Shield Wall I
+item_name
+Increase the health of your shield by {scale=150|150}.
+item_desc
+test22222
+Loot_Table_name
+Close and Personal I
+item_name
+Gain {scale=3|3}% damage reduction for 3s when hitting an enemy with Commander's Grab.
+item_desc
+Martial Law I
+item_name
+Hitting an enemy with Grab generates {scale=2|2} ammo.
+item_desc
+Chokehold I
+item_name
+Hitting an enemy with Commander's Grab heals you for {scale=40|40}.
+item_desc
+Hulking Strength I
+item_name
+Reduce the Cooldown of Commander's Grab by {scale=.25|.25}s.
+item_desc
+Hold the Line! I
+item_name
+Heal yourself for an additional {scale=30|30} when activating Shout.
+item_desc
+Never Surrender! I
+item_name
+Reduce the cooldown of Shout by {scale=.25|.25}.
+item_desc
+Open Fire! I
+item_name
+Activating Shout generates {scale=2|2} ammo.
+item_desc
+Into the Breach! I
+item_name
+Activating Shout grants {scale=4|4}% movement speed for 3s.
+item_desc
+Lian's Shield I
+item_name
+Your shield recharges at {scale=42.5|2.5}% effectiveness while it is raised.
+item_desc
+Firing Line
+item_name
+Champions affected by Shout now also deal {scale=17|1}% increased damage.
+item_desc
+Storm of Bullets
+item_name
+Your weapon fires 60% faster and has 10 more rounds but deals {scale=32.2|-1.4}% less damage.
+item_desc
+Storm of Bullets
+DEVICE_name
+Produced
+Loot_Table_Items_name
+Vortex Grip I
+item_name
+After hitting an enemy with a grab you may follow up with a shoulder charge knocking them back and dealing {scale=340|20} damage.
+item_desc
+Androxus Recurring Chest Receipt
+ITEM_name
+Produced
+Loot_Table_Items_name
+Blocker
+Loot_Table_Items_name
+Copy of SLT - Chest - Moji Chest - Common
+Loot_Table_name
+SLT - Chest - Khan Chest - Common
+Loot_Table_name
+SLT - Chest - Khan Chest - Rare
+Loot_Table_name
+SLT - Chest - Khan Chest - Epic
+Loot_Table_name
+SLT - Chest - Khan Chest - Legendary
+Loot_Table_name
+Ash Recurring Chest Recipe
+Loot_Table_name
+Drops Khan Cards.
+ITEM_desc
+Champion Chest Khan
+ITEM_name
+Pity Timer - Khan Chest
+Activity_name
+Ash Recurring Chest Receipt
+ITEM_name
+Pity Timer - Khan Chest
+Activity_Goal_name
+Champion Legendary Chest Khan
+ITEM_name
+Drops Khan Cards.
+ITEM_desc
+Pity Timer - Khan Legendary Chest
+Activity_name
+Chest Loot Vendor - Khan Chest
+Loot_Table_name
+SLT - TC - SET - Fernando - God of War-RENTAL
+Loot_Table_name
+SLT - TC - Set - Makoa - Cuddly-RENTAL
+Loot_Table_name
+SLT - TC -  Set - Lex - L-Exo-RENTAL
+Loot_Table_name
+SLT - TC - Set - Viktor - V1-KTOR-RENTAL
+Loot_Table_name
+Asiatic
+ITEM_desc
+Seris ACC Skin05A
+ITEM_name
+Asiatic
+ITEM_short_desc
+Asiatic
+ITEM_desc
+Seris Skin05A
+ITEM_name
+Asiatic
+ITEM_short_desc
+Asiatic
+ITEM_desc
+Seris WEP Skin06A
+ITEM_name
+Asiatic
+ITEM_short_desc
+SLT - Collection - Vivian - Silvertongue
+Loot_Table_name
+SND_Notify_BG25Remain_Global
+SND_Notify_BG50Remain_Global
+SND_Notify_BG5Remain_Global
+SND_Notify_BG75Remain_Global
+aaa Voice Pack
+ITEM_name
+SND_Notify_TeamWiped_Global
+SND_Notify_TeamWon_Global
+SND_Notify_BGZeppelinInTransit_Global
+SND_Notify_BGChickenState_Global
+SND_Notify_IslandWaiting_Global
+Obtainable in the Deep Space Chest
+ITEM_desc
+SND_Notify_TeammateDied_Global
 None
 VV_TEXT
 Patrol
@@ -133255,6 +133595,8 @@ Map Files
 VV_text
 Introduction
 Introduction
+Recipe
+Recipe
 Cannot connect to server. Please wait and try again shortly.
 Game not available for login
 Name Change
@@ -135198,4 +135540,18 @@ You have a party member who is running a 32-bit game client (@@player_name@@) so
 MATCH_TEAM_MEMBER_CLIENT_32BIT
 You are running a 32-bit game client, which is not allowed by this queue.
 NOT_ALLOWED_CLIENT_32BIT
+Produced
+PRODUCED
+Consumed (Optional)
+CONSUMED_OPTIONAL
+Consumed (Required)
+CONSUMED_REQUIRED
+Required
+REQUIRED
+Blocker
+BLOCKER
+Transient Purchase
+Transient Purchase
+Inherit Entitlement Inventory
+Inherit Entitlement Inventory
 B
