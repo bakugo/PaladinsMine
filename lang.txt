@@ -41740,7 +41740,7 @@ DEVICE_desc
 DEVICE_name
 Blast Shot
 item_name
-Fire an explosive projectile that deals 450 damage and reduces healing by 50% for 3s.
+Fire an explosive projectile that deals 450 damage.
 item_desc
 zzzBoar
 item_name
@@ -92864,7 +92864,7 @@ Conjuration Pigtails
 ITEM_name
 Emote Vendor - Common
 Loot_Table_name
-Default Voice Voice Pack
+Default Voice Pack
 ITEM_name
 Honorable Bulwark
 ITEM_name
@@ -100196,7 +100196,7 @@ Obtainable in Gold Chest.
 item_desc
 W.Y.R.M. Jets I
 item_name
-[Armor] Increase the Flight Speed of Booster by {scale=34|2}%
+[Armor] Increase the Flight Speed of Booster by {scale=34|2}%.
 item_desc
 Lifelike I
 item_name
@@ -100242,7 +100242,7 @@ item_name
 item_desc
 Preparation I
 item_name
-[Armor] Reduce all Cooldowns by 100% when getting a kill and heal for {scale=425|25} Health.
+[Armor] Killing an enemy resets all your Cooldowns and heals you for {scale=425|25} Health.
 item_desc
 Mega Potion I
 item_name
@@ -100274,7 +100274,7 @@ item_name
 item_desc
 Impulse I
 item_name
-[Blast Shot] Increase the damage of Blast Shot by {scale=297.5|17.5} and reduces the Cooldown by 2s.
+[Blast Shot] Increase the damage of Blast Shot by {scale=297.5|17.5} and reduce the Cooldown by 2s.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -100536,7 +100536,7 @@ item_name
 item_desc
 Wraith I
 item_name
-[Armor] If you would have died, Ghost Walk instead and heal for {scale=12.75|.75}% of your maximum Health.
+[Armor] When you take lethal damage Ghost Walk activates and heals you for {scale=12.75|.75}% of your maximum Health.
 item_desc
 Chain Reaction I
 item_name
@@ -100566,7 +100566,7 @@ item_name
 item_desc
 Leviathan I
 item_name
-[Armor] Gain {scale=1480|40} Health and gain CC Immunity during Ancient Rage.
+[Armor] Increase your Maximum Health by {scale=1480|40} and gain CC Immunity during Ancient Rage.
 item_desc
 Pluck I
 item_name
@@ -100872,7 +100872,7 @@ Gourd now slows enemies in the area for 40%.
 item_short_desc
 Ripened Gourd I
 item_name
-[Gourd] Gourd now slows enemies in the area for {scale=34|2}%.
+[Gourd] Gourd now slows enemies in its area for {scale=34|2}%.
 item_desc
 Alternating Current I
 item_name
@@ -100882,7 +100882,7 @@ Evolve
 EFFECT_GROUP_name
 Default Maeve Emote
 item_name
-[Weapon] Snake Toss deals an additional 500 damage. 
+Snake Toss deals additional damage. 
 item_short_desc
 Wekono's Wrath I
 item_name
@@ -100962,11 +100962,11 @@ Grumpy Bomb destroys all shields when it explodes
 item_short_desc
 Demolition I
 item_name
-[Grumpy Bomb] Grumpy Bomb destroys all shields when it explodes and increases the blast radius by {scale=25.5|1.5}0
+[Grumpy Bomb] Grumpy Bomb destroys all shields when it explodes and its blast radius is increased by {scale=25.5|1.5}%.
 item_desc
 Suppression I
 item_name
-[Oppressor Mine] Oppressor Mines can now affect 2 more targets and Sniper Shots against enemies affected by Mines deal {scale=4|4}% more damage.
+[Oppressor Mine] Oppressor Mines can now affect 2 more targets and Sniper Shots against enemies affected by Mines deal {scale=22|2}% more damage.
 item_desc
 Wand of Overgrowth
 item_name
@@ -101713,7 +101713,7 @@ EFFECT_GROUP_name
 item_desc
 [Restore Soul] Increase the range of Restore Soul by 300% and the Duration by {scale=0.85|.05}s.
 item_desc
-[Weapon] Soul Charges you detonate increase your Maximum Health and Weapon Damage by {scale=1.7|.1}% per charge. Stacks up to 8 times. Stacks clear on death.
+[Weapon] Each Soul Charge you detonate increases your Maximum Health and Weapon Damage by {scale=1.7|.1}% until you die. Stacks up to 8 times.
 item_desc
 Forward
 map_game_friendly_name
@@ -103493,7 +103493,7 @@ Self Damage
 EFFECT_GROUP_name
 FN-01 Helios
 ITEM_name
-[Weapon] Your weapon shots deal 25% more damage to targets over 65% Health.
+Weapon shots deal more damage to high-health targets.
 item_short_desc
 Death Hastens I
 item_name
@@ -103518,7 +103518,7 @@ Reach for the Sky
 item_name
 Obtainable in the Gold Chest.
 item_desc
-[Retribution] Deal 30% more damage to your Retribution target and reduce the Cooldown of Retribution by 15s.
+Deal more damage to your Retribution target and reduce the Cooldown of Retribution.
 item_short_desc
 Discovery I
 item_name
@@ -104662,7 +104662,7 @@ In honor of Burrito GG, the 2017 HRX Champions!
 ITEM_desc
 Scorn I
 item_name
-[Seedling] Increased the damage of each seedling by {scale=297.5|17.5} and reduce the fuse time by 25%.
+[Seedling] Increased the damage of each seedling by {scale=297.5|17.5} and reduce their fuse time by 25%.
 item_desc
 Copy of Card Vendor Legendary
 Loot_Table_name
@@ -105702,7 +105702,7 @@ Normal Hit
 EFFECT_GROUP_name
 Guillotine I
 item_name
-[Spite] Spite now deals 25% of the targets maximum Health with every hit and grants Zhin damage immunity. Also increases your ultimate charge rate by {scale=12.75|.75}0
+[Spite] Spite now deals 25% of the targets maximum Health with every hit, grants Zhin damage immunity, and charges {scale=12.75|.75}% faster.
 item_desc
 Retaliation I
 item_name
@@ -106892,7 +106892,7 @@ FlagBall
 item_name
 Evolve
 EFFECT_GROUP_name
-[Assert Dominance] Assert Dominance now charges {scale=12.75|.75}% faster, stuns enemies for 2s and causes them to take 35% more damage.
+[Assert Dominance] Assert Dominance now charges {scale=12.75|.75}% faster, stuns enemies for 2s, and causes them to take 35% more damage.
 item_desc
 Fortress Breaker I
 item_name
@@ -108345,19 +108345,19 @@ Defeat your enemies with an extravagant display of skill.
 ITEM_desc
 Lian_Deck
 ITEM_name
-[Weapon] Grace generates 8 ammo.
+Grace generates 8 ammo.
 item_short_desc
 Precision I
 item_name
 [Weapon] Grace generates 8 ammo and your weapon deals {scale=4.5|.5}% more damage.
 item_desc
-[Presence] Presence deals up to 50% more damage based on range, and its Cooldown is reduced by 4s.
+Presence deals more damage based on range, and its Cooldown is reduced.
 item_short_desc
 Eminence I
 item_name
 [Presence] Presence deals up to 50% more damage based on range, and its Cooldown is reduced by {scale=3.4|.2}s.
 item_desc
-[Grace] Grace now hits all enemies in front of you instead of only one, and its Cooldown is reduced by 1s.
+Grace now hits all enemies in front of you, and its Cooldown is reduced.
 item_short_desc
 Alacrity I
 item_name
@@ -111965,13 +111965,13 @@ zDeprecated Tactical Retreat IV
 item_name
 [Stealth] Gain 40% Movement Speed for 2s when entering stealth.
 item_desc
-[Stealth] Weapon Shots made in Stealth deal 15% more damage.
+Weapon Shots made in Stealth deal more damage.
 item_short_desc
 Ambush I
 item_name
 [Stealth] Weapon Shots made in Stealth deal {scale=12.75|.75}% more damage.
 item_desc
-[Stealth] Your Stealth bar consumes 50% slower.
+Your Stealth bar consumes slower.
 item_short_desc
 Nocturnal I
 item_name
@@ -112019,7 +112019,7 @@ Escape Plan I
 item_name
 [Stealth] Entering stealth below 65% health heals you for {scale=50|50} health.
 item_desc
-[Weapon] Your Side Arm deals 20% more damage to targets that you have hit with your Talon Rifle within the last 4s.
+Side Arm deals increased damage to targets hit by Talon Rifle.
 item_short_desc
 Crack Shot I
 item_name
@@ -112799,13 +112799,13 @@ zDeprecated Evanescent IV
 item_name
 [Rune of Travel] Move 32% faster while Rune of Travel is active.
 item_desc
-[Rune of Travel] Rune of Travel now resets the Cooldown of Overcharge and Blitz Upper when it activates.
+Rune of Travel now resets the Cooldown of Overcharge and Blitz Upper and grants damage reduction when it activates.
 item_short_desc
 Inner Strength I
 item_name
 [Rune of Travel] Rune of Travel now resets the Cooldown of Overcharge and Blitz Upper when it activates and grants you {scale=17|1}% damage reduction for 4s.
 item_desc
-[Overcharge] The duration of Overcharge is increased by 33%.
+The duration of Overcharge is increased.
 item_short_desc
 Raging Demon I
 item_name
@@ -112815,7 +112815,7 @@ Tricks of Survival
 ITEM_short_desc
 Talus_Deck
 ITEM_name
-[Rune of Travel] The Cooldown of Rune of Travel is reduced by 4s, it no longer automatically activates, and if the Rune is not used the Cooldown is reset.
+Rune of Travel's Cooldown is reduced, it no longer automatically activates, and if not activated the Cooldown resets.
 item_short_desc
 Faustian Bargain I
 item_name
@@ -113964,7 +113964,7 @@ Used for testing
 item_desc
 Nothing Personal I
 item_name
-[True Power] Targets below 65% Health are now revealed, and your Ultimate charge rate is increased by {scale=12.75|.75}0
+[True Power] Targets below 65% Health are revealed to you and your Ultimate charge rate is increased by {scale=12.75|.75}%.
 item_desc
 Vivian
 BOT_name
@@ -114691,7 +114691,7 @@ Obtainable in the Radiant Chest.
 ITEM_desc
 Lingering Curse I
 item_name
-[Accursed Arm] Accursed Arm lasts 8s longer, can fire 8 more shots, and charges {scale=12/.75}% faster.
+[Accursed Arm] Accursed Arm lasts 8s longer, can fire 8 more shots, and charges {scale=12.75|.75}% faster.
 item_desc
 Burninate I
 item_name
@@ -115407,13 +115407,13 @@ zDeprecated Unfeeling IV
 item_name
 [Shatterfall] Gain 32% damage reduction for 2s after landing from Shatterfall.
 item_desc
-[Armor] Below 40% Health gain 35% Damage Reduction.
+Gain Damage Reduction at low health.
 item_short_desc
 Undying I
 item_name
 [Armor] Below 40% Health gain {scale=17|1}% Damage Reduction.
 item_desc
-[Calamity Blast] Calamity Blasts deal an additional 100 damage each.
+Calamity Blasts deal additional damage.
 item_short_desc
 Decimation I
 item_name
@@ -116346,7 +116346,7 @@ item_name
 item_desc
 Efflorescence I
 item_name
-[Blossom] Increase the passive healing of Blossom by {scale=85|5}% and increase it's area by 50%
+[Blossom] Increase the passive healing of Blossom by {scale=85|5}% and its radius by 50%
 item_desc
 Binary Star I
 item_name
@@ -116709,7 +116709,7 @@ SLT - Collection - Skye - Pilot Suit-RENTAL
 Loot_Table_name
 Huntress I
 item_name
-[Armor] All enemies within 60ft of you are revealed to yourself.
+[Armor] All enemies within 60ft of you are revealed to you.
 item_desc
 Promotional Vendor - Sets
 Loot_Table_name
@@ -116839,7 +116839,7 @@ Grapeshot
 DEVICE_name
 Just Breathe I
 item_name
-[Scout] Crossbow shots deal up to {scale=22|2}% increased damage past 70 units.
+Crossbow shots deal up to {scale=22|2}% increased damage past 70 feet.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -117137,7 +117137,7 @@ Obtainable in the Gold Chest.
 item_desc
 Great Oak I
 item_name
-[Armor] Eliminations increase your maximum HP by {scale=125|5} until you die. Stacks up to 5 times.
+[Armor] Eliminations increase your maximum Health by {scale=125|5} until you die. Stacks up to 5 times.
 item_desc
 Davey Jones Locker I
 item_name
@@ -117181,9 +117181,9 @@ Front Line Victory Spray
 item_name
 Obtainable in the Front Line Pack.
 item_desc
-Gourd Season
+Gourd Season I
 item_name
-[Gourd] Every tick of healing or damage from Gourd reduces the cooldown of Gourd by 0.1s
+[Gourd] Every tick of healing or damage from Gourd reduces the cooldown of Gourd by 0.1s.
 item_desc
 Shhhh I
 item_name
@@ -117449,31 +117449,31 @@ zDeprecated Informants IV
 item_name
 [Sensor Drone] Heal for 400 Health if you kill an enemy revealed by your Sensor Drone.
 item_desc
-[Weapon] Deal 150% increased damage to Shields.
+Deal increased damage to Shields.
 item_short_desc
 Sapper Rounds I
 item_name
 [Weapon] Deal {scale=127.5|7.5}% increased damage to Shields.
 item_desc
-[Weapon] Deal 20% increased damage if you've stayed firing for 2s.
+Deal increased damage after firing for 2s.
 item_short_desc
 Opportunity in Chaos I
 item_name
 [Weapon] Deal {scale=17|1}% increased damage if you've stayed firing for 2s.
 item_desc
-[Sensor Drone] You and your deployables take 20% less damage from enemies revealed by your Sensor Drone
+You and your deployables take less damage from enemies revealed by your Sensor Drone.
 item_short_desc
 Suspect Everyone I
 item_name
 [Sensor Drone] You and your deployables take {scale=17|1}% less damage from enemies revealed by your Sensor Drone.
 item_desc
-[Sensor Drone] If an enemy is within 20 units of Sensor Drone it explodes, dealing 500 damage.
+Sensor Drones explode near enemies.
 item_short_desc
 Self Destruction I
 item_name
 [Sensor Drone] If an enemy is within 20 units of Sensor Drone it explodes, dealing 500 damage.
 item_desc
-[Sentinels] You always respawn with one Sentinel active.
+You always respawn with one Sentinel active.
 item_short_desc
 Ace in the Hole I
 item_name
@@ -117487,7 +117487,7 @@ Unholy Strength I
 item_name
 [Calamity Blast] Successful Calamity Blast hits heal you for {scale=212.5|12.5} health.
 item_desc
-[Calamity Blast] Successful Calamity Blast hits heal you for 250 health.
+Successful Calamity Blast hits heal you.
 item_short_desc
 Keep (Onslaught) 
 map_game_friendly_name
@@ -117647,7 +117647,7 @@ Copy of Tyra Tencent Skin01A
 ITEM_name
 Bucking Madness I
 item_name
-Eliminations during Buck Wild resets its time counter. Charges {scale=12.75|.75}% faster.
+Eliminations during Buck Wild reset its duration and it charges {scale=12.75|.75}% faster.
 item_desc
 Overprotective I
 item_name
@@ -117831,7 +117831,7 @@ SLT - Collection - Viktor - Code Green Comms
 Loot_Table_name
 SLT - Collection - Viktor - Code Green Comms-RENTAL
 Loot_Table_name
-[Dragon Punch] Dragon Punch deals your victims maximum health as damage in a radius around their location and charges {scale=12.75|.75}% faster.
+[Dragon Punch] Dragon Punch deals damage equal to your victims maximum health in a radius around their location and charges {scale=12.75|.75}% faster.
 item_desc
 [Salvo] Salvo now activates instantly, always fires 6 shots, and deals {scale=8.5|.5}% more damage.
 item_desc
@@ -117983,7 +117983,7 @@ Obtainable in the Radiant Chest.
 item_desc
 Chicken Tender-izer I
 item_name
-[Evil Mojo] You deal 100% more damage to chickens, and for every chicken that dies your ult recharges by {scale=17|1}0
+[Evil Mojo] You deal 100% more damage to chickens, and for every chicken that dies your ult recharges by {scale=17|1}%.
 item_desc
 Promo
 ITEM_desc
@@ -123189,7 +123189,7 @@ Zhin WOTD
 Activity_Goal_name
 Buck WOTD
 Activity_Goal_name
-[Sensor Drone] If an enemy is within 20ft of your Sensor Drone, it explodes dealing 500 damage.
+If an enemy is close to your Sensor Drone, it explodes dealing damage.
 item_short_desc
 Booby Trap I
 item_name
@@ -125899,19 +125899,19 @@ zDeprecated Rally Here IV
 item_name
 [Assert Dominance] Assert Dominance now charges 16.5% faster, stuns enemies for 2s and causes them to take 30% more damage.
 item_desc
-Secret Technique III
+zDeprecated Secret Technique III
 item_name
 [Blitz Upper] Deal up to 100% more damage with Blitz Upper based on your opponent's missing health.
 item_desc
-Secret Technique II
+zDeprecated Secret Technique II
 item_name
 [Blitz Upper] Deal up to 100% more damage with Blitz Upper based on your opponent's missing health.
 item_desc
-Secret Technique V
+zDeprecated Secret Technique V
 item_name
 [Blitz Upper] Deal up to 100% more damage with Blitz Upper based on your opponent's missing health.
 item_desc
-Secret Technique IV
+zDeprecated Secret Technique IV
 item_name
 [Blitz Upper] Deal up to 100% more damage with Blitz Upper based on your opponent's missing health.
 item_desc
@@ -127278,7 +127278,7 @@ Lian Slave Princess
 ITEM_desc
 Rider Leg Treat Drop Deployable
 Deployable_name
-Snack Attack
+Snack Attack I
 item_name
 Snack Attack Subdevice
 item_name
@@ -127645,7 +127645,7 @@ Pity Timer - Shalin Chest
 Activity_name
 Pity Timer - Skye Chest
 Activity_name
-*BR* Iron Sights
+zBROld Iron Sights
 item_name
 Look down the barrel of your rifle. Gain improved accuracy but move 50% Slower.
 item_desc
@@ -127907,7 +127907,7 @@ Tencent Christmas Queue Noob Player Redirect
 Match_Queue_short_desc
 Leave a cloud that grants allies 30% movement speed and {scale=510|30} health over 3s. Lasts 6s.
 item_desc
-Players you kill drop a pick up that heals you for {scale=680|40} when picked up.
+Players you kill leave Health Drops that heal you for {scale=680|40} when picked up.
 item_desc
 Consuming a victim of your ultimate recharges your ultimate by 50% and heals you for {scale=850|50}.
 item_desc
@@ -128045,11 +128045,11 @@ LIVE Team Deathmatch
 MSL_name
 LIVE Team Deathmatch Practice
 MSL_name
-Eliminate enemy players
+Game modes based around eliminating enemy players.
 Match_Queue_short_desc
-Team Deathmatch
+Deathmatch
 Match_Queue_name
-Eliminate enemy players
+Game modes based around eliminating enemy players.
 Match_Queue_desc
 Practice Team Deathmatch vs AI opponents
 Match_Queue_short_desc
@@ -128125,7 +128125,7 @@ ENT Moji Mastery Spray
 ITEM_name
 UNCOMMON BOOTS
 item_short_desc
-*BR* Boots Uncommon I
+zBROld Boots Uncommon I
 item_name
 + 10% Movement Speed
 item_desc
@@ -128161,15 +128161,15 @@ SLT - Collection - Lian - High Elf-RENTAL
 Loot_Table_name
 UNCOMMON ARMOR
 item_short_desc
-*BR* Armor Uncommon I
+zBROld Armor Uncommon I
 item_name
 UNCOMMON GLOVES
 item_short_desc
-*BR* Helmet Uncommon I
+zBROld Helmet Uncommon I
 item_name
 UNCOMMON CRYSTAL
 item_short_desc
-*BR* Weapon Uncommon I
+zBROld Weapon Uncommon I
 item_name
 +10% Damage
 item_desc
@@ -128179,19 +128179,19 @@ item_desc
 item_desc
 RARE BOOTS
 item_short_desc
-*BR* Boots Rare I
+zBROld Boots Rare I
 item_name
 + 20% Movement Speed
 item_desc
 EPIC BOOTS
 item_short_desc
-*BR* Boots Epic I
+zBROld Boots Epic I
 item_name
 + 30% Movement Speed
 item_desc
 EPIC BOOTS
 item_short_desc
-*BR* Boots Epic II
+zBROld Boots Epic II
 item_name
 - 60% Out of Combat Time
 item_desc
@@ -128203,97 +128203,97 @@ item_name
 item_desc
 Legendary Boots
 item_short_desc
-*BR* Boots Legendary I
+zBROld Boots Legendary I
 item_name
 + 50% Movement Speed
 item_desc
 UNCOMMON HELMET
 item_short_desc
-*BR* Time Uncommon I
+zBROld Time Uncommon I
 item_name
 + 10% Cooldown Reduction
 item_desc
 EPIC ARMOR
 item_short_desc
-*BR* Armor Epic I
+zBROld Armor Epic I
 item_name
 + 50% Max Health
 item_desc
 EPIC ARMOR
 item_short_desc
-*BR* Armor Epic II
+zBROld Armor Epic II
 item_name
 + 50% Shield and Deployable Health
 item_desc
 EPIC ARMOR
 item_short_desc
-*BR* Armor Epic III
+zBROld Armor Epic III
 item_name
 + 3% Health per Second
 item_desc
 LEGENDARY ARMOR
 item_short_desc
-*BR* Armor Legendary I
+zBROld Armor Legendary I
 item_name
 + 100% Max Health
 item_desc
 RARE GLOVES
 item_short_desc
-*BR* Helmet Rare I
+zBROld Helmet Rare I
 item_name
 - 30% Crowd Control Duration
 item_desc
 EPIC GLOVES
 item_short_desc
-*BR* Helmet Epic I
+zBROld Helmet Epic I
 item_name
 - 60% Crowd Control Duration
 item_desc
 EPIC GLOVES
 item_short_desc
-*BR* Helmet Epic II
+zBROld Helmet Epic II
 item_name
 - 50% Headshot Damage
 item_desc
 EPIC GLOVES
 item_short_desc
-*BR* Helmet Epic III
+zBROld Helmet Epic III
 item_name
 + 200% Stealth Detection
 item_desc
 LEGENDARY GLOVES
 item_short_desc
-*BR* Helmet Legendary I
+zBROld Helmet Legendary I
 item_name
 - 90% Crowd Control Duration
 item_desc
 RARE CRYSTAL
 item_short_desc
-*BR* Weapon Rare I
+zBROld Weapon Rare I
 item_name
 + 20% Damage
 item_desc
 EPIC CRYSTAL
 item_short_desc
-*BR* Weapon Epic I
+zBROld Weapon Epic I
 item_name
 + 50% Damage
 item_desc
 EPIC CRYSTAL
 item_short_desc
-*BR* Weapon Epic II
+zBROld Weapon Epic II
 item_name
 + 225% Shield Damage
 item_desc
 EPIC CRYSTAL
 item_short_desc
-*BR* Weapon Epic III
+zBROld Weapon Epic III
 item_name
 + 90% Reduced Healing on Targets
 item_desc
 LEGENDARY CRYSTAL
 item_short_desc
-*BR* Weapon Legendary I
+zBROld Weapon Legendary I
 item_name
 + 100% Damage
 item_desc
@@ -129581,73 +129581,73 @@ Elven Road
 PALADINS_BG_AREA_ElvenRoad
 RARE HELMET
 item_short_desc
-*BR* Time Rare I
+zBROld Time Rare I
 item_name
 + 20% Cooldown Reduction
 item_desc
 EPIC HELMET
 item_short_desc
-*BR* Time Epic III
+zBROld Time Epic III
 item_name
 + 45% Ultimate Charge Rate
 item_desc
 EPIC HELMET
 item_short_desc
-*BR* Time Epic II
+zBROld Time Epic II
 item_name
 + 60% Reload Speed
 item_desc
 EPIC HELMET
 item_short_desc
-*BR* Time Epic I
+zBROld Time Epic I
 item_name
 + 30% Cooldown Reduction
 item_desc
 LEGENDARY HELMET
 item_short_desc
-*BR* Time Legendary I
+zBROld Time Legendary I
 item_name
 + 50% Cooldown Reduction
 item_desc
 Uncommon Pendant
 item_short_desc
-*BR* Healing Uncommon I
+zBROld Healing Uncommon I
 item_name
 + 10% Healing Given
 item_desc
 Rare Pendant
 item_short_desc
-*BR* Healing Rare I
+zBROld Healing Rare I
 item_name
 + 20% Healing Given
 item_desc
 Epic Pendant
 item_short_desc
-*BR* Healing Epic II
+zBROld Healing Epic II
 item_name
 + 50% Lifesteal
 item_desc
 Epic Pendant
 item_short_desc
-*BR* Healing Epic III
+zBROld Healing Epic III
 item_name
 50% Healing Received
 item_desc
 Epic Pendant
 item_short_desc
-*BR* Healing Epic I
+zBROld Healing Epic I
 item_name
 + 30% Healing Given
 item_desc
 Legendary Pendant
 item_short_desc
-*BR* Healing Legendary I
+zBROld Healing Legendary I
 item_name
 + 50% Healing Given
 item_desc
 Rare Armor
 item_short_desc
-*BR* Armor Rare I
+zBROld Armor Rare I
 item_name
 + 20% Max Health
 item_desc
@@ -130083,7 +130083,7 @@ Jotunn Collection
 ITEM_name
 Jotunn Spray
 item_name
-*BR* Boots Epic III
+zBROld Boots Epic III
 item_name
 + 45% Mount Speed
 item_desc
@@ -130157,105 +130157,105 @@ SLT - Collection - Jenos - Eclipse
 Loot_Table_name
 Eclipse Collection
 ITEM_name
-*BR* Armor Uncommon II
+zBROld Armor Uncommon II
 item_name
 + 10% Shield and Deployable Health
 item_desc
-*BR* Armor Uncommon III
+zBROld Armor Uncommon III
 item_name
 + 1% Health per Second
 item_desc
 Rare Armor
 item_short_desc
-*BR* Armor Rare II
+zBROld Armor Rare II
 item_name
 +20% Shield and Deployable Health
 item_desc
-*BR* Boots Uncommon II
+zBROld Boots Uncommon II
 item_name
 - 20% Out of Combat Time 
 item_desc
-*BR* Boots Uncommon III
+zBROld Boots Uncommon III
 item_name
 + 15% Mount Speed
 item_desc
-*BR* Weapon Rare II
+zBROld Weapon Rare II
 item_name
 + 150% Shield Damage
 item_desc
-*BR* Weapon Uncommon II
+zBROld Weapon Uncommon II
 item_name
 - 30% Reduced Healing on Targets
 item_desc
-*BR* Weapon Uncommon III
+zBROld Weapon Uncommon III
 item_name
 + 75% Shield Damage
 item_desc
-*BR* Helmet Rare II
+zBROld Helmet Rare II
 item_name
 - 20% Headshot Damage
 item_desc
-*BR* Helmet Uncommon II
+zBROld Helmet Uncommon II
 item_name
 - 10% Headshot Damage
 item_desc
-*BR* Helmet Uncommon III
+zBROld Helmet Uncommon III
 item_name
 + 50% Stealth Detection
 item_desc
-*BR* Boots Rare II
+zBROld Boots Rare II
 item_name
 - 40% Out of Combat Time
 item_desc
-*BR* Healing Rare II
+zBROld Healing Rare II
 item_name
 + 30% Lifesteal
 item_desc
-*BR* Healing Uncommon II
+zBROld Healing Uncommon II
 item_name
 + 20% Lifesteal
 item_desc
-*BR* Healing Uncommon III
+zBROld Healing Uncommon III
 item_name
 + 20% Healing Received
 item_desc
-*BR* Time Rare II
+zBROld Time Rare II
 item_name
 + 40% Reload Speed
 item_desc
-*BR* Time Uncommon II
+zBROld Time Uncommon II
 item_name
 + 20% Reload Speed
 item_desc
-*BR* Time Uncommon III
+zBROld Time Uncommon III
 item_name
 + 15% Ultimate Charge Rate
 item_desc
 OldKhanF
 item_name
-*BR* Weapon Rare III
+zBROld Weapon Rare III
 item_name
 - 60% Reduced Healing on Targets
 item_desc
 Rare Armor
 item_short_desc
-*BR* Armor Rare III
+zBROld Armor Rare III
 item_name
 + 2% Health per Second
 item_desc
-*BR* Helmet Rare III
+zBROld Helmet Rare III
 item_name
 + 100% Stealth Detection
 item_desc
-*BR* Boots Rare III
+zBROld Boots Rare III
 item_name
 + 30% Mount Speed
 item_desc
-*BR* Healing Rare III
+zBROld Healing Rare III
 item_name
 + 30% Healing Received
 item_desc
-*BR* Time Rare III
+zBROld Time Rare III
 item_name
 + 30% Ultimate Charge Rate
 item_desc
@@ -130463,25 +130463,25 @@ Obtainable in the Valentine Chest.
 ITEM_desc
 Copy of Colossal Chest x15
 ITEM_name
-Badlands
-PALADINS_BG_AREA_POI_1
-Docks
-PALADINS_BG_AREA_POI_2
-Snow Town
-PALADINS_BG_AREA_POI_3
-Lumber Yard
-PALADINS_BG_AREA_POI_4
-Old Town
-PALADINS_BG_AREA_POI_5
-Three Hills
-PALADINS_BG_AREA_POI_6
-Ruins
-PALADINS_BG_AREA_POI_7
-Temple
-PALADINS_BG_AREA_POI_8
-Farms
-PALADINS_BG_AREA_POI_9
 Citadel
+PALADINS_BG_AREA_POI_1
+Fort
+PALADINS_BG_AREA_POI_2
+Sentinel Hold
+PALADINS_BG_AREA_POI_3
+Icehaven
+PALADINS_BG_AREA_POI_4
+Northport
+PALADINS_BG_AREA_POI_5
+Gun Town
+PALADINS_BG_AREA_POI_6
+Lost Shore
+PALADINS_BG_AREA_POI_7
+Serpent's Rise
+PALADINS_BG_AREA_POI_8
+Jaguar Forest
+PALADINS_BG_AREA_POI_9
+Lumberfall
 PALADINS_BG_AREA_POI_10
 37Shotgun
 item_name
@@ -130489,21 +130489,21 @@ Primary fire short blast
 DEVICE_desc
 Fire Sound
 EFFECT_GROUP_name
-*BR* Pet Health Test
+zBROld Pet Health Test
 item_name
 *BR2* Illuminate Uncommon
 item_name
-+ 100% Stealth Reveal Range
+zDeprecated + 100% Stealth Reveal Range
 item_desc
 *BR2* Illuminate Rare
 item_name
-+ 200% Stealth Reveal Range
+zDeprecated + 200% Stealth Reveal Range
 item_desc
 SLT - Chest - REKT Chest - Epic Skins - Exclusive
 Loot_Table_name
 *BR2* Resilience Uncommon
 item_name
-- 30% Crowd Control Duration
+zDeprecated - 30% Crowd Control Duration
 item_desc
 Resilience
 EFFECT_GROUP_name
@@ -130513,15 +130513,15 @@ Resilience
 EFFECT_GROUP_name
 *BR2* Illuminate Epic
 item_name
-+ 300% Stealth Reveal Range
+zDeprecated + 300% Stealth Reveal Range
 item_desc
 *BR2* Illuminate Legendary
 item_name
-+25% Damage*+ 300% Stealth Reveal Range
+zDeprecated +25% Damage*+ 300% Stealth Reveal Range
 item_desc
 *BR2* Resilience Legendary
 item_name
-+25% Damage*- 90% Crowd Control Duration
+zDeprecated +25% Damage*- 90% Crowd Control Duration
 item_desc
 Resilience
 EFFECT_GROUP_name
@@ -130531,55 +130531,55 @@ Resilience
 EFFECT_GROUP_name
 *BR2* Resilience Rare
 item_name
-- 60% Crowd Control Duration
+zDeprecated - 60% Crowd Control Duration
 item_desc
 *BR2* Resilience Epic
 item_name
-- 90% Crowd Control Duration
+zDeprecated - 90% Crowd Control Duration
 item_desc
 *BR2* Haven Uncommon
 item_name
-- 7% Direct Damage Taken
+zDeprecated - 7% Direct Damage Taken
 item_desc
 *BR2* Haven Rare
 item_name
-- 14% Direct Damage Taken
+zDeprecated - 14% Direct Damage Taken
 item_desc
 *BR2* Haven Epic
 item_name
-- 21% Direct Damage Taken
+zDeprecated - 21% Direct Damage Taken
 item_desc
 *BR2* Haven Legendary
 item_name
-+25% Health*- 21% Direct Damage Taken
+zDeprecated +25% Health*- 21% Direct Damage Taken
 item_desc
 *BR2* Blast Shields Uncommon
 item_name
-- 7% AoE Damage Taken
+zDeprecated - 7% AoE Damage Taken
 item_desc
 *BR2* Blast Shields Rare
 item_name
-- 14% AoE Damage Taken
+zDeprecated - 14% AoE Damage Taken
 item_desc
 *BR2* Blast Shields Epic
 item_name
-- 21% AoE Damage Taken
+zDeprecated - 21% AoE Damage Taken
 item_desc
 *BR2* Morale Boost Uncommon
 item_name
-+ 15% Ultimate Charge Rate
+zDeprecated + 15% Ultimate Charge Rate
 item_desc
 *BR2* Morale Boost Rare
 item_name
-+ 30% Ultimate Charge Rate
+zDeprecated + 30% Ultimate Charge Rate
 item_desc
 *BR2* Morale Boost Epic
 item_name
-+ 45% Ultimate Charge Rate
+zDeprecated + 45% Ultimate Charge Rate
 item_desc
 *BR2* Nimble Uncommon
 item_name
-+ 10% Movement Speed
+zDeprecated + 10% Movement Speed
 item_desc
 Nimble
 EFFECT_GROUP_name
@@ -130589,15 +130589,15 @@ Nimble
 EFFECT_GROUP_name
 *BR2* Nimble Rare
 item_name
-+ 20% Movement Speed
+zDeprecated + 20% Movement Speed
 item_desc
 *BR2* Nimble Epic
 item_name
-+ 30% Movement Speed
+zDeprecated + 30% Movement Speed
 item_desc
 *BR2* Master Riding Uncommon
 item_name
-+ 15% Mount Speed
+zDeprecated + 15% Mount Speed
 item_desc
 Master Riding
 EFFECT_GROUP_name
@@ -130607,15 +130607,15 @@ Master Riding
 EFFECT_GROUP_name
 *BR2* Master Riding Rare
 item_name
-+ 30% Mount Speed
+zDeprecated + 30% Mount Speed
 item_desc
 *BR2* Master Riding Epic
 item_name
-+ 45% Mount Speed
+zDeprecated + 45% Mount Speed
 item_desc
 *BR2* Chronos Uncommon
 item_name
-+ 10% CDR
+zDeprecated + 10% CDR
 item_desc
 Chronos
 EFFECT_GROUP_name
@@ -130625,15 +130625,15 @@ Chronos
 EFFECT_GROUP_name
 *BR2* Chronos Rare
 item_name
-+ 20% CDR
+zDeprecated + 20% CDR
 item_desc
 *BR2* Chronos Epic
 item_name
-+ 30% CDR
+zDeprecated + 30% CDR
 item_desc
 *BR2* Veteran Uncommon
 item_name
-+ 4% Health Per Second Out of Combat
+zDeprecated + 4% Health Per Second Out of Combat
 item_desc
 -72% * Combat Duration
 DEVICE_name
@@ -130649,63 +130649,63 @@ Combat duration is reduced by 72%.
 DEVICE_desc
 *BR2* Veteran Rare
 item_name
-+ 8% Health Per Second Out of Combat
+zDeprecated + 8% Health Per Second Out of Combat
 item_desc
 *BR2* Veteran Epic
 item_name
-+ 12% Health Per Second Out of Combat
+zDeprecated + 12% Health Per Second Out of Combat
 item_desc
 *BR2* Rejuvenate Uncommon
 item_name
-+ 10% Healing from Others
+zDeprecated + 10% Healing from Others
 item_desc
 *BR2* Rejuvenate Rare
 item_name
-+ 20% Healing from Others
+zDeprecated + 20% Healing from Others
 item_desc
 *BR2* Rejuvenate Epic
 item_name
-+ 30% Healing from Others
+zDeprecated + 30% Healing from Othersz
 item_desc
 *BR2* Morale Boost Legendary
 item_name
-+ 25% Health*+ 45% Ultimate Charge Rate
+zDeprecated + 25% Health*+ 45% Ultimate Charge Rate
 item_desc
 ZdeprecatedCopy of *BR2* Morale Boost Legendary
 item_name
-[Armor] Increase your Ultimate charge rate by {45}%. 
+zDeprecated [Armor] Increase your Ultimate charge rate by {45}%.
 item_desc
 *BR2* Life Rip Uncommon
 item_name
-+ 10% Lifesteal
+zDeprecated + 10% Lifesteal
 item_desc
 *BR2* Blast Shields Legendary
 item_name
-+25% Health*- 21% AoE Damage Taken
+zDeprecated +25% Health*- 21% AoE Damage Taken
 item_desc
 *BR2* Life Rip Rare
 item_name
-+ 20% Lifesteal
+zDeprecated + 20% Lifesteal
 item_desc
 *BR2* Life Rip Epic
 item_name
-+ 30% Lifesteal
+zDeprecated + 30% Lifesteal
 item_desc
 *BR2* Nimble Legendary
 item_name
-+ 25% Damage*+ 30% Movement Speed
+zDeprecated + 25% Damage*+ 30% Movement Speed
 item_desc
 Nimble
 EFFECT_GROUP_name
 *BR2* Master Riding Legendary
 item_name
-+ 25% Damage*+ 45% Mount Speed
+zDeprecated + 25% Damage*+ 45% Mount Speed
 item_desc
 Master Riding
 EFFECT_GROUP_name
 *BR2* Kill to Heal Uncommon
 item_name
-+ 300 Health on Kill
+zDeprecated + 300 Health on Kill
 item_desc
 You have been healed.
 EFFECT_GROUP_desc
@@ -130721,37 +130721,37 @@ Kill To Heal
 EFFECT_GROUP_name
 *BR2* Chronos Legendary
 item_name
- 25% Health*+ 30% CDR
+zDeprecated 25% Health*+ 30% CDR
 item_desc
 Chronos
 EFFECT_GROUP_name
 *BR2* Kill to Heal Rare
 item_name
-+ 600 Health on Kill
+zDeprecated + 600 Health on Kill
 item_desc
 *BR2* Kill to Heal Epic
 item_name
-+ 900 Health on Kill
+zDeprecated + 900 Health on Kill
 item_desc
 *BR2* Deft Hands Uncommon
 item_name
-+ 20% Reload Speed
+zDeprecated + 20% Reload Speed
 item_desc
 *BR2* Veteran Legendary
 item_name
- +25% Damage*+ 12% Health Per Second Out of Combat
+zDeprecated +25% Damage*+ 12% Health Per Second Out of Combat
 item_desc
 *BR2* Deft Hands Rare
 item_name
-+ 40% Reload Speed
+zDeprecated + 40% Reload Speed
 item_desc
 *BR2* Deft Hands Epic
 item_name
-+ 60% Reload Speed
+zDeprecated + 60% Reload Speed
 item_desc
 *BR2* Bulldozer Uncommon
 item_name
-+ 50% Deployable Damage
+zDeprecated + 50% Deployable Damage
 item_desc
 Battle Focus
 EFFECT_GROUP_name
@@ -130761,23 +130761,23 @@ Battle Focus
 EFFECT_GROUP_name
 *BR2* Rejuvenate Legendary
 item_name
-+ 25% Health*+ 30% Healing from Others
+zDeprecated + 25% Health*+ 30% Healing from Others
 item_desc
 *BR2* Bulldozer Rare
 item_name
-+ 100% Deployable Damage
+zDeprecated + 100% Deployable Damage
 item_desc
 *BR2* Bulldozer Epic
 item_name
-+ 150% Deployable Damage
+zDeprecated + 150% Deployable Damage
 item_desc
 *BR2* Life Rip Legendary
 item_name
-+ 25% Health*+ 30% Lifesteal
+zDeprecated + 25% Health*+ 30% Lifesteal
 item_desc
 *BR2* Wrecker Uncommon
 item_name
-+ 75% Shield Damage
+zDeprecated + 75% Shield Damage
 item_desc
 Battle Focus
 EFFECT_GROUP_name
@@ -130787,7 +130787,7 @@ Battle Focus
 EFFECT_GROUP_name
 *BR2* Kill to Heal Legendary
 item_name
-+ 900 Health on Kill
+zDeprecated + 900 Health on Kill
 item_desc
 You have been healed.
 EFFECT_GROUP_desc
@@ -130797,43 +130797,43 @@ EFFECT_GROUP_name
 Loot_Table_name
 *BR2* Wrecker Rare
 item_name
-+ 150% Shield Damage
+zDeprecated + 150% Shield Damage
 item_desc
 *BR2* Wrecker Epic
 item_name
-+ 225% Shield Damage
+zDeprecated + 225% Shield Damage
 item_desc
 *BR2* Cauterize Uncommon
 item_name
-- 30% Reduced Healing on Targets
+zDeprecated - 30% Reduced Healing on Targets
 item_desc
 *BR2* Cauterize Rare
 item_name
-- 60% Reduced Healing on Targets
+zDeprecated - 60% Reduced Healing on Targets
 item_desc
 *BR2* Cauterize Epic
 item_name
-+ 90% Reduced Healing on Targets
+zDeprecated + 90% Reduced Healing on Targets
 item_desc
 *BR2* Deft Hands Legendary
 item_name
-+ 25% Damage*+ 60% Reload Speed
+zDeprecated + 25% Damage*+ 60% Reload Speed
 item_desc
 *BR2* Bulldozer Epic Legendary
 item_name
-+ 25% Damage*+ 150% Deployable Damage
+zDeprecated + 25% Damage*+ 150% Deployable Damage
 item_desc
 Battle Focus
 EFFECT_GROUP_name
 *BR2* Wrecker Legendary
 item_name
-+ 25% Health*+ 225% Shield Damage
+zDeprecated + 25% Health*+ 225% Shield Damage
 item_desc
 Battle Focus
 EFFECT_GROUP_name
 *BR2* Cauterize Legendary
 item_name
-+ 25% Health*+ 90% Reduced Healing on Targets
+zDeprecated + 25% Health*+ 90% Reduced Healing on Targets
 item_desc
 SLT - TC - Set - Viktor - Charcoal-RENTAL - 15 Day
 Loot_Table_name
@@ -131083,7 +131083,7 @@ Booster Bundle - Lex
 Loot_Table_name
 Booster Bundle - Lian
 Loot_Table_name
-*BR* Streak Modifier
+zBROld Streak Modifier
 item_name
 Booster Bundle - Maeve
 Loot_Table_name
@@ -131168,7 +131168,7 @@ Storm Bolter 6
 item_name
 Bolter
 DEVICE_name
-*BR* Side Arm
+zBROld Side Arm
 item_name
 A semi-automatic pistol that deals 250 damage per shot.
 item_desc
@@ -131284,20 +131284,20 @@ Default
 ITEM_desc
 Default BRMale
 ITEM_name
-*BR* Assault Rifle
+zBROld Assault Rifle
 item_name
 Fire one shot every 0.1 seconds that deals 130 damage. Effective up to Medium Range. 
 Bonus Damage: The first four rounds in your magazine each deal 40 additional damage.
 item_desc
 Default
 ITEM_desc
-*BR* Default Assault Rifle
+zBROld Default Assault Rifle
 ITEM_name
-*BR* Light Machine Gun
+zBROld Light Machine Gun
 item_name
 Fire a shot every 0.14s dealing 170 damage. Effective up to Medium range. While firing you move 50% slower.
 item_desc
-*BR* Healing Potion
+zBROld Healing Potion
 item_name
 Throw a healing potion that heals teammates for 1200 Health when it explodes. Reactivating the ability will instantly cause Healing Potion to explode.
 item_desc
@@ -131315,58 +131315,58 @@ Healing Potion
 EFFECT_GROUP_name
 Default
 ITEM_desc
-*BR* Default LMG
+zBROld Default LMG
 ITEM_name
-*BR* Blossom
+zBROld Blossom
 item_name
 Passively Heal nearby allies for 80 health a second. Activate this ability to heal nearby allies instantly for 900.
 item_desc
-*BR* Sensor Drone
+zBROld Sensor Drone
 item_name
 Throw out a deployable sensor that reveals enemies to you in a large radius.
 item_desc
-*BR* Sniper Rifle
+zBROld Sniper Rifle
 item_name
 A powerful rifle that fires one 1200 damage shot every second.
 item_desc
 Default
 ITEM_desc
-*BR* Default Talon Rifle
+zBROld Default Talon Rifle
 ITEM_name
-*BR* Grumpy Bomb
+zBROld Grumpy Bomb
 item_name
 Throw a Grumpy Bomb that grows angrier over 3s, exploding dealing 800 damage and stunning all targets in range for 2s.
 item_desc
-*BR* Precision Sights
+zBROld Precision Sights
 item_name
 Look down the barrel of your machine gun. You gain improved accuracy but move 50% slower. The slow does not stack with firing your gun.
 item_desc
-*BR* Scope
+zBROld Scope
 item_name
 Look down your scope and gain pin point accuracy.
 Flare: Fire a flare that reveals enemies in a large radius.
 item_desc
-*BR* Auto Rifle
+zBROld Auto Rifle
 item_name
 Fire one shot every 0.09 seconds that deals 120 damage. Effective up to Medium Range.
 item_desc
 Default
 ITEM_desc
-*BR* Default Auto Rifle
+zBROld Default Auto Rifle
 ITEM_name
-*BR* Crossbow
+zBROld Crossbow
 item_name
 A crossbow that deals 680 damage every .75 seconds.
 item_desc
-*BR* Healing Totem
+zBROld Healing Totem
 item_name
 Deploy a totem with 1000 health that heals nearby allies for 420 Health every second and lasts 6 seconds.
 item_desc
 Default
 ITEM_desc
-*BR* Default Crossbow
+zBROld Default Crossbow
 ITEM_name
-*BR* Healing Totem Subdevice
+zBROld Healing Totem Subdevice
 item_name
 Heal within the AoE.
 EFFECT_GROUP_desc
@@ -131376,15 +131376,15 @@ EFFECT_GROUP_name
 Deployable_name
 Main Deployable used by Grohk's Totemic Ward ability. No shield unless Grohk Dome Deployable is set up to act like one.
 Deployable_desc
-*BR* Potion Launcher
+zBROld Potion Launcher
 item_name
 A custom launcher that fires volatile potions every 1s that explode in an area on impact dealing 600 damage per hit.
 item_desc
 Default
 ITEM_desc
-*BR* Default Potion Launcher
+zBROld Default Potion Launcher
 ITEM_name
-*BR* Shotgun
+zBROld Shotgun
 item_name
 A massive shotgun that fires 20 small pieces of shrapnel that deal up to 700 damage every 1s. Effective at Short Range.
 item_desc
@@ -131394,17 +131394,17 @@ Fire Sound
 EFFECT_GROUP_name
 Default
 ITEM_desc
-*BR* Default Shotgun
+zBROld Default Shotgun
 ITEM_name
-*BR* Long Bow
+zBROld Long Bow
 item_name
 A long bow that draws back an arrow and releases it for up to 1000 damage every 1.5s.
 item_desc
 Default
 ITEM_desc
-*BR* Default Long Bow
+zBROld Default Long Bow
 ITEM_name
-*BR* Magnums
+zBROld Magnums
 item_name
 Dual semi-automatic magnums that deal 350 damage per shot. Effective up to Medium range.
 item_desc
@@ -131416,13 +131416,13 @@ Alt Fire for Lawman's Pursuit
 DEVICE_desc
 Default
 ITEM_desc
-*BR* Default Magnums
+zBROld Default Magnums
 ITEM_name
 Default
 ITEM_desc
-*BR* Default Revolver
+zBROld Default Revolver
 ITEM_name
-*BR* Revolver
+zBROld Revolver
 item_name
 A six shot semi-automatic revolver that deals 580 damage per shot every .36s. Effective at Short Range.
 item_desc
@@ -131430,23 +131430,23 @@ Revolver
 DEVICE_name
 *BR* Vivian Ward Deployable
 Deployable_name
-*BR* Churchill Ward Subdevice
+zBROld Churchill Ward Subdevice
 item_name
-*BR* Daggers
+zBROld Daggers
 item_name
 Throw two Daggers every second that each deal 400 Damage.
 item_desc
 Crossbow Fire Sound
 EFFECT_GROUP_name
-*BR* Gourd
+zBROld Gourd
 item_name
 Toss a gourd full of venom that heals allies for 280 Health every second and damages enemies for 200 Damage every second.
 item_desc
 Default
 ITEM_desc
-*BR* Default Daggers
+zBROld Default Daggers
 ITEM_name
-*BR* Rocket Launcher
+zBROld Rocket Launcher
 item_name
 Bombard lesser creatures with explosive rockets that deal 850 damage per shot every 0.85 seconds.
 item_desc
@@ -131460,56 +131460,56 @@ Self Damage
 EFFECT_GROUP_name
 Default
 ITEM_desc
-*BR* Default Rocket Launcher
+zBROld Default Rocket Launcher
 ITEM_name
 *BR* MalDamba Gourd Deployable
 Deployable_name
-*BR* Gourd Subdevice
+zBROld Gourd Subdevice
 item_name
-*BR* Barricade
+zBROld Barricade
 item_name
 Deploy a barricade that provides cover. Barricade has 5000 health and lasts 4 seconds or until destroyed.
 item_desc
 *BR* Barik Barricade Deployable
 Deployable_name
-*BR* Thrust
+zBROld Thrust
 item_name
 Jet upwards into the air. Hold <CMD=GBA_Jump> to use your booster.
 item_desc
-*BR* Frag Grenade
+zBROld Frag Grenade
 item_name
 Throw a fragmentation grenade dealing up to 750 damage. Holding <CMD=GBA_Ability_2> will cook the grenade and reduce its detonation time. 
 Bonus Damage: Affected enemies take 15% increased damage from you for 4s.
 item_desc
-*BR* Blink
+zBROld Blink
 item_name
 Teleport forward a short distance.
 item_desc
 camera fx
 EFFECT_GROUP_name
-*BR* Fire Bomb
+zBROld Fire Bomb
 item_name
 Hurl an incendiary device that leaves a pool of fire for 6s. Enemies that contact the fire will burn for 9% of their maximum health over 0.6s and have their healing reduced by 50%. Continued Contact refreshes this effect. 
 item_desc
-*BR* Fire Bomb Subdevice
+zBROld Fire Bomb Subdevice
 item_name
-*BR* Withdraw
+zBROld Withdraw
 item_name
 Leap backwards and enter stealth for 2s, leaving a mirage at your original location for 3.5s.
 item_desc
 *BR* Salty Molotov Deployable
 Deployable_name
-*BR* Heroic Leap
+zBROld Heroic Leap
 item_name
 Buck leaps an incredible height and distance.
 item_desc
 Leap Activate Sound
 EFFECT_GROUP_name
-*BR* Charge
+zBROld Charge
 item_name
 Dash forward at great speed dealing 200 damage.
 item_desc
-*BR* Recovery
+zBROld Recovery
 item_name
 Channel your inner energy and heal for 1000 Health over 1.5s.
 item_desc
@@ -131517,20 +131517,20 @@ Recovery
 EFFECT_GROUP_name
 Fire Sound
 EFFECT_GROUP_name
-*BR* Hidden
+zBROld Hidden
 item_name
 Enter stealth for 7.5 seconds. Getting too close to enemy players will reveal you while in stealth.
 item_desc
 Stealth
 EFFECT_GROUP_name
-*BR* Oppressor Mine Subdevice
+zBROld Oppressor Mine Subdevice
 item_name
-*BR* Oppressor Mine
+zBROld Oppressor Mine
 item_name
 Kinessa throws out up to 2 mines that deal 4 damage every .2s to connected enemies. Oppressor Mines slow affected players by 30%. 
 Bonus Damage: Your Carbine deals 30% increased damage to enemies affected by Oppressor Mines.
 item_desc
-*BR* Ghost Walk
+zBROld Ghost Walk
 item_name
 Become untargetable and gain 20% movement speed for 1s. Removes all debuffs on use.
 item_desc
@@ -131556,7 +131556,7 @@ Loot_Table_name
 Loot_Table_name
 *BR2* Ability2 Vendor
 Loot_Table_name
-*BR* Emitter
+zBROld Emitter
 item_name
 Create an energy shield around yourself for 3.5s, absorbing 2500 damage. Nearby enemies are slowed by 10% for 2s.
 item_desc
@@ -131660,19 +131660,19 @@ Support Generic Key - Diamond Chest
 ITEM_name
 Guarantees Chest drops only unique items for Support Class 
 ITEM_desc
-*BR* Legendary Frontline
+zBROld Legendary Frontline
 item_name
 Increase your health by 200.
 item_desc
-*BR* Legendary Support
+zBROld Legendary Support
 item_name
 Heal for 15% more.
 item_desc
-*BR* Legendary Damage
+zBROld Legendary Damage
 item_name
 Deal 5% more damage.
 item_desc
-*BR* Legendary Flank
+zBROld Legendary Flank
 item_name
 Increase your Movement Speed by 15%.
 item_desc
@@ -131711,7 +131711,7 @@ Recurring Champion Chest Bundle
 ITEM_name
 Default
 ITEM_desc
-*BR* Default Side Arm
+zBROld Default Side Arm
 ITEM_name
 Tencent Hats Chest
 item_name
@@ -132045,7 +132045,7 @@ Battle Focus
 EFFECT_GROUP_name
 Bloodthirst I
 item_name
-Gain {2|2}% Lifesteal.
+Gain {scale=2|2}% Lifesteal.
 item_desc
 Androxus Recurring Champion Chest Recipe
 Loot_Table_name
@@ -132085,7 +132085,7 @@ Gain {scale=3|3}% damage reduction for 3s when hitting an enemy with Commander's
 item_desc
 Martial Law I
 item_name
-Hitting an enemy with Grab generates {scale=2|2} ammo.
+Hitting an enemy with Commander's Grab generates {scale=2|2} ammo.
 item_desc
 Chokehold I
 item_name
@@ -132129,7 +132129,7 @@ Produced
 Loot_Table_Items_name
 Vortex Grip I
 item_name
-After hitting an enemy with a grab you may follow up with a shoulder charge knocking them back and dealing {scale=340|20} damage.
+After hitting an enemy with Commander's Grab you may follow up with a shoulder charge knocking them back and dealing {scale=340|20} damage.
 item_desc
 Androxus Recurring Chest Receipt
 ITEM_name
@@ -132204,11 +132204,424 @@ ITEM_name
 SND_Notify_TeamWiped_Global
 SND_Notify_TeamWon_Global
 SND_Notify_BGZeppelinInTransit_Global
-SND_Notify_BGChickenState_Global
+SND_Notify_BGChickenState_Into_Global
 SND_Notify_IslandWaiting_Global
 Obtainable in the Deep Space Chest
 ITEM_desc
 SND_Notify_TeammateDied_Global
+SND_Notify_BGChickenState_OutOf_Global
+SLT - Set - Grover - Doom Shroom-RENTAL - 15 Day
+Loot_Table_name
+SLT - TC - Set - Zhin - Ebon Star Rental 15 Day
+Loot_Table_name
+SLT - TC - SET - Fernando - God of War-RENTAL 15 Day
+Loot_Table_name
+SLT - TC - Set - Makoa - Cuddly-RENTAL 15 Day
+Loot_Table_name
+SLT - TC - Set - Buck - Triggerman
+Loot_Table_name
+SLT - TC - Set - Buck - Triggerman 1 Day
+Loot_Table_name
+SLT - TC - Set - Buck - Triggerman 15 Day
+Loot_Table_name
+SLT - TC -  Set - Lex - L-Exo-RENTAL 15 Day
+Loot_Table_name
+SLT - TC - Set - Viktor - V1-KTOR-RENTAL 15 Day
+Loot_Table_name
+SLT - TC - Set - BombKing - Pumpking-RENTAL 15 Day
+Loot_Table_name
+SLT - TC - Set - Grohk - Brimstone Rental 15 Day
+Loot_Table_name
+SLT - TC - Set - Ruckus - Starslayer-RENTAL 15 Day
+Loot_Table_name
+Obsidian Mastery
+ITEM_desc
+Obsidian Pauldrons
+ITEM_name
+Obsidian Mastery
+ITEM_short_desc
+Cosmic Mastery
+ITEM_short_desc
+Cosmic Mastery
+ITEM_desc
+Cosmic Pauldrons
+ITEM_name
+Obsidian Khan
+ITEM_desc
+Obsidian Khan
+ITEM_name
+Obsidian Khan
+ITEM_short_desc
+Cosmic Khan
+ITEM_short_desc
+Cosmic Khan
+ITEM_desc
+Cosmic Khan
+ITEM_name
+Obsidian Mastery
+ITEM_desc
+Obsidian Heavy Repeater
+ITEM_name
+Obsidian Mastery
+ITEM_short_desc
+Cosmic Mastery
+ITEM_short_desc
+Cosmic Mastery
+ITEM_desc
+Cosmic Heavy Repeater
+ITEM_name
+Steadfast
+ITEM_short_desc
+Khan_Deck1
+ITEM_name
+Defend your house and your honor.
+ITEM_desc
+Field Marshal
+ITEM_short_desc
+Defend your house and your honor.
+ITEM_desc
+Khan_Deck2
+ITEM_name
+Inspiring Command
+ITEM_short_desc
+Defend your house and your honor.
+ITEM_desc
+Khan_Deck3
+ITEM_name
+Trinity Hills
+PALADINS_BG_AREA_POI_11
+Autumn Fields
+PALADINS_BG_AREA_POI_12
+Coldmist Village
+PALADINS_BG_AREA_POI_13
+S a n c t u a r y
+PALADINS_BG_AREA_BIOME_1
+E v e r f r o s t
+PALADINS_BG_AREA_BIOME_2
+B a d l a n d s
+PALADINS_BG_AREA_BIOME_3
+G r e e n s c a p e
+PALADINS_BG_AREA_BIOME_4
+T r o p i c s
+PALADINS_BG_AREA_BIOME_5
+zDelete
+Loot_Table_name
+Grumpy Bomb explodes faster.
+item_short_desc
+Rend Soul now stuns the victim when they are afflicted with 4 Soul Charges.
+item_short_desc
+Turrets now deal more damage, and have a faster Cooldown.
+item_short_desc
+Activating Nine Lives cleanses all Crowd Control effects and heals you.
+item_short_desc
+Heroic Leap now deals damage and knocks up enemies near where you land.
+item_short_desc
+Barik Turrets now shoot flames.
+item_short_desc
+Grumpy Bomb destroys all shields when it explodes and has a larger blast radius.
+item_short_desc
+Increase the passive healing and radius of Blossom.
+item_short_desc
+Recovery heals for an additional amount instantly and increases your maximum Health.
+item_short_desc
+Hitting an ally with Healing Potion increases your attack speed.
+item_short_desc
+Advance gains an extra charge, standing still causes Ruckus to jet upwards, and the cooldown of Advance is reduced.
+item_short_desc
+Gain Damage Reduction while Channeling Shoulder Bash.
+item_short_desc
+Fire Bomb now Cripples enemies and deals more damage.
+item_short_desc
+Impaler Arrow now explodes on contact for additional damage and knocks back all enemies in the radius, but can no longer stun.
+item_short_desc
+Heal during Hustle.
+item_short_desc
+Allies affected by Protection gain additional damage while shielded.
+item_short_desc
+Deal more damage from your first two Weapon Shots after Prowl ends.
+item_short_desc
+Increase Emitter's Shield Health.
+item_short_desc
+Increase Emitter's Shield Health.
+item_short_desc
+Siege Shield moves slower, has more Health, and is larger.
+item_short_desc
+Shatterfall now stuns enemies, but no longer slows.
+item_short_desc
+Reversal now always fires back and deals more minimum damage.
+item_short_desc
+Increase the Stealth duration of Withdraw and your first shot breaking Stealth deals more damage.
+item_short_desc
+Every tick of healing or damage from Gourd reduces the cooldown of Gourd.
+item_short_desc
+Deal bonus damage for your next shot after Dodge Roll.
+item_short_desc
+Shell Shield is now placed on the ground, is not Channeled, and lasts longer.
+item_short_desc
+Increase the damage of Blast Shot and reduce the Cooldown.
+item_short_desc
+Shatter now instantly heals your target for an amount health per active illusion, but consumes your illusions. The Cooldown of Shatter is reduced.
+item_short_desc
+Illusions can now target two allies when Healing, but Illusions heal for less.
+item_short_desc
+Champions affected by Shout now also deal increased damage.
+item_short_desc
+Healing Potion heals allies for more.
+item_short_desc
+Gain Damage Reduction and CC Immunity while using Combat Slide.
+item_short_desc
+Nade Launcher deals additional damage based on the target's missing Health.
+item_short_desc
+Dead Zone now deals more damage when the initial explosion hits an enemy.
+item_short_desc
+Gain a second charge of Protection.
+item_short_desc
+Healing allies with Blossom will heal them for an additional amount over time.
+item_short_desc
+Hunter's Mark's damage increase now benefits allies, it's damage increase is stronger, and has a reduced Cooldown.
+item_short_desc
+Salvo now activates instantly, always fires 6 shots, and deals more damage.
+item_short_desc
+Gourd now slows enemies in its area.
+item_short_desc
+Deal more damage after Soar ends.
+item_short_desc
+Increase the explosion size of Sticky Bombs.
+item_short_desc
+Charge now deals bonus damage.
+item_short_desc
+Fireball deals more damage and even more for each subsequent target hit.
+item_short_desc
+Dead Zone damages shields for half of their maximum Health per second, and its cooldown is reduced.
+item_short_desc
+Poppy Bomb now deals bonus damage and cripples.
+item_short_desc
+Hitting both daggers reduces the cooldown of Nine Lives.
+item_short_desc
+Increased the damage of each seedling and reduce their fuse time.
+item_short_desc
+Enemies inside Smoke Screen are silenced.
+item_short_desc
+Killing an enemy resets the Cooldown of Planted and Planted deals more damage.
+item_short_desc
+Smoke Screen now deals damage when it deploys.
+item_short_desc
+Heal for a portion of your maximum Health over the duration of Billow.
+item_short_desc
+Healing totem can now deploy at range and a portion of your healing to full health players becomes a shield.
+item_short_desc
+Oppressor Mines can now affect 2 more targets and Sniper Shots against enemies affected by Mines deal more damage.
+item_short_desc
+Increase the duration of Protection and Protection grants CC Immunity.
+item_short_desc
+Enemies affected by Void Grip are crippled and take additional damage over its duration.
+item_short_desc
+Transporter is now instant and its cooldown is reduced.
+item_short_desc
+Allies healed by Healing Totem receive CC Immunity and Healing Totem heals for more.
+item_short_desc
+Dimensional Link now heals you every time it is used.
+item_short_desc
+Reduce the Cooldown of Impasse as long as it is not destroyed.
+item_short_desc
+Deal bonus damage on your first Weapon Shot out of Hidden
+item_short_desc
+After hitting an enemy with Commander's Grab you may follow up with a shoulder charge knocking them back and dealing damage.
+item_short_desc
+Headshots deal an additional percent of your target's maximum health as damage.
+item_short_desc
+For every enemy you hit with Valor gain increased damage.
+item_short_desc
+Blink may be used a second time within 4s to return to the initial casting location and the cooldown of blink is reduced.
+item_short_desc
+Leave a cloud that heals allies and grants them movement speed.
+item_short_desc
+Warder's Field has increased radius and now cripples.
+item_short_desc
+Your Shield has an infinite Duration and the Cooldown is reduced.
+item_short_desc
+Increase Recharge's Duration.
+item_short_desc
+After hitting an enemy with Disengage, subsequent shots will deal an additional percent of their max Health in damage for 6s.
+item_short_desc
+Targets hit with Explosive Flask take increased damage from your Weapon Shots for 3s.
+item_short_desc
+When you cast Astral Mark on an ally, they are immediately healed for a percent of their max Health.
+item_short_desc
+When hitting an enemy with multiple bombs, each bomb after the first deals more damage.
+item_short_desc
+Fire Spit now knocks back and deals additional damage over 2s.
+item_short_desc
+Poison Bolts deals more damage, twice as fast.
+item_short_desc
+Receive more healing.
+item_short_desc
+Crippling Throw now roots and deals more damage.
+item_short_desc
+The amount of Booster you have also acts as a shield that can absorb damage.
+item_short_desc
+When receiving fatal damage, instead gain a shield.
+item_short_desc
+Successful hits with Revolver increase the damage of your next Defiance.
+item_short_desc
+Star Splitter fires slower and deals more damage.
+item_short_desc
+Nullify deals more damage.
+item_short_desc
+Regenerate a portion of your maximum Health when you reach low health.
+item_short_desc
+Net Shot grants bonus damage for as long as the target is slowed.
+item_short_desc
+Eliminations increase your maximum Health until you die. Stacks up to 5 times.
+item_short_desc
+Barricade gains more Health and its Cooldown is reduced.
+item_short_desc
+Weapon shots deal increasing damage.
+item_short_desc
+Increase your Maximum Health and gain CC Immunity during Ancient Rage.
+item_short_desc
+Gain bonus damage while using Iron Sights.
+item_short_desc
+Your shield recharges while it is raised.
+item_short_desc
+Deal more weapon damage. Any ally affected by your Astral Mark also deals more weapon damage.
+item_short_desc
+Detonating Magic Mark deals damage in an area.
+item_short_desc
+Your Weapon Shots reduce the Cooldown of Shock Pulse and Shock Pulse gains extra bounces.
+item_short_desc
+Killing an enemy resets all your Cooldowns and heals you.
+item_short_desc
+Increase the range and duration of Restore Soul.
+item_short_desc
+Eliminations reset the Cooldown of Pounce and Pounce deals more damage.
+item_short_desc
+Earthen Guard gains increased Damage Reduction and now grants CC Immunity.
+item_short_desc
+Gain bonus damage on your first shot after hitting an enemy with Dredge Anchor.
+item_short_desc
+Heal during Ice Block.
+item_short_desc
+Deal increased damage to low health enemies.
+item_short_desc
+If an Illusion is killed or expires, it triggers a Shatter explosion.
+item_short_desc
+Players you kill leave Health Drops that heal you for {scale=680|40} when picked up.
+item_short_desc
+Quickly killing dredge anchor targets resets it's cooldown.
+item_short_desc
+Kills increase your damage until you die.
+item_short_desc
+Countering an attack deals more damage and no longer takes you out of your Counter State.
+item_short_desc
+Each Soul Charge you detonate increases your Maximum Health and Weapon Damage until you die. Stacks up to 8 times.
+item_short_desc
+You may hold more charges of Missile Launcher and it deals increased damage.
+item_short_desc
+Frag Grenade deals more damage and has larger AoE.
+item_short_desc
+Mending Spirits heals additional Health upfront.
+item_short_desc
+Your knockbacks knock enemies back further based on their missing Health.
+item_short_desc
+Increase the Flight Speed of Booster.
+item_short_desc
+Your weapon shots reduce the effect of healing on your targets.
+item_short_desc
+Consecutive fully charged shots deal more damage.
+item_short_desc
+Heal all allies near your Restore Soul target.
+item_short_desc
+When you take lethal damage Ghost Walk activates and heals you for a portion of your maximum Health.
+item_short_desc
+When using Restore Soul on full health players, they gain a shield.
+item_short_desc
+[Weapon] Deal more damage to enemies within 20ft of you.
+item_short_desc
+Flare deals more Damage, its Projectile Speed is increased, and its Cooldown is reduced.
+item_short_desc
+Mending Spirits may now be cast on enemies to deal damage.
+item_short_desc
+Flame Lance now shoots fireballs.
+item_short_desc
+Eliminations during Buck Wild reset its duration and it charges faster.
+item_short_desc
+Headshots deal additional damage.
+item_short_desc
+[Evil Mojo] You deal 100% more damage to chickens and for every chicken that dies your ult recharges partially.
+item_short_desc
+Increase your Axe's damage.
+item_short_desc
+[Dragon Punch] Dragon Punch deals damage equal to your victims maximum health in a radius around their location and charges faster.
+item_short_desc
+[Whirl] Whirl does up increased damage based on your opponent's missing health.
+item_short_desc
+Increased damage while hip firing.
+item_short_desc
+All enemies within short range of you are revealed to you.
+item_short_desc
+Heal for a portion of the damage you deal.
+item_short_desc
+[Accursed Arm] Accursed Arm lasts 8s longer, can fire 8 more shots, and charges faster.
+item_short_desc
+Deal increased weapon damage if you hit all 5 shots.
+item_short_desc
+Consuming a victim of your ultimate recharges your ultimate and heals you.
+item_short_desc
+Direct shots deal increased damage.
+item_short_desc
+Targets below 65% Health are revealed to you and your Ultimate charge rate is increased.
+item_short_desc
+Blunderbuss fires faster.
+item_short_desc
+Your heavy swing is empowered.
+item_short_desc
+Assert Dominance now charges {scale=12.75|.75}% faster, stuns enemies, and causes them to take more damage.
+item_short_desc
+Pounce deals part of the target's missing health as bonus damage.
+item_short_desc
+Headshots deal increased damage.
+item_short_desc
+Deal more damage with Blitz Upper based on your opponent's missing health.
+item_short_desc
+Ice Storm deals more damage and costs less energy, but doesn't last as long.
+item_short_desc
+Weapon shots reduce ability cooldowns.
+item_short_desc
+Hitting all shots on the same target deals extra damage.
+item_short_desc
+Deal increased damage based on your missing Health.
+item_short_desc
+Blunderbuss now fires a slug.
+item_short_desc
+Part of all damage dealt to you is instead taken by your deployables if they are active.
+item_short_desc
+Killing your target grants a damage buff.
+item_short_desc
+Fire a slug round that no longer explodes.
+item_short_desc
+Crossbow shots deal increased damage at range.
+item_short_desc
+Draw your bow faster.
+item_short_desc
+Attack faster when you have no Charges of Calamity Blast.
+item_short_desc
+Spite now deals a portion of the targets maximum Health with every hit, grants Zhin damage immunity, and charges {scale=12.75|.75}% faster.
+item_short_desc
+Your first shot after Flutter deals increased damage.
+item_short_desc
+Enter the Battlgrounds
+Activity_Goal_title
+Play 10 Battlgrounds Games
+Activity_Goal_desc
+Enter the Battlgrounds
+Activity_Goal_name
+Enter the Battlegrounds
+Activity_title
+Play 10 Battlegrounds Games
+Activity_desc
+Play 10 Battlegrounds Games
+Activity_name
 None
 VV_TEXT
 Patrol
