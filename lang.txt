@@ -1283,8 +1283,6 @@ MISSION
 UI_Header_MISSION
 DESCRIPTION
 UI_Header_DESCRIPTION
-JOIN
-UI_Header_JOIN
 Wait for balanced team
 UI_Message_BalancedTeam
 Leave Mission
@@ -33745,11 +33743,11 @@ There's special music for Siege matches tied at 3-3.
 Game_Tip_tip
 Loading 32
 Game_Tip_title
-Radiant Chests that are earned every time you level up contain cards for all Champions!
+You can purchase Mastery Levels to unlock Champion Talents quicker! 
 Game_Tip_tip
 Loading 35
 Game_Tip_title
-Can you reach Champion Mastery 25?
+Level up your Champion to unlock Mastery Rewards.
 Game_Tip_tip
 Loading 36
 Game_Tip_title
@@ -34854,11 +34852,11 @@ Kill this monster to spawn a siege weapon for your team.
 Game_Tip_tip
 Standard Janus
 ITEM_name
-Season 1
+Season 2
 League_desc
-Season 1
+Season 2
 League_desc
-Season 1
+Season 2
 League_desc
 G.E.B. 1
 ITEM_name
@@ -41380,7 +41378,7 @@ DEVICE_desc
 DEVICE_name
 Teleport
 item_name
-[Blink] The range of Blink is increased by {scale=10|10}%
+[Blink] The range of Blink is increased by {scale=6|6}%
 item_desc
 Common Hammer
 item_short_desc
@@ -41594,7 +41592,7 @@ Headstrong
 EFFECT_GROUP_name
 Concussion
 item_name
-[Net Shot] Reduce the cooldown of Net Shot by {scale=1|1}s.
+[Net Shot] Reduce the cooldown of Net Shot by {scale=1.5|1.5}s.
 item_desc
 Seismic Wave
 item_name
@@ -46858,7 +46856,7 @@ EFFECT_GROUP_name
 item_short_desc
 Resilience
 item_name
-[Armor] Reduce the duration of Crowd Control and Slows by {30}%.
+[Armor] Reduce the duration and effectiveness of Crowd Control and Slows by {30}%.
 item_desc
 Resilience
 EFFECT_GROUP_name
@@ -50954,7 +50952,7 @@ EFFECT_GROUP_name
 item_short_desc
 Headstrong
 item_name
-[Armor] You cannot be slowed below {scale=60|10}% of your base movement speed.
+[Armor] Increase your maximum Health by {scale=50|50}.
 item_desc
 Headstrong
 EFFECT_GROUP_name
@@ -54418,7 +54416,7 @@ Low Health * Rocket Boots
 item_short_desc
 Failsafe
 item_name
-[Armor] Dropping below 50% of your max Health reduces the cooldown of Rocket Boots by {scale=20|20}%
+[Armor] Dropping below {scale=10|10}% of your max Health resets the cooldown of Rocket Boots.
 item_desc
 Inflame
 EFFECT_GROUP_name
@@ -56154,7 +56152,7 @@ Gain +100% Attack Speed and +50% Movement Speed for 4s after a kill.
 DEVICE_desc
 Victory Rush
 item_name
-[Weapon] Gain {scale=15|15}% Movement Speed for 12s after getting a kill.
+[Weapon] Gain {scale=10|10}% Movement Speed for 8s after getting a kill.
 item_desc
 Gain 80% Movement and 120% Attack Speed after a kill
 DEVICE_desc
@@ -64682,7 +64680,7 @@ Taking damage while mounted dismount you.
 Game_Tip_tip
 Fuel Efficiency
 item_name
-[Rocket Boots] Increase the duration of Rocket Boots by {scale=15|15}%
+[Rocket Boots] Increase the duration of Rocket Boots by {scale=0.15|0.15}s.
 item_desc
 Dismounted
 Game_Tip_title
@@ -65460,7 +65458,7 @@ DEVICE_desc
 item_short_desc
 Gentle Breeze
 item_name
-[Blossom] Allies gain {scale=8|8}% Movement Speed for 2s after being healed by Blossom.
+[Blossom] Allies gain {scale=8|8}% Movement Speed for 4s after being healed by Blossom.
 item_desc
 {40/80/120/160/200} HP/s * While Mounted
 item_short_desc
@@ -65665,7 +65663,7 @@ DEVICE_desc
 item_short_desc
 Tumble
 item_name
-[Armor] Gain {scale=10|10}% Crowd Control Reduction
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction
 item_desc
 You are on Fire.
 EFFECT_GROUP_desc
@@ -68127,7 +68125,7 @@ Weapon Attacks * 10% Slow
 item_short_desc
 Haunting
 item_name
-[Ghost Walk] Reduces the cooldown of Ghost Walk by {scale=0.5|0.5}s.
+[Ghost Walk] Reduces the cooldown of Ghost Walk by {scale=0.6|0.6}s.
 item_desc
 Your Movement Speed is reduced.
 EFFECT_GROUP_desc
@@ -70309,7 +70307,7 @@ Disruption
 EFFECT_GROUP_name
 Launch
 item_name
-[Charge] Increase the distance of Charge by {scale=10|10}%
+[Charge] Increase the distance of Charge by {scale=12|12}%
 item_desc
 Cluster
 item_name
@@ -70493,7 +70491,7 @@ Disruption
 EFFECT_GROUP_name
 Reload
 item_name
-[Healing Potion] Instantly reduce Healing Potion's Cooldown by {scale=0.5|0.5}s for each ally hit.
+[Healing Potion] Instantly reduce Healing Potion's Cooldown by {scale=0.6|0.6}s for each ally hit.
 item_desc
 Return To Lobby
 PALADINS_ReturnToLobby
@@ -70716,7 +70714,7 @@ item_name
 item_desc
 Acrobat's Trick
 item_name
-[Weapon] Reload {scale=5|5}% faster.
+[Weapon] Reload {scale=7|7}% faster.
 item_desc
 zDeprecated (Fortress card)
 item_name
@@ -70970,11 +70968,11 @@ Autofire Skye Stealth Long
 BOT_name
 Bully
 item_name
-[Net Shot] Gain {scale=10|10}% lifesteal against targets you hit with Net Shot.
+[Net Shot] Gain {scale=12|12}% lifesteal against targets you hit with Net Shot.
 item_desc
 Side Tanks
 item_name
-[Explosive Flask] Reduce the Cooldown of Explosive Flask by {scale=0.5|0.5}s.
+[Explosive Flask] Reduce the Cooldown of Explosive Flask by {scale=0.6|0.6}s.
 item_desc
 Fernando Shield Debug Deployable
 Deployable_name
@@ -71291,7 +71289,7 @@ EFFECT_GROUP_name
 item_short_desc
 Arc Lightning
 item_name
-[Shock Pulse] The bounce range of Shock Pulse is increased by {scale=10|10}%
+[Shock Pulse] The bounce range of Shock Pulse is increased by {scale=12|12}%
 item_desc
 Attackers have * -50% Atk Spd
 item_short_desc
@@ -71499,7 +71497,7 @@ item_short_desc
 item_short_desc
 From Above
 item_name
-[Weightless] Reduces the Cooldown of Weightless by {scale=1|1}s.
+[Weightless] Reduces the Cooldown of Weightless by {scale=.5|.5}s.
 item_desc
 Party Test (2v2)
 Match_Queue_name
@@ -71507,7 +71505,7 @@ Match_Queue_name
 item_short_desc
 Sky Warden
 item_name
-[Disengage] The Cooldown of Disengage is reduced by {scale=1.5|1.5}s when hitting an airborne target.
+[Disengage] Hitting an Enemy with Disengage heals you for {scale=125|125}.
 item_desc
 1% max hp +dmg
 DEVICE_short_desc
@@ -71555,7 +71553,7 @@ item_name
 item_desc
 Accelerator Field
 item_name
-[Barricade] You and your allies gain {scale=10|10}% Movement Speed for 3s when passing through Barricade.
+[Barricade] You and your allies gain {scale=10|10}% Movement Speed for 5s when passing through Barricade.
 item_desc
 +{10/20/30/40/50}% * Turret AS
 item_short_desc
@@ -71631,9 +71629,9 @@ zDELETE Competitive Rotate
 MSL_name
 1s Stun * Bombs in Hover
 item_short_desc
-Competitive Temple Ruins
+Ranked Temple Ruins
 map_game_friendly_name
-Competitive Temple Ruins
+Ranked Temple Ruins
 map_game_name
 Casual Enchanted Forest
 map_game_friendly_name
@@ -71643,9 +71641,9 @@ Casual Temple Ruins
 map_game_friendly_name
 Casual Temple Ruins
 map_game_name
-Competitive Enchanted Forest
+Ranked Enchanted Forest
 map_game_friendly_name
-Competitive Enchanted Forest
+Ranked Enchanted Forest
 map_game_name
 Accept
 PALADINS_ACCEPT
@@ -72426,7 +72424,7 @@ Dissipate
 item_name
 +2s Confuse * Exit Stealth
 item_short_desc
-[Smoke Screen] Gain {scale=15|15}% Movement Speed for 3s when entering Smoke Screen.
+[Smoke Screen] Gain {scale=10|10}% Movement Speed for 3s when entering Smoke Screen.
 item_desc
 Turret * {10}% Slow
 item_short_desc
@@ -73596,9 +73594,9 @@ Casual Enchanted Forest
 map_game_friendly_name
 Casual Enchanted Forest
 map_game_name
-Competitive Enchanted Forest
+Ranked Enchanted Forest
 map_game_friendly_name
-Competitive Enchanted Forest
+Ranked Enchanted Forest
 map_game_name
 Temple Ruins Live Map
 map_game_friendly_name
@@ -73644,7 +73642,7 @@ Casual Temple Ruins Siege
 map_game_friendly_name
 Casual Temple Ruins Siege
 map_game_name
-Competitive
+Ranked
 Match_Queue_name
 zOLD PvE Jaguar Falls
 MSL_name
@@ -73714,13 +73712,13 @@ Push Phase Ended
 Game_Tip_title
 The payload is now inactive. A new capture point will spawn soon.
 Game_Tip_tip
-Competitive Enchanted Forest
+Ranked Enchanted Forest
 map_game_friendly_name
-Competitive Enchanted Forest
+Ranked Enchanted Forest
 map_game_name
-Competitive Temple Ruins
+Ranked Temple Ruins
 map_game_friendly_name
-Competitive Temple Ruins
+Ranked Temple Ruins
 map_game_name
 Global * Scout
 item_short_desc
@@ -73930,7 +73928,7 @@ Sunspear Fast
 map_game_friendly_name
 Sunspear Fast
 map_game_name
-WIP Asiatic Map (TDM)
+zOLD WIP Asiatic Map (TDM)
 MSL_name
 Capture Only
 Match_Queue_name
@@ -74610,7 +74608,7 @@ item_name
 Throwing Axe
 item_name
 Hurl your axe dealing 300 damage.
-Bonus Damage: The Axe deals more damage the further it travels, up to 825.
+Bonus Damage: The Axe deals more damage the further it travels, up to 750.
 item_desc
 Chickens
 item_short_desc
@@ -74718,7 +74716,7 @@ Trauma
 EFFECT_GROUP_name
 Raze
 item_name
-[Disengage] Increase the knockback amount of Disengage by {scale=6|6}%
+[Disengage] Increase the knockback amount of Disengage by {scale=8|8}%
 item_desc
 Immortal target
 EFFECT_GROUP_name
@@ -74766,13 +74764,13 @@ Deploy a dome shield
 item_short_desc
 A crossbow that deals 680 damage every .75 seconds.
 item_desc
-A short range flamethrower that deals 35 damage per hit every .1s and applies a Damage Over Time effect for 200 damage over 2s. The Flame Lance cannot be manually reloaded and instead recharges when not being used.
+A short range flamethrower that deals 35 damage per hit every .1s and applies a Damage Over Time effect for 200 damage over 2s. The Flame Lance recharges when not firing.
 item_desc
 Lightning Storm
 item_short_desc
 Surge with power for 3s, slowing and striking 2 nearby enemies at a time for 200 damage and speeding up and healing yourself and 2 nearby allies for 500 health every .5 seconds.
 item_desc
-A staff that creates a channeled beam of lightning dealing 75 damage per hit every .1 seconds. The Lightning Staff cannot be manually reloaded and instead recharges when not firing. Effective up to Medium Range.
+A medium range staff that creates a channeled beam of lightning dealing 75 damage per hit every .1 seconds. The Lightning Staff recharges when not firing.
 item_desc
 Ice Storm
 item_short_desc
@@ -74836,11 +74834,11 @@ Enchanted Forest Attack Defend
 map_game_friendly_name
 Enchanted Forest
 map_game_name
-Competitive Temple Ruins
+Ranked Temple Ruins
 map_game_friendly_name
 Temple Ruins
 map_game_name
-Competitive Enchanted Forest
+Ranked Enchanted Forest
 map_game_friendly_name
 Enchanted Forest
 map_game_name
@@ -74974,9 +74972,9 @@ Temple Ruins Co-Op
 map_game_friendly_name
 Temple Ruins Co-op
 map_game_name
-Temple Ruins Competitive
+Ranked Temple Ruins
 map_game_friendly_name
-Temple Ruins Competitive
+Ranked Temple Ruins
 map_game_name
 Temple Ruins Double Push
 map_game_friendly_name
@@ -75102,7 +75100,7 @@ item_name
 item_desc
 Tactical Reload
 item_name
-[Weapon] Dealing a killing blow to a player instantly restores {scale=4|4} ammo.
+[Weapon] Eliminations restore {scale=3|3} ammo.
 item_desc
 Avalanche
 item_name
@@ -75285,7 +75283,7 @@ item_name
 item_desc
 Exhilarate
 item_name
-[Heroic Leap] Heal for {scale=75|75} for each champion you hit with Heroic Leap.
+[Heroic Leap] Heal for {scale=120|120} if you hit a champion with Heroic Leap.
 item_desc
 Resilience
 EFFECT_GROUP_name
@@ -75363,7 +75361,7 @@ Kills Grant * Ammo
 item_short_desc
 Momentum
 item_name
-[Heroic Leap] Heroic Leap grants {scale=8|8}% Movement Speed for 2s when landing near an enemy.
+[Heroic Leap] Heroic Leap grants {scale=6|6}% Damage Reduction for 4s.
 item_desc
 -{25/50/75/100}% Healing * Hit
 item_short_desc
@@ -75593,7 +75591,7 @@ EFFECT_GROUP_name
 item_short_desc
 Crackle
 item_name
-[Healing Totem] Increase the Duration of Healing Totem by {scale=1|1}s.
+[Healing Totem] Increase the Duration of Healing Totem by {scale=0.6|0.6}s.
 item_desc
 Relinquish
 item_name
@@ -75601,7 +75599,7 @@ item_name
 item_desc
 Thunderstruck
 item_name
-[Shock Pulse] Reduce your Overheat by {scale=4|4}% for every unique enemy hit by Shock Pulse.
+[Shock Pulse] Recharge {scale=6|6}% of your ammo for every unique enemy hit by Shock Pulse.
 item_desc
 Immortal
 item_short_desc
@@ -75735,7 +75733,7 @@ item_name
 item_desc
 Air Cooled
 item_name
-[Advance] Activating Advance heals you for {scale=50|50}.
+[Advance] Activating Advance heals you for {scale=80|80}.
 item_desc
 zDeprecated (Gun Shield)
 item_name
@@ -76295,7 +76293,7 @@ item_name
 item_desc
 Calibrate
 item_name
-[Weapon] Hitting an enemy with your Carbine lowers the cooldown of Transporter by {scale=0.25|0.25}s.
+[Weapon] Hitting an enemy with your Carbine lowers the cooldown of Transporter by {scale=0.12|0.12}s.
 item_desc
 zDeprecated (Minimalist card)
 item_name
@@ -76309,7 +76307,7 @@ Autofire Grover Bot
 BOT_name
 Power Supply
 item_name
-[Weapon] After getting a Kill Reload {scale=8|8}% faster for 5s.
+[Weapon] Kills grant {scale=4|4} ammo.
 item_desc
 A combination weapon that fires as an energy carbine or a powerful laser rifle. The carbine does 180 damage per shot every .15 seconds.
 item_desc
@@ -76465,7 +76463,7 @@ item_desc
 item_short_desc
 Twilight Armor
 item_name
-[Armor] Gain {scale=10|10}% Crowd Control Reduction.
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction.
 item_desc
 zDeprecated (Hyper Shot)
 item_name
@@ -76503,7 +76501,7 @@ Weapon Attacks * reveal 3s
 item_short_desc
 Open Season
 item_name
-[Sniper Mode] Your Sniper attacks reveal enemies for {scale=1|1}s.
+[Sniper Mode] Your Sniper attacks reveal enemies to you for {scale=1|1}s.
 item_desc
 Your Movement Speed is slowed.
 EFFECT_GROUP_desc
@@ -76535,7 +76533,7 @@ attacks reveal
 DEVICE_name
 Octoppressor
 item_name
-[Oppressor Mine] Enemies affected by Oppressor Mines receive {scale=16|16}% less healing.
+[Oppressor Mine] Enemies affected by Oppressor Mines receive {scale=15|15}% less healing.
 item_desc
 -1.5s CD * Oppressor Mine
 item_short_desc
@@ -76948,7 +76946,7 @@ item_desc
 item_short_desc
 Featherweight
 item_name
-[Armor] Increase your Air Control while using Drift by {scale=30|30}%
+[Armor] Gain {scale=6|6}% Damage Reduction while using Drift.
 item_desc
 Firing while drifting lifts you up 1 ft in the air
 DEVICE_desc
@@ -77586,7 +77584,7 @@ item_name
 item_short_desc
 True Grit
 item_name
-[Sniper Mode] Hitting an enemy with a fully charged shot heals you for {scale=75|75}.
+[Sniper Mode] Hitting an enemy with a fully charged shot heals you for {scale=100|100}.
 item_desc
 Diana Test Map
 map_game_friendly_name
@@ -77758,7 +77756,7 @@ Increased Ghost Walk Duration
 DEVICE_desc
 Ninja
 item_name
-[Hidden] Gain {scale=8|8}% additional Movement Speed during Hidden.
+[Hidden] Gain {scale=5|5}% additional Movement Speed during Hidden.
 item_desc
 Champion Vendor Trial
 Loot_Table_name
@@ -77814,7 +77812,7 @@ ITEM_name
 ITEM_desc
 Chaos Gold - 7500
 ITEM_name
-Create an illusion that heals a nearby ally for 350 every second.
+Create an illusion that heals a nearby ally for 420 every second.
 item_desc
 Spawn an illusion on every enemy player on the map.
 item_desc
@@ -77840,7 +77838,7 @@ Shatter Explosion
 DEVICE_name
 Mesmerism
 item_name
-[Illusion] Increase the Range at which you can deploy Illusions by {scale=10|10}%
+[Illusion] Activating Illusion generates {scale=1|1} ammo.
 item_desc
 -1s CD * Dimensional Link
 item_short_desc
@@ -77902,7 +77900,7 @@ item_name
 item_desc
 Pyre
 item_name
-[Weapon] Reduce the overheat cost of firing your flame lance by {scale=15|15}%
+[Weapon] Increase your maximum ammo capacity by {scale=10|10}.
 item_desc
 Hot Pursuit
 item_name
@@ -77954,7 +77952,7 @@ item_name
 item_desc
 Shuffle
 item_name
-[Dimensional Link] Gain {scale=8|8}% Movement Speed during Dimensional Link.
+[Dimensional Link] Gain {scale=10|10}% Movement Speed during Dimensional Link.
 item_desc
 Heat Transfer
 item_name
@@ -77970,7 +77968,7 @@ Default Drogoz
 ITEM_name
 Spring Forward
 item_name
-[Dimensional Link] Increase the duration of Dimensional Link by {scale=0.6|0.6}s.
+[Dimensional Link] Increase the duration of Dimensional Link by {scale=0.7|0.7}s.
 item_desc
 Sturdy
 item_name
@@ -77996,7 +77994,7 @@ Poppy Bomb
 item_name
 Cold Acclimation
 item_name
-[Weapon] Your Weapon deals {scale=20|20}% reduced Self Damage and no longer knocks you back.
+[Weapon] Your Weapon deals {scale=60|10}% reduced Self Damage and no longer knocks you back.
 item_desc
 -{25}% * Self Damage
 item_short_desc
@@ -78086,7 +78084,7 @@ Skirmish B
 map_game_friendly_name
 Skirmish B
 map_game_name
-WIP Revelation (TDM)
+zOLD WIP Revelation (TDM)
 MSL_name
 Experimental
 Match_Queue_short_desc
@@ -84050,7 +84048,7 @@ item_desc
 item_short_desc
 Apex Predator
 item_name
-[Armor] Gain {scale=10|10}% Crowd Control Reduction.
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction.
 item_desc
 Sinistral New Bases
 map_game_friendly_name
@@ -84300,7 +84298,7 @@ Temple Ruins Cap and Payload
 map_game_name
 Salvo
 item_name
-Pre-load all of the rockets from your magazine into your launcher. Your next fire will release all of the pre-loaded rockets. These rockets create larger explosions and deal 250 damage per shot. Deals 200% more damage to shields.
+Load all remaining rockets into your Launcher. Your next fire releases all of the pre-loaded rockets, creating larger explosions and dealing 250 damage per shot. Deals 200% more damage to shields.
 item_desc
 Enchanted Forest Cap and Payload
 map_game_friendly_name
@@ -84370,7 +84368,7 @@ Temple Ruins Co-Op
 map_game_friendly_name
 Temple Ruins Co-op
 map_game_name
-A six shot semi-automatic revolver that deals 580 damage per shot every .36s. Effective at Short Range.
+A six shot semi-automatic revolver that deals 520 damage per shot every .36s. Effective at Short Range.
 item_desc
 Winter Frost
 ITEM_desc
@@ -84782,7 +84780,7 @@ item_desc
 item_short_desc
 Unstoppable
 item_name
-[Blossom] Gain {scale=5|5}% damage reduction for 2s after using Blossom.
+[Blossom] Gain {scale=6|6}% damage reduction for 4s after using Blossom.
 item_desc
 +40% CCR * Nature's Demise
 item_short_desc
@@ -84880,7 +84878,7 @@ item_desc
 item_short_desc
 Lightning Rod
 item_name
-[Shock Pulse] Hitting a champion with Shock Pulse heals for {scale=25|25}.
+[Shock Pulse] Hitting a champion with Shock Pulse heals for {scale=30|30}.
 item_desc
 Gain 30% movement speed for 5s and reveal the closest enemy champion within 100ft.
 item_desc
@@ -84896,8 +84894,7 @@ Skirmish Arena
 map_game_name
 Gain 40% attack speed and 40% movement speed for 4.5 seconds. Firing does not consume ammo.
 item_desc
-Throw a fragmentation grenade dealing up to 750 damage. Holding <CMD=GBA_Ability_2> will cook the grenade and reduce its detonation time. 
-Bonus Damage: Affected enemies take 15% increased damage from you for 4s.
+Throw a fragmentation grenade dealing up to 750 damage. Holding <CMD=GBA_Ability_2> will cook the grenade and reduce its detonation time.
 item_desc
 Look down the barrel of your rifle. Gain improved accuracy but move 50% Slower.
 item_desc
@@ -84953,7 +84950,7 @@ Payload
 Match_Queue_name
 Hyper Boost
 item_name
-[Salvo] Reduce the cooldown of Thrust by {scale=0.1|0.1}s each time Salvo hits a target.
+[Salvo] Restore {scale=3|3}% of your Booster Fuel each time Salvo hits a target.
 item_desc
 Vine Grasp
 item_name
@@ -85159,7 +85156,7 @@ EFFECT_GROUP_name
 item_short_desc
 Heavenly Agility
 item_name
-[Vine] After using Vine gain {scale=20|20}% increased Air Control for 4s.
+[Vine] Increase the Pull Speed of Vine by {scale=6|6}%.
 item_desc
 10% Movespeed * Allies
 item_short_desc
@@ -85381,7 +85378,7 @@ EFFECT_GROUP_name
 item_short_desc
 Extended Magazines
 item_name
-[Advance] Advance generates {scale=10|10} Ammo.
+[Advance] Advance generates {scale=15|15} Ammo.
 item_desc
 20 Ammo * Hover
 item_short_desc
@@ -85548,9 +85545,9 @@ item_name
 item_desc
 Low HP * 300 HP Shield
 item_short_desc
-Slow Dampener
+Dampener
 item_name
-[Armor] You cannot be slowed below {scale=60|10}% of your base movement speed.
+[Armor] Gain {scale=150|150} Health.
 item_desc
 Low HP * 150 HP Shield
 item_short_desc
@@ -85908,11 +85905,9 @@ Test copy of disengage that has no cooldown -jcrenshaw 5-24-16
 item_desc
 Autofire Cassie Disengage Bot
 BOT_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Viking
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Raider
 ITEM_name
@@ -85938,7 +85933,7 @@ Unlocking
 PALADINS_UNLOCKING
 You cannot have more than one specialty card assigned.\nRevert changes?
 PALADINS_DECK_ERROR_SPECIALTIES
-Loadouts require 12 points used across all cards.
+Loadouts require 15 points used across all cards.
 PALADINS_DECK_ERROR_POINTS
 Loadouts require all five slots to be used.
 PALADINS_DECK_ERROR_NOT_ENOUGH
@@ -86148,7 +86143,7 @@ Killer
 PALADINS_KILLER
 Countdown
 item_name
-[Grumpy Bomb] Reduce the cooldown of Grumpy Bomb by {scale=1|1}s.
+[Grumpy Bomb] Reduce the cooldown of Grumpy Bomb by {scale=0.5|0.5}s.
 item_desc
 zDeprecated Countdown II
 item_name
@@ -86799,10 +86794,9 @@ item_name
 item_desc
 Scramble
 item_name
-[Hustle] Taking damage while using Hustle increases the Movement Speed bonus by {scale=10|10}% for 2s.
+[Hustle] Gain {scale=5|5}% damage reduction while using Hustle.
 item_desc
-Fire one shot every 0.1 seconds that deals 130 damage. Effective up to Medium Range. 
-Bonus Damage: The first four rounds in your magazine each deal 40 additional damage.
+Fire one shot every 0.1 seconds that deals 135 damage. Effective up to Medium Range.
 item_desc
 Bring up your Targeting Binoculars. Click on Enemy players to guide an artillery shell dealing 1400 damage to their location. Viktor's Movement speed is slowed while channeling Barrage.
 item_desc
@@ -87045,7 +87039,7 @@ Weapon Vendor Ancient
 Loot_Table_name
 Jolt
 item_name
-[Poppy Bomb] Poppy Bomb has {scale=10|10}% increased Knockback against enemies and explodes on contact with any surface.
+[Poppy Bomb] Poppy Bomb has {scale=15|15}% increased Knockback against enemies and explodes on contact with any surface.
 item_desc
 zDeprecated Jolt II
 item_name
@@ -87057,7 +87051,7 @@ item_name
 item_desc
 Die to Ruckus
 Game_Tip_title
-Ruckus is hard to kill and deals lots of damage, but he's not very mobile.
+Ruckus is hard to kill and deals lots of damage, approach with caution.
 Game_Tip_tip
 Die to Skye
 Game_Tip_title
@@ -87065,7 +87059,7 @@ Skye can deal a lot of damage up close, try to create some distance.
 Game_Tip_tip
 Die to Defiance
 Game_Tip_title
-Androxus's Defiance does a lot of damage if all its shots hit, but it's very inaccurate.
+Androxus's Defiance has no cooldown but requires you to be close to your enemy.
 Game_Tip_tip
 Die to Reversal
 Game_Tip_title
@@ -87101,7 +87095,7 @@ Try to avoid Grover's Crippling throw, it can stop you from escaping.
 Game_Tip_tip
 Die to Ruckus2
 Game_Tip_title
-Ruckus can deal a lot of damage but he moves very slowly, take advantage of that.
+Ruckus is hard to kill and deals lots of damage, approach with caution.
 Game_Tip_tip
 Die to Poison Bolts
 Game_Tip_title
@@ -87933,7 +87927,7 @@ Minigun (DF)
 item_short_desc
 Miniguns
 item_name
-Incredibly fast firing miniguns that deal 48 damage per shot every .04 seconds once fully spun up. Maintain fire to continually speed up the rate of fire. Effective at Medium Range.
+Incredibly fast firing miniguns that deal 40 damage per shot every .04 seconds once fully spun up. Maintain fire to continually speed up the rate of fire. Effective at Medium Range.
 item_desc
 Select a New Card
 PALADINS_SELECT_NEW_CARD
@@ -87943,7 +87937,7 @@ Equipped
 PALADINS_EQUIPPED
 %s (ACTIVE)
 PALADINS_DECK_ACTIVE
-Loadouts must contain 12 points
+Loadouts must contain 15 points
 PALADINS_EDIT_DECK_DESC
 Save and Exit
 PALADINS_SAVE_AND_EXIT
@@ -87997,7 +87991,7 @@ You Have %i
 PALADINS_YOU_HAVE_COUNT
 Select Practice Mode
 PALADINS_SELECT_PRACTICE_MODE
-%i / 12 Points
+%i / 15 Points
 PALADINS_OF_TOTAL_DECK_POINTS
 No Queue Found!
 PALADINS_NO_QUEUE_FOUND
@@ -88235,12 +88229,11 @@ Common Hammer
 item_short_desc
 Spitting Cobra
 item_name
-Fires as glob of venom every .55s dealing 400 damage to a single target. Effective at Short Range.
-Bonus Damage: Reloading throws the cobra dealing 200 damage and stunning enemies for 1s.
+Fires as glob of venom every .55s dealing 400 damage to a single target. Effective at Short Range. Reloading throws the cobra dealing 200 damage and stunning enemies for 1s.
 item_desc
 Slip Away
 item_name
-[Armor] Gain {scale=5|5}% movement speed when Out of Combat.
+[Armor] Gain {scale=3|3}% movement speed when Out of Combat.
 item_desc
 Questions Later
 Activity_Goal_title
@@ -88336,7 +88329,7 @@ item_name
 item_desc
 SLT Cassie Vampire Slayer
 Loot_Table_name
-Night Bane Collection
+Night Bane
 ITEM_name
 VAMPIRE SLAYER & NIGHT BANE
 ITEM_desc
@@ -88431,7 +88424,7 @@ item_name
 item_desc
 Rampage
 item_name
-[Armor] Gain {scale=8|8}% Movement Speed for 3s after getting an elimination.
+[Armor] Gain {scale=8|8}% Movement Speed for 6s after getting an elimination.
 item_desc
 zDeprecated Harden III
 item_name
@@ -88501,7 +88494,7 @@ item_name
 item_desc
 Disrupt
 item_name
-[Reversal] Reduce the cooldown of Reversal by {scale=1|1}s.
+[Reversal] Reduce the cooldown of Reversal by {scale=1.2|1.2}s.
 item_desc
 [Weapon] When your weapon attacks hit a shield, they also damage all other shields within 20 units for 100% of the damage dealt.
 item_desc
@@ -88615,7 +88608,7 @@ item_name
 item_desc
 Kinetics
 item_name
-[Blast Shot] Blast Shot reduces healing by {scale=18|18}%
+[Blast Shot] Blast Shot reduces healing by {scale=15|15}% for 3s.
 item_desc
 zDeprecated Kinetics II
 item_name
@@ -88711,7 +88704,7 @@ item_name
 item_desc
 Royal Decree
 item_name
-[Detonate] Increase your Reload speed by {scale=2|2}% for 3s for every Sticky Bomb detonated.
+[Detonate] Increase your Reload speed by {scale=5|5}% for 3s after using Detonate.
 item_desc
 zDeprecated Ebb and Flow III
 item_name
@@ -88739,7 +88732,7 @@ item_name
 item_desc
 Ablative Coating
 item_name
-[Poppy Bomb] Increase the health of Poppy Bomb by {scale=100|100}.
+[Poppy Bomb] Hitting an enemy with Poppy Bomb heals you for {scale=100|100}.
 item_desc
 zDeprecated Ablative Coating II
 item_name
@@ -88767,7 +88760,7 @@ item_name
 item_desc
 Reinforced Casing
 item_name
-[Weapon] Increase the health of Sticky Bomb by {scale=50|50}.
+[Armor] Gain {scale=14|14}% crowd control reduction.
 item_desc
 zDeprecated Reinforced Casing II
 item_name
@@ -88799,7 +88792,7 @@ item_name
 item_desc
 Red Streak
 item_name
-[Rocket Boots] Reduce the cooldown of Rocket Boots by {scale=1|1}s.
+[Rocket Boots] Reduce the cooldown of Rocket Boots by {scale=1.4|1.4}s.
 item_desc
 You are Slowed
 EFFECT_GROUP_desc
@@ -89007,7 +89000,7 @@ Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
 Unstoppable Force
 item_name
-[Charge] Charge applies a {scale=300|300} Knockback.
+[Charge] Charge applies a {scale=800|200} Knockback.
 item_desc
 zDeprecated Unstoppable Force II
 item_name
@@ -89039,7 +89032,7 @@ item_name
 item_desc
 Immovable Object
 item_name
-[Armor] Gain {scale=10|10}% Crowd Control Reduction.
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction.
 item_desc
 Queen of the Hill
 EFFECT_GROUP_name
@@ -89061,7 +89054,7 @@ item_name
 item_desc
 Looks That Kill
 item_name
-[Fireball] Hitting an enemy with Fireball recharges {scale=10|10}% of your maximum overheat.
+[Fireball] Hitting an enemy with Fireball recharges {scale=20|20} ammo.
 item_desc
 zDeprecated Looks That Kill II
 item_name
@@ -89101,7 +89094,7 @@ Evolve
 EFFECT_GROUP_name
 Thunderlord
 item_name
-[Weapon] Your weapon can fire {scale=8|8}% longer before overheating.
+[Weapon] Increase your ammo by {scale=10|10}%.
 item_desc
 zDeprecated Thunderlord II
 item_name
@@ -89115,7 +89108,7 @@ zDeprecated Thunderlord IV
 item_name
 [Weapon] Your weapon can fire 32% longer before overheating.
 item_desc
-Call on the powers of the Ancients. Drop Your cannon and swing your anchor, dealing 650 damage a hit. In addition, increase your health by 5000. Lasts 8s.
+Call on the powers of the Ancients. Drop your cannon and swing your anchor, dealing 650 damage a hit. In addition, increase your health by 5000. Lasts 8s.
 item_desc
 Venom Pool Subdevice
 item_name
@@ -89193,13 +89186,13 @@ Deployable for Grohk's Electrostatic card
 Deployable_desc
 Electrostatic
 item_name
-[Weapon] Regenerate overheat {scale=8|8}% faster.
+[Weapon] Regenerate ammo {scale=12|12}% faster.
 item_desc
 zDeprecated (Electrostatic Subdevice)
 item_name
 Abyssal Touch
 item_name
-[Defiance] Defiance reduces the cooldown of Nether Step by {scale=1.5|1.5}s if it hits a champion.
+[Defiance] Defiance reduces the cooldown of Nether Step by {scale=2|2}s if it hits a champion.
 item_desc
 zDeprecated Abyssal Touch II
 item_name
@@ -89271,7 +89264,7 @@ item_desc
 item_short_desc
 Follow the Scent
 item_name
-[Fire Spit] Using Fire Spit increases your Movement speed by {scale=8|8}% for 2s.
+[Fire Spit] Enemies hit by Fire Spit receive {scale=15|15}% less healing.
 item_desc
 Fire Spit * Reveal
 item_short_desc
@@ -89309,7 +89302,7 @@ Shooting Range
 map_game_name
 Watchful
 item_name
-[Weapon] Hitting an enemy reveals them to you for {scale=1|1}s even through stealth.
+[Armor] Getting an elimination reduces all active cooldowns by {scale=10|10}%
 item_desc
 zDeprecated Watchful II
 item_name
@@ -89429,7 +89422,7 @@ Pip_AccessoryTest Skin2
 ITEM_name
 Brave and Bold
 item_name
-[Armor] When near turret you gain {scale=10|10}% Crowd Control reduction.
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction.
 item_desc
 zDeprecated Brave and Bold II
 item_name
@@ -89511,7 +89504,7 @@ Fire a dark vessel that explodes when it lands, fearing all enemy Champions for 
 item_desc
 Conduit
 item_name
-[Shock Pulse] Gain {scale=4|4}% movement speed for 2s for each unique enemy hit by Shock Pulse.
+[Shock Pulse] Gain {scale=6|6}% movement speed for 3s if Shock Pulse hits an enemy.
 item_desc
 zDeprecated Carapace IV
 item_name
@@ -90021,7 +90014,7 @@ Emerald
 ITEM_name
 Ruby
 ITEM_desc
-Ruby Bomb
+Monarch Bomb
 ITEM_name
 Bomb King Sticky Bomb
 ITEM_desc
@@ -90095,15 +90088,15 @@ item_name
 item_desc
 At The Ready
 item_name
-[Missile Launcher] Hitting an enemy with Missile Launcher reveals them for {scale=1|1}s.
+[Missile Launcher] Hitting an enemy with Missile Launcher reveals them to you for {scale=1|1}s.
 item_desc
 Crystal Capacitor
 item_name
-[Missile Launcher] Reduce the Cooldown of Missile Launcher by {scale=0.5|0.5}s.
+[Missile Launcher] Reduce the Cooldown of Missile Launcher by {scale=0.7|0.7}s.
 item_desc
 Opulence
 item_name
-[Missile Launcher] Heal for {scale=75|75} health when activating Missile Launcher.
+[Missile Launcher] Heal for {scale=100|100} health when activating Missile Launcher.
 item_desc
 zDeprecated Opulence II
 item_name
@@ -90225,9 +90218,9 @@ Dropping below 30% of your max health grants you a shield for.
 item_short_desc
 [Dimensional Link] Swapping to the spot of a dead Illusion spawns an illusion.
 item_short_desc
-[Armor] Increase your Air Control while using Drift
+[Armor] Gain Damage Reduction while using Drift
 item_short_desc
-[Armor] You cannot be slowed below a certain amount of your base movement speed.
+[Armor] Gain Health.
 item_short_desc
 [Dimensional Link] Each swap with Dimensional Link reduces the remaining Cooldown of Shatter.
 item_short_desc
@@ -90243,7 +90236,7 @@ item_short_desc
 item_short_desc
 [Spin Up] Increase your movement speed while out of combat and Spinning Up.
 item_short_desc
-[Weapon] Hitting an enemy in the head reveals them to you
+Getting an elimination reduces all active cooldowns.
 item_short_desc
 [Spin Up] Gain cc reduction while using Spin Up but not Firing.
 item_short_desc
@@ -90257,7 +90250,7 @@ item_short_desc
 item_short_desc
 [Defiance] Defiance reduces the cooldown of Nether Step if it hits a champion.
 item_short_desc
-[Illusion] Increase the Range at which you can deploy Illusions.
+[Illusion] Activating Illusion generates ammo. 
 item_short_desc
 [Illusion] Your Illusions last longer.
 item_short_desc
@@ -90331,7 +90324,7 @@ item_short_desc
 item_short_desc
 [Shell Shield] Reduce the cooldown of Shell Shield based on amount of damage absorbed.
 item_short_desc
-[Armor] Dropping below 30% of your max Health reduces the cooldown of Rocket Boots
+[Armor] Dropping below a Health threshold resets the cooldown of Rocket Boots
 item_short_desc
 [Healing Potion] You gain a portion of Healing Potion's effect if you hit a teammate but not yourself.
 item_short_desc
@@ -90349,7 +90342,7 @@ item_short_desc
 item_short_desc
 [Weightless] Gain Damage Reduction during Weightless, but attacking cancels Weightless.
 item_short_desc
-[Turret] When near turret you gain CC reduction.
+[Armor] Gain crowd control reduction.
 item_short_desc
 [Weightless] Reduce the Cooldown of Weightless.
 item_short_desc
@@ -90391,7 +90384,7 @@ item_short_desc
 item_short_desc
 [Turret] Standing near your Turret heals you .
 item_short_desc
-[Poppy Bomb] Increase the health of Poppy Bomb.
+[Poppy Bomb] Hitting an enemy with Poppy Bomb heals you 
 item_short_desc
 [Turret] Reduce the Deploy Time of your Turret.
 item_short_desc
@@ -90411,7 +90404,7 @@ item_short_desc
 item_short_desc
 [Rocket Boots] Reduce the cooldown of Rocket Boots.
 item_short_desc
-[Detonate] Increase your Reload speed for every Sticky Bomb detonated.
+[Detonate] Increase your Reload speed after using Detonate.
 item_short_desc
 [Detonate] Heal for every Sticky Bomb Detonated
 item_short_desc
@@ -90421,7 +90414,7 @@ item_short_desc
 item_short_desc
 [Sniper Mode] Your Sniper attacks reveal enemies.
 item_short_desc
-[Weapon] Increase the health of Sticky Bombs.
+[Armor] Gain crowd control reduction.
 item_short_desc
 [Weapon] Sticky Bombs reveal enemies when detonated even through stealth.
 item_short_desc
@@ -90445,7 +90438,7 @@ item_short_desc
 item_short_desc
 [Armor] Gain Crowd Control Reduction.
 item_short_desc
-[Weapon] Dealing a killing blow to a player instantly restores ammo.
+[Weapon] Eliminations restore ammo.
 item_short_desc
 [Weapon] Gain Movement Speed after getting a kill.
 item_short_desc
@@ -90513,13 +90506,13 @@ item_short_desc
 item_short_desc
 [Armor] Increase your base maximum Health.
 item_short_desc
-[Weapon] Your weapon can fire longer before overheating.
+[Weapon] Increase your ammo.
 item_short_desc
 [Armor] Dropping below 30% of your max Health grants you a Shield.
 item_short_desc
 [Net Shot] Using Net Shot grants movement speed for 3s.
 item_short_desc
-[Weapon] Regenerate overheat faster.
+[Weapon] Regenerate ammo faster.
 item_short_desc
 [Net Shot] Increase the duration of Net Shot.
 item_short_desc
@@ -90533,7 +90526,7 @@ item_short_desc
 item_short_desc
 [Recovery] After Recover ends gain Lifesteal for 4s.
 item_short_desc
-[Shock Pulse] Reduce your Overheat for every unique enemy hit by Shock Pulse.
+[Shock Pulse] Recharge your ammo for every unique enemy hit by Shock Pulse.
 item_short_desc
 [Healing Totem] Increase the Duration of Healing Totem.
 item_short_desc
@@ -90553,7 +90546,7 @@ item_short_desc
 item_short_desc
 [Ghost Walk] Increase the duration of Ghost Walk.
 item_short_desc
-[Heroic Leap] Heal for for each champion you hit with Heroic Leap.
+[Heroic Leap] Heal if you hit an enemy with Heroic Leap.
 item_short_desc
 [Ghost Walk] Ghost Walk lowers the cooldown of Healing totem when Activated.
 item_short_desc
@@ -90563,7 +90556,7 @@ item_short_desc
 item_short_desc
 [Armor] Gain knockback reduction when on the Objective.
 item_short_desc
-[Weapon] Reduce the overheat cost of firing your flame lance.
+[Weapon] Reduce the ammo cost of firing your flame lance.
 item_short_desc
 [Shield] Gain 5% Movement Speed while using Shield.
 item_short_desc
@@ -90591,7 +90584,7 @@ item_short_desc
 item_short_desc
 [Charge] Charge knocks enemies back.
 item_short_desc
-[Heroic Leap] Heroic Leap grants Movement Speed for 2s after landing.
+[Heroic Leap] Heroic Leap grants Damage Reduction.
 item_short_desc
 [Charge] Gain movement speed after using Charge.
 item_short_desc
@@ -90643,13 +90636,13 @@ item_short_desc
 item_short_desc
 [Armor] Restore Booster Fuel when you get a Kill or Elimination.
 item_short_desc
-[Hustle] Taking damage while using Hustle increases the Movement Speed bonus.
+[Hustle] Damage Reduction while using Hustle
 item_short_desc
 [Disengage] Disengage does bonus Damage to Shields.
 item_short_desc
 [Armor] Increase Booster's Fuel capacity.
 item_short_desc
-[Disengage] The Cooldown of Disengage is reduced when hitting an airborne target.
+[Disengage] Hitting an enemy with Disengage heals you.
 item_short_desc
 [Frag Grenade] While cooking your Frag Grenade you gain Movement Speed.
 item_short_desc
@@ -90669,7 +90662,7 @@ item_short_desc
 item_short_desc
 [Blast Shot] Blast Shot's Cooldown is reduced for every enemy hit.
 item_short_desc
-[Salvo] Reduce the cooldown of Thrust each time Salvo hits a target.
+[Salvo] Restore Booster Fuel each time Salvo hits a target.
 item_short_desc
 [Blast Shot] Blast Shot heals you over 3s for each enemy hit.
 item_short_desc
@@ -90879,9 +90872,9 @@ Body
 PALADINS_BODY
 Head
 PALADINS_HEAD
-Spite
+Spiteful
 item_name
-[Defiance] Hitting an enemy with Defiance grants you {scale=10|10}% Movement Speed for 4s.
+[Defiance] Enemies hit by Defiance receive {scale=15|15}% reduced healing for 3s.
 item_desc
 zDeprecated (Nature's Demise ability)
 item_name
@@ -90891,7 +90884,7 @@ Activate Audio
 EFFECT_GROUP_name
 Passive heal
 EFFECT_GROUP_name
-[Defiance] Hitting an enemy with Defiance grants you Movement Speed for 4s.
+[Defiance] Enemies hit by Defiance receive reduced healing.
 item_short_desc
 zDeprecated Spite II
 item_name
@@ -91003,15 +90996,15 @@ Ruckus Proxy Objective
 Deployable_name
 Deep Breath
 item_name
-[Recovery] Activating Recovery Grants you {scale=8|8}% Damage Reduction for 2s.
+[Recovery] Activating Recovery Grants you {scale=8|8}% Damage Reduction for 3s.
 item_desc
 Moxie
 item_name
-[Armor] Receive {scale=5|5}% increased healing when below 50% Health.
+[Armor] Receive {scale=10|10}% increased healing when below 50% Health.
 item_desc
 Shrewd Move
 item_name
-[Armor] Eliminations reduce all active cooldowns by {scale=5|5}%
+[Armor] Eliminations reduce all active cooldowns by {scale=8|8}%
 item_desc
 Slip Away V
 item_name
@@ -91019,7 +91012,7 @@ item_name
 item_desc
 Predator
 item_name
-[Iron Sights] Hitting an enemy during Iron Sights reveals them for {scale=0.5|0.5}s.
+[Iron Sights] Hitting an enemy during Iron Sights reveals them to you for {scale=1|1}s.
 item_desc
 Fire in the Hole
 item_name
@@ -91039,7 +91032,7 @@ Temple Isle v03
 map_game_name
 Lighter Cannonballs
 item_name
-[Weapon] Gain {scale=5|5}% Reload speed.
+[Weapon] Gain {scale=7|7}% Reload speed.
 item_desc
 Glacier Keep v03
 map_game_friendly_name
@@ -91051,7 +91044,7 @@ Glacier Keep v03
 map_game_name
 Determination
 item_name
-[Armor] Gain {scale=10|10}% Crowd Control Reduction.
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction.
 item_desc
 Strongarm
 item_name
@@ -91071,7 +91064,7 @@ item_name
 item_desc
 Ephemeral
 item_name
-[Weapon] Gain {scale=5|5}% Reload Speed.
+[Weapon] Gain {scale=8|8}% Reload Speed.
 item_desc
 zDeprecated Ephemeral II
 item_name
@@ -91171,7 +91164,7 @@ zDeprecated Guerrilla Warfare IV
 item_name
 [Hustle] After using hustle gain 40% reload speed for 3s.
 item_desc
-[Iron Sights] Hitting an enemy during Iron Sights reveals them.
+[Iron Sights] Hitting an enemy during Iron Sights reveals them to you.
 item_short_desc
 zDeprecated Predator II
 item_name
@@ -91243,7 +91236,7 @@ zDeprecated Moxie IV
 item_name
 [Armor] Receive 20% increased healing when below 50% Health.
 item_desc
-[Weapon] After getting a Kill Reload faster for 5s.
+[Weapon] Kills grant ammo.
 item_short_desc
 zDeprecated Power Supply II
 item_name
@@ -91257,7 +91250,7 @@ zDeprecated Power Supply IV
 item_name
 [Weapon] After getting a Kill Reload 32% faster for 5s.
 item_desc
-[Recovery] Activating Recovery Grants you Damage Reduction for 2s.
+[Recovery] Activating Recovery Grants you Damage Reduction for 3s.
 item_short_desc
 zDeprecated Deep Breath II
 item_name
@@ -91285,7 +91278,7 @@ zDeprecated Bully IV
 item_name
 [Net Shot] Gain 40% lifesteal against targets you hit with Net Shot.
 item_desc
-[Armor] You cannot be slowed below a certain amount of your base movement speed.
+[Armor] Increase your base maximum Health.
 item_short_desc
 zDeprecated Headstrong II
 item_name
@@ -91305,7 +91298,7 @@ This is a device to test TgEffectModifyEffect with new properties.
 item_desc
 Condescension
 item_name
-[Fire Spit] Reduce the Cooldown of Thrust by {scale=0.5|0.5}s for each enemy champion hit with Fire Spit.
+[Fire Spit] Reduce the Cooldown of Thrust by {scale=1|1}s for hitting an enemy champion with Fire Spit.
 item_desc
 Smithereens
 item_name
@@ -91409,13 +91402,13 @@ item_short_desc
 item_short_desc
 [Fireball] Fireball reduces healing for 3s.
 item_short_desc
-[Fire Spit] Reduce the Cooldown of Thrust for each enemy champion hit with Fire Spit.
+[Fire Spit] Reduce the Cooldown of Thrust for hitting an enemy with Fire Spit
 item_short_desc
 [Grumpy Bomb] Hitting an enemy with Grumpy Bomb reduces the cooldown of Poppy Bomb.
 item_short_desc
 [Armor] Gain health.
 item_short_desc
-[Shock Pulse] Gain movement speed for 2s for each unique enemy hit by Shock Pulse.
+[Shock Pulse] Gain movement speed if Shock Pulse hits an enemy.
 item_short_desc
 [Blink] Blink grants Reload Speed for 4s.
 item_short_desc
@@ -91452,7 +91445,7 @@ X Revolver
 ITEM_name
 Brittle
 item_name
-[Shatter] Reduce the cooldown of Shatter by {scale=0.5|0.5}s.
+[Shatter] Reduce the cooldown of Shatter by {scale=0.7|0.7}s.
 item_desc
 Metal March
 item_name
@@ -91508,7 +91501,7 @@ Androxus Head 0G
 ITEM_name
 Chop Down
 item_name
-[Crippling Throw] Reduce the Cooldown of Crippling Throw by {scale=0.5|0.5}s.
+[Crippling Throw] Reduce the Cooldown of Crippling Throw by {scale=0.6|0.6}s.
 item_desc
 zDeprecated Chop Down II
 item_name
@@ -91536,7 +91529,7 @@ Capload
 PALADINS_CAPLOAD
 Harmony
 item_name
-[Shatter] Heal for {scale=10|10}% of the damage dealt by Shatter.
+[Shatter] Heal for {scale=13|13}% of the damage dealt by Shatter.
 item_desc
 Gaunt
 ITEM_desc
@@ -91582,7 +91575,7 @@ TR V2 Siege Ranked
 map_game_friendly_name
 TR V2 Siege Ranked
 map_game_name
-WIP Frozen Guard (Siege Redux)
+zOLD WIP Frozen Guard (Siege Redux)
 MSL_name
 WIP Tencent_TDM_B
 MSL_name
@@ -91596,11 +91589,11 @@ Frozen Guard (Siege Redux)
 Match_Queue_name
 Frozen Guard (Siege Redux)
 Match_Queue_desc
-Magistrate's Archives (TDM)
+WIP Pirate (Onslaught)
 Match_Queue_short_desc
-Magistrate's Archives (TDM)
+WIP Pirate (Onslaught)
 Match_Queue_name
-Magistrate's Archives (TDM)
+WIP Pirate (Onslaught)
 Match_Queue_desc
 RANKED
 PALADINS_RANKED
@@ -92178,7 +92171,7 @@ Shooting Range Local
 map_game_name
 I'LL BE BACK!
 PALADINS_ILLBEBACK
-COMPETITIVE MODE
+RANKED MODE
 PALADINS_COMPETITIVEMODE
 Win 5 Barik Steam
 Activity_name
@@ -92552,7 +92545,7 @@ God of War's Death Stare
 ITEM_name
 Obtainable in the Radiant Chest.
 ITEM_desc
-Lichen Lightning Staff
+Beast Lightning Staff
 ITEM_name
 ITEM_desc
 Toadstool Lightning Staff
@@ -92605,11 +92598,11 @@ Spiral
 map_game_friendly_name
 F_Spiral
 map_game_name
-Asiatic Map (Onslaught)
+WIP Pirate (Onslaught)
 Match_Queue_short_desc
-Asiatic Map (Onslaught)
+WIP Pirate (Onslaught)
 Match_Queue_name
-Asiatic Map (Onslaught)
+WIP Pirate (Onslaught)
 Match_Queue_desc
 Bog_Market
 map_game_friendly_name
@@ -93160,67 +93153,67 @@ SLT - Bundle - Ying - Default
 Loot_Table_name
 SLT - Viktor - Charcoal - Promo
 Loot_Table_name
-Aruba
+zOld Aruba
 ITEM_name
-Bahama
+zOld Bahama
 ITEM_name
-Tinkerer
+zOld Tinkerer
 ITEM_name
-Artisan
+zOld Artisan
 ITEM_name
 Foreman
 ITEM_name
-Honorable
+zOld Honorable
 ITEM_name
 Daring
 ITEM_name
-Gallant
+zOld Gallant
 ITEM_name
-Hunter
+zOld Hunter
 ITEM_name
-Sharpshooter
+zOld Sharpshooter
 ITEM_name
-Tracker
+zOld Tracker
 ITEM_name
 Tyrant
 ITEM_name
-Pride
+zOld Pride
 ITEM_name
-Wrath
+zOld Wrath
 ITEM_name
-Lust
+zOld Lust
 ITEM_name
-Ruby
+zOld Ruby
 ITEM_name
-Emerald
+zOld Emerald
 ITEM_name
-Navy
+zOld Navy
 ITEM_name
 Sulfur
 ITEM_name
-Iodine
+zOld Iodine
 ITEM_name
-Uranium
+zOld Uranium
 ITEM_name
-Lichen
+zOld Lichen
 ITEM_name
-Toadstool
+zOld Toadstool
 ITEM_name
-Deathcap
+zOld Deathcap
 ITEM_name
-Conjuration
+zOld Conjuration
 ITEM_name
-Divination
+zOld Divination
 ITEM_name
 Evocation
 ITEM_name
-Troublemaker Collection
+Troublemaker
 ITEM_name
-Charcoal Collection
+Charcoal
 ITEM_name
-Mad Scientist Collection
+Mad Scientist
 ITEM_name
-Team Fortress 2 Collection
+Team Fortress 2
 ITEM_name
 MalDamba Ult Snake Fear Deployable
 Deployable_name
@@ -93228,7 +93221,7 @@ PAYLOAD SPAWNING IN
 PALADINS_PAYLOADSPAWNINGIN
 SLT - SET Fernando - God of War
 Loot_Table_name
-God of War
+zOld God of War
 ITEM_name
 EMPTY LOADOUT
 PALADINS_EMPTY_LOADOUT
@@ -93340,7 +93333,7 @@ item_desc
 item_short_desc
 Sustenance
 item_name
-[Armor] Receive {scale=5|5}% more healing when below 50% health.
+[Armor] Receive {scale=8|8}% more healing when below 50% health.
 item_desc
 Eerie Presence
 item_name
@@ -93372,7 +93365,7 @@ item_desc
 item_short_desc
 Otherworldly
 item_name
-[Slither] Gain {scale=10|10}% Movement Speed for 2s after Slither ends.
+[Slither] Gain {scale=10|10}% Movement Speed for 3s after Slither ends.
 item_desc
 Ritual Magic
 item_name
@@ -93392,7 +93385,7 @@ item_name
 item_desc
 Venomous Gourd
 item_name
-[Gourd] Enemies hit by Gourd take {scale=15|15}% reduced healing for 1s.
+[Gourd] Enemies hit by Gourd take {scale=10|10}% reduced healing for 3s.
 item_desc
 zDeprecated Incorporeal III
 item_name
@@ -93500,7 +93493,7 @@ item_name
 item_desc
 [Gourd] Reduce the cooldown on Gourd.
 ITEM_short_desc
-[Gourd] Enemies hit by Gourd take reduced healing for 1s.
+[Gourd] Enemies hit by Gourd take reduced healing for 3s.
 ITEM_short_desc
 zDeprecated Many Gourds II
 item_name
@@ -93545,7 +93538,7 @@ Match_Queue_short_desc
 Match_Queue_name
 WIP BR
 Match_Queue_desc
-WIP Tilted (Onslaught)
+WIP Pirate (Onslaught)
 MSL_name
 Generic selection list for testing whatever I need -jcrenshaw
 MSL_desc
@@ -93625,7 +93618,7 @@ ACH_WELLTRAINED
 Activity_name
 Pungent Gourd
 item_name
-[Gourd] Reveal enemies for {scale=0.5|0.5}s after hitting them with Gourd. Also reveals stealth.
+[Gourd] Hitting an enemy with Gourd reveals them to you for {scale=0.8|0.8}s.
 item_desc
 Fire Bomb
 item_name
@@ -93766,7 +93759,7 @@ zDeprecated Pungent Gourd II
 item_name
 [Gourd] Reveal enemies for 1s after hitting them with Gourd. Also reveals stealth.
 item_desc
-[Gourd] Reveal enemies after hitting them with Gourd. Also reveals stealth.
+[Gourd] Reveal enemies after hitting them with Gourd
 item_short_desc
 zDeprecated Pungent Gourd III
 item_name
@@ -93846,25 +93839,25 @@ This device triggers the second stage of Voodoo for Maldamba bots
 item_desc
 All cards must be owned before importing.
 PALADINS_IMPORT_OWNERSHIP
-Mystic
+zOld Mystic
 ITEM_name
 Seer
 ITEM_name
-Soothsayer
+zOld Soothsayer
 ITEM_name
 Classic Skye
 ITEM_name
-Aqua
+zOld Aqua
 ITEM_name
-Canary
+zOld Canary
 ITEM_name
-Blush
+zOld Blush
 ITEM_name
 Classic Mal'Damba
 ITEM_name
-Hexer
+zOld Hexer
 ITEM_name
-Juju
+zOld Juju
 ITEM_name
 Cursed
 ITEM_name
@@ -93976,7 +93969,6 @@ Peridot
 ITEM_desc
 Obtainable in the Radiant Chest.
 ITEM_desc
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Ruby
 ITEM_desc
@@ -93996,7 +93988,6 @@ Tyrant's
 ITEM_desc
 Obtainable in the Radiant Chest.
 ITEM_desc
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Wraith
 ITEM_desc
@@ -94214,7 +94205,7 @@ zVOID
 ITEM_name
 zVOID
 ITEM_name
-Chrome
+zOld Chrome
 ITEM_name
 Welcome to the Basic Tutorial, Champion. I will be guiding you through your Paladins training.
 Tutorial_A_PortalRoom_010
@@ -94463,7 +94454,7 @@ Seer's Mirror
 ITEM_name
 SLT - Set - Ying - Snapdragon
 Loot_Table_name
-Snapdragon
+zOld Snapdragon
 ITEM_name
 Goal
 item_name
@@ -94531,25 +94522,25 @@ SLT - Set - Kinessa - Viking
 Loot_Table_name
 SLT - Set - Kinessa - Cutthroat
 Loot_Table_name
-Onslaught Collection
+Onslaught
 ITEM_name
-Black Ice Collection
+Black Ice
 ITEM_name
-Tribesman Collection
+Tribesman
 ITEM_name
 Beast
 ITEM_name
-Operative Collection
+Operative
 ITEM_name
-Tactical Collection
+Tactical
 ITEM_name
-Raider Collection
+Raider
 ITEM_name
 Viking
 ITEM_name
-Viking Collection
+Viking
 ITEM_name
-Cutthroat Collection
+Cutthroat
 ITEM_name
 Tutorial
 map_game_friendly_name
@@ -94832,11 +94823,11 @@ Triggerman Voice Pack
 ITEM_name
 SLT - Set - Buck - Triggerman
 Loot_Table_name
-Triggerman
+zOld Triggerman
 ITEM_name
 SLT - Set - Buck - Commando
 Loot_Table_name
-Commando Collection
+Commando
 ITEM_name
 Default Spray
 item_name
@@ -94883,7 +94874,7 @@ Garden
 map_game_friendly_name
 WIP Intrinsic
 map_game_name
-Pumpking
+zOld Pumpking
 ITEM_name
 Shooting Range
 map_game_friendly_name
@@ -94981,7 +94972,7 @@ SLT - Set - Grover - Saffron
 Loot_Table_name
 SLT - Set - Grover - Lavender
 Loot_Table_name
-Winter Collection
+Winter
 ITEM_name
 Paladins XP Boost
 ITEM_name
@@ -94989,9 +94980,9 @@ Level 2
 ITEM_desc
 Autumn
 ITEM_name
-Saffron
+zOld Saffron
 ITEM_name
-Lavender
+zOld Lavender
 ITEM_name
 By skipping the tutorial, you will miss out on rewards. Return to lobby anyway?
 PALADINS_TUTORIAL_ALERT
@@ -95017,7 +95008,7 @@ Best Flank
 PALADINS_BESTFLANK
 Best Support
 PALADINS_BESTSUPPORt
-zzzDeprecated Booster (7 days)
+Player Version Update
 ITEM_name
 zzzDeprecated Booster (30 days)
 ITEM_name
@@ -95025,7 +95016,7 @@ Booster Vendor
 Loot_Table_name
 [Shatter] Activating Shatter heals your illusions.
 item_short_desc
-Kingpin
+zOld Kingpin
 ITEM_name
 SLT - Set - Buck - Kingpin
 Loot_Table_name
@@ -95037,13 +95028,13 @@ SLT - Set - Buck - Mesa
 Loot_Table_name
 SLT - Set - Buck - Summit
 Loot_Table_name
-Brawler Collection
+Brawler
 ITEM_name
 Summit
 ITEM_name
-Alpine
+zOld Alpine
 ITEM_name
-Mesa
+zOld Mesa
 ITEM_name
 Citadel 3
 map_game_friendly_name
@@ -95059,17 +95050,17 @@ SLT - Set - Androxus - Gaunt
 Loot_Table_name
 SLT - Set - Androxus - Wraith
 Loot_Table_name
-Sanguine
+zOld Sanguine
 ITEM_name
 Wraith
 ITEM_name
-Gaunt
+zOld Gaunt
 ITEM_name
 SLT - Set - Viktor - Olive Drab
 Loot_Table_name
 SLT - Set - Viktor - Khaki
 Loot_Table_name
-Olive Drab
+zOld Olive Drab
 ITEM_name
 Khaki
 ITEM_name
@@ -95077,9 +95068,9 @@ SLT - Set - Bombking - Monarch
 Loot_Table_name
 Monarch
 ITEM_name
-H.A.W.K.
+zOld H.A.W.K.
 ITEM_name
-Assembly
+zOld Assembly
 ITEM_name
 SLT - Set - Ruckus - H.A.W.K.
 Loot_Table_name
@@ -95089,9 +95080,9 @@ SLT - Set - Cassie - Northern Watch
 Loot_Table_name
 SLT - Set - Cassie - Timber
 Loot_Table_name
-Northern Watch Collection
+Northern Watch
 ITEM_name
-Timber Collection
+Timber
 ITEM_name
 Alpine
 ITEM_name
@@ -95101,7 +95092,7 @@ Envy Sigil
 ITEM_name
 Alpine
 ITEM_desc
-Envy Collection
+Envy
 ITEM_name
 SLT - Set - Buck - Envy
 Loot_Table_name
@@ -95259,19 +95250,16 @@ Last One Standing
 Activity_title
 ACH_LASTONESTANDING
 Activity_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Plushy Knitting
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Cuddly Knitting
 ITEM_name
-Obtainable in the Weapon Chest.
+Obtainable in the Diamond Chest.
 ITEM_desc
 Plushy Cannon
 ITEM_name
-Obtainable in the Weapon Chest.
 ITEM_desc
 Cuddly Cannon
 ITEM_name
@@ -95309,11 +95297,10 @@ Falls v2
 map_game_friendly_name
 WIP Falls v2
 map_game_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Plushy
 ITEM_name
-Obtainable in the Champion Skin Chest.
+Obtainable in the Gold Chest.
 ITEM_desc
 Cuddly
 ITEM_name
@@ -95597,7 +95584,7 @@ EFFECT_GROUP_name
 item_short_desc
 Poise
 item_name
-[Armor] Gain {scale=10|10}% Crowd Control Reduction.
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -95711,9 +95698,9 @@ Skewer
 item_name
 [Impaler Arrow] Impaler arrows reveal enemies for {scale=1|1}s.
 item_desc
-Plushy
+zOld Plushy
 ITEM_name
-Cuddly
+zOld Cuddly
 ITEM_name
 [Impaler Arrow] Impaler arrows last longer.
 item_short_desc
@@ -95860,7 +95847,7 @@ Peace
 item_name
 Quick Sand
 item_name
-[Impaler Arrow] Reduce the cooldown of Impaler Arrow by {scale=5|5}%
+[Impaler Arrow] Reduce the cooldown of Impaler Arrow by {scale=6|6}%
 item_desc
 Grounded
 item_name
@@ -95944,7 +95931,7 @@ Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
 Shimmer
 item_name
-[Withdraw] Gain {scale=10|10}% damage reduction during Withdraw's stealth.
+[Withdraw] Dropping below {scale=15|15}% health resets the cooldown of Withdraw.
 item_desc
 zDeprecated Grounded II
 item_name
@@ -96022,7 +96009,7 @@ item_desc
 item_short_desc
 Oasis
 item_name
-[Withdraw] After using Withdraw heal for {scale=50|50}.
+[Withdraw] After using Withdraw heal for {scale=80|80}.
 item_desc
 Still Shalin
 BOT_name
@@ -96060,7 +96047,7 @@ zDeprecated Quick Sand IV
 item_name
 [Impaler Arrow] Reduce the cooldown of Impaler Arrow by 20%.
 item_desc
-[Withdraw] Gain damage reduction during Withdraw's stealth.
+[Withdraw] Dropping to low health resets the cooldown of Withdraw.
 item_short_desc
 zDeprecated Shimmer II
 item_name
@@ -96171,7 +96158,7 @@ Renowned Headband
 ITEM_name
 Strike True
 item_name
-[Impaler Arrow] Heal for {scale=50|50} when striking an enemy with Impaler arrow.
+[Impaler Arrow] Heal for {scale=70|70} when striking an enemy with Impaler arrow.
 item_desc
 [Impaler Arrow] Heal when striking an enemy with Impaler arrow.
 item_short_desc
@@ -96281,7 +96268,7 @@ SLT - Collection - Buck - Triggerman Kingpin
 Loot_Table_name
 Collections Vendor
 Loot_Table_name
-Triggerman
+zOld Triggerman
 ITEM_name
 Champion Pack Epic Upgrade
 ITEM_name
@@ -96355,11 +96342,11 @@ SLT - Collection - Evie - Troublemaker
 Loot_Table_name
 SLT - Collection - Cassie - Vampire Slayer
 Loot_Table_name
-Troublemaker
+zOld Troublemaker
 ITEM_name
-Night Bane
+zOld Night Bane
 ITEM_name
-Pumpking Collection
+Pumpking
 ITEM_name
 Nomad
 map_game_friendly_name
@@ -96826,9 +96813,9 @@ SLT - Set - Sha Lin - Renowned
 Loot_Table_name
 Bravado
 ITEM_name
-Charisma
+zOld Charisma
 ITEM_name
-Renowned
+zOld Renowned
 ITEM_name
 SLT - Set - Ruckus - Sprocket
 Loot_Table_name
@@ -96913,13 +96900,13 @@ Gauntlet Falling Star Deployable
 Deployable_name
 Sprocket
 ITEM_name
-Gizmo
+zOld Gizmo
 ITEM_name
-Star Slayer
+zOld Star Slayer
 ITEM_name
 SLT - Collection - Ruckus - Starslayer
 Loot_Table_name
-Star Slayer
+zOld Star Slayer
 ITEM_name
 zDeprecated (Falling Star ability)
 item_name
@@ -97173,7 +97160,7 @@ Makoa_Hooks_TestDeck
 ITEM_name
 SLT - Bundle - Evie - Merrymaker
 Loot_Table_name
-Merrymaker
+zOld Merrymaker
 ITEM_name
 Amplitude Spray
 item_name
@@ -97255,7 +97242,7 @@ item_name
 item_desc
 Quick Release
 item_name
-[Nade Launcher] Gain {scale=10|10}% reload speed for 3s after using Nade Launcher.
+[Nade Launcher] Activating Nade Launcher generates {scale=2|2} ammo.
 item_desc
 Volatile
 item_name
@@ -97263,7 +97250,7 @@ item_name
 item_desc
 Incensed
 item_name
-[Fire Bomb] Gain {scale=8|8}% movement speed for 3s when activating Fire Bomb.
+[Fire Bomb] Gain {scale=8|8}% movement speed for 4s when activating Fire Bomb.
 item_desc
 Turn The Table
 item_name
@@ -97279,7 +97266,7 @@ item_name
 item_desc
 Favored Quarry
 item_name
-[Hunter's Mark] The reveal portion of your Hunter's Mark lasts {scale=1|1}s longer.
+[Hunter's Mark] The reveal portion of your Hunter's Mark lasts {scale=2|2}s longer.
 item_desc
 Salamander Hide
 item_name
@@ -97299,7 +97286,7 @@ zDeprecated Bandolier IV
 item_name
 [Nade Launcher] Reduce the cooldown of Nade Launcher by 2s.
 item_desc
-[Nade Launcher] Gain reload speed for 3s after using Nade Launcher.
+[Nade Launcher] Generate ammo after using Nade Launcher.
 item_short_desc
 zDeprecated Quick Release II
 item_name
@@ -97431,17 +97418,17 @@ WIP Froze_Guard
 map_game_friendly_name
 WIP Froze_Guard
 map_game_name
-WIP Supa Rift (Siege)
+WIP FrogRework
 MSL_name
 WIP Frozen_Guard
 map_game_friendly_name
 WIP Frozen_Guard
 map_game_name
-Rift
+FrogRework (Siege)
 Match_Queue_short_desc
-Supa Rift (Siege)
+FrogRework (Siege)
 Match_Queue_name
-Rift
+FrogRework (Siege)
 Match_Queue_desc
 Jaguar Falls
 map_game_friendly_name
@@ -97539,7 +97526,7 @@ zDelete
 ITEM_name
 zDelete
 ITEM_name
-Beast Collection
+Beast
 ITEM_name
 zDelete
 ITEM_name
@@ -97551,15 +97538,15 @@ zDelete
 ITEM_name
 zDelete
 ITEM_name
-H.A.W.K. Collection
+H.A.W.K.
 ITEM_name
-Chrome Collection
-ITEM_name
-zDelete
+Chrome
 ITEM_name
 zDelete
 ITEM_name
-Snapdragon Collection
+zDelete
+ITEM_name
+Snapdragon
 ITEM_name
 Merrymaker Voice Pack
 ITEM_name
@@ -98251,9 +98238,9 @@ zDelete
 Loot_Table_name
 Coral
 ITEM_name
-Azure
+zOld Azure
 ITEM_name
-Amaranthine
+zOld Amaranthine
 ITEM_name
 UnderCity
 map_game_friendly_name
@@ -98265,7 +98252,7 @@ SLT - Collection - Viktor - Invitational 2017
 Loot_Table_name
 SLT - Collection - Ying - Convention 2017
 Loot_Table_name
-Convention 2017 Collection
+Convention 2017
 ITEM_name
 Invitational Viktor
 ITEM_name
@@ -98349,7 +98336,7 @@ item_name
 item_desc
 Persistence
 item_name
-[Armor] You cannot be slowed below {scale=60|10}% of your base movement speed.
+[Armor] Take {scale=6|6}% less damage when below 40% health.
 item_desc
 zDeprecated Walk it Off II
 item_name
@@ -98736,7 +98723,7 @@ EFFECT_GROUP_name
 item_short_desc
 Glyph of Freedom
 item_name
-[Armor] Gain {scale=10|10}% Crowd Control reduction.
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction.
 item_desc
 Evolve
 EFFECT_GROUP_name
@@ -99183,11 +99170,11 @@ zDeprecated Infusion IV
 item_name
 [Nullify] Activating Nullify heals you for 200.
 item_desc
-[Nullify] Activating Nullify generates ammo.
+[Nullify] Activating Nullify applies healing reduction.
 item_short_desc
 Rune Torrent
 item_name
-[Nullify] Activating Nullify generates {scale=3|3} ammo.
+[Nullify] Enemies affected by Nullify receive {scale=15|15}% reduced healing for 3s.
 item_desc
 zDeprecated Rune Torrent II
 item_name
@@ -99247,7 +99234,6 @@ Obtainable in the Gold Chest.
 ITEM_desc
 Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Weapon Chest.
 ITEM_desc
 Genie's Winged Prism
 ITEM_name
@@ -99282,7 +99268,7 @@ Obtainable in the Gold Chest.
 ITEM_desc
 Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Weapon Chest.
+Obtainable in the Diamond Chest.
 ITEM_desc
 Genie's Cloud Prism
 ITEM_name
@@ -99399,7 +99385,6 @@ Energy Charge - Maeve
 item_name
 Maeve
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Genie's Feather
 ITEM_name
@@ -99903,55 +99888,45 @@ Finger Gun
 item_name
 SLT  Genie Chest - Treasure Roll
 Loot_Table_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Code Green Trooper
 ITEM_name
-Obtainable in the Champion Skin Chest.
+Obtainable in the Diamond Chest.
 ITEM_desc
 Code Green Grenadier
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Code Green Bandolier
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Code Green Comms
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Code Green Cpt. Cap
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Code Green Kepi
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Code Green Helmet
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Code Green Cover
 ITEM_name
-Genie
+zOld Genie
 ITEM_name
 Genie Voice Pack
 ITEM_name
 Code Green AR-Compact
 ITEM_name
-Obtainable in the Weapon Chest.
 ITEM_desc
-Obtainable in the Weapon Chest.
+Obtainable in the Diamond Chest.
 ITEM_desc
 Code Green AR-SK9
 ITEM_name
-Obtainable in the Weapon Chest.
 ITEM_desc
 Code Green AR-LMG
 ITEM_name
-Obtainable in the Weapon Chest.
 ITEM_desc
 Code Green AR-Melee
 ITEM_name
@@ -99975,7 +99950,7 @@ Cherub Crossbow
 ITEM_name
 SLT - Collection - Ying - Genie
 Loot_Table_name
-Obtainable in the Champion Skin Chest.
+Obtainable in the Diamond Chest.
 ITEM_desc
 Obtainable in the Gold Chest.
 ITEM_desc
@@ -100103,7 +100078,7 @@ WIP IceMines REDUX
 map_game_friendly_name
 WIP IceMines REDUX
 map_game_name
-Obtain in the Valentine's Chest.
+Obtain in the Valentines Chest.
 ITEM_desc
 Heartbreaker
 ITEM_name
@@ -100145,17 +100120,17 @@ Code Green Voice Pack
 ITEM_name
 SLT Valentine's Chest - Treasure Roll
 Loot_Table_name
-Heartbreaker
+zOld Heartbreaker
 ITEM_name
 Heartbreaker Voice Pack
 ITEM_name
 SLT - Chest - Code Green - Rare - Exclusive
 Loot_Table_name
-Heartbreaker
+zOld Heartbreaker
 ITEM_name
 SLT - Collection - Viktor - Code Green
 Loot_Table_name
-Code Green
+zOld Code Green
 ITEM_name
 SLT - Collection - Valentine
 Loot_Table_name
@@ -100201,7 +100176,7 @@ item_name
 item_desc
 Lifelike
 item_name
-[Illusion] Illusions can now target two allies when Healing, but Illusions heal for 30% less.
+[Illusion] Illusions can now target two allies when Healing, but Illusions heal for 20% less.
 item_desc
 Resonance
 item_name
@@ -100271,11 +100246,11 @@ item_name
 item_desc
 Formidable
 item_name
-[Armor] Regenerate 60% of your maximum Health over 3s when you fall below 40% of your maximum Health.
+[Armor] Regenerate 55% of your maximum Health over 3s when you fall below 40% of your maximum Health.
 item_desc
 Impulse
 item_name
-[Blast Shot] Increase the damage of Blast Shot by 350 and reduce the Cooldown by 2s.
+[Blast Shot] Increase the damage of Blast Shot by 250 and reduce the Cooldown by 2s.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -100495,7 +100470,7 @@ zDeprecated Street Cred IV
 item_name
 [Armor] Increase your maximum Health by 200.
 item_desc
-[Armor] You cannot be slowed below a certain amount of your base movement speed.
+[Armor] Take less damage when below 40% health.
 item_short_desc
 zDeprecated Persistence II
 item_name
@@ -100547,11 +100522,11 @@ Accelerant
 item_name
 [Grumpy Bomb] Grumpy Bomb explodes 40% faster.
 item_desc
-[Prowl] Reduce Your fallspeed in Prowl
+[Prowl] Gain damage reduction in Prowl.
 item_short_desc
 Featherlite
 item_name
-[Prowl] Reduce Your fallspeed in Prowl by {scale=5|5}%
+[Prowl] Gain {scale=5|5}% damage reduction while using Prowl.
 item_desc
 Firefight
 item_name
@@ -100567,7 +100542,7 @@ item_name
 item_desc
 Leviathan
 item_name
-[Armor] Increase your Maximum Health by 1600 and gain CC Immunity during Ancient Rage.
+[Armor] Increase your Maximum Health by 1200 and gain CC Immunity during Ancient Rage.
 item_desc
 Pluck
 item_name
@@ -100661,7 +100636,7 @@ item_name
 item_desc
 Direct Current
 item_name
-[Nullify] Nullify deals 500 more damage.
+[Nullify] Nullify deals 450 more damage.
 item_desc
 Field Study
 item_name
@@ -100721,7 +100696,7 @@ Obtainable in the Valentine's Chest.
 item_desc
 Sixth Sense
 item_name
-[Pounce] Gain {scale=5|5}% Damage reduction for 2s after using Pounce.
+[Pounce] Gain {scale=6|6}% Damage reduction for 3s after using Pounce.
 item_desc
 zDeprecated Sixth Sense II
 item_name
@@ -100801,9 +100776,9 @@ item_name
 item_desc
 Scar Tissue
 item_name
-[Nine Lives] Gain {scale=5|5}% Damage Reduction for 2s after using Nine Lives.
+[Nine Lives] Gain {scale=6|6}% Damage Reduction for 3s after using Nine Lives.
 item_desc
-[Nine Lives] Gain Damage Reduction for 2s after using Nine Lives.
+[Nine Lives] Gain Damage Reduction for 3s after using Nine Lives.
 item_short_desc
 [Nine Lives] Nine Lives now heals.
 item_short_desc
@@ -100821,7 +100796,7 @@ item_name
 item_desc
 Classic Torvald
 ITEM_name
-Viceroy Collection
+Viceroy
 ITEM_name
 zDeprecated (Deep Roots)
 ITEM_name
@@ -100927,7 +100902,7 @@ Remember to use your ultimate ability, it won't charge past 100% energy.
 Game_Tip_tip
 Aerial Assault
 item_name
-[Advance] Advance gains a 3rd charge, standing still causes Ruckus to jet upwards, and the cooldown of Advance is reduced by 1s.
+[Advance] Advance gains a 3rd charge, standing still causes Ruckus to jet upwards.
 item_desc
 Dark Stalker
 item_name
@@ -100963,7 +100938,7 @@ Grumpy Bomb destroys all shields when it explodes
 item_short_desc
 Demolition
 item_name
-[Grumpy Bomb] Grumpy Bomb destroys all shields when it explodes and its blast radius is increased by 300
+[Grumpy Bomb] Grumpy Bomb destroys all shields when it explodes and its blast radius is increased by 30%
 item_desc
 Suppression
 item_name
@@ -101095,7 +101070,7 @@ Mark a target for 3.5s, during which all your weapon shots will hit them automat
 item_desc
 Retribution
 item_name
-You have a Retribution target that is revealed to you when nearby. Killing your target grants additional Credits if they are on a killstreak. Activating Retribution randomly selects a new target.
+You have a Retribution target that becomes visible through walls when nearby. Killing your target grants additional Credits if they are on a killstreak. Activating Retribution randomly selects a new target.
 item_desc
 Combat Slide
 item_name
@@ -101288,9 +101263,7 @@ Dreadhunter
 ITEM_name
 Dreadhunter's Crest
 ITEM_name
-Obtainable in the Colossal Chest
 ITEM_desc
-Obtainable in the Colossal Chest
 ITEM_desc
 Dreadhunter's Maw
 ITEM_name
@@ -101354,11 +101327,9 @@ Rapscallion
 item_name
 Obtainable in the Gold Chest.
 ITEM_desc
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Baroness
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Baroness Tress
 ITEM_name
@@ -101386,7 +101357,6 @@ Poison
 EFFECT_GROUP_name
 Baroness Stinger
 ITEM_name
-Obtainable in the Weapon Chest.
 ITEM_desc
 PalaDuty
 map_game_friendly_name
@@ -101666,11 +101636,11 @@ Mother's Grace
 item_name
 [Earthen Guard] Earthen Guard gains 20% increased Damage Reduction and now grants CC Immunity.
 item_desc
-RR_Reach_Gold_5
+RR_S1_Reach_Gold_5
 Activity_name
-RR_Win_Games
+RR_S1_Win_Games
 Activity_name
-RR_Play_Games
+RR_S1_Play_Games
 Activity_name
 Champion Mastery Level Reward Vendor
 Loot_Table_name
@@ -101690,7 +101660,7 @@ The Wild
 BOT_desc
 Tremors
 item_name
-[Impasse] Reduce the Cooldown of Impasse by 70% as long as it is not destroyed.
+[Impasse] Reduce the Cooldown of Impasse by 70%
 item_desc
 Sunken City
 map_game_friendly_name
@@ -101698,7 +101668,7 @@ WIP Bog_Torn
 map_game_name
 Dreadhunter Voice Pack
 ITEM_name
-Dreadhunter
+zOld Dreadhunter
 ITEM_name
 SLT - Collection - Drogoz - Dreadhunter
 Loot_Table_name
@@ -101714,7 +101684,7 @@ EFFECT_GROUP_name
 item_desc
 [Restore Soul] Increase the range of Restore Soul by 300% and the Duration by 1s.
 item_desc
-[Weapon] Each Soul Charge you detonate increases your Maximum Health and Weapon Damage by 20% until you die. Stacks up to 8 times.
+[Weapon] Each Soul Charge you detonate increases your Maximum Health and Weapon Damage by 2% until you die. Stacks up to 8 times.
 item_desc
 Forward
 map_game_friendly_name
@@ -101866,11 +101836,11 @@ zDeprecated Plateau IV
 item_name
 [Impasse] Increase the duration of Impasse by 2s.
 item_desc
-[Impasse] Impasse gains more Damage Reduction from Earthen Guard.
+[Impasse] Activating Impasse heals you.
 item_short_desc
 Crag
 item_name
-[Impasse] Impasse gains {scale=12|12}% more Damage Reduction from Earthen Guard.
+[Impasse] Activating Impasse heals you for {scale=150|150}.
 item_desc
 Primal Court
 map_game_friendly_name
@@ -101910,7 +101880,7 @@ item_desc
 item_short_desc
 Living Stone
 item_name
-[Earthen Guard] Reload {scale=10|10}% faster during Earthen Guard.
+[Earthen Guard] Reload {scale=12|12}% faster during Earthen Guard.
 item_desc
 zDeprecated Living Stone II
 item_name
@@ -102018,11 +101988,11 @@ zDeprecated Geomancer IV
 item_name
 [Earthen Guard] Reduce the cooldown of Earthen Guard by 2s.
 item_desc
-[Armor] You cannot be slowed below a certain amount of your base movement speed.
+[Armor] Eliminations reduce all active cooldowns.
 item_short_desc
 Rolling Stones
 item_name
-[Armor] You cannot be slowed below {scale=60|10}% of your base movement speed.
+[Armor] Getting an elimination reduces all active cooldowns by {scale=8|8}%
 item_desc
 zDeprecated Rolling Stones II
 item_name
@@ -102036,11 +102006,11 @@ zDeprecated Rolling Stones IV
 item_name
 [Armor] You cannot be slowed below 80% of your base movement speed.
 item_desc
-[Weapon] Eliminations grant you Reload Speed for 5s.
+[Weapon] Gain Reload speed.
 item_short_desc
 Whetstone
 item_name
-[Weapon] Eliminations grant you {scale=10|10}% Reload Speed for 5s.
+[Weapon] Gain {scale=5|5}% Reload Speed.
 item_desc
 zDeprecated Whetstone II
 item_name
@@ -102058,7 +102028,7 @@ item_desc
 item_short_desc
 Insurmountable
 item_name
-[Armor] Gain {scale=10|10}% Crowd Control reduction.
+[Armor] Gain {scale=14|14}% Crowd Control reduction.
 item_desc
 zDeprecated Insurmountable II
 item_name
@@ -102134,27 +102104,21 @@ Snowfall Junction
 map_game_friendly_name
 LIVE Survival Ritual Practice
 map_game_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Chancellor
 ITEM_name
-Obtainable in the Weapon Chest.
 ITEM_desc
 Chancellor's Basilisk
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Chancellor's Visage
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 FN-01 Helios
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 FN-01 Helios Buster Shield
 ITEM_name
-Obtainable in the Weapon Chest.
 ITEM_desc
 FN-01 Helios Incinerator
 ITEM_name
@@ -102174,7 +102138,7 @@ PAYLOAD
 PALADINS_PAYLOAD
 CASUAL
 PALADINS_CASUAL
-COMPETITIVE
+RANKED
 PALADINS_COMPETITIVE
 Unlock in the Burrito Collection.
 ITEM_desc
@@ -102184,7 +102148,6 @@ Unlock in the Burrito Collection.
 ITEM_desc
 Burrito Shades
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Nova Strike
 ITEM_name
@@ -102209,7 +102172,6 @@ Obtainable in the Diamond Chest.
 ITEM_desc
 Nova Strike Gaze
 ITEM_name
-Obtainable in the Weapon Chest.
 ITEM_desc
 Nova Strike Vaporizer
 ITEM_name
@@ -102401,11 +102363,11 @@ item_desc
 ITEM_desc
 Essence
 ITEM_name
-Baroness
+zOld Baroness
 ITEM_name
 SLT - Collection - Tyra - Baroness
 Loot_Table_name
-Exalted
+zOld Exalted
 ITEM_name
 SLT - Collection - Androxus - Exalted
 Loot_Table_name
@@ -102442,7 +102404,7 @@ item_desc
 item_short_desc
 Conditioned
 item_name
-[Armor] Gain {scale=5|5}% movement speed.
+[Armor] Gain {scale=3|3}% movement speed.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -102689,11 +102651,11 @@ Umbral Gait
 item_name
 [Weapon] If an enemy is affected with a Soul Charge you move {scale=8|8}% faster
 item_desc
-[Armor] You cannot be slowed below a certain amount of your base movement speed.
+[Armor] Increase your base maximum Health.
 item_short_desc
 Juke Boots
 item_name
-[Armor] You cannot be slowed below {scale=60|10}% of your base movement speed.
+[Armor] Increase your maximum Health by {scale=50|50}.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -102767,11 +102729,11 @@ item_desc
 DEVICE_name
 Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
-[Retribution] Increase the range at which your target becomes revealed.
+[Retribution] Increase the range at which your target becomes visible.
 item_short_desc
 Keen Sight
 item_name
-[Retribution] Increase the range at which your target becomes revealed by {scale=10|10} units.
+[Retribution] Increase the range at which your target becomes visible by {scale=10|10} units.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -102805,11 +102767,11 @@ item_desc
 DEVICE_name
 Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
-[Combat Slide] Landing a headshot lowers the remaining cooldown on Combat Slide.
+[Combat Slide] Hitting an enemy lowers the remaining cooldown on Combat Slide.
 item_short_desc
 Wicked Don't Rest
 item_name
-[Combat Slide] Landing a headshot lowers the remaining Cooldown on Combat Slide by {scale=20|20}%
+[Combat Slide] Hitting an enemy reduces the Cooldown of Combat Slide by {scale=5|5}%
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -102873,11 +102835,11 @@ item_desc
 DEVICE_name
 Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
-[In Pursuit] Gain Movement Speed during In Pursuit.
+[In Pursuit] Using In Pursuit generates ammo
 item_short_desc
 Assail
 item_name
-[In Pursuit] Gain {scale=8|8}% Movement Speed during In Pursuit.
+[In Pursuit] Activating In Pursuit generates {scale=2|2} ammo.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -102911,7 +102873,7 @@ DEVICE_desc
 item_short_desc
 Hardiness
 item_name
-[In Pursuit] Gain {scale=4|4}% Damage Reduction during In Pursuit.
+[In Pursuit] Gain {scale=5|5}% Damage Reduction during In Pursuit.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -102989,7 +102951,7 @@ Loot_Table_name
 ITEM_desc
 24000 Essence
 ITEM_name
-Rooster Teeth
+zOld Rooster Teeth
 ITEM_name
 Grohk Bustin
 map_game_friendly_name
@@ -103049,7 +103011,7 @@ item_name
 item_desc
 Shenanigans
 item_name
-[Dead Zone] Gain {scale=10|10}% Movement Speed for 2s when entering Dead Zone.
+[Dead Zone] Gain {scale=10|10}% Movement Speed for 4s when entering Dead Zone.
 item_desc
 Flora
 item_name
@@ -103147,7 +103109,7 @@ item_name
 item_desc
 Dark Sight
 item_name
-[Rend Soul] Rend Soul Reveals enemies affected with Soul Charges for {scale=1|1}s.
+[Rend Soul] Rend Soul Reveals enemies affected with Soul Charges to you for {scale=1|1}s.
 item_desc
 zDeprecated Dark Sight II
 item_name
@@ -103287,7 +103249,7 @@ item_desc
 item_short_desc
 Sorceress
 item_name
-[Weapon] Gain {scale=5|5}% Reload Speed.
+[Weapon] Gain {scale=7|7}% Reload Speed.
 item_desc
 zDeprecated Sorceress II
 item_name
@@ -103339,11 +103301,11 @@ Heal your allies and harm your enemies by channeling the power of the Abyss.
 ITEM_desc
 Seris_Deck
 ITEM_name
-[Restore Soul] Restore Soul reduces the Cooldown of Shadow Travel while channeling.
+[Restore Soul] Restore Soul reduces the Cooldown of Shadow Travel.
 item_short_desc
 Fade to Black
 item_name
-[Restore Soul] Restore Soul reduces the Cooldown of Shadow Travel by {scale=0.3|0.3}s every second while channeling.
+[Restore Soul] Activating Restore Soul reduces the Cooldown of Shadow Travel by {scale=0.8|0.8}s.
 item_desc
 zDeprecated Fade to Black II
 item_name
@@ -103492,7 +103454,7 @@ Self Knock Back
 EFFECT_GROUP_name
 Self Damage
 EFFECT_GROUP_name
-FN-01 Helios
+zOld FN-01 Helios
 ITEM_name
 Weapon shots deal more damage to high-health targets.
 item_short_desc
@@ -103502,7 +103464,7 @@ item_name
 item_desc
 SLT - Collection - Fernando - FN-01 Helios
 Loot_Table_name
-DZ-03 Draco Collection
+DZ-03 Draco
 ITEM_name
 item_short_desc
 Default Lex Emote
@@ -103543,7 +103505,7 @@ WIP Grotto v3
 map_game_name
 SLT - Collection - Kinessa - Spacehunter - Bought
 Loot_Table_name
-Nova Strike
+zOld Nova Strike
 ITEM_name
 Purchase Nova Strike Collection
 Activity_Goal_title
@@ -103569,7 +103531,7 @@ item_name
 item_desc
 Inescapable
 item_name
-[Retribution] You gain {scale=7|7}% Movement Speed when you are within 60 units of your Retribution target.
+[Retribution] You gain {scale=5|5}% Movement Speed when you are within 60 units of your Retribution target.
 item_desc
 Canopy (Survival)
 map_game_friendly_name
@@ -103881,17 +103843,16 @@ LadyLiberty
 BOT_name
 Elven Illusionist
 BOT_desc
-Volcanic Collection
+Volcanic
 ITEM_name
 Unlock by reaching player level 30 during the Beta.
 ITEM_desc
 SLT - Collection - Sha Lin - Burrito
 Loot_Table_name
-Burrito Collection
+Burrito
 ITEM_name
 Nova Strike Voice Pack
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Default Burst Cannon
 ITEM_name
@@ -103909,7 +103870,7 @@ self dmg
 EFFECT_GROUP_name
 Autofire Inara Wall Bot
 BOT_name
-Spacehunter Unlocks
+zOld Spacehunter Unlocks
 ITEM_name
 Quest Reward Vendor
 Loot_Table_name
@@ -104039,7 +104000,7 @@ item_name
 item_desc
 Twilight
 item_name
-[Dead Zone] Reduce the Cooldown of Dead Zone by {scale=0.5|0.5}s.
+[Dead Zone] Reduce the Cooldown of Dead Zone by {scale=0.7|0.7}s.
 item_desc
 [Dead Zone] Reduce the Cooldown of Dead Zone.
 item_short_desc
@@ -104063,7 +104024,7 @@ zDeprecated Shenanigans II
 item_name
 [Dead Zone] Gain 20% Movement Speed for 2s when entering Dead Zone.
 item_desc
-[Dead Zone] Gain Movement Speed for 2s when entering Dead Zone.
+[Dead Zone] Gain Movement Speed for 4s when entering Dead Zone.
 item_short_desc
 zDeprecated Shenanigans III
 item_name
@@ -104165,11 +104126,11 @@ zDeprecated Germination IV
 item_name
 [Seedling] Generate 4 ammo when activating Seedling.
 item_desc
-[Seedling] Gain Reload Speed for 3s after using Seedling.
+[Seedling] Generate ammo after using Seedling.
 item_short_desc
 Photosynthesis
 item_name
-[Seedling] Gain {scale=10|10}% Reload Speed for 3s after using Seedling.
+[Seedling] Activating Seedling Grants {scale=10|10}% Movement Speed for 3s.
 item_desc
 zDeprecated Photosynthesis II
 item_name
@@ -104201,11 +104162,11 @@ zDeprecated Flitter IV
 item_name
 [Flutter] Reduce the Cooldown of Flutter by 2s.
 item_desc
-[Flutter] Gain increased Air Control for 3s after Flutter ends.
+[Flutter] Gain Damage Reduction for 3s after activating Flutter.
 item_short_desc
 Spritely
 item_name
-[Flutter] Gain {scale=15|15}% increased Air Control for 3s after Flutter ends.
+[Flutter] Gain {scale=5|5}% Damage Reduction for 3s after activating Flutter.
 item_desc
 zDeprecated Spritely II
 item_name
@@ -104375,7 +104336,7 @@ Team Death Match
 map_game_friendly_name
 WIP Team Death Match
 map_game_name
-Siege Unit Shield Deployable
+zOLD Siege Unit Shield Deployable
 Deployable_name
 Make them all green with envy!
 ITEM_desc
@@ -104897,7 +104858,7 @@ Wrestler
 ITEM_desc
 Buck Wild
 ITEM_name
-Chancellor Collection
+Chancellor
 ITEM_name
 "Step into my parlor" said the snake to the mouse. I have a many shocking things to show you.
 ITEM_desc
@@ -104913,7 +104874,6 @@ Obtainable in the VIP Store.
 ITEM_desc
 Crime Fighter Cowl
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Guardian Visor
 ITEM_name
@@ -104925,7 +104885,6 @@ Obtainable in the VIP Store.
 ITEM_desc
 Crime Fighter
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Guardian
 ITEM_name
@@ -104990,11 +104949,9 @@ Sugar Star
 ITEM_desc
 Star Glam Blaster
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Steam Demon
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Steam Demon's Helm
 ITEM_name
@@ -105002,7 +104959,6 @@ Copy of Promotional Vendor - Voice Packs
 Loot_Table_name
 Baw Lin
 BOT_name
-Obtainable in the Weapon Chest.
 ITEM_desc
 Steam Demon's Kompressor
 ITEM_name
@@ -105090,7 +105046,6 @@ Ebb and Flow Spray
 item_name
 Obtainable in the Radiant Chest.
 item_desc
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Stone Keep
 map_game_friendly_name
@@ -105152,15 +105107,15 @@ SLT - Collection - Maeve - Alley Cat
 Loot_Table_name
 SLT - Collection - Bomb King - Biz King
 Loot_Table_name
-Alley Cat
+zOld Alley Cat
 ITEM_name
-Biz-King Collection
+Biz-King
 ITEM_name
-Justicar
+zOld Justicar
 ITEM_name
 Lawbringer
 ITEM_name
-Peacekeeper
+zOld Peacekeeper
 ITEM_name
 SLT - Set - Lex - Justicar
 Loot_Table_name
@@ -105250,7 +105205,7 @@ Classic Maeve
 ITEM_name
 Classic Sha Lin
 ITEM_name
-Garnet
+zOld Garnet
 ITEM_name
 Classic Tyra
 ITEM_name
@@ -105278,9 +105233,9 @@ SLT - Set - Inara - Amethyst
 Loot_Table_name
 SLT - Set - Inara - Celestine
 Loot_Table_name
-Amethyst
+zOld Amethyst
 ITEM_name
-Celestine
+zOld Celestine
 ITEM_name
 SLT - Set - Maeve - Vagrant
 Loot_Table_name
@@ -105290,9 +105245,9 @@ SLT - Set - Maeve - Guttersnipe
 Loot_Table_name
 Vagrant
 ITEM_name
-Riff Raff
+zOld Riff Raff
 ITEM_name
-Guttersnipe
+zOld Guttersnipe
 ITEM_name
 SLT - Set - Seris - Taboo
 Loot_Table_name
@@ -105302,21 +105257,21 @@ SLT - Set - Sha Lin - Burrito
 Loot_Table_name
 SLT - Set - Seris - Prophecy
 Loot_Table_name
-Prophecy
+zOld Prophecy
 ITEM_name
-Umbral
+zOld Umbral
 ITEM_name
 Taboo
 ITEM_name
 zDelete
 Loot_Table_name
-Cartography
+zOld Cartography
 ITEM_name
-Historian
+zOld Historian
 ITEM_name
 Arcanist
 ITEM_name
-Tinder Collection
+Tinder
 ITEM_name
 zDelete
 Loot_Table_name
@@ -105809,9 +105764,9 @@ SLT - Collection - Pip - Invader
 Loot_Table_name
 SLT - Collection - Grover - Doom Shroom
 Loot_Table_name
-Doom Shroom Collection
+Doom Shroom
 ITEM_name
-Invader Collection
+Invader
 ITEM_name
 Grover never used to like mushrooms, but now they're growing on him.
 ITEM_desc
@@ -105855,7 +105810,7 @@ of the Summer Court
 ITEM_name
 Fire a blast of Fae energy that deals 500 damage every 0.75 seconds.
 item_desc
-Fire out a toxic spore that deals 100 damage and reduces healing by 90% in an area for 5s. Enemies affected by the spore that move out of the infested area cannot heal for 2s.
+Fire out a toxic spore that deals 100 damage and prevents all healing in an area for 5s. Enemies affected by the spore that move out of the infested area cannot heal for 2s.
 item_desc
 Toss a seed that explodes after a 1 second fuse, dealing 400 damage and spawning 4 additional seeds that each explode for 400 damage after 1 second.
 item_desc
@@ -105945,7 +105900,7 @@ Loot_Table_name
 item_short_desc
 Indomitable
 item_name
-[Armor] Gain {scale=10|10}% crowd control reduction.
+[Armor] Gain {scale=14|14}% crowd control and slow reduction.
 item_desc
 Evolve
 EFFECT_GROUP_name
@@ -106063,11 +106018,11 @@ Brawl
 item_name
 [Kinetic Burst] Heal for {scale=80|80} Health over 2s for each enemy hit by Kinetic burst.
 item_desc
-[Kinetic Burst] Reduce the cooldown of Siege Shield for each enemy hit with Kinetic Burst.
+[Kinetic Burst] Reduce the cooldown of Siege Shield for hitting an enemy with Kinetic Burst.
 item_short_desc
 Siege Engine
 item_name
-[Kinetic Burst] Reduce the cooldown of Siege Shield by {scale=0.5|0.5}s for each enemy hit with Kinetic Burst.
+[Kinetic Burst] Reduce the cooldown of Siege Shield by {scale=1|1}s for hitting an enemy with Kinetic Burst.
 item_desc
 [Siege Shield] Reduce the Cooldown of Siege Shield by 0.5s.
 item_short_desc
@@ -106109,7 +106064,7 @@ item_desc
 item_short_desc
 Gate Crasher
 item_name
-[Shoulder Bash] Reduce the Cooldown of Shoulder Bash by {scale=1|1}s.
+[Shoulder Bash] Reduce the Cooldown of Shoulder Bash by {scale=1.2|1.2}s.
 item_desc
 zDeprecated Gate Crasher III
 item_name
@@ -106145,7 +106100,7 @@ item_desc
 item_short_desc
 Thrive
 item_name
-[Shoulder Bash] Heal for {scale=150|150} Health when hitting with Shoulder Bash.
+[Shoulder Bash] Heal for {scale=175|175} Health when hitting with Shoulder Bash.
 item_desc
 zDeprecated Thrive II
 item_name
@@ -106241,11 +106196,11 @@ zDeprecated Brawl IV
 item_name
 [Kinetic Burst] Heal for 320 Health over 2s for each enemy hit by Kinetic burst.
 item_desc
-[Siege Shield] Siege Shield reveals nearby enemies.
+[Siege Shield] Increase the health of Siege Shield.
 item_short_desc
 Watchtower
 item_name
-[Siege Shield] Siege Shield reveals nearby enemies for {scale=1|1}s.
+[Siege Shield] Increase the Health of Siege Shield by {scale=250|250}.
 item_desc
 IAM Casual
 map_game_friendly_name
@@ -107151,11 +107106,11 @@ zDeprecated Master Stance IV
 item_name
 [Counter] Increase the duration of Counter by 1s.
 item_desc
-[Counter] Increase your Movement Speed during Counter.
+[Counter] Activating Counter increases your Movement Speed.
 item_short_desc
 Footwork
 item_name
-[Counter] Increase your Movement Speed by {scale=10|10}% during Counter.
+[Counter] Activating Counter increases your Movement Speed by {scale=10|10}% for 3s.
 item_desc
 [Counter] Successfully Countering an attack will generate ammo.
 item_short_desc
@@ -107187,7 +107142,7 @@ ITEM_name
 item_short_desc
 Hideout
 item_name
-[Billow] Increase the duration of Billow by {scale=0.5|0.5}s.
+[Billow] Increase the duration of Billow by {scale=0.4|0.4}s.
 item_desc
 zDeprecated Hideout II
 item_name
@@ -107311,13 +107266,13 @@ Evie
 ITEM_name
 Step into the ring, son! The champ's gonna show you what it means to get Buck Wild! Oh YEAHHH!
 ITEM_desc
-Buck Wild Collection
+Buck Wild
 ITEM_name
 SLT - Collection - Buck - Buck Wild
 Loot_Table_name
 Glam is my name, no one else is the same.
 ITEM_desc
-Star Glam Collection
+Star Glam
 ITEM_name
 SLT - Collection - Evie - Star Glam
 Loot_Table_name
@@ -107347,7 +107302,7 @@ Torvald is a tough adversary to take down. Purchase item Wrecker to strengthen y
 Game_Tip_tip
 Evil beware. Justice is coming for you like a speeding arrow.
 ITEM_desc
-Vigilante Collection
+Vigilante
 ITEM_name
 SLT - Collection - Sha Lin - Vigilante
 Loot_Table_name
@@ -107427,19 +107382,19 @@ SLT - Set - Viktor - Code Green D
 Loot_Table_name
 At Ease Soldier! We've got a Code Green on our hands.
 ITEM_desc
-Code Green Comms
+zOld Code Green Comms
 ITEM_name
 At Ease Soldier! We've got a Code Green on our hands.
 ITEM_desc
-Code Green Trooper
+zOld Code Green Trooper
 ITEM_name
 At Ease Soldier! We've got a Code Green on our hands.
 ITEM_desc
-Code Green Bandolier
+zOld Code Green Bandolier
 ITEM_name
 At Ease Soldier! We've got a Code Green on our hands.
 ITEM_desc
-Code Green Grenadier
+zOld Code Green Grenadier
 ITEM_name
 SLT - Set - Maeve - Alley Cat
 Loot_Table_name
@@ -107572,7 +107527,7 @@ Siege Shield
 item_name
 Deploy a 5000 health siege shield that advances forward. Lasts 6 seconds.
 item_desc
-Copy of Siege Unit Shield Deployable
+Siege Shield Deployable
 Deployable_name
 District KOTH V2
 map_game_friendly_name
@@ -107654,11 +107609,11 @@ Available for purchase at Mastery Level 20.
 ITEM_desc
 Cosmic Auto Rifle
 ITEM_name
-Stone-Cut Collection
+Stone-Cut
 ITEM_name
 SLT - Set - Sha Lin - Guardian
 Loot_Table_name
-Guardian
+zOld Guardian
 ITEM_name
 Crenshaw Test
 map_game_friendly_name
@@ -107704,7 +107659,7 @@ SLT - Bundle - Colossal Chest [15]
 Loot_Table_name
 Champion Skin Chest x5
 ITEM_name
-Nothing Item
+zOld Nothing Item
 ITEM_name
 Chest Bundle Vendor - Sets
 Loot_Table_name
@@ -107758,23 +107713,23 @@ Grohk Mastery Spray
 item_name
 Available for purchase at Mastery Level 18.
 item_desc
-Magistrate's Archives (Onslaught)
+WIP Pirate (Onslaught)
 Match_Queue_short_desc
-Magistrate's Archives (Onslaught)
+WIP Pirate (Onslaught)
 Match_Queue_name
-Magistrate's Archives (Onslaught)
+WIP Pirate (Onslaught)
 Match_Queue_desc
-Grover Mastery
+Grover Mastery Spray
 item_name
-Mastery
+Available for purchase at Mastery Level 18.
 item_desc
 Inara Mastery Spray
 item_name
 Available for purchase at Mastery Level 18.
 item_desc
-Kinessa Mastery
+Kinessa Mastery Spray
 item_name
-Mastery
+Available for purchase at Mastery Level 18.
 item_desc
 Lex Mastery Spray
 item_name
@@ -107796,17 +107751,17 @@ Pip Mastery Spray
 item_name
 Available for purchase at Mastery Level 18.
 item_desc
-Ruckus Mastery
+Ruckus Mastery Spray
 item_name
-Mastery
+Available for purchase at Mastery Level 18.
 item_desc
 Seris Mastery Spray
 item_name
 Available for purchase at Mastery Level 18.
 item_desc
-Sha Lin Mastery
+Sha Lin Mastery Spray
 item_name
-Mastery
+Available for purchase at Mastery Level 18.
 item_desc
 Skye Mastery Spray
 item_name
@@ -108080,7 +108035,7 @@ item_desc
 item_short_desc
 Highborn
 item_name
-[Armor] Gain {scale=5|5}% Movement Speed.
+[Armor] Gain {scale=3|3}% Movement Speed.
 item_desc
 [Armor] Gain Movement Speed.
 item_short_desc
@@ -108116,11 +108071,11 @@ zDeprecated Superiority IV
 item_name
 [Armor] You cannot be slowed below 80% of your base Movement Speed.
 item_desc
-[Valor] Headshots reduce the Cooldown of Valor.
+[Valor] Hitting an enemy reduces the Cooldown of Valor.
 item_short_desc
 Eagle's Emerald
 item_name
-[Valor] Headshots reduce the Cooldown of Valor by {scale=1|1}s.
+[Valor] Hitting an enemy with Heirloom Rifle reduces the Cooldown of Valor by {scale=0.25|0.25}s.
 item_desc
 zDeprecated Eagle's Emerald II
 item_name
@@ -108138,7 +108093,7 @@ item_desc
 item_short_desc
 Revitalizing Gem
 item_name
-[Valor] Heal for {scale=30|30} for every enemy hit with Valor.
+[Valor] Heal for {scale=50|50} for every enemy hit with Valor.
 item_desc
 zDeprecated Revitalizing Gem II
 item_name
@@ -108174,7 +108129,7 @@ item_desc
 item_short_desc
 Shining Topaz
 item_name
-[Valor] Valor reveals enemies for {scale=1|1}s.
+[Valor] Valor reveals enemies to you for {scale=1|1}s.
 item_desc
 zDeprecated Shining Topaz II
 item_name
@@ -108192,7 +108147,7 @@ item_desc
 item_short_desc
 Signet Ring
 item_name
-[Presence] Gain {scale=10|10}% Movement Speed for 3s when using Presence.
+[Presence] Gain {scale=7|7}% Movement Speed for 3s when using Presence.
 item_desc
 zDeprecated Signet Ring II
 item_name
@@ -108214,11 +108169,11 @@ IAM Casual FAST
 map_game_friendly_name
 WIP IAM Casual FAST
 map_game_name
-[Presence] Presence reduces healing by 50%.
+[Presence] Presence reduces healing.
 item_short_desc
 Royal Seal
 item_name
-[Presence] Presence reduces healing by 50% for {scale=1|1}s.
+[Presence] Presence reduces healing by {scale=15|15}% for 3s.
 item_desc
 zDeprecated Royal Seal II
 item_name
@@ -108254,7 +108209,7 @@ item_desc
 item_short_desc
 Present Arms
 item_name
-[Presence] Heal for {scale=75|75} health after using Presence.
+[Presence] Heal for {scale=100|100} health after using Presence.
 item_desc
 zDeprecated Present Arms II
 item_name
@@ -108322,11 +108277,11 @@ zDeprecated Bloodline IV
 item_name
 [Grace] Heal for 200 Health after using Grace.
 item_desc
-[Grace] Gain Movement Speed for 2s after using Grace.
+[Grace] Gain Movement Speed for 3s after using Grace.
 item_short_desc
 Divine Right
 item_name
-[Grace] Gain {scale=10|10}% Movement Speed for 2s after using Grace.
+[Grace] Gain {scale=5|5}% Movement Speed for 3s after using Grace.
 item_desc
 zDeprecated Divine Right II
 item_name
@@ -108569,11 +108524,11 @@ Ice Walker's Crown
 ITEM_name
 Obtainable in the Festive Chest.
 ITEM_desc
-Obtainable in the Festive Chest.
+Obtainable in the Diamond Chest.
 ITEM_desc
 Ice Walker
 ITEM_name
-Obtainable in the Festive Chest.
+Obtainable in the Diamond Chest.
 ITEM_desc
 Ice Walker's Malice
 ITEM_name
@@ -108665,7 +108620,7 @@ SLT - Collection - Barik - Stone Cut
 Loot_Table_name
 SLT - Collection - Pip - Pandamonium
 Loot_Table_name
-Pandamonium Collection
+Pandamonium
 ITEM_name
 ENT Ash Mastery Cosmic
 ITEM_name
@@ -108902,15 +108857,15 @@ ITEM_desc
 ITEM_name
 "Step into my parlor" said the snake to the mouse. I have a many shocking things to show you.
 ITEM_desc
-Chancellor
+zOld Chancellor
 ITEM_name
 Skin Set
 ITEM_desc
-Invader
+zOld Invader
 ITEM_name
 Hello Meat Bag.
 ITEM_desc
-Replicant Collection
+Replicant
 ITEM_name
 SLT - Set - Ash - Hellion
 Loot_Table_name
@@ -108922,15 +108877,15 @@ SLT - Set - Willo - Bluebell
 Loot_Table_name
 SLT - Set - Willo - Lilac
 Loot_Table_name
-Lilac
+zOld Lilac
 ITEM_name
 Bluebell
 ITEM_name
-Hellion
+zOld Hellion
 ITEM_name
-Tempered
+zOld Tempered
 ITEM_name
-Plated
+zOld Plated
 ITEM_name
 District KOTH V2
 map_game_friendly_name
@@ -108940,7 +108895,7 @@ District KOTH V2
 map_game_friendly_name
 WIP District KOTH V2
 map_game_name
-Obtainable in the Festive Chest.
+Obtainable in the Diamond Chest.
 ITEM_desc
 Dire Wolf
 ITEM_name
@@ -108958,9 +108913,9 @@ WIP District KOTH V2
 map_game_name
 Alluvial
 ITEM_name
-Conifer
+zOld Conifer
 ITEM_name
-Heartwood
+zOld Heartwood
 ITEM_name
 Fire a shrapnel round every 0.9s that explodes in an AOE dealing 400 damage.
 item_desc
@@ -109058,13 +109013,9 @@ Entity
 map_game_friendly_name
 WIP Entity
 map_game_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
-Obtainable in the Champion Skin Chest.
 ITEM_desc
-Obtainable in the Champion Skin Chest.
 ITEM_desc
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 DarkLord
 item_short_desc
@@ -109642,9 +109593,9 @@ Orange, White, and Blue
 ITEM_desc
 Nomad Inferno Blade
 ITEM_name
-Greed
+zOld Greed
 ITEM_name
-Warlord
+zOld Warlord
 ITEM_name
 Nomad
 ITEM_name
@@ -109686,7 +109637,7 @@ SLT - Chest - Flair Chest - Epic Exclusive
 Loot_Table_desc
 SLT - Chest - Flair Chest - Rare Exclusive
 Loot_Table_name
-Blood Moon Collection
+Blood Moon
 ITEM_name
 Quicksilver
 ITEM_name
@@ -109855,9 +109806,9 @@ SLT - Chest - Summer Chest - Rare - Exclusive
 Loot_Table_name
 SLT - Chest - Summer Chest - Epic - Exclusive
 Loot_Table_name
-Longboard Collection
+Longboard
 ITEM_name
-Sun Kissed Collection
+Sun Kissed
 ITEM_name
 SLT - Set - Cassie - Beach
 Loot_Table_name
@@ -109893,11 +109844,11 @@ zDeprecated Sidereal IV
 item_name
 [Weapon] Weapon attacks reveal enemies to you for 4 seconds.
 item_desc
-[Armor] You cannot be slowed below a certain value.
+[Weapon] Gain Reload speed.
 item_short_desc
 Inertia
 item_name
-[Armor] You cannot be slowed below {scale=60|10}% of your base movement speed.
+[Weapon] Gain {scale=5|5}% Reload Speed.
 item_desc
 zDeprecated Inertia II
 item_name
@@ -109915,7 +109866,7 @@ item_desc
 item_short_desc
 Penumbra
 item_name
-[Weapon] Gain {scale=8|8}% Lifesteal.
+[Weapon] Gain {scale=5|5}% Lifesteal.
 item_desc
 zDeprecated Penumbra II
 item_name
@@ -109937,7 +109888,7 @@ item_name
 item_desc
 Eclipse
 item_name
-[Void Grip] Enemies affected by Void Grip receive {scale=15|15}% reduced healing.
+[Void Grip] Enemies affected by Void Grip receive {scale=15|15}% reduced healing for 3s.
 item_desc
 zDeprecated Lorentz Configuration II
 item_name
@@ -110029,7 +109980,6 @@ Flare
 item_name
 Steam Demon Voice Pack
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Sun Kissed Voice Pack
 ITEM_name
@@ -110073,7 +110023,7 @@ Obsidian Buck
 ITEM_name
 Obsidian Willo
 ITEM_name
-Steam Demon
+zOld Steam Demon
 ITEM_name
 SLT - Collection - Androxus - Obsidian
 Loot_Table_name
@@ -110096,7 +110046,7 @@ Bonus Damage: The first four rounds in your magazine each deal 40 additional dam
 item_desc
 SLT - Set - Grover - Doom Shroom
 Loot_Table_name
-Doom Shroom
+zOld Doom Shroom
 ITEM_name
 Summer Fun
 Activity_Goal_title
@@ -110124,7 +110074,7 @@ ITEM_name
 item_short_desc
 Star Seeker
 item_name
-[Stellar Wind] Increase air control by {scale=10|10}% while using Stellar Wind.
+[Stellar Wind] Increase air control by {scale=14|14}% while using Stellar Wind.
 item_desc
 [Void Grip] Enemies affected by Void Grip receive reduced healing.
 item_short_desc
@@ -110162,7 +110112,7 @@ item_desc
 item_short_desc
 Inner Peace
 item_name
-[Void Grip] Decrease the cooldown of Void Grip by {scale=1|1}s.
+[Void Grip] Decrease the cooldown of Void Grip by {scale=1.2|1.2}s.
 item_desc
 [Light Speed] Gain ammo every second during Light Speed.
 item_short_desc
@@ -110192,7 +110142,7 @@ item_desc
 item_short_desc
 Cosmic Barrier
 item_name
-[Stellar Wind] Gain {scale=8|8}% damage reduction while using Stellar Wind.
+[Stellar Wind] Gain {scale=5|5}% damage reduction while using Stellar Wind.
 item_desc
 zDeprecated Cosmic Barrier II
 item_name
@@ -110306,7 +110256,7 @@ item_desc
 item_short_desc
 [Void Grip] If a victim of Void Grip dies within 4s of being hit by the ability, reduce all active cooldowns by 30%.
 item_desc
-[Void Grip] If a victim of Void Grip dies within 4s of being hit by the ability, reduce all active cooldowns by {scale=15|15}%
+[Void Grip] If a victim of Void Grip dies within 4s of being hit by the ability, reduce all active cooldowns by {scale=20|20}%
 item_desc
 Tilted
 map_game_friendly_name
@@ -110603,7 +110553,7 @@ Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
 Battle Focus
 EFFECT_GROUP_name
-Channel the power of your noble blood to gain damage and CC immunity for 1s then fire a powerful blast that passes through enemies and deals 1600 damage. Killing an enemy with Enlightenment will refund 50% of your ultimate charge.
+Channel the power of your noble blood for 1s becoming CC immune. Then fire a powerful blast that passes through enemies and deals 1600 damage. Killing an enemy with Enlightenment refunds 50% of the charge.
 item_desc
 A rifle that has been passed down through your noble house for ages. Deals 400 damage every 0.45s at medium range.
 item_desc
@@ -110768,15 +110718,15 @@ Default
 ITEM_desc
 Default Hairpin
 ITEM_name
-Dire Wolf Collection
+Dire Wolf
 ITEM_name
-Ice Walker Collection
+Ice Walker
 ITEM_name
 Default Talus
 ITEM_name
-Veridian
+zOld Veridian
 ITEM_name
-Peridot
+zOld Peridot
 ITEM_name
 Dusk
 ITEM_name
@@ -110812,7 +110762,7 @@ Play 25 Games
 Activity_Goal_title
 Play 25 Games
 Activity_Goal_name
-RR_Qualify
+RR_S1_Qualify
 Activity_name
 Finish your Placement matches
 Activity_Goal_title
@@ -110826,9 +110776,9 @@ OLD SLT - Chest - Festive - Epic Spray - Exclusive
 Loot_Table_name
 Celebrate the Season with Skins and Weapons filled with Holiday Cheer.
 ITEM_desc
-Dire Wolf
+zOld Dire Wolf
 ITEM_name
-Ice Walker
+zOld Ice Walker
 ITEM_name
 SLT - Collection - Inara - Ice Walker
 Loot_Table_name
@@ -110860,9 +110810,9 @@ Practice Onslaught vs AI opponents
 Match_Queue_short_desc
 Practice Onslaught vs AI opponents
 Match_Queue_desc
-In this Competitive mode your Loadout and Legendary cards are set to power level 4
+In this Ranked mode compete for the top of the Leaderboard
 Match_Queue_short_desc
-Battle your way to the top of the realm with the classic siege ruleset.
+Battle your way to the top of the realm.
 Match_Queue_desc
 Subscribe to us on YouTube.
 ITEM_desc
@@ -111044,9 +110994,9 @@ Upgrade yourself with dapper Skins and ingenious Weapons!
 ITEM_desc
 Clockwork Chest
 ITEM_name
-Hemlock Collection
+Hemlock
 ITEM_name
-Clockwork
+zOld Clockwork
 ITEM_name
 Chest Loot Vendor - Clockwork Chest
 Loot_Table_name
@@ -111462,9 +111412,9 @@ Almighty
 item_name
 Obtainable in the Gold Chest.
 item_desc
-Defiler Collection
+Defiler
 ITEM_name
-B.E.T.A.
+zOld B.E.T.A.
 ITEM_name
 SLT - Collection - Ying - Obsidian
 Loot_Table_name
@@ -111623,7 +111573,7 @@ Self Flash Bang
 item_name
 Millennium
 ITEM_name
-Capricorn
+zOld Capricorn
 ITEM_name
 SLT - Set - Jenos - Millennium
 Loot_Table_name
@@ -111713,7 +111663,7 @@ Obtainable in the Clockwork Chest.
 item_desc
 Hemlock Spray
 item_name
-Clockwork Collection
+Clockwork
 ITEM_name
 SLT - Collection - Torvald - Clockwork
 Loot_Table_name
@@ -111880,7 +111830,7 @@ item_desc
 item_short_desc
 Flare XL
 item_name
-[Flare] Increase the Reveal range of Flare by {scale=20|20}%
+[Flare] Increase the Reveal range of Flare by {scale=10|10}%
 item_desc
 zDeprecated Flare XL II
 item_name
@@ -111912,11 +111862,11 @@ zDeprecated Dexterous IV
 item_name
 [Quick Switch] Reduce the time to swap to your Side Arm by 80%.
 item_desc
-[Quick Switch] Swapping to your Pistol grants Lifesteal for 2s.
+[Quick Switch] Swapping to your Pistol grants Lifesteal for 3s.
 item_short_desc
 Bushwhack
 item_name
-[Quick Switch] Swapping to your Pistol grants {scale=10|10}% Lifesteal for 2s.
+[Quick Switch] Swapping to your Pistol grants {scale=10|10}% Lifesteal for 3s.
 item_desc
 zDeprecated Bushwhack II
 item_name
@@ -111998,15 +111948,15 @@ item_name
 item_desc
 Cooled Mags
 item_name
-[Quick Switch] Every 2 Seconds your inactive Weapon generates {scale=2|2} Ammo.
+[Quick Switch] Every 1.5s your inactive Weapon generates {scale=2|2} Ammo.
 item_desc
-[Quick Switch] Every 2 Seconds your inactive Weapon generates Ammo.
+[Quick Switch] Every 1.5s your inactive Weapon generates Ammo.
 item_short_desc
-[Quick Switch] Every 2 seconds your rifle is out, the cooldown of Flare is reduced.
+[Quick Switch] Every second your rifle is out, the cooldown of Flare is reduced.
 item_short_desc
 Resourceful
 item_name
-[Quick Switch] Every 2 seconds your rifle is out, the cooldown of Flare is reduced by {scale=0.25|0.25}s.
+[Quick Switch] Every second your rifle is out, the cooldown of Flare is reduced by {scale=0.2|0.2}s.
 item_desc
 [Stealth]  Eliminations grant Stealth Resource.
 item_short_desc
@@ -112190,7 +112140,7 @@ zDeprecated Escape Plan IV
 item_name
 [Stealth] Entering stealth below 65% health heals you for 400 health.
 item_desc
-Terrormorph
+zOld Terrormorph
 ITEM_name
 SLT - Collection - Drogoz - Terrormorph
 Loot_Table_name
@@ -112216,7 +112166,7 @@ SLT - Collection - Ash Skye - Feudal - Bought
 Loot_Table_name
 SLT - Collection - Ash Skye - Feudal - Unlocked
 Loot_Table_name
-Ninja Collection
+Ninja
 ITEM_name
 Get 40 elimnations
 Activity_Goal_title
@@ -112254,15 +112204,12 @@ Burst Heal
 EFFECT_GROUP_name
 Attack Boost
 EFFECT_GROUP_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Eclipse
 ITEM_name
-Obtainable in the Champion Skin Chest.
 ITEM_desc
 Eclipse Suncrown
 ITEM_name
-Obtainable in the Weapon Chest.
 ITEM_desc
 Eclipse Star Splitter
 ITEM_name
@@ -112332,13 +112279,13 @@ Reach Gold 5 in Ranked Season 1 to Unlock.
 item_desc
 Atomic
 ITEM_name
-Ronin Collection
+Ronin
 ITEM_name
 Blood Dragon
 item_short_desc
-Kunoichi Collection
+Kunoichi
 ITEM_name
-Terrormorph Collection
+Terrormorph
 ITEM_name
 SLT - Collection - Skye - Kunoichi with Spray
 Loot_Table_name
@@ -112436,9 +112383,9 @@ SLT - Set - Lex - L-Exo
 Loot_Table_name
 SLT - Set - Viktor - V1-KTOR
 Loot_Table_name
-L-Exo Suit
+zOld L-Exo Suit
 ITEM_name
-V1-KTOR
+zOld V1-KTOR
 ITEM_name
 Conquer your quadrant with state-of-the-art Skins and Weaponry.
 ITEM_desc
@@ -112530,7 +112477,7 @@ item_desc
 item_short_desc
 Spirited
 item_name
-[Weapon] Gain {scale=5|5}% Reload Speed.
+[Weapon] Gain {scale=8|8}% Reload Speed.
 item_desc
 zDeprecated Spirited II
 item_name
@@ -112548,7 +112495,7 @@ item_desc
 item_short_desc
 Guts
 item_name
-[Armor] Take {scale=8|8}% less damage when below 40% health.
+[Armor] Take {scale=6|6}% less damage when below 40% health.
 item_desc
 zDeprecated Guts II
 item_name
@@ -112598,11 +112545,11 @@ zDeprecated Relic Affinity IV
 item_name
 [Blitz Upper] Hitting an enemy with Blitz Upper generates 16 ammo.
 item_desc
-[Blitz Upper] Activating Blitz Upper heals you for 50 Health.
+[Blitz Upper] Activating Blitz Upper heals you for 70 Health.
 item_short_desc
 Daredevil
 item_name
-[Blitz Upper] Activating Blitz Upper heals you for {scale=50|50} Health.
+[Blitz Upper] Activating Blitz Upper heals you for {scale=70|70} Health.
 item_desc
 zDeprecated Daredevil II
 item_name
@@ -112638,7 +112585,7 @@ item_desc
 item_short_desc
 Dark Vision
 item_name
-[Blitz Upper] Hitting an enemy with Blitz Upper reveals them for {scale=1|1}s.
+[Blitz Upper] Hitting an enemy with Blitz Upper reveals them to you for {scale=1|1}s.
 item_desc
 zDeprecated Dark Vision II
 item_name
@@ -112692,7 +112639,7 @@ item_desc
 item_short_desc
 Antediluvian
 item_name
-[Overcharge] Enemies hit by Overcharge receive {scale=15|15}% reduced healing for 2s.
+[Overcharge] Enemies hit by Overcharge receive {scale=15|15}% reduced healing for 3s.
 item_desc
 zDeprecated Antediluvian II
 item_name
@@ -112764,11 +112711,11 @@ zDeprecated Eternal IV
 item_name
 [Rune of Travel] The duration of Rune of Travel is increased by 4s.
 item_desc
-[Rune of Travel] The duration of Rune of Travel is reduced by 1s.
+[Rune of Travel] Reduce the cooldown of Rune of Travel.
 item_short_desc
 Transient
 item_name
-[Rune of Travel] The duration of Rune of Travel is reduced by {scale=0.5|0.5}s.
+[Rune of Travel] Reduce the cooldown of Rune of Travel by {scale=1|1}s.
 item_desc
 zDeprecated Transient II
 item_name
@@ -112816,11 +112763,11 @@ Tricks of Survival
 ITEM_short_desc
 Talus_Deck
 ITEM_name
-Rune of Travel's Cooldown is reduced, it no longer automatically activates, and if not activated the Cooldown resets.
+Rune of Travel no longer automatically activates, and if not activated the Cooldown resets.
 item_short_desc
 Faustian Bargain
 item_name
-[Rune of Travel] The Cooldown of Rune of Travel is reduced by 4s, it no longer automatically activates, and if the Rune is not used the Cooldown is reset.
+[Rune of Travel] Rune of Travel no longer automatically activates, and if the Rune is not used the Cooldown is reset.
 item_desc
 [TEST] Ice Staff ~Death Effect~
 item_name
@@ -112926,9 +112873,9 @@ SLT - Set - Cassie - Ipanema
 Loot_Table_name
 SLT - Set - Lex - Sarrada
 Loot_Table_name
-Sarrada Collection
+Sarrada
 ITEM_name
-Copacabana Collection
+Copacabana
 ITEM_name
 Strix
 item_short_desc
@@ -113072,7 +113019,7 @@ item_desc
 Look down your scope and gain pin point accuracy.
 Flare: Fire a flare that reveals enemies in a large radius.
 item_desc
-Conqueror Collection
+Conqueror
 ITEM_name
 SLT - Collection - Zhin - Conqueror
 Loot_Table_name
@@ -113136,11 +113083,11 @@ BG Team Lobby
 map_game_friendly_name
 Team_Lobby
 map_game_name
-A semi-automatic pistol that deals 250 damage per shot.
+A semi-automatic pistol that deals 220 damage per shot.
 item_desc
 Enter stealth and hide yourself from vision. While in Stealth your energy is consumed.
 item_desc
-Fire a flare that reveals enemies in a large radius.
+Fire a flare that reveals enemies to your team in a large radius.
 item_desc
 Throw a Flash Bang grenade that detonate on contact blinding nearby enemies for 3 seconds
 item_desc
@@ -113234,7 +113181,7 @@ SLT - Set - Strix - Ghillie
 Loot_Table_name
 SLT - Set - Strix - Phoenix
 Loot_Table_name
-Ghillie
+zOld Ghillie
 ITEM_name
 Phoenix
 ITEM_name
@@ -113246,9 +113193,9 @@ SLT - Collection - Viktor - V1-KTOR
 Loot_Table_name
 SLT - Collection - Lex - L-Exo
 Loot_Table_name
-L-Exo Suit Collection
+L-Exo Suit
 ITEM_name
-V1-KTOR Collection
+V1-KTOR
 ITEM_name
 50% off Androxus Exalted Skin
 ITEM_name
@@ -113903,7 +113850,7 @@ Pursuit
 DEVICE_name
 Alt Fire for Lawman's Pursuit
 DEVICE_desc
-KhanLMB
+Heavy Repeater
 item_name
 Heavy Repeater
 DEVICE_name
@@ -113975,7 +113922,7 @@ SLT - Set - Maeve - Raeve - RENTAL
 Loot_Table_name
 Default Vivian
 ITEM_name
-Raeve Collection
+Raeve
 ITEM_name
 Default Slick
 ITEM_name
@@ -114165,7 +114112,7 @@ Raven Talon Rifle
 ITEM_name
 SLT - Set - Fernando - Erebos
 Loot_Table_name
-FN-01 Erebos Collection
+FN-01 Erebos
 ITEM_name
 SLT - Set - Fernando - Erebos - RENTAL
 Loot_Table_name
@@ -114183,25 +114130,25 @@ SLT - Collection - Androxus - Steam Demon
 Loot_Table_name
 SLT - Collection - Androxus - Steam Demon-RENTAL
 Loot_Table_name
-Steam Demon Collection
+Steam Demon
 ITEM_name
 SLT - Collection - Lian - Goddess
 Loot_Table_name
 SLT - Collection - Lian - Goddess-RENTAL
 Loot_Table_name
-Goddess Collection
+Goddess
 ITEM_name
 SLT - Set - Jenos - Eclipse
 Loot_Table_name
 SLT - Set - Jenos - Eclipse-RENTAL - 3 Day
 Loot_Table_name
-Eclipse
+zOld Eclipse
 ITEM_name
 SLT - Set - Barik - Hi-Tek
 Loot_Table_name
 SLT - Set - Barik - Hi-Tek-RENTAL - 3 Day
 Loot_Table_name
-Hi-Tek
+zOld Hi-Tek
 ITEM_name
 zDelete
 Loot_Table_name
@@ -114237,13 +114184,13 @@ Tilted (Onslaught)
 map_game_friendly_name
 WIP Tilted (Onslaught)
 map_game_name
-KhanF
+Battle Shout
 item_name
 Your Movement Speed is increased.
 EFFECT_GROUP_desc
 Rocket Boots
 EFFECT_GROUP_name
-KhanQ
+Commander's Grab
 item_name
 Default
 ITEM_desc
@@ -114622,7 +114569,7 @@ Travel 1,000,000 feet in game
 Activity_desc
 ACH_WANDERER
 Activity_name
-All standard champion voice packs|10 Radiant Chests|Beta exclusive God of War Fernando collection and Infernal War Horse mount
+All standard champion voice packs|Beta exclusive God of War Fernando collection and Infernal War Horse mount
 ITEM_desc
 Copy of Grace
 item_name
@@ -114630,7 +114577,7 @@ Quickly dodge in the direction you are moving and fire a rifle shot dealing 400 
 item_desc
 Founder's Pack
 ITEM_name
-All standard champion voice packs|10 Radiant Chests|Beta exclusive God of War Fernando collection and Infernal War Horse mount
+All standard champion voice packs|Beta exclusive God of War Fernando collection and Infernal War Horse mount
 ITEM_desc
 Loading 43
 Game_Tip_title
@@ -114738,7 +114685,7 @@ SLT - Collection - Seris - Obsidian
 Loot_Table_name
 Focus the power of your gauntlet and channel a beam of energy on a single enemy for 2.5s, silencing them and dealing 800 damage over the duration.
 item_desc
-Fire blasts of energy every 0.25s dealing 200 damage per shot.
+Fire blasts of energy every 0.25s dealing 180 damage per shot.
 item_desc
 SLT - Collection - Seris - Obsidian-RENTAL
 Loot_Table_name
@@ -114780,9 +114727,9 @@ Swashbuckler Spray
 item_name
 Obtainable in the Booty Box.
 item_desc
-Dutchman Collection
-ITEM_name
 Dutchman
+ITEM_name
+zOld Dutchman
 ITEM_name
 Star Silver Spray
 item_name
@@ -114790,9 +114737,9 @@ Dutchman Spray
 item_name
 Infernal Spray
 item_name
-Swashbuckler
+zOld Swashbuckler
 ITEM_name
-Swashbuckler Collection
+Swashbuckler
 ITEM_name
 Variety is the Spice of Life
 Activity_Goal_title
@@ -114854,7 +114801,7 @@ SLT - Collection - Barik - Swashbuckler-RENTAL
 Loot_Table_name
 SLT - Collection - Seris - Infernal
 Loot_Table_name
-Infernal Collection
+Infernal
 ITEM_name
 SLT - Collection - Seris - Infernal-RENTAL
 Loot_Table_name
@@ -114862,7 +114809,7 @@ SLT - Collection - Kinessa - Star Silver
 Loot_Table_name
 SLT - Collection - Kinessa - Star Silver-RENTAL
 Loot_Table_name
-Star Silver Collection
+Star Silver
 ITEM_name
 SLT - Set - Makoa - Dutchman-RENTAL - 3 Day
 Loot_Table_name
@@ -114904,7 +114851,7 @@ WIP Waterway (Siege)
 map_game_name
 zDelete
 ITEM_name
-Geist
+zOld Geist
 ITEM_name
 SLT - Set - Talus - Geist
 Loot_Table_name
@@ -114998,7 +114945,7 @@ Tencent Valentines 2017 Rental
 item_name
 Tencent Victorian Rental
 item_name
-Moonstone
+zOld Moonstone
 ITEM_name
 SLT - Set - Talus - Moonstone
 Loot_Table_name
@@ -115073,15 +115020,15 @@ SLT - Set - Evie - Witch
 Loot_Table_name
 SLT - Set - Evie - Witch-RENTAL
 Loot_Table_name
-Bewitching
+zOld Bewitching
 ITEM_name
-Bewitching Collection
+Bewitching
 ITEM_name
 SLT - Collection - Evie - Witch
 Loot_Table_name
 SLT - Collection - Evie - Witch-RENTAL
 Loot_Table_name
-KhanRMB
+Bulwark
 item_name
 Quarry Onslaught
 map_game_friendly_name
@@ -115236,7 +115183,7 @@ item_desc
 item_short_desc
 Forsaken
 item_name
-[Armor] Gain {scale=10|10}% Crowd Control reduction.
+[Armor] Gain {scale=14|14}% Crowd Control and Slow reduction.
 item_desc
 zDeprecated Forsaken II
 item_name
@@ -115316,7 +115263,7 @@ ITEM_short_desc
 item_short_desc
 Necromantic Might
 item_name
-[Power Siphon] Reduce the damage required to generate a charge by {scale=100|100}.
+[Power Siphon] Reduce the damage required to generate a charge by {scale=120|120}.
 item_desc
 zDeprecated Necromantic Might II
 item_name
@@ -115330,11 +115277,11 @@ zDeprecated Necromantic Might IV
 item_name
 [Power Siphon] Reduce the damage required to generate a charge by 400.
 item_desc
-[Calamity Blast] Enemies affected by Charge blast are revealed.
+[Calamity Blast] Enemies affected by Calamity blast are revealed.
 item_short_desc
 It Watches
 item_name
-[Calamity Blast] Enemies affected by Charge blast are revealed for {scale=1|1}s.
+[Calamity Blast] Enemies affected by Calamity Blast are revealed to you for {scale=1|1}s.
 item_desc
 zDeprecated It Watches II
 item_name
@@ -115390,11 +115337,11 @@ Calling Card
 item_name
 Obtainable in the Gold Chest.
 item_desc
-[Shatterfall] Gain damage reduction for 2s after landing from Shatterfall.
+[Shatterfall] Gain damage reduction for 3s after landing from Shatterfall.
 item_short_desc
 Unfeeling
 item_name
-[Shatterfall] Gain {scale=8|8}% damage reduction for 2s after landing from Shatterfall.
+[Shatterfall] Gain {scale=8|8}% damage reduction for 3s after landing from Shatterfall.
 item_desc
 zDeprecated Unfeeling II
 item_name
@@ -115434,7 +115381,7 @@ Default Khan WEP
 ITEM_name
 Obtainable in the World Wide Chest.
 ITEM_desc
-Cangaceiro
+z--Unused--Cangaceiro
 ITEM_name
 Brazil
 ITEM_short_desc
@@ -115446,11 +115393,11 @@ SLT - Collection - Maldamba - Scarecrow
 Loot_Table_name
 SLT - Collection - Maldamba - Scarecrow-RENTAL
 Loot_Table_name
-Wickerman Collection
+Wickerman
+ITEM_name
+zOld Raven
 ITEM_name
 Raven
-ITEM_name
-Raven Collection
 ITEM_name
 Halloween
 ITEM_name
@@ -115833,7 +115780,7 @@ WIP Salt (Siege)
 map_game_name
 Obtainable in the VIP Store.
 ITEM_desc
-Blightbark
+zOld Blightbark
 ITEM_name
 Heal 200,000 Health after unlocking the Harrowing Horrors Collection.
 ITEM_desc
@@ -115867,7 +115814,7 @@ Chibi
 item_short_desc
 You cannot wish for more wishes, I'm sorry!
 ITEM_desc
-Genie Collection
+Genie
 ITEM_name
 SLT - Collection - Ying - Genie VIP-RENTAL
 Loot_Table_name
@@ -115993,7 +115940,7 @@ Chibi Drogoz
 item_name
 Obtainable in the Gold Chest.
 item_desc
-Swing your axe in a large arc every 1.1s. Enemies hit will take 700 damage.
+Swing your axe in a large arc every 1.1s. Enemies hit will take 650 damage.
 item_desc
 Chibi
 item_short_desc
@@ -116155,9 +116102,9 @@ ITEM_desc
 ITEM_desc
 [Shatterfall] Gain 40% Lifesteal against affected enemies for 3s.
 ITEM_desc
-[Calamity Blast] Calamity Blast shots reduce healing for 2s for a value per Charge.
+[Calamity Blast] Hitting an enemy with Calamity Blast reduces healing they receive.
 ITEM_short_desc
-[Calamity Blast] Calamity Blast shots reduce healing for 2s by {scale=4|4}% per Charge.
+[Calamity Blast] Hitting an enemy with Calamity Blast reduces healing they receive by {scale=8|8}% for 3s.
 ITEM_desc
 [Calamity Blast] Calamity Blast shots reduce healing for 2s by 8% per Charge.
 ITEM_desc
@@ -116171,9 +116118,9 @@ ITEM_desc
 ITEM_desc
 [Calamity Blast] Kills with Calamity Blast generate 2 new Charges.
 ITEM_desc
-[Calamity Blast] Kills with Calamity Blast generate 4 new Charges. {scale=30|-5}s Cooldown.
+[Calamity Blast] Hitting an enemy with Calamity Blast heal you for {scale=50|50} per hit.
 ITEM_desc
-[Calamity Blast] Kills with Calamity Blast generate new Charges.
+[Calamity Blast] Hits with Calamity Blast heal you
 ITEM_short_desc
 [Calamity Blast] Gain damage reduction based on the number of Charges you have stored.
 ITEM_short_desc
@@ -116331,7 +116278,7 @@ zDelete
 Loot_Table_name
 Slug Shot
 item_name
-[Weapon] Your weapon shots travel 50% faster and further, deal 20% more damage, but no longer explode.
+[Weapon] Your weapon shots travel 50% faster and further but no longer explode.
 item_desc
 Hair Trigger
 item_name
@@ -116379,7 +116326,7 @@ item_name
 item_desc
 Thanks, Grandpa
 item_name
-[Protection] Increase the duration of Protection by 2s. Protection grants CC Immunity.
+[Protection] Increase the duration of Protection by 2s.
 item_desc
 Shrapnel
 item_name
@@ -116599,16 +116546,16 @@ Magistrate's Archives (TDM)
 MSL_name
 SLT - Set - Terminus - Monolith
 Loot_Table_name
-Oni Collection
 ITEM_name
+zOld Oni
 ITEM_name
-Thrall
+zOld Thrall
 ITEM_name
 Monolith
 ITEM_name
 Pilot Suit
 ITEM_name
-Resplendent Collection
+Resplendent
 ITEM_name
 Obtainable in the Gold Chest.
 ITEM_desc
@@ -116652,9 +116599,9 @@ SLT - Chest - Feudal Chest - General
 Loot_Table_name
 green
 ITEM_desc
-Hellion Collection
+Hellion
 ITEM_name
-Geist Collection
+Geist
 ITEM_name
 SLT - Collection - Talus - Geist
 Loot_Table_name
@@ -116684,9 +116631,9 @@ Obtainable in the Feudal Chest.
 ITEM_desc
 aab Voice Pack
 ITEM_name
-Ronin
+zOld Ronin
 ITEM_name
-Kunoichi
+zOld Kunoichi
 ITEM_name
 Obtainable in the Diamond Chest.
 ITEM_desc
@@ -116718,7 +116665,7 @@ Forman's Rise TDM
 map_game_friendly_name
 WIP Forman's Rise TDM
 map_game_name
-WIP Forman's Rise TDM
+zOLD WIP Forman's Rise TDM
 MSL_name
 SLT - Chest - Flair Chest - Epic Promotional
 Loot_Table_name
@@ -116922,7 +116869,7 @@ Lian
 ITEM_short_desc
 Galaxy Battles
 ITEM_desc
-Lian Skin02A
+Galactic Scion
 ITEM_name
 Lian
 ITEM_short_desc
@@ -116968,7 +116915,7 @@ Enchanted Key
 ITEM_name
 Royal Subjects
 item_name
-[Weapon] Increase the explosion size of Sticky Bombs by 300
+[Weapon] Increase the explosion size of Sticky Bombs by 30%
 item_desc
 Legendary Enchanted Key
 ITEM_name
@@ -117170,7 +117117,7 @@ Mirth (TDM)
 map_game_friendly_name
 WIP Mirth (TDM)
 map_game_name
-WIP Endure (TDM)
+zOLD WIP Endure (TDM)
 MSL_name
 Titanslayer
 item_name
@@ -117276,7 +117223,7 @@ item_desc
 item_short_desc
 One Step Ahead
 item_name
-[Armor] Gain {scale=5|5}% Movement Speed.
+[Armor] Gain {scale=6|6}% Movement Speed.
 item_desc
 zDeprecated One Step Ahead II
 item_name
@@ -117308,7 +117255,7 @@ item_desc
 item_short_desc
 Controlling Nature
 item_name
-[Precision Sights] Successful shots in Precision Sights reduce the Cooldown of Sensor Drone by {scale=0.04|0.04}s.
+[Precision Sights] Successful shots in Precision Sights reduce the Cooldown of Sensor Drone by {scale=0.06|0.06}s.
 item_desc
 [Precision Sights] Bring up Precision Sights faster.
 item_short_desc
@@ -117380,11 +117327,11 @@ zDeprecated Plans Within Plans IV
 item_name
 [Deflector Shield] Heal for 80 Health per second while Deflector Shield is active.
 item_desc
-[Sensor Drone] Activating Sensor Drone grants Movement Speed for 4s.
+[Sensor Drone] Gain Lifesteal against revealed enemies
 item_short_desc
 Crack the Whip
 item_name
-[Sensor Drone] Activating Sensor Drone grants {scale=10|10}% Movement Speed for 4s.
+[Sensor Drone] Gain {scale=6|6}% Lifesteal against enemies revealed by Sensor Drone
 item_desc
 zDeprecated Crack the Whip II
 item_name
@@ -117620,7 +117567,7 @@ SLT - Chest - World Wide Chest - Rare
 Loot_Table_name
 SLT - Set - Tyra - Red Winter
 Loot_Table_name
-Red Winter Collection
+Red Winter
 ITEM_name
 Enchanted Forest (Conquest) 
 map_game_friendly_name
@@ -117994,7 +117941,7 @@ Promo
 ITEM_short_desc
 Promo
 ITEM_desc
-Maeve Skin02B
+Striker
 ITEM_name
 Promo
 ITEM_short_desc
@@ -118010,7 +117957,7 @@ Daily Quest Reward - VIP
 Loot_Table_name
 Daily Quest Reward - Gold2 and VIP
 Loot_Table_name
-Daily Quest Reward - Crystals and VIP
+Daily Quest Reward - Large Gold and VIP
 Loot_Table_name
 5 Crystals
 ITEM_desc
@@ -118180,7 +118127,7 @@ Manipulator's LMG
 ITEM_name
 At Ease Soldier! We've got a Code Green on our hands.
 ITEM_desc
-Code Green Comms Collection
+Code Green Comms
 ITEM_name
 Guarantees Chest drops only unique items, and at least one Legendary Damage Class Card.
 ITEM_desc
@@ -118602,7 +118549,7 @@ Summon two Sentinel Drones that fire energy blasts while you shoot your Light Ma
 item_desc
 Project a frontal shield that blocks 1400 damage for 6s. You may fire while Deflector Shield is active.
 item_desc
-Throw out a deployable sensor that reveals enemies to you in a large radius.
+Throw out a deployable sensor that reveals enemies to your team in a large radius.
 item_desc
 Look down the barrel of your machine gun. You gain improved accuracy but move 50% slower. The slow does not stack with firing your gun.
 item_desc
@@ -118716,9 +118663,9 @@ SLT - Collection - Kinessa - Nova Strike
 Loot_Table_name
 When in a far away galaxy be sure to set your laser cannons to kill.
 ITEM_desc
-Star Slayer Collection
+Star Slayer
 ITEM_name
-Nova Strike Collection
+Nova Strike
 ITEM_name
 SLT - Collection - Cassie - Dune Crawler
 Loot_Table_name
@@ -118726,11 +118673,11 @@ SLT - Collection - Torvald - Dark Lord
 Loot_Table_name
 SLT - Collection - Lex - Renegade
 Loot_Table_name
-Dune Crawler Collection
+Dune Crawler
 ITEM_name
-Dark Lord Collection
+Dark Lord
 ITEM_name
-Renegade Collection
+Renegade
 ITEM_name
 Galaxy Chest
 ITEM_name
@@ -119104,19 +119051,19 @@ Copy of Dark Lord Spray
 ITEM_name
 SLT - Collection - Sha Lin - Crime Fighter
 Loot_Table_name
-Crime Fighter Collection
+Crime Fighter
 ITEM_name
 SLT - Collection - Fernando - Enforcer
 Loot_Table_name
-Enforcer Collection
+Enforcer
 ITEM_name
 Set Skin
 ITEM_desc
-Vigilante
+zOld Vigilante
 ITEM_name
-Deceiver
+zOld Deceiver
 ITEM_name
-Silvertongue Collection
+Silvertongue
 ITEM_name
 Manipulator
 ITEM_name
@@ -119128,9 +119075,9 @@ SLT - Set - Vivian - Manipulator
 Loot_Table_name
 Skin Set
 ITEM_desc
-Stone-Cut
+zOld Stone-Cut
 ITEM_name
-Replicant
+zOld Replicant
 ITEM_name
 Skin Set
 ITEM_desc
@@ -119146,25 +119093,25 @@ Frontline Pack
 Loot_Table_Items_name
 In the Realm, No one can hear you scream.
 ITEM_desc
-Dreadhunter Collection
+Dreadhunter
 ITEM_name
-Kingpin Collection
+Kingpin
 ITEM_name
-Triggerman Collection
+Triggerman
 ITEM_name
-Plushy Collection
+Plushy
 ITEM_name
-Code Green Bandolier Collection
+Code Green Bandolier
 ITEM_name
-Code Green Grenadier Collection
+Code Green Grenadier
 ITEM_name
-Code Green Trooper Collection
+Code Green Trooper
 ITEM_name
 Made of the strongest Paladanium, the FN-01 Helios armor will protect you in the heat of battle.
 ITEM_desc
-FN-01 Helios Collection
+FN-01 Helios
 ITEM_name
-Guardian Collection
+Guardian
 ITEM_name
 SLT - Collection - Buck - Kingpin
 Loot_Table_name
@@ -119232,21 +119179,21 @@ SLT - Collection - Sha Lin - Crime Fighter-RENTAL
 Loot_Table_name
 Look out! This cat has claws...and some very sharp knives.
 ITEM_desc
-Alley Cat Collection
+Alley Cat
 ITEM_name
 Glam is my name, no one else is the same.
 ITEM_desc
-Star Glam
+zOld Star Glam
 ITEM_name
 Reach Gold 5 in Ranked Season 1 to Unlock.
 ITEM_desc
-Terrormorph Collection
+Terrormorph
 ITEM_name
 Step into the ring, son! The champ's gonna show you what it means to get Buck Wild! Oh YEAHHH!
 ITEM_desc
-Buck Wild
+zOld Buck Wild
 ITEM_name
-Viceroy
+zOld Viceroy
 ITEM_name
 SLT - Set - Grover - Doom Shroom-RENTAL
 Loot_Table_name
@@ -122528,7 +122475,7 @@ Obtainable in the Festive Chest.
 ITEM_desc
 SLT - Collection - Grohk - Brimstone
 Loot_Table_name
-Brimstone Collection
+Brimstone
 ITEM_name
 Kill Count - VIP Milestone
 item_short_desc
@@ -123368,7 +123315,7 @@ SLT - Chest - Festive - Epic - Exclusive
 Loot_Table_name
 A-bomb-inable
 ITEM_name
-A-bomb-inable Collection
+A-bomb-inable
 ITEM_name
 SLT - Collection - Bomb King - Abombinable
 Loot_Table_name
@@ -123380,7 +123327,7 @@ SLT - Set - Bomb King - Abombinable-RENTAL
 Loot_Table_name
 SLT - Chest - Festive - Mount - Exclusive
 Loot_Table_name
-Divine Collection
+Divine
 ITEM_name
 SLT - Collection - Seris - Divine
 Loot_Table_name
@@ -123390,23 +123337,23 @@ SLT - Collection - Androxus - Imperator
 Loot_Table_name
 SLT - Collection - Androxus - Imperator-RENTAL
 Loot_Table_name
-Imperator Collection
+Imperator
 ITEM_name
 Obtainable at VIP Tier 3.
 ITEM_desc
 The VIP
 ITEM_name
-Heart
+Obtainable in the Valentines Chest.
 ITEM_desc
-BombKing ACC Skin05A
+Love Machine ACC
 ITEM_name
-Heart
+Obtainable in the Valentines Chest.
 ITEM_desc
-BombKing Skin09A
+Love Machine
 ITEM_name
-Heart
+Obtainable in the Valentines Chest.
 ITEM_desc
-BombKing WEP Skin00H
+Love Machine's Wingmen
 ITEM_name
 Who's the baddest man in town
 ITEM_short_desc
@@ -124390,7 +124337,7 @@ zDeprecated Tremors IV
 item_name
 [Impasse] Reduce the Cooldown of Impasse by 75% as long as it is not destroyed.
 item_desc
-Twitch Prime King Collection
+Twitch Prime King
 ITEM_name
 zDeprecated Warrior Princess III
 item_name
@@ -126948,7 +126895,7 @@ Barrier (TDM)
 map_game_friendly_name
 WIP Barrier
 map_game_name
-WIP Barrier
+zOLD WIP Barrier
 MSL_name
 Complete 1 Ranked Game
 Activity_Goal_title
@@ -127014,7 +126961,7 @@ WIP Keep Royale Empty
 map_game_name
 Chest/Key - Flair + Flank
 Loot_Table_name
-WIP KRM Empty
+zOLD WIP KRM Empty
 MSL_name
 Chest/Key - Flair + Frontline
 Loot_Table_name
@@ -127247,9 +127194,9 @@ TO LOOT
 PALADINS_LOOTPROMPT
 SLT - Collection - Strix - Mercenary
 Loot_Table_name
-Mercenary Collection
+Mercenary
 ITEM_name
-Ebon Star Collection
+Ebon Star
 ITEM_name
 SLT - Collection - Zhin - Ebon Star
 Loot_Table_name
@@ -127273,7 +127220,7 @@ Strix Mercenary Skin Voice Pack
 ITEM_desc
 SLT - Collection - Pip - Pandamonium
 Loot_Table_name
-Slave Princess Voice Pack
+Galactic Scion Voice Pack
 ITEM_name
 Lian Slave Princess
 ITEM_desc
@@ -127374,15 +127321,15 @@ SLT - Daily Quest Reward - Gold2 and VIP Tier 2
 Loot_Table_name
 SLT - Daily Quest Reward - Gold2 and VIP Tier 3
 Loot_Table_name
-TC Hi-Tek Collection
+TC Hi-Tek
 ITEM_name
 Obtainable by Tencent
 ITEM_desc
-TC Eclipse Collection
+TC Eclipse
 ITEM_name
 Obtainable by Tencent
 ITEM_desc
-TC B.E.T.A. Collection
+TC B.E.T.A.
 ITEM_name
 Obtainable by Tencent
 ITEM_desc
@@ -127390,7 +127337,7 @@ TC Guardian Set
 ITEM_name
 Obtainable by Tencent
 ITEM_desc
-TC God of War Collection
+TC God of War
 ITEM_name
 Obtainable by Tencent
 ITEM_desc
@@ -127410,7 +127357,7 @@ SLT - TC - Collection - Fernando - God of War
 Loot_Table_name
 SLT - Set - Mal'Damba - Chancellor-RENTAL - 1 Day
 Loot_Table_name
-TC Cuddly Collection
+TC Cuddly
 ITEM_name
 SLT - TC - Set - Ying - Genie-RENTAL - 1 Day
 Loot_Table_name
@@ -127458,19 +127405,19 @@ Black
 ITEM_short_desc
 Black
 ITEM_desc
-Vivian ACC Skin01A
+z--Unused--Vivian ACC Skin01A
 ITEM_name
 Black
 ITEM_short_desc
-Black
+Reach Gold 5 in Ranked Season 2 to Unlock.
 ITEM_desc
-Vivian Skin01A
+Full Throttle
 ITEM_name
 Black
 ITEM_short_desc
-Black
+Reach Gold 5 in Ranked Season 2 to Unlock.
 ITEM_desc
-Vivian Wep Skin01A
+Full Throttle Chopper
 ITEM_name
 Toot
 item_name
@@ -127672,7 +127619,7 @@ Ruckus ACC Skin05A
 ITEM_name
 Robo Rider
 ITEM_desc
-Ruckus Skin04A
+Robo Force
 ITEM_name
 Robo Rider
 ITEM_desc
@@ -127682,13 +127629,13 @@ Red/Gold
 ITEM_desc
 Ying ACC Skin06A
 ITEM_name
-Red/Gold
+Obtainable in the Valentines Chest.
 ITEM_desc
-Ying Skin05A
+Carnival
 ITEM_name
-Red/Gold
+Obtainable in the Valentines Chest.
 ITEM_desc
-Ying WEP Skin07A
+Carnival Party Starter
 ITEM_name
 Celebrate the Lunar New Year with a bounty of skins and weapons specially crafted to bring out the festive spirit.
 ITEM_desc
@@ -127722,13 +127669,13 @@ SLT - Chest - Lunar Chest - Rare Exclusive
 Loot_Table_name
 SLT - Chest - Lunar Chest - General
 Loot_Table_name
+zOld Prosperous
+ITEM_name
 Prosperous
 ITEM_name
-Prosperous Collection
+zOld Madame
 ITEM_name
 Madame
-ITEM_name
-Madame Collection
 ITEM_name
 SLT - Collection - Seris - Madame
 Loot_Table_name
@@ -127742,13 +127689,13 @@ SLT - Set - Seris - Madame
 Loot_Table_name
 SLT - Set - Makoa - Prosperous
 Loot_Table_name
-Firecracker Collection
-ITEM_name
 Firecracker
 ITEM_name
-Lotus
+zOld Firecracker
 ITEM_name
-Lotus Collection
+zOld Lotus
+ITEM_name
+Lotus
 ITEM_name
 REKT Stingers
 ITEM_name
@@ -127774,13 +127721,13 @@ Cosmic
 ITEM_desc
 Moji ACC Mastery B
 ITEM_name
-Obsidian
+Available for purchase at Mastery Level 14.
 ITEM_desc
-Moji Mastery A
+Obsidian Moji
 ITEM_name
-Cosmic
+Available for purchase at Mastery Level 20.
 ITEM_desc
-Moji Mastery B
+Cosmic Moji
 ITEM_name
 Obsidian
 ITEM_desc
@@ -127824,7 +127771,7 @@ item_desc
 item_short_desc
 Will-o-the-Wisp
 item_name
-Gain {scale=10|10}% Crowd Control reduction.
+Gain {scale=14|14}% Crowd Control and Slow Reduction.
 item_desc
 [Armor] While below 50% Health receive increased healing.
 item_short_desc
@@ -127922,7 +127869,7 @@ Gain {scale=6|6}% damage reduction while using Scamper.
 item_desc
 Boop
 item_name
-Your first Weapon Shot within 3s after scampering reveals enemies for {scale=1|1}s.
+Your first Weapon Shot within 3s after scampering reveals enemies to you for {scale=1|1}s.
 item_desc
 Dense Woods
 item_name
@@ -128036,9 +127983,9 @@ Custom T_TradeDistrict
 MSL_name
 Trade District (TDM)
 Match_Queue_name
-High Elf Collection
+High Elf
 ITEM_name
-Rose Petal
+zOld Rose Petal
 ITEM_name
 Plum
 ITEM_name
@@ -128404,7 +128351,7 @@ Outpost
 map_game_friendly_name
 Practice Outpost
 map_game_name
-KhanE
+Overpower
 item_name
 Post Pull Stun
 EFFECT_GROUP_name
@@ -128524,15 +128471,15 @@ Used by Tencent to sale booster weapon
 Loot_Table_desc
 Pink/Purple
 ITEM_desc
-Skye ACC Skin05A
+z--Unused--Skye ACC Skin05A
 ITEM_name
-Pink/Purple
+Obtainable in the Academic Bundle.
 ITEM_desc
-Skye Skin05A
+Academic
 ITEM_name
-Pink/Purple
+Obtainable in the Academic Bundle.
 ITEM_desc
-Skye WEP Skin04A
+Academic Shocker
 ITEM_name
 SLT - Collection - Jenos - Cosmic
 Loot_Table_name
@@ -128558,7 +128505,7 @@ SLT - Collection - Strix - Infiltrator
 Loot_Table_name
 SLT - Collection - Strix - Infiltrator-RENTAL
 Loot_Table_name
-Infiltrator Collection
+Infiltrator
 ITEM_name
 Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
 ITEM_desc
@@ -128592,9 +128539,9 @@ Quick Draw Spray
 item_name
 Sleight of Hand Spray
 item_name
-Buying Time
+Buying Time Spray
 item_name
-Elusive
+Elusive Spray
 item_name
 Watchful Spray
 item_name
@@ -130080,7 +130027,7 @@ Carnival Dance
 ITEM_name
 SLT - Collection - Terminus - Jotunn
 Loot_Table_name
-Jotunn Collection
+Jotunn
 ITEM_name
 Jotunn Spray
 item_name
@@ -130114,31 +130061,31 @@ Lore Seeker Grand Prize
 Loot_Table_Items_name
 Gold has never looked better.
 ITEM_desc
-Exalted Collection
+Exalted
 ITEM_name
-HRX 2018 Collection
+HRX 2018
 ITEM_name
 SLT - Collection - Drogoz - HRX 2018
 Loot_Table_name
 The Winter Wonder Witch
 ITEM_desc
-Merrymaker Collection
+Merrymaker
 ITEM_name
-Cuddly Collection
+Cuddly
 ITEM_name
-B.E.T.A. Collection
+B.E.T.A.
 ITEM_name
 SLT - Collection - Ruckus - B.E.T.A.
 Loot_Table_name
 SLT - Collection - Ruckus - B.E.T.A.-RENTAL
 Loot_Table_name
-Coldsnap Collection
+Coldsnap
 ITEM_name
 SLT - Collection - Strix - Coldsnap
 Loot_Table_name
 SLT - Collection - Strix - Coldsnap-RENTAL
 Loot_Table_name
-Expo 2018 Collection
+Expo 2018
 ITEM_name
 SLT - Collection - Seris - Expo 2018
 Loot_Table_name
@@ -130146,17 +130093,17 @@ SLT - Collection - Seris - Expo 2018-RENTAL
 Loot_Table_name
 Roses are red, Violets are blue, I'd rather be dead, than stuck with you!
 ITEM_desc
-Heartbreaker Collection
+Heartbreaker
 ITEM_name
 SLT - Collection - Terminus - Jotunn-RENTAL
 Loot_Table_name
 The Baroness is a foe of consequence.
 ITEM_desc
-Baroness Collection
+Baroness
 ITEM_name
 SLT - Collection - Jenos - Eclipse
 Loot_Table_name
-Eclipse Collection
+Eclipse
 ITEM_name
 zBROld Armor Uncommon II
 item_name
@@ -130260,11 +130207,11 @@ zBROld Time Rare III
 item_name
 + 30% Ultimate Charge Rate
 item_desc
-Hi-Tek Collection
+Hi-Tek
 ITEM_name
 SLT - Collection - Barik - Hi-Tek
 Loot_Table_name
-Royale Test
+zOLD WIP Royale Test
 MSL_name
 Royale Test
 Match_Queue_short_desc
@@ -131756,7 +131703,7 @@ Test RoyaleTest
 map_game_name
 DATA PLACEHOLDER
 DEVICE_name
-Reaver Collection
+Reaver
 ITEM_name
 SLT - Collection - Viktor - Reaver
 Loot_Table_name
@@ -131834,11 +131781,11 @@ SLT - Collection - Tyra - Lotus-RENTAL - 1 Day
 Loot_Table_name
 SLT - Collection - Drogoz - Draco-RENTAL - 1 Day
 Loot_Table_name
-DZ-03 Draco Set
+zOld DZ-03 Draco Set
 ITEM_name
 SLT - Set - Tyra - Lotus Rental
 Loot_Table_name
-Lotus Set
+zOld Lotus Set
 ITEM_name
 SLT - Set - Willo - Firecracker Rental
 Loot_Table_name
@@ -131882,9 +131829,9 @@ SLT - Collection - Ruckus - Robo Force-RENTAL
 Loot_Table_name
 SLT - Collection - Tyra - Drakefire
 Loot_Table_name
-Robo Force Collection
+Robo Force
 ITEM_name
-Drakefire Collection
+Drakefire
 ITEM_name
 Robo Force Ruckus Bundle
 ITEM_name
@@ -131937,9 +131884,9 @@ War Chest Receipt
 ITEM_name
 Digital Deluxe Edition Receipt
 ITEM_name
-Exarch Collection
+Exarch
 ITEM_name
-Arctic Collection
+Arctic
 ITEM_name
 Obtainable in the War Chest and Digital Deluxe Edition DLCs.
 ITEM_desc
@@ -131981,19 +131928,19 @@ Tencent Legendary Card Chest
 item_name
 Ronin
 ITEM_desc
-Zhin ACC Skin03A
+z--Unused--Zhin ACC Skin03A
 ITEM_name
 Ronin
 ITEM_short_desc
-Ronin
+Obtainable in the Demon Slayer Bundle.
 ITEM_desc
-Zhin Skin03A
+Demon Slayer
 ITEM_name
 Ronin
 ITEM_short_desc
-Ronin
+Obtainable in the Demon Slayer Bundle.
 ITEM_desc
-Zhin WEP Skin04A
+Demon Slayer's Vengeance
 ITEM_name
 Ronin
 ITEM_short_desc
@@ -132016,19 +131963,19 @@ ITEM_name
 SND_Notify_Royale_DeathField
 Asiatic
 ITEM_desc
-Jenos ACC Skin05A
+z--Unused--Jenos ACC Skin05A
 ITEM_name
 Asiatic
 ITEM_short_desc
-Asiatic
+Obtainable from the Siege of Ascension Peak Event.
 ITEM_desc
-Jenos Skin03A
+Soul Eater
 ITEM_name
 Asiatic
 ITEM_short_desc
-Asiatic
+Obtainable from the Siege of Ascension Peak Event.
 ITEM_desc
-Jenos WEP Skin04A
+Soul Eater's Voracity
 ITEM_name
 Asiatic
 ITEM_short_desc
@@ -132040,7 +131987,7 @@ Bolter
 DEVICE_name
 Platemail
 item_name
-Gain {scale=100|100} Health.
+Gain {scale=150|150} Health.
 item_desc
 Battle Focus
 EFFECT_GROUP_name
@@ -132060,11 +132007,11 @@ Eliminations reduce your active Cooldowns by {scale=8|8}%.
 item_desc
 Vigorous Defense
 item_name
-Heal {scale=10|10} health per second while your shield is up.
+Heal {scale=10|10} health per second while your Bulwark is up.
 item_desc
 Hopeguard
 item_name
-Receive {scale=6|6}% increased healing while your shield is up.
+Receive {scale=6|6}% increased healing while your Bulwark is up.
 item_desc
 testfdsfsdafds
 Loot_Table_name
@@ -132072,11 +132019,11 @@ Recurring Chest Recipe Androxus
 Loot_Table_name
 Ready for War
 item_name
-Increase the recharge rate of your shield by {scale=4|4}%
+Increase the recharge rate of your Bulwark by {scale=4|4}%
 item_desc
 Shield Wall
 item_name
-Increase the health of your shield by {scale=2|2}%
+Increase the health of your Bulwark by {scale=2|2}%
 item_desc
 test22222
 Loot_Table_name
@@ -132098,19 +132045,19 @@ Reduce the Cooldown of Commander's Grab by {scale=0.5|0.5}s.
 item_desc
 Hold the Line!
 item_name
-Heal yourself for an additional {scale=60|60} when activating Shout.
+Heal yourself for an additional {scale=60|60} when activating Battle Shout.
 item_desc
 Never Surrender!
 item_name
-Reduce the cooldown of Shout by {scale=1|1}.
+Reduce the cooldown of Battle Shout by {scale=1|1}s.
 item_desc
 Open Fire!
 item_name
-Activating Shout generates {scale=4|4} ammo.
+Activating Battle Shout generates {scale=4|4} ammo.
 item_desc
 Into the Breach!
 item_name
-Activating Shout grants {scale=8|8}% movement speed for 3s.
+Activating Battle Shout grants {scale=8|8}% movement speed for 3s.
 item_desc
 Lian's Shield
 item_name
@@ -132122,7 +132069,7 @@ Champions affected by Shout now also deal 20% increased damage.
 item_desc
 Storm of Bullets
 item_name
-Your weapon fires 60% faster and has 10 more rounds, but deals 28% less damage.
+Your weapon fires 40% faster and has 10 more rounds, but deals 25% less damage.
 item_desc
 Storm of Bullets
 DEVICE_name
@@ -132178,19 +132125,19 @@ SLT - TC - Set - Viktor - V1-KTOR-RENTAL
 Loot_Table_name
 Asiatic
 ITEM_desc
-Seris ACC Skin05A
+z--Unused--Seris ACC Skin05A
 ITEM_name
 Asiatic
 ITEM_short_desc
-Asiatic
+Obtainable in the Jade Priestess Bundle.
 ITEM_desc
-Seris Skin05A
+Jade Priestess
 ITEM_name
 Asiatic
 ITEM_short_desc
-Asiatic
+Obtainable in the Jade Priestess Bundle.
 ITEM_desc
-Seris WEP Skin06A
+Jade Priestess' Idol
 ITEM_name
 Asiatic
 ITEM_short_desc
@@ -132327,7 +132274,7 @@ Recovery heals for an additional amount instantly and increases your maximum Hea
 item_short_desc
 Hitting an ally with Healing Potion increases your attack speed.
 item_short_desc
-Advance gains an extra charge, standing still causes Ruckus to jet upwards, and the cooldown of Advance is reduced.
+Advance gains an extra charge, standing still causes Ruckus to jet upwards.
 item_short_desc
 Gain Damage Reduction while Channeling Shoulder Bash.
 item_short_desc
@@ -132413,7 +132360,7 @@ Healing totem can now deploy at range and a portion of your healing to full heal
 item_short_desc
 Oppressor Mines can now affect 2 more targets and Sniper Shots against enemies affected by Mines deal more damage.
 item_short_desc
-Increase the duration of Protection and Protection grants CC Immunity.
+Increase the duration of Protection.
 item_short_desc
 Enemies affected by Void Grip are crippled and take additional damage over its duration.
 item_short_desc
@@ -132423,7 +132370,7 @@ Allies healed by Healing Totem receive CC Immunity and Healing Totem heals for m
 item_short_desc
 Dimensional Link now heals you every time it is used.
 item_short_desc
-Reduce the Cooldown of Impasse as long as it is not destroyed.
+Reduce the Cooldown of Impasse.
 item_short_desc
 Deal bonus damage on your first Weapon Shot out of Hidden
 item_short_desc
@@ -132815,7 +132762,7 @@ Nightbane Androxus
 ITEM_name
 Future Soldier Ash Voice Pack
 ITEM_name
-HeartKing BombKing Voice Pack
+Love Machine BombKing Voice Pack
 ITEM_name
 Academic Skye Voice Pack
 ITEM_name
@@ -132921,7 +132868,7 @@ Gurk
 item_name
 Obtainable in the Radiant Chest.
 item_desc
-Blightbark Collection
+Blightbark
 ITEM_name
 SLT - Collection - Grover - Blightbark
 Loot_Table_name
@@ -133015,6 +132962,748 @@ Kinessa XP
 ITEM_name
 Lex XP
 ITEM_name
+Hexer's
+ITEM_desc
+Copy of Hexer's Mask
+ITEM_name
+Demon Jenos Voice Pack
+ITEM_name
+Vivian FullThrottle
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Jenos Soul Eater
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Skye Valedictorian
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Seris High Priestess
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+Zhin Demon Slayer
+item_name
+Obtainable in the Radiant Chest.
+item_desc
+test only
+Loot_Table_Items_name
+Gain Movement Speed during Dimensional Link.
+item_short_desc
+Demon Hunter Zhin Voice Pack
+ITEM_name
+Jade Priestess Voice Pack
+ITEM_name
+Barrier (TDM)
+map_game_friendly_name
+zOLD WIP Barrier
+map_game_name
+Revelation (TDM)
+map_game_friendly_name
+zOLD WIP Revelation (TDM)
+map_game_name
+Revelation (TDM)
+map_game_friendly_name
+zOLD WIP Revelation (TDM)
+map_game_name
+Barrier (TDM)
+map_game_friendly_name
+zOLD WIP Barrier
+map_game_name
+Endure
+map_game_friendly_name
+WIP Endure (TDM)
+map_game_name
+Endure
+map_game_friendly_name
+zOLD WIP Endure (TDM)
+map_game_name
+Test RoyaleTest
+map_game_friendly_name
+zOLD Test RoyaleTest
+map_game_name
+Asiatic Map (TDM)
+map_game_friendly_name
+zOLD WIP Asiatic Map (TDM)
+map_game_name
+map_game_friendly_name
+zOLD WIP BG
+map_game_name
+BG YOLO
+map_game_friendly_name
+zOLD WIP BG YOLO
+map_game_name
+map_game_friendly_name
+zOLD WIP BR
+map_game_name
+Flagball
+map_game_friendly_name
+zOLD WIP Flagball
+map_game_name
+Enchanted Forest (Conquest) 
+map_game_friendly_name
+zOLD WIP Enchanted Forest (Conquest) 
+map_game_name
+Enchanted Forest (Siege Redux)
+map_game_friendly_name
+zOLD WIP Enchanted Forest (Siege Redux)
+map_game_name
+Foreman's Rise TDM
+map_game_friendly_name
+zOLD WIP Foreman's Rise TDM
+map_game_name
+Halloween Event
+map_game_friendly_name
+zOLD WIP Halloween Event
+map_game_name
+SLT - TC - Set - Tyra - Drakefire
+Loot_Table_name
+SLT - TC - Set - Tyra - Drakefire - Rental 15 Day
+Loot_Table_name
+Copy of Drakefire
+ITEM_name
+zOld Drakefire Set
+ITEM_name
+SLT - TC - Set - Pip - Arctic
+Loot_Table_name
+SLT - TC - Set - Pip - Arctic - Rental 30
+Loot_Table_name
+zOld Arctic Set
+ITEM_name
+SLT - TC Chest - Gold Chest - Booster Weapon
+Loot_Table_name
+SLT - TC Chest - Gold Chest - Booster Weapon Rental
+Loot_Table_name
+Bombardment Fire Bomb Device
+item_name
+Device used by the Ascended Assault game mode to drop projectiles. We really only need the fire modes.
+item_desc
+SOAP
+ITEM_name
+Events Vendor
+Loot_Table_name
+Test
+item_short_desc
+Animated Spray Test
+item_name
+Obtainable in the Gold Chest.
+item_desc
+Test
+ITEM_short_desc
+Test
+ITEM_desc
+Animated Spray Test
+ITEM_name
+Kraken
+BOT_name
+The Ancient
+BOT_desc
+Normal AOE Shot
+DEVICE_name
+Knockback from Altfire
+DEVICE_name
+Knockback
+EFFECT_GROUP_name
+Kraken Anchor
+item_name
+Hurl your anchor and reel in an unsuspecting enemy.
+item_desc
+Total Immunity
+item_name
+Gives holder Damage Immunity and Superior CC Immunity
+item_desc
+Kraken Kill Card
+item_name
+Kills anyone hit by the Kraken Anchor after 0.8s
+item_desc
+Town Crier Announcer Park
+ITEM_short_desc
+Town Crier
+ITEM_name
+Play 25 games in Ranked Season 2.
+ITEM_desc
+Ascension Peak (AA)
+map_game_friendly_name
+WIP Asiatic Map (Ascended Assault)
+map_game_name
+WIP Asiatic Map (AA)
+MSL_name
+Siege of Ascension Peak
+Match_Queue_short_desc
+Siege of Ascension Peak
+Match_Queue_name
+Siege of Ascension Peak
+Match_Queue_desc
+SLT - Collection - Pip - Arctic - Rental
+Loot_Table_name
+TC Reaver Set
+ITEM_name
+TC Infiltrator Set
+ITEM_name
+SLT - TC - Set - Strix - Infiltrator
+Loot_Table_name
+SLT - TC - Set - Strix - Infiltrator
+Loot_Table_name
+SLT - TC - Set - Strix - Infiltrator - Rental 15 Day
+Loot_Table_name
+SLT - TC - Set - Viktor - Reaver
+Loot_Table_name
+SLT - TC - Set - Viktor - Reaver
+Loot_Table_name
+SLT - TC - Set - Viktor - Reaver - Rental 30 Day
+Loot_Table_name
+Viktor WEP Skin10A
+ITEM_name
+Loadout request timed out!
+PALADINS_CARDDECK_TIMEOUT
+Bombardment Heavy Bomb Device
+item_name
+Device used by the Ascended Assault game mode to drop projectiles. We really only need the fire modes.
+item_desc
+Update the player's converted version
+ITEM_short_desc
+Update the player's converted version
+ITEM_desc
+SLT - TC - Set - Pip - Arctic - Rental 1 Day
+Loot_Table_name
+SLT - TC - Set - Tyra - Drakefire - Rental 1 Day
+Loot_Table_name
+SLT - TC - Set - Viktor - Reaver - Rental 1 Day
+Loot_Table_name
+SLT - TC - Set - Strix - Infiltrator - Rental 1 Day
+Loot_Table_name
+WIP Pirate Onslaught
+map_game_friendly_name
+WIP Pirate Onslaught
+map_game_name
+WIP Pirate Onslaught
+map_game_friendly_name
+WIP Pirate Onslaught
+map_game_name
+WIP Pirate Onslaught
+map_game_friendly_name
+WIP Pirate Onslaught
+map_game_name
+Asiatic Firebomb Deployable
+Deployable_name
+Surge forward! Grabbing, stunning, and throwing the first enemy you contact. Deals 400 damage.
+item_desc
+Fire one 200 damage shot every 0.26s.
+item_desc
+Let out a fearsome shout, granting CC immunity to and healing yourself and nearby allies for 800 health over 4s.
+item_desc
+Activate your gauntlets Bulwark with 6000 Health. Regenerates while inactive.
+item_desc
+Target an enemy and drag them to you. You may move your powerless victim as you see fit or send the flying with a mighty Strike.
+item_desc
+Androxus
+item_short_desc
+item_name
+Maeve
+item_short_desc
+Cutting Shapes
+item_name
+Strix
+item_short_desc
+Bold Bird
+item_name
+SLT - Collection - Bomb King - Love Machine
+Loot_Table_name
+SLT - Collection - Ying - Carnival
+Loot_Table_name
+Kraken Anchor Small
+item_name
+Hurl your anchor and reel in an unsuspecting enemy.
+item_desc
+Kraken Small
+BOT_name
+The Ancient
+BOT_desc
+Love Machine
+ITEM_name
+Carnival
+ITEM_name
+Obtainable from the Siege of Ascension Peak Event.
+ITEM_desc
+Obtainable from the Siege of Ascension Peak Event.
+ITEM_desc
+Obtainable from the Siege of Ascension Peak Event.
+ITEM_desc
+SLT - Collection - Zhin - Demon Slayer
+Loot_Table_name
+SLT - Collection - Seris - Jade Priestess
+Loot_Table_name
+SLT - Collection - Skye - Academic
+Loot_Table_name
+SLT - Collection - Jenos - Soul Eater
+Loot_Table_name
+Soul Eater
+ITEM_name
+Demon Slayer
+ITEM_name
+Academic
+ITEM_name
+Jade Priestess
+ITEM_name
+Skye
+item_short_desc
+item_name
+DarkLord
+item_short_desc
+Stance
+item_name
+Seris
+item_short_desc
+Offering
+item_name
+Cangaceiro
+ITEM_name
+Obtainable in the Academic Bundle.
+ITEM_desc
+Obtainable in the Demon Slayer Bundle.
+ITEM_desc
+Obtainable in the Jade Priestess Bundle.
+ITEM_desc
+Dasher's Antlers
+ITEM_name
+Screech
+ITEM_name
+Heirloom Crest
+ITEM_name
+Old Glory
+ITEM_name
+Tough Cookie
+ITEM_name
+Frosty Foliage
+ITEM_name
+Rosebud Canopy
+ITEM_name
+Ghoulish Goalie
+ITEM_name
+Chillweave Beanie
+ITEM_name
+Barrier Wreath
+ITEM_name
+Love Specs
+ITEM_name
+Jenos
+item_short_desc
+Throne
+item_name
+Lil' Andy
+ITEM_name
+Parasite
+ITEM_name
+Obtainable from the Siege of Ascension Peak Event.
+ITEM_desc
+Grave-robber's Spoils
+ITEM_name
+Ushanka
+ITEM_name
+Jolly Holly
+ITEM_name
+Lone Heart Patch
+ITEM_name
+zOld Biz-King
+ITEM_name
+Time to the take the Realm through an Economic BOOM!
+ITEM_desc
+Obtainable in the Little Box of Horrors.
+ITEM_desc
+Obtainable in the Little Box of Horrors.
+ITEM_desc
+Obtainable in the Little Box of Horrors.
+ITEM_desc
+Obtainable in the Little Box of Horrors.
+ITEM_desc
+Obtainable in the Little Box of Horrors.
+ITEM_desc
+Obtainable in the World Wide Chest.
+ITEM_desc
+Obtainable in the World Wide Chest.
+ITEM_desc
+Obtainable in the World Wide Chest.
+ITEM_desc
+Obtainable in the Festive Chest.
+ITEM_desc
+Obtainable in the Festive Chest.
+ITEM_desc
+Obtainable in the Festive Chest.
+ITEM_desc
+Obtainable in the Festive Chest.
+ITEM_desc
+Obtainable in the Festive Chest.
+ITEM_desc
+Obtainable in the Festive Chest.
+ITEM_desc
+Obtainable in the Lunar Chest.
+ITEM_desc
+Obtain in the Valentines Chest.
+ITEM_desc
+Obtain in the Valentines Chest.
+ITEM_desc
+Obtain in the Valentines Chest.
+ITEM_desc
+TC Biz-King Set
+ITEM_name
+TC Raider Set
+ITEM_name
+TC Viking Set
+ITEM_name
+TC Invitational Fernando Set
+ITEM_name
+SLT - Set - Evie - Evocation - Rental 1 Day
+Loot_Table_name
+Asiatic Event Bonus Bundle Unlock
+Activity_title
+Asiatic Event Bonus Bundle Unlock
+Activity_desc
+Soul Eater Jenos Unlock
+Activity_name
+Buy 3 Asiatic Event Bundles
+Activity_Goal_desc
+Soul Eater Jenos Unlock
+Activity_Goal_name
+Asiatic Event Bonus Bundle Unlock Progress
+ITEM_name
+SLT - Collection - Androxus - Wraith
+Loot_Table_name
+SLT - Collection - Ying - Seer
+Loot_Table_name
+SLT - Collection - Barik - Foreman
+Loot_Table_name
+Copy of SLT - Collection - Barik - Foreman
+Loot_Table_name
+SLT - Collection - Bombking - Monarch
+Loot_Table_name
+SLT - Collection - Zhin - Nomad
+Loot_Table_name
+SLT - Collection - Buck - Summit
+Loot_Table_name
+SLT - Collection - Drogoz - Tyrant
+Loot_Table_name
+SLT - Collection - Evie - Evocation
+Loot_Table_name
+SLT - Collection - Fernando - Daring
+Loot_Table_name
+SLT - Collection - Grover - Autumn
+Loot_Table_name
+SLT - Collection - Inara - Sunstone
+Loot_Table_name
+SLT - Collection - Maldamba - Cursed
+Loot_Table_name
+SLT - Collection - Kinessa - Atomic
+Loot_Table_name
+SLT - Collection - Moji - Plum
+Loot_Table_name
+SLT - Collection - Lex - Lawbringer
+Loot_Table_name
+SLT - Collection - Lian - Dusk
+Loot_Table_name
+SLT - Collection - Willo - Bluebell
+Loot_Table_name
+SLT - Collection - Maeve - Vagrant
+Loot_Table_name
+SLT - Collection - Makoa - Montego
+Loot_Table_name
+SLT - Collection - Vivian - Manipulator
+Loot_Table_name
+SLT - Collection - Vivian - Manipulator
+Loot_Table_name
+SLT - Collection - Seris - Taboo
+Loot_Table_name
+SLT - Collection Viktor - Khaki
+Loot_Table_name
+SLT - Collection - ShaLin - Bravado
+Loot_Table_name
+SLT - Collection - Tyra - Alluvial
+Loot_Table_name
+SLT - Collection - Pip - Sulfur
+Loot_Table_name
+SLT - Collection - Strix - Phoenix
+Loot_Table_name
+SLT - Collection - Ruckus - Sprocket
+Loot_Table_name
+SLT - Collection - Terminus - Monolith
+Loot_Table_name
+SLT - Collection - Torvald - Arcanist
+Loot_Table_name
+Ascension Peak Bundles Vendor
+Loot_Table_name
+Ascension Peak Bundle - Jade Priestess
+Loot_Table_name
+Ascension Peak Bundle - Academic
+Loot_Table_name
+Ascension Peak Bundle - Demon Slayer
+Loot_Table_name
+Ascension Peak Reward - Soul Eater
+Loot_Table_name
+Unlock every Siege of Ascension Peak Bundle.
+ITEM_desc
+Supreme Senpai
+ITEM_name
+Jade Priestess Bundle
+ITEM_name
+Academic Bundle
+ITEM_name
+Demon Slayer Bundle
+ITEM_name
+Soul Eater Bundle
+ITEM_name
+Crest
+ITEM_name
+Atomic Unit for Asiatic Event Key
+ITEM_desc
+FrogRework
+map_game_friendly_name
+WIP FrogRework
+map_game_name
+Supa Rift (Siege)
+map_game_friendly_name
+WIP Supa Rift (Siege)
+map_game_name
+Salty Springs (Siege)
+map_game_friendly_name
+WIP Salty Springs (Siege)
+map_game_name
+Salt
+map_game_friendly_name
+WIP Salt (Siege) 
+map_game_name
+SLT - Collection - Sha Lin - Guardian
+Loot_Table_name
+TC Defiler Set
+ITEM_name
+TC Raeve Set
+ITEM_name
+Deal 250000 Damage
+Activity_Goal_title
+Deal 250000 Damage
+Activity_Goal_desc
+Deal 250000 Damage
+Activity_Goal_name
+Play 4 Seige Games
+Activity_Goal_title
+Play 4 Seige Games
+Activity_Goal_desc
+Play 4 Seige Games
+Activity_Goal_name
+Get 150 Eliminations
+Activity_Goal_title
+Get 150 Eliminations
+Activity_Goal_desc
+Get 150 Eliminations
+Activity_Goal_name
+Win 4 Games
+Activity_Goal_title
+Win 4 Games
+Activity_Goal_desc
+Win 4 Games
+Activity_Goal_name
+Get 500 Objective Time
+Activity_Goal_title
+Get 500 Objective Time
+Activity_Goal_desc
+Get 500 Objective Time
+Activity_Goal_name
+Play Siege of Ascension Peak 4 Times
+Activity_Goal_title
+Play Siege of Ascension Peak 4 Times
+Activity_Goal_desc
+Play Siege of Ascension Peak 4 Times
+Activity_Goal_name
+Get 50 Kills
+Activity_Goal_title
+Get 50 Kills
+Activity_Goal_desc
+Get 50 Kills
+Activity_Goal_name
+Win 4 Games
+Activity_Goal_title
+Win 4 Games
+Activity_Goal_desc
+Win 4 Games
+Activity_Goal_name
+Heal 200000 Health
+Activity_Goal_title
+Heal 200000 Health
+Activity_Goal_desc
+Heal 200000 Health
+Activity_Goal_name
+Play 4 Deathmatch Games
+Activity_Goal_title
+Play 4 Deathmatch Games
+Activity_Goal_desc
+Play 4 Deathmatch Games
+Activity_Goal_name
+Play 4 Games As Support
+Activity_Goal_title
+Play 4 Games As Support
+Activity_Goal_desc
+Play 4 Games As Support
+Activity_Goal_name
+Win 4 Games
+Activity_Goal_title
+Win 4 Games
+Activity_Goal_desc
+Win 4 Games
+Activity_Goal_name
+Scorpion's Sting
+Activity_title
+Scorpion's Sting
+Activity_desc
+Scorpion's Sting
+Activity_name
+Hasty Hare
+Activity_title
+Hasty Hare
+Activity_desc
+Hasty Hare
+Activity_name
+Lotus of Life
+Activity_title
+Lotus of Life
+Activity_desc
+Lotus of Life
+Activity_name
+Copy of Plated
+ITEM_name
+Available for purchase at Mastery Level 20.
+ITEM_desc
+Copy of Cosmic Drogoz
+ITEM_name
+Available for purchase at Mastery Level 20.
+ITEM_desc
+Copy of Copy of Cosmic Drogoz
+ITEM_name
+Available for purchase at Mastery Level 20.
+ITEM_desc
+Copy of Copy of Copy of Cosmic Drogoz
+ITEM_name
+Available for purchase at Mastery Level 20.
+ITEM_desc
+Copy of Copy of Copy of Copy of Cosmic Drogoz
+ITEM_name
+Asiatic Event Quest Rewards Vendor
+Loot_Table_name
+SLT - Asiatic Event Quest Reward - 2000 Gold
+Loot_Table_name
+SLT - Asiatic Event Quest Reward - 500 VIP
+Loot_Table_name
+SLT - Asiatic Event Quest Reward - 700 VIP
+Loot_Table_name
+SLT - TC - Set - Viktor - Charcoal-RENTAL - 1 Day
+Loot_Table_name
+Bombardment Fire Bomb Subdevice
+item_name
+Soul Eater Jenos Unlock
+Activity_Goal_title
+Neon Demon
+ITEM_desc
+Grohk Skin03A
+ITEM_name
+Neon Demon
+ITEM_desc
+Grohk WEP Skin04A
+ITEM_name
+SLT - Set - Tyra - Dire Wolf - Rental 1 Day
+Loot_Table_name
+SLT - Collection - Kinessa - Nova Strike and Crystals
+Loot_Table_name
+SLT - Collection - Ying - Genie and Crystals
+Loot_Table_name
+Cat Skin01A
+ITEM_name
+Copy of Emote Vendor - Epic
+Loot_Table_name
+Copy of Emote Vendor - Epic
+Loot_Table_name
+SLT - Collection - Skye - Academic - Rental 1 Day
+Loot_Table_name
+SLT - Collection - Zhin - Demon Slayer - Rental 1 Day
+Loot_Table_name
+SLT - Collection - Seris - Jade Priestess - Rental 1 Day
+Loot_Table_name
+SLT - Collection - Jenos - Soul Eater - Rental 1 Day
+Loot_Table_name
+Copy of Emote Vendor - Legendary
+Loot_Table_name
+Copy of Emote Vendor - Legendary
+Loot_Table_name
+SLT - TC - Chest - Galaxy Chest - Epic
+Loot_Table_name
+SLT - TC - Chest - Galaxy Chest - Epic Exclusive
+Loot_Table_name
+Chest Loot Vendor - Tencent Galaxy
+Loot_Table_name
+Ascension Frame
+ITEM_name
+Tencent Galaxy Chest
+ITEM_name
+Loading Frames Vendor
+Loot_Table_name
+Tencent Galaxy Chest Rental Spray
+ITEM_name
+SLT - Spray Rental - Galaxy Chest
+Loot_Table_name
+RR_S2_Qualify
+Activity_name
+RR_S2_Play_Games
+Activity_name
+RR_S2_Win_Games
+Activity_name
+RR_S2_Reach_Gold_5
+Activity_name
+SLT - Collection - Vivian - Full Throttle
+Loot_Table_name
+Full Throttle
+ITEM_name
+Ranked Season 2 Frame
+ITEM_name
+Tencent Silly Hat
+Loot_Table_Items_desc
+Tencent Silly Hat
+Loot_Table_Items_desc
+Tencent Silly Hat
+Loot_Table_Items_desc
+Tencent Silly Hat
+Loot_Table_Items_desc
+Tencent Silly Hat
+Loot_Table_Items_desc
+Tencent Silly Hat
+Loot_Table_Items_desc
+Bundle Reward
+ITEM_desc
+Scorpion's Sting Completion Receipt
+ITEM_name
+Given when a player completes the Scorpion's Sting quest chain
+ITEM_desc
+Hasty Hare Completion Receipt
+ITEM_name
+Given when a player completes the Hasty Hare quest chain
+ITEM_desc
+Lotus of Life Completion Receipt
+ITEM_name
+Given when a player completes the Lotus of Life quest chain
+ITEM_desc
+SLT - Asiatic Event Quest Reward - Scorpion's Sting Completion
+Loot_Table_name
+SLT - Asiatic Event Quest Reward - Hasty Hare Completion
+Loot_Table_name
+SLT - Asiatic Event Quest Reward - Hasty Hare Completion
+Loot_Table_name
+SLT - Asiatic Event Quest Reward - Lotus of Life Completion
+Loot_Table_name
+Khan XP
+ITEM_name
+Paladin and Magistrate forces battle it out. Onslaught game mode rules. 
+Match_Queue_short_desc
+Siege of Ascension Peak
+Match_Queue_name
+Paladin and Magistrate forces battle it out. Onslaught game mode rules. 
+Match_Queue_desc
 None
 VV_TEXT
 Patrol
@@ -134307,7 +134996,7 @@ There was a problem with your purchase request
 Shop bad request
 There has been a price change, retry purchase if desired
 Shop price change
-You do not have enough funds to complete the transaction
+You do not have enough funds to complete the transaction.
 Shop short funds
 Buff Monster
 Buff Monster
@@ -134534,6 +135223,8 @@ Player spawned
 Player spawned
 Player directed to map
 Player Directed
+Player Version Update
+Player Version Update
 Class Bundle
 Class Bundle
 @@PLAYER_NAME@@ does not accept whispers.
@@ -135147,6 +135838,7 @@ Missing or wrong authentication
 Admin Bad Authentication
 Ward Skins
 Ward Skin
+Champion
 VV_text
 Default
 VV_text
@@ -135204,6 +135896,8 @@ Chest
 TREASURE_ROLL
 Neutral
 VV_text
+Class Card Material
+VV_text
 Your account has been migrated.
 Account Migrated
 Treasure Chest
@@ -135214,6 +135908,8 @@ Chaos Tank Class
 VV_text
 Chaos Engineer Class
 VV_text
+Loading Frame
+FRAME
 Chaos Ice
 VV_text
 Chaos Fire
@@ -135480,6 +136176,8 @@ Gain * Defense
 Steam
 User Declined
 User Declined
+Event
+Event
 Unable to connect to Steam.
 STEAM_AUTH_FAILED_CLIENT
 King of the Hill * Cassie
@@ -136366,10 +137064,32 @@ Transient Purchase
 Transient Purchase
 Inherit Entitlement Inventory
 Inherit Entitlement Inventory
+Loading Frame
+Loading Frame
+Spray
+VV_text
 CardDeck
 CardDeck
 God Out of Game - Deprecated
 God Out of Game OLD
 Conversion
 Conversion
-C
+Misc
+VV_text
+DLC Exclusive
+DLC Exclusive
+Character Slots
+Character Slots
+Mount Skin
+VV_text
+Skin
+VV_text
+Emote
+VV_text
+Weapon Skin
+VV_text
+MVP Pose
+VV_text
+Asiatic Event Key
+VV_text
+D
