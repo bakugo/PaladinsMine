@@ -88760,7 +88760,7 @@ item_name
 item_desc
 Reinforced Casing
 item_name
-[Armor] Gain {scale=14|14}% crowd control reduction.
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction.
 item_desc
 zDeprecated Reinforced Casing II
 item_name
@@ -96200,9 +96200,9 @@ Replace your arrow with an Impaler Arrow that knocks enemies back and stuns them
 item_desc
 Plant yourself in place, becoming stationary for 3s. While planted, your Long Bow draw time is 200% faster. Re-activating Planted cancels the ability. Acts as a weapon attack.
 item_desc
-Leap backwards and enter stealth for 2s, leaving a mirage at your original location for 3.5s.
+Leap backwards and enter stealth for 2s.
 item_desc
-Enter stealth and gain 30% Movement Speed for 8s. While active, you draw your bow 50% faster and leave a mirage behind for 2s each time you fire.
+Enter stealth and gain 30% Movement Speed for 8s. While active, you draw your bow 50% faster and reveal yourself each time you fire.
 item_desc
 Obtainable in the Radiant Chest.
 ITEM_desc
@@ -133484,11 +133484,11 @@ Deal 250000 Damage
 Activity_Goal_desc
 Deal 250000 Damage
 Activity_Goal_name
-Play 4 Seige Games
+Play 4 Siege Games
 Activity_Goal_title
-Play 4 Seige Games
+Play 4 Siege Games
 Activity_Goal_desc
-Play 4 Seige Games
+Play 4 Siege Games
 Activity_Goal_name
 Get 150 Eliminations
 Activity_Goal_title
@@ -133704,6 +133704,78 @@ Siege of Ascension Peak
 Match_Queue_name
 Paladin and Magistrate forces battle it out. Onslaught game mode rules. 
 Match_Queue_desc
+Ascension Peak (AA)
+map_game_friendly_name
+Obtainable in the Festive Chest.
+ITEM_desc
+Obtainable in the Academic Bundle.
+ITEM_desc
+Obtainable in the Gold Chest.
+ITEM_desc
+Obtainable in the Little Box of Horrors.
+ITEM_desc
+Win on Twitch.tv/PaladinsGame during eSports and Patch Preview broadcasts with a linked account.
+ITEM_desc
+Obtainable in the Little Box of Horrors.
+ITEM_desc
+Obtainable in the Diamond Chest.
+ITEM_desc
+Obtainable in the Clockwork Chest.
+ITEM_desc
+Obtainable in the Diamond Chest.
+ITEM_desc
+Obtainable in the VIP Pack.
+ITEM_desc
+Obtainable in the PWC 2018 Digital Loot Pack.
+ITEM_desc
+Obtainable in the Gold Chest.
+ITEM_desc
+Obtainable in the Galaxy Chest.
+ITEM_desc
+Obtainable in the Demon Slayer Bundle.
+ITEM_desc
+Obtainable in the Diamond Chest.
+ITEM_desc
+Obtainable in the Diamond Chest.
+ITEM_desc
+Obtainable in the Galaxy Chest.
+ITEM_desc
+Obtainable in the Galaxy Chest.
+ITEM_desc
+Obtainable in the Front Line Pack.
+ITEM_desc
+Obtainable in the PWC 2018 Digital Loot Pack.
+ITEM_desc
+Obtainable in the PWC 2018 Digital Loot Pack.
+ITEM_desc
+Obtainable in the Diamond Chest.
+ITEM_desc
+Included in the 2017 Digital Loot Pack
+ITEM_desc
+Included in the 2017 Digital Loot Pack
+ITEM_desc
+Obtainable in the Jade Priestess Bundle.
+ITEM_desc
+Obtainable in the Lunar Chest.
+ITEM_desc
+Obtainable in the Lunar Chest.
+ITEM_desc
+Obtainable in the Diamond Chest.
+ITEM_desc
+Obtainable in the Lunar Chest.
+ITEM_desc
+Obtainable in the Gold Chest.
+ITEM_desc
+Obtainable in the World Wide Chest.
+ITEM_desc
+Obtainable in the Galaxy Chest.
+ITEM_desc
+Obtainable in the Feudal Chest.
+ITEM_desc
+Ascension Peak (AA)
+map_game_friendly_name
+LIVE Asiatic Map (Ascended Assault)
+map_game_name
 None
 VV_TEXT
 Patrol
