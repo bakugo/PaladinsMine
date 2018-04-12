@@ -56152,7 +56152,7 @@ Gain +100% Attack Speed and +50% Movement Speed for 4s after a kill.
 DEVICE_desc
 Victory Rush
 item_name
-[Weapon] Gain {scale=10|10}% Movement Speed for 8s after getting a kill.
+[Weapon] Gain {scale=10|10}% Movement Speed for 8s after getting an elimination.
 item_desc
 Gain 80% Movement and 120% Attack Speed after a kill
 DEVICE_desc
@@ -73169,7 +73169,7 @@ TempleRuinsV6DLight
 map_game_friendly_name
 TempleRuinsV6DLight
 map_game_name
-WIP Triumph v3 (Siege)
+WIP HH Test
 MSL_name
 TempleRuinsV6DLight
 Match_Queue_name
@@ -85729,11 +85729,11 @@ Hangar Capture and Payload
 map_game_name
 LIVE Test Maps
 MSL_name
-Triumph V3
+WIP HH Test
 Match_Queue_short_desc
-Triumph (Siege)
+HeavenAndHell
 Match_Queue_name
-Triumph V3
+WIP HH Test
 Match_Queue_desc
 Core
 CHAOSCAPTURE_HangarA
@@ -86377,7 +86377,7 @@ item_name
 item_desc
 Change Skin
 PALADINS_CHANGESKIN
-Change Weapon
+Swap Weapon
 PALADINS_CHANGEWEAPON
 zDeprecated Bomb Shelter II
 item_name
@@ -89264,7 +89264,7 @@ item_desc
 item_short_desc
 Follow the Scent
 item_name
-[Fire Spit] Enemies hit by Fire Spit receive {scale=15|15}% less healing.
+[Fire Spit] Enemies hit by Fire Spit explosion receive {scale=15|15}% less healing for 3s.
 item_desc
 Fire Spit * Reveal
 item_short_desc
@@ -100318,7 +100318,7 @@ WIP T_Isle v04
 map_game_name
 Ferocity
 item_name
-[Weapon] Increase your damage scaling over distance by 600
+[Weapon] Increase your damage scaling over distance by 60%
 item_desc
 Overdrive
 item_name
@@ -102907,7 +102907,7 @@ DEVICE_desc
 item_short_desc
 Compel
 item_name
-[In Pursuit] Reduce the Cooldown of In Pursuit by {scale=1|1}.
+[In Pursuit] Reduce the Cooldown of In Pursuit by {scale=1|1}s.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -104126,7 +104126,7 @@ zDeprecated Germination IV
 item_name
 [Seedling] Generate 4 ammo when activating Seedling.
 item_desc
-[Seedling] Generate ammo after using Seedling.
+[Seedling] Gain movement speed after using Seedling.
 item_short_desc
 Photosynthesis
 item_name
@@ -104410,7 +104410,7 @@ Kitten.
 ITEM_desc
 Alley Cat Ears
 ITEM_name
-Kitten.
+Alley Cat Daggers
 ITEM_desc
 Alley Cat Daggers
 ITEM_name
@@ -106164,7 +106164,6 @@ Abyssal Touch Spray
 item_name
 Obtainable in the Radiant Chest.
 item_desc
-1 XP
 ITEM_name
 Atomic unit of Player XP
 ITEM_desc
@@ -108075,7 +108074,7 @@ item_desc
 item_short_desc
 Eagle's Emerald
 item_name
-[Valor] Hitting an enemy with Heirloom Rifle reduces the Cooldown of Valor by {scale=0.25|0.25}s.
+[Valor] Hitting an enemy with Heirloom Rifle reduces the Cooldown of Valor by {scale=0.10|0.10}s.
 item_desc
 zDeprecated Eagle's Emerald II
 item_name
@@ -110870,9 +110869,9 @@ Test copy of Androxus's reversal that I need for test reasons -jcrenshaw 7-12-17
 item_desc
 Terrormorph
 ITEM_name
-Reach Gold 5 in Ranked Season 1 to Unlock.
+Reward from previous Ranked Season.
 ITEM_desc
-Earn 100 Wins in Ranked Season 1 to unlock.
+Reward from previous Ranked Season.
 ITEM_desc
 Terrormorph's Maw
 ITEM_name
@@ -115377,7 +115376,7 @@ SLT - Autobuy - Terminus
 Loot_Table_name
 Default
 ITEM_desc
-Default Khan WEP
+Default Heavy Repeater
 ITEM_name
 Obtainable in the World Wide Chest.
 ITEM_desc
@@ -116094,7 +116093,7 @@ Dune Crawler's Rat Zapper
 ITEM_name
 [Shatterfall] Gain Lifesteal against affected enemies for 3s.
 ITEM_short_desc
-[Shatterfall] Gain {scale=10|10}% Lifesteal against affected enemies for 3s.
+[Shatterfall] Gain {scale=10|10}% Lifesteal against enemies affected by Shatterfall for 3s.
 ITEM_desc
 [Shatterfall] Gain 20% Lifesteal against affected enemies for 3s.
 ITEM_desc
@@ -116302,7 +116301,7 @@ item_name
 item_desc
 Reposition
 item_name
-[Transporter] Transporter is now instant and its cooldown is reduced by 2s.
+[Transporter] Transporter is now instant.
 item_desc
 Fought The Law
 item_name
@@ -116693,7 +116692,7 @@ Buy it in SMITE first nah it's in a bundle
 ITEM_desc
 Jotunn's Wrath
 ITEM_name
-Terminus Champion Spray Spray
+Terminus Champion Spray
 item_name
 Obtainable in the Radiant Chest.
 item_desc
@@ -117925,7 +117924,7 @@ Fernando Police Collection Spray
 item_desc
 Grohk Rework
 item_short_desc
-Grohk Champion Spray Spray
+Grohk Champion Spray
 item_name
 Obtainable in the Radiant Chest.
 item_desc
@@ -119141,7 +119140,7 @@ Obtainable in the Galaxy Chest.
 item_desc
 SLT - Chest - Diamond Chest - Epic Collections Exclusive
 Loot_Table_name
-Vivian Champion Spray Spray
+Vivian Champion Spray
 item_name
 Obtainable in the Radiant Chest.
 item_desc
@@ -122491,7 +122490,7 @@ Available for purchase at Mastery Level 9.
 item_desc
 A-bomb-inable Spray
 item_name
-Obtainable in the Festive Chest
+Obtainable in the Festive Chest.
 item_desc
 Brimstone Spray
 item_name
@@ -127627,7 +127626,7 @@ Ruckus WEP Skin03A
 ITEM_name
 Red/Gold
 ITEM_desc
-Ying ACC Skin06A
+z--Unused--Ying ACC Skin06A
 ITEM_name
 Obtainable in the Valentines Chest.
 ITEM_desc
@@ -127679,7 +127678,7 @@ Madame
 ITEM_name
 SLT - Collection - Seris - Madame
 Loot_Table_name
-Moji Champion Spray Spray
+Moji Champion Spray
 item_name
 Obtainable in the Radiant Chest.
 item_desc
@@ -127847,11 +127846,11 @@ Detonating a Magic Mark damages all enemies within 15 units of the victim.
 item_desc
 and Friends
 BOT_desc
-Tencent Christmas Queue Coop
+Tencent SOAP Queue Coop
 Match_Queue_name
-Use for Tencent Christmas Queue Noob Player Redirect
+Use for Tencent SOAP Queue Noob Player Redirect
 Match_Queue_desc
-Tencent Christmas Queue Noob Player Redirect
+Tencent SOAP Queue Noob Player Redirect
 Match_Queue_short_desc
 Leave a cloud that grants allies 30% movement speed and 600 health over 3s. Lasts 6s.
 item_desc
@@ -128355,7 +128354,7 @@ Overpower
 item_name
 Post Pull Stun
 EFFECT_GROUP_name
-Initial Pull Stun
+Hold stun
 EFFECT_GROUP_name
 Knockback Hit
 EFFECT_GROUP_name
@@ -130015,9 +130014,9 @@ Bad Mother Clucker
 ITEM_name
 Ying
 item_short_desc
-Carnival Dance
+Love Burn
 item_name
-Valentines Dance
+Obtainable in the Valentines Chest.
 item_desc
 Ying
 ITEM_short_desc
@@ -131912,17 +131911,17 @@ War Chest DLC SLT
 Loot_Table_name
 SLT - Champion Pack
 Loot_Table_name
-Digital Deluxe Edition Durables SLT
+zOld Digital Deluxe Edition Durables SLT
 Loot_Table_name
-Digital Deluxe Edition Consumables SLT
+zOld Digital Deluxe Edition Consumables SLT
 Loot_Table_name
 Arctic Spray
 item_name
 Obtainable in the Gold Chest.
 item_desc
-Digital Deluxe Edition Inner SLT
+zOld Digital Deluxe Edition Inner SLT
 Loot_Table_name
-Digital Deluxe Edition SLT
+zOld Digital Deluxe Edition SLT
 Loot_Table_name
 Tencent Legendary Card Chest
 item_name
@@ -132061,15 +132060,15 @@ Activating Battle Shout grants {scale=8|8}% movement speed for 3s.
 item_desc
 Lian's Shield
 item_name
-Your shield recharges at 50% effectiveness while it is raised.
+Your shield recharges at 60% effectiveness while it is raised.
 item_desc
 Firing Line
 item_name
-Champions affected by Shout now also deal 20% increased damage.
+Champions affected by Battle Shout now also deal 20% increased damage and gain CC immunity for 4 seconds.
 item_desc
 Storm of Bullets
 item_name
-Your weapon fires 40% faster and has 10 more rounds, but deals 25% less damage.
+Your weapon fires 40% faster and has 10 more rounds, but deals 25% less damage per shot.
 item_desc
 Storm of Bullets
 DEVICE_name
@@ -132077,7 +132076,7 @@ Produced
 Loot_Table_Items_name
 Vortex Grip
 item_name
-After hitting an enemy with Commander's Grab, you may follow up with a shoulder charge knocking them back and dealing 400 damage.
+Victims of Commander's Grab are stunned for an additional 2s.
 item_desc
 Recurring Chest Receipt Androxus
 ITEM_name
@@ -132312,7 +132311,7 @@ Shatter now instantly heals your target for an amount health per active illusion
 item_short_desc
 Illusions can now target two allies when Healing, but Illusions heal for less.
 item_short_desc
-Champions affected by Shout now also deal increased damage.
+Champions affected by Shout now also deal increased damage and gain CC immunity.
 item_short_desc
 Healing Potion heals allies for more.
 item_short_desc
@@ -132364,7 +132363,7 @@ Increase the duration of Protection.
 item_short_desc
 Enemies affected by Void Grip are crippled and take additional damage over its duration.
 item_short_desc
-Transporter is now instant and its cooldown is reduced.
+Transporter is now instant
 item_short_desc
 Allies healed by Healing Totem receive CC Immunity and Healing Totem heals for more.
 item_short_desc
@@ -132374,7 +132373,7 @@ Reduce the Cooldown of Impasse.
 item_short_desc
 Deal bonus damage on your first Weapon Shot out of Hidden
 item_short_desc
-After hitting an enemy with Commander's Grab you may follow up with a shoulder charge knocking them back and dealing damage.
+Victim's of Commander's Grab are stunned for an additional 2s.
 item_short_desc
 Headshots deal an additional percent of your target's maximum health as damage.
 item_short_desc
@@ -132754,7 +132753,7 @@ Orders
 item_desc
 Khan
 ITEM_short_desc
-Orders
+Obtainable in the Gold Chest.
 ITEM_desc
 Orders
 ITEM_name
@@ -133190,13 +133189,13 @@ Asiatic Firebomb Deployable
 Deployable_name
 Surge forward! Grabbing, stunning, and throwing the first enemy you contact. Deals 400 damage.
 item_desc
-Fire one 200 damage shot every 0.26s.
+Fire one 180 damage shot every 0.26s.
 item_desc
-Let out a fearsome shout, granting CC immunity to and healing yourself and nearby allies for 800 health over 4s.
+Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 800 health.
 item_desc
 Activate your gauntlets Bulwark with 6000 Health. Regenerates while inactive.
 item_desc
-Target an enemy and drag them to you. You may move your powerless victim as you see fit or send the flying with a mighty Strike.
+Target an enemy and drag them to you. You may move your powerless victim as you see fit or send them flying with a mighty blast.
 item_desc
 Androxus
 item_short_desc
@@ -133454,7 +133453,7 @@ Soul Eater Bundle
 ITEM_name
 Crest
 ITEM_name
-Atomic Unit for Asiatic Event Key
+Atomic Unit for Asiatic Crest
 ITEM_desc
 FrogRework
 map_game_friendly_name
@@ -133698,6 +133697,18 @@ SLT - Asiatic Event Quest Reward - Lotus of Life Completion
 Loot_Table_name
 Khan XP
 ITEM_name
+The Patriarch of House Aico issued a challenge to his captains: hold the house's banner for as long as possible. Few were strong enough to last a day.The last captain to receive the test, a young man named Khan, held the banner for hours. As his arms tired, he beckoned to a common servant and asked her to take it from him. 
+ Even though I must fall,
+  he said, 
+ the banner will remain.
+ This was no test of strength, but one of loyalty to House Aico. Khan passed the test and proved himself worthy of command. Today, he serves Lian as advisor and protector. 
+BOT_lore
+TC Viktor Invitational
+ITEM_name
+Ascension Peak
+map_game_friendly_name
+LIVE Ascension Peak
+map_game_name
 Paladin and Magistrate forces battle it out. Onslaught game mode rules. 
 Match_Queue_short_desc
 Siege of Ascension Peak
@@ -133706,6 +133717,31 @@ Paladin and Magistrate forces battle it out. Onslaught game mode rules.
 Match_Queue_desc
 Ascension Peak (AA)
 map_game_friendly_name
+WIP Asiatic Map (Ascended Assault)
+map_game_name
+ITEM_desc
+Maeve Skin04A
+ITEM_name
+ITEM_desc
+Androxus Skin07A
+ITEM_name
+ITEM_desc
+Androxus WEP Skin09A
+ITEM_name
+Tencent Skin Vendor
+Loot_Table_name
+For Tencent sets want to keep, don't use in NA
+Loot_Table_desc
+SLT - TC - Collection - Androxus - Gaunt
+Loot_Table_name
+Only used by Tencent
+Loot_Table_desc
+Only used by Tencent
+Loot_Table_desc
+Ascension Peak
+map_game_friendly_name
+Ranked Ascension Peak
+map_game_name
 Obtainable in the Festive Chest.
 ITEM_desc
 Obtainable in the Academic Bundle.
@@ -133716,6 +133752,10 @@ Obtainable in the Little Box of Horrors.
 ITEM_desc
 Win on Twitch.tv/PaladinsGame during eSports and Patch Preview broadcasts with a linked account.
 ITEM_desc
+Ascension Peak
+map_game_friendly_name
+Practice Ascension Peak
+map_game_name
 Obtainable in the Little Box of Horrors.
 ITEM_desc
 Obtainable in the Diamond Chest.
@@ -133760,6 +133800,10 @@ Obtainable in the Lunar Chest.
 ITEM_desc
 Obtainable in the Lunar Chest.
 ITEM_desc
+Ascension Peak
+map_game_friendly_name
+LIVE Ascension Peak
+map_game_name
 Obtainable in the Diamond Chest.
 ITEM_desc
 Obtainable in the Lunar Chest.
@@ -133772,10 +133816,610 @@ Obtainable in the Galaxy Chest.
 ITEM_desc
 Obtainable in the Feudal Chest.
 ITEM_desc
+SLT - Season 2 Pass Bundle
+Loot_Table_name
+Season 2 Pass Bundle
+ITEM_name
+Season 2 Pass Receipt
+ITEM_name
+zDelete
+Loot_Table_name
+SLT - Digital Deluxe Edition
+Loot_Table_name
+Massacre Axe experimental
+item_name
+Experiment for Ranged Terminus in-hand. 
+item_desc
+SND_Notify_LobbyToLobby
+SND_Notify_LobbyToMatch
+SND_Notify_LobbyToSummary
+SND_Notify_GoToAsiaticEvent
+SND_Notify_GoToAsiaticEvent_Global
+SND_Notify_LobbyToLobby_Global
+SND_Notify_LobbyToMatch_Global
+SND_Notify_LobbyToSummary_Global
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
 Ascension Peak (AA)
 map_game_friendly_name
 LIVE Asiatic Map (Ascended Assault)
 map_game_name
+VOX_Announcer_ModeCaptureAndPayload
+VOX_Announcer_ModeCaptureTheFlag
+VOX_Announcer_ModeCrusade
+VOX_Announcer_ModeCustomGame
+VOX_Announcer_ModeDeathmatch
+VOX_Announcer_ModePayload
+VOX_Announcer_ModeSiege
+VOX_Announcer_ModeSurvival
+VOX_Announcer_ModeTeamDeathmatch
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+This is used by Tencent only as finishing qualify matches
+Loot_Table_Items_desc
+Royal Guard Repeater
+ITEM_name
+Royal Guard
+ITEM_name
+Tencent REKT Chest
+ITEM_name
+SLT - TC Chest - REKT Chest - Weapons
+Loot_Table_name
+SLT - TC Chest - REKT Chest - Sprays
+Loot_Table_name
+SLT - TC Chest - REKT Chest - Collections
+Loot_Table_name
+SLT - TC Chest - Gold Chest - Rare Collections 
+Loot_Table_name
+SLT - Collection - Cassie - Tinder
+Loot_Table_name
+SLT - Collection - Cassie - Northern Watch
+Loot_Table_name
+Copy of Taboo
+ITEM_name
+Copy of Taboo
+ITEM_name
+SLT - Collection - Maeve - Alley Cat-RENTAL - 30 Day
+Loot_Table_name
+SLT - TC Chest - Gold Chest - Rare Collections Rental 
+Loot_Table_name
+SLT - Collection - Ruckus - B.E.T.A.-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Tyra - Baroness-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Bomb King - Biz King-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Viktor - Charcoal - Promo-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Skye - Chrome-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Buck - Commando-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Mal'Damba - Defiler-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Jenos - Eclipse-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Androxus - Exalted-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Ruckus - H.A.W.K.-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Cassie - Northern Watch-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Fernando - Onslaught-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Skye - Operative-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Pip - Pandamonium-RENTAL - 30 Day
+Loot_Table_name
+Heaven and Hell Volume
+item_name
+SLT - Collection - Ying - Quicksilver-RENTAL - 30 Day
+Loot_Table_name
+Heaven And Hell Event Volume
+item_desc
+SLT - Collection - Pip - Raider-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Strix - Crow-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Ying - Snapdragon-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Evie - Star Glam-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Barik - Stone Cut-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Cassie - Timber-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Cassie - Tinder-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Grohk - Tribesman-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Willo - Viceroy-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Kinessa - Viking-RENTAL - 30 Day
+Loot_Table_name
+SLT - Collection - Grover - Winter-RENTAL - 30 Day
+Loot_Table_name
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+Platemail Spray
+item_name
+Lifetaker Spray
+item_name
+Bloodthirst Spray
+item_name
+Excessive Force Spray
+item_name
+Vigorous Defense Spray
+item_name
+Shield Wall Spray
+item_name
+Hopeguard Spray
+item_name
+Ready for War Spray
+item_name
+Hulking Strength Spray
+item_name
+Chokehold Spray
+item_name
+Close and Personal Spray
+item_name
+Martial Law Spray
+item_name
+Hold the line Spray
+item_name
+Open Fire Spray
+item_name
+Never Surrender Spray
+item_name
+Into the Breach Spray
+item_name
+SLT - Collection - Cassie - Nightbane
+Loot_Table_name
+SLT - Collection - Cassie - Blood Moon-RENTAL - 15 Day
+Loot_Table_name
+Copy of SLT - Collection - Buck - Buck Wild-RENTAL
+Loot_Table_name
+Copy of SLT - Collection - Buck - Buck Wild-RENTAL
+Loot_Table_name
+Copy of SLT - Collection - Buck - Buck Wild
+Loot_Table_name
+SLT - Collection - Maldamba - Chancellor-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Torvald - Clockwork-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Viktor - Code Green Bandolier-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Viktor - Code Green Comms-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Viktor - Code Green Grenadier-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Viktor - Code Green Trooper-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Zhin - Conqueror-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Drogoz - Dreadhunter-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Makoa - Dutchman-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Drogoz - Draco-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Fernando - Enforcer - 15 Day
+Loot_Table_name
+SLT - Collection - Fernando - FN-01 Helios-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Ying - Genie-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Lian - Goddess-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Sha Lin - Guardian-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Willo - Hemlock-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Lian - High Elf-RENTAL  15 Day
+Loot_Table_name
+SLT - Collection - Seris - Infernal-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Strix - Infiltrator-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Pip - Invader-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Skye - Kunoichi with Spray-RENTAL - 15 Day
+Loot_Table_name
+SLT - Pip - Mad Scientist - Set-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Cassie - Nightbane-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Talus - Oni-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Makoa - Plushy-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Ying - Replicant-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Ash - Ronin-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Ying - Snapdragon-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Kinessa - Star Silver-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Androxus - Steam Demon-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Barik - Swashbuckler-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Evie - Troublemaker-RENTAL - 15 Day
+Loot_Table_name
+SLT - Collection - Sha Lin - Vigilante-RENTAL - 15 Day
+Loot_Table_name
+Copy of SLT - Collection - Buck - Buck Wild-RENTAL
+Loot_Table_name
+SLT - Collection - Buck - Buck Wild-RENTAL - 15 Day
+Loot_Table_name
+Default Avatar
+ITEM_name
+Champion Pack ENT
+Loot_Table_name
+Khan
+item_short_desc
+Dominance
+item_name
+Obtainable in the Gold Chest.
+item_desc
+Battle Pass (Mech)
+ITEM_name
+Season 1 Level
+Activity_Goal_name
+Reach Mastery 30 with Khan.
+ITEM_desc
+Primus of House Aico
+ITEM_name
+SLT - Autobuy - Khan
+Loot_Table_name
+Battle Pass 2
+ITEM_name
+Battle Pass 3
+ITEM_name
+SLT - Collection - Tyra - Alluvial - RENTAL
+Loot_Table_name
+SLT - Collection - Torvald - Arcanist - RENTAL
+Loot_Table_name
+SLT - Collection - Kinessa - Atomic - RENTAL
+Loot_Table_name
+SLT - Collection - Grover - Autumn - RENTAL
+Loot_Table_name
+SLT - Collection - Grohk - Beast - RENTAL
+Loot_Table_name
+SLT - Collection - Evie - Black Ice - RENTAL
+Loot_Table_name
+SLT - Collection - Cassie - Blood Moon - RENTAL
+Loot_Table_name
+SLT - Collection - Willo - Bluebell - RENTAL
+Loot_Table_name
+SLT - Collection - ShaLin - Bravado - RENTAL
+Loot_Table_name
+Season 2 Pass
+ITEM_name
+SLT - Collection - Maldamba - Chancellor - RENTAL
+Loot_Table_name
+SLT - Collection - Viktor - Charcoal - Promo - RENTAL
+Loot_Table_name
+SLT - Collection - Skye - Chrome - RENTAL
+Loot_Table_name
+SLT - Collection - Viktor - Code Green Bandolier - RENTAL
+Loot_Table_name
+SLT - Collection - Viktor - Code Green Grenadier - RENTAL
+Loot_Table_name
+SLT - Collection - Viktor - Code Green Trooper - RENTAL
+Loot_Table_name
+SLT - Collection - Buck - Commando - RENTAL
+Loot_Table_name
+SLT - Collection - Cassie - Coral - RENTAL
+Loot_Table_name
+SLT - Collection - Maldamba - Cursed - RENTAL
+Loot_Table_name
+SLT - Collection - Kinessa - Cutthroat - RENTAL
+Loot_Table_name
+SLT - Collection - Fernando - Daring - RENTAL
+Loot_Table_name
+SLT - Season 2 Pass
+Loot_Table_name
+SLT - Collection - Lian - Dusk - RENTAL
+Loot_Table_name
+SLT - Collection - Jenos - Eclipse - RENTAL
+Loot_Table_name
+SLT - Collection - Fernando - Enforcer - RENTAL
+Loot_Table_name
+SLT - Collection - Evie - Evocation - RENTAL
+Loot_Table_name
+SLT - Collection - Barik - Foreman - RENTAL
+Loot_Table_name
+SLT - Collection - Sha Lin - Guardian - RENTAL
+Loot_Table_name
+SLT - Collection - Barik - Hi-Tek - RENTAL
+Loot_Table_name
+SLT - Collection - Viktor - Khaki - RENTAL
+Loot_Table_name
+SLT - Collection - Lex - Lawbringer - RENTAL
+Loot_Table_name
+SLT - Collection - Bombking - Monarch - RENTAL
+Loot_Table_name
+SLT - Collection - Makoa - Montego - RENTAL
+Loot_Table_name
+SLT - Collection - Cassie - Nightbane - RENTAL
+Loot_Table_name
+SLT - Collection - Zhin - Nomad - RENTAL
+Loot_Table_name
+SLT - Collection - Cassie - Northern Watch - RENTAL
+Loot_Table_name
+SLT - Collection - Fernando - Onslaught - RENTAL
+Loot_Table_name
+SLT - Collection - Strix - Phoenix - RENTAL
+Loot_Table_name
+SLT - Collection - Moji - Plum - RENTAL
+Loot_Table_name
+SLT - Collection - Makoa - Prosperous - RENTAL
+Loot_Table_name
+SLT - Collection - Ying - Quicksilver - RENTAL
+Loot_Table_name
+SLT - Bundle - Diamond Chest [2]
+Loot_Table_name
+Used by Tencent only
+Loot_Table_desc
+SLT - Collection - Ying - Seer - RENTAL
+Loot_Table_name
+SLT - Collection - Ying - Snapdragon - RENTAL
+Loot_Table_name
+SLT - Bundle - Gold Chest [3]
+Loot_Table_name
+Used By Tencent Only
+Loot_Table_desc
+SLT - Collection - Ruckus - Sprocket - RENTAL
+Loot_Table_name
+SLT - Collection - Pip - Sulfur - RENTAL
+Loot_Table_name
+SLT - Collection - Buck - Summit - RENTAL
+Loot_Table_name
+SLT - Collection - Inara - Sunstone - RENTAL
+Loot_Table_name
+SLT - Collection - Seris - Taboo - RENTAL
+Loot_Table_name
+Copy of Copy of SLT - Collection - Seris - Taboo
+Loot_Table_name
+SLT - Collection - Cassie - Tinder - RENTAL
+Loot_Table_name
+SLT - Collection - Drogoz - Tyrant - RENTAL
+Loot_Table_name
+SLT - Collection - Maeve - Vagrant - RENTAL
+Loot_Table_name
+Gold Chest X 2
+ITEM_short_desc
+Gold Chest X 3
+ITEM_name
+2 Gold Chest, used by Tencent for qualifying reward
+ITEM_desc
+Gold Chest X3
+ITEM_short_desc
+Gold Chest X 3
+ITEM_name
+3 Gold Chest, used by Tencent for qualifying reward
+ITEM_desc
+Diamond Chest X 2
+ITEM_short_desc
+Diamond Chest X 2
+ITEM_name
+Use by Tencent as reward
+ITEM_desc
+BattlePass Points
+ITEM_short_desc
+BattlePass Points
+ITEM_name
+BattlePass Points
+ITEM_desc
+Heaven and Hell Nimble
+item_name
+Battle Pass - Mech
+ITEM_name
+BattlePass Points
+Loot_Table_Items_name
+ENT Khan Mastery Cosmic
+ITEM_name
+ENT Khan Mastery Obsidian
+ITEM_name
+ENT Khan Mastery Emote
+ITEM_name
+ENT Khan Mastery MVP
+ITEM_name
+Carnival
+ITEM_desc
+Carnival Voice Pack
+ITEM_name
+Rental
+ITEM_desc
+Golden Assault Rifle - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Auto Rifle - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Blunderbuss - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Bomb - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Burst Cannon - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Cannon - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Crossbow - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Daggers - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Familiar - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Flame Lance - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Gauntlet - Tencent
+ITEM_name
+Rental
+ITEM_short_desc
+Rental
+ITEM_desc
+Golden Heavy Repeater - Tencent
+ITEM_name
+Lian
+ITEM_short_desc
+Rental
+ITEM_desc
+Golden Heirloom Rifle - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Ice Staff - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Inferno Blade - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Launcher - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Lightning Staff - Tencent
+ITEM_name
+Rental
+ITEM_short_desc
+Rental
+ITEM_desc
+Golden LMG - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Golden Long Bow - Tencent
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Magnums
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Massacre Axe
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Miniguns
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Mirror
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Revolver
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Rocket Launcher
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Shotgun
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Sniper Rifle
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Spear
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Spitting Cobra
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Star Splitter
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Talon Rifle
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Throwing Axe
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Trappings
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Veracharger
+ITEM_name
+Rental
+ITEM_desc
+Copy of Golden Wand
+ITEM_name
+Rental
+ITEM_desc
+Golden Wrist Crossbow - Tencent
+ITEM_name
+Battle Pass Mech - Premium Rewards Vendor
+Loot_Table_name
+Battle Pass Mech - Free Rewards Vendor
+Loot_Table_name
+Kraken Ethereal Passive
+item_name
+Ethereal
+DEVICE_name
+Kraken Ethereal
+EFFECT_GROUP_name
+Kraken Ethereal
+EFFECT_GROUP_name
+Sound to play on the victim being grabbed as they fly through the air
+EFFECT_GROUP_desc
+Sound to play on the victim being grabbed as they fly through the air
+EFFECT_GROUP_desc
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+Blast Cripple
+EFFECT_GROUP_name
+Knockback Hit
+EFFECT_GROUP_name
+SLT - Collection - Khan - Royal Guard
+Loot_Table_name
+Initial pre-pull stun
+EFFECT_GROUP_name
+Royal Guard
+ITEM_name
+Death Stamp
+ITEM_name
+SND_Notify_Unlocked_Stinger
 None
 VV_TEXT
 Patrol
@@ -135053,8 +135697,7 @@ Black
 Reserved
 Reserved
 Purchase
-Purchase
-Rental
+Rent
 Rented
 Trial
 Trial
@@ -136434,8 +137077,6 @@ You are allowed @@remaining_messages@@ more messages until suspended from this c
 CHAT_SUPPRESSED_SOFT
 Weaken
 VV_text
-VIP Boost
-VIP Boost
 Chat Message
 Chat Message
 Ability1 Card
@@ -136543,6 +137184,8 @@ VV_text
 VV_text
 Normal
 Normal
+UI Path
+VV_text
 Two factor authentication required.  You must login using the launcher.
 TWO_FACTOR_REQUIRED
 Two factor authentication required. You must login using the launcher.
@@ -137132,7 +137775,7 @@ Required
 REQUIRED
 Blocker
 BLOCKER
-Transient Purchase
+Transient Own
 Transient Purchase
 Inherit Entitlement Inventory
 Inherit Entitlement Inventory
@@ -137144,6 +137787,8 @@ CardDeck
 CardDeck
 God Out of Game - Deprecated
 God Out of Game OLD
+Player Slots
+Player Slots
 Conversion
 Conversion
 Misc
@@ -137162,6 +137807,14 @@ Weapon Skin
 VV_text
 MVP Pose
 VV_text
-Asiatic Event Key
+Asiatic Crest
 VV_text
-D
+Avatar
+VV_text
+BattlePass Levels
+BP_LEVELS
+BattlePass Tiers
+BP_TIERS
+BattlePass Points
+VV_text
+'E
