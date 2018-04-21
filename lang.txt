@@ -33629,9 +33629,9 @@ Move speed increased
 EFFECT_GROUP_desc
 Move speed increased
 EFFECT_GROUP_desc
-Thanks for participating in the Chaos Beta!
+Thanks for participating in the Paladins Beta!
 ITEM_desc
-Beta Tester
+Origin
 ITEM_name
 Amongst the snow-capped forests of the frigid north resides the hunter-God of Glory, Ullr. Reserved, secretive, Ullr does not represent the tankard downing, boast bellowing contemporaries of the Norse Pantheon, but pays respectful tribute to glory in all its forms.\n\nGlory is in the silence of snowfall, in the honorable victory earned from single combat, in the perfect curve of a yew bow firing an arrow true. Dotted across the lands of the Faithful, shrines to Ullr can be found in remote, secluded hideaways. It is there that glory is found in the sanctity of a vow, once sworn, never broken, and bound by a ring, no matter how crude, then buried in the earth to weather the ages of time.\n\nThough rarely spoken of, he is highly regarded, even among the Gods, for it is Ullr, not one of Odin's sons that tends the throne of Asgard while the All Father is away. Other Gods might use the opportunity to abuse the power, but Ullr's rule is merely an extension thereof. So much so that only the innermost circle even know that Odin is gone.\n\nAll the more noticeable is it, then, that Ullr has abandoned this post to join the fray. Early on did Odin take the field of battle, leaving Ullr to manage the kingdom. So great a threat must this war be as to endanger the very survival of Asgard. Whatever the reason, Ullr comes to preserve glory, which, for him, may be the whole world.
 BOT_lore
@@ -41580,7 +41580,7 @@ Shield
 item_short_desc
 Emitter
 item_name
-Create an energy shield around yourself for 3.5s, absorbing 2500 damage. Nearby enemies are slowed by 10% for 2s.
+Create an energy shield around yourself for 3.5s, absorbing 2500 damage.
 item_desc
 Headstrong
 EFFECT_GROUP_name
@@ -41802,7 +41802,7 @@ EFFECT_GROUP_name
 item_short_desc
 Proximity
 item_name
-[Advance] Activating Advance grants {scale=4|4}% damage reduction for 3s.
+[Advance] Activating Advance grants {scale=3|3}% damage reduction for 3s.
 item_desc
 [Dual Fire.] +160% damage to close targets
 DEVICE_desc
@@ -77088,11 +77088,11 @@ item_name
 item_desc
 {3} Ammo * Nether Step
 item_short_desc
-Skin Vendor Common
+zDeprecated Skin Vendor Common
 Loot_Table_name
-Skin Vendor Rare
+zDeprecated Skin Vendor Rare
 Loot_Table_name
-Skin Vendor Epic
+zDeprecated Skin Vendor Epic
 Loot_Table_name
 Drift
 item_name
@@ -77544,7 +77544,7 @@ item_name
 item_desc
 Gift Giver
 item_name
-[Healing Potion] You gain {scale=30|30}% of Healing Potion's effect if you hit a teammate but not yourself.
+[Healing Potion] You gain {scale=20|20}% of Healing Potion's effect if you hit a teammate but not yourself.
 item_desc
 Running Start
 item_name
@@ -77782,7 +77782,7 @@ item_name
 item_desc
 Medicinal Excellence
 item_name
-[Healing Potion] Increase the Radius of your Healing Potion by {scale=10|10}%
+[Healing Potion] Increase the Radius of your Healing Potion by {scale=8|8}%
 item_desc
 +10% Radius * Healing Potion
 item_short_desc
@@ -85316,11 +85316,11 @@ Glacier Keep V2 CAP
 map_game_name
 ZDelete Payload
 MSL_name
-Endure (TDM)
+Heaven TDM
 Match_Queue_short_desc
-Endure (TDM)
+Heaven TDM
 Match_Queue_name
-Endure (TDM)
+Heaven TDM
 Match_Queue_desc
 Cutthroat
 ITEM_desc
@@ -87031,9 +87031,9 @@ DO NOT MERGE THIS WITH THE OTHER EFFECT GROUP OR YOU WILL BREAK CERTAIN CARDS!!!
 EFFECT_GROUP_desc
 DO NOT MERGE THIS WITH THE OTHER EFFECT GROUP OR YOU WILL BREAK CERTAIN CARDS!!!
 EFFECT_GROUP_desc
-Skin Vendor Legendary
+zDeprecated Skin Vendor Legendary
 Loot_Table_name
-Skin Vendor Ancient
+zDeprecated Skin Vendor Ancient
 Loot_Table_name
 Weapon Vendor Ancient
 Loot_Table_name
@@ -90072,7 +90072,7 @@ item_name
 item_desc
 Metal March
 item_name
-[Missile Launcher] Gain {scale=5|5}% damage reduction for 3s after activating Missile Launcher.
+[Missile Launcher] Gain {scale=3|3}% damage reduction for 2s after activating Missile Launcher.
 item_desc
 zDeprecated Metal March II
 item_name
@@ -90228,7 +90228,7 @@ item_short_desc
 item_short_desc
 [Dimensional Link] Reduce the cooldown of Dimensional Link.
 item_short_desc
-[Weapon] Increase your movement speed while firing .
+[Weapon] Increase your movement speed while firing.
 item_short_desc
 [Weapon] Eliminations increase your reload speed.
 item_short_desc
@@ -90280,7 +90280,7 @@ item_short_desc
 item_short_desc
 [Reversal] Reduce the cooldown of Reversal.
 item_short_desc
-[Advance] Activating Advance grants damage reduction for 3s.
+[Advance] Activating Advance grants damage reduction for 2s.
 item_short_desc
 [Weapon] Hitting all shots from Illusory Mirror slows enemies.
 item_short_desc
@@ -92642,7 +92642,7 @@ Igloo
 map_game_friendly_name
 I_Igloo Ranked
 map_game_name
-WIP Asiatic Map (Siege)
+WIP Crazy King
 MSL_name
 Mine
 map_game_friendly_name
@@ -92652,11 +92652,11 @@ Waterfall
 map_game_friendly_name
 I_Waterfall Ranked
 map_game_name
-Asiatic Map (Siege)
+Crazy King
 Match_Queue_short_desc
-Ascension Peak
+Crazy King
 Match_Queue_name
-Asiatic Map (Siege)
+Crazy King
 Match_Queue_desc
 Beach
 map_game_friendly_name
@@ -99984,9 +99984,9 @@ PvE - Torvald - Root2
 ITEM_name
 Obtained in Valentine's Chest.
 ITEM_desc
-Lone Heart Patch
+z--Unused-- Lone Heart Patch
 ITEM_name
-Djinn
+Djinn Spray
 item_name
 Obtainable in the Genie Chest
 item_desc
@@ -100640,7 +100640,7 @@ item_name
 item_desc
 Field Study
 item_name
-[Protection] Allies affected by Protection gain an additional 40% damage while shielded.
+[Protection] Allies affected by Protection gain an additional 30% damage while shielded.
 item_desc
 First Blood
 item_name
@@ -101117,7 +101117,7 @@ PvE_Illusion_Wrecker
 item_name
 Create an illusion that wrecks enemies for 300 dmg.
 item_desc
-PvE_Illusory Mirror W
+Test_Mirror
 item_name
 For Illusions
 DEVICE_name
@@ -102291,7 +102291,7 @@ map_game_name
 item_short_desc
 Warrants Out
 item_name
-[Combat Slide] Gain {scale=10|10}% Movement Speed after Combat Slide ends.
+[Combat Slide] Gain {scale=10|10}% Movement Speed for 2s after Combat Slide ends.
 item_desc
 [Combat Slide] Gain 20% Movement Speed after Combat Slide ends.
 item_short_desc
@@ -108493,7 +108493,7 @@ Purple and Green
 ITEM_desc
 Hellion Burst Cannon
 ITEM_name
-Skin Vendor Uncommon
+zDeprecated Skin Vendor Uncommon
 Loot_Table_name
 Head Vendor Uncommon
 Loot_Table_name
@@ -110173,7 +110173,7 @@ You and allies affected by Astral Mark deal 15% more damage.
 item_desc
 Luminary
 item_name
-[Astral Mark] Deal 15% more weapon damage. Any ally affected by your Astral Mark also deals 15% more weapon damage.
+[Astral Mark] Any ally affected by your Astral Mark deals 15% more weapon damage.
 item_desc
 Default
 ITEM_desc
@@ -111823,7 +111823,7 @@ item_desc
 item_short_desc
 Overburn
 item_name
-[Flare] Flare's reveal effect lasts an additional {scale=1|1}s.
+[Flare] Flare's reveal effect lasts an additional {scale=0.6|0.6}s.
 item_desc
 [Flare] Increase the reveal range of Flare.
 item_short_desc
@@ -112320,7 +112320,7 @@ Set Vendor - Rental
 Loot_Table_name
 Head Vendor Rental
 Loot_Table_name
-Skin Vendor Rental
+zDeprecated Skin Vendor Rental
 Loot_Table_name
 Emote Vendor - Rental
 Loot_Table_name
@@ -112798,7 +112798,7 @@ Player XP Team Booster
 ITEM_name
 Gold Team Booster
 ITEM_name
-VIP Team Booster
+Battle Pass Team Booster
 ITEM_name
 WIP TDM Spawn Test 
 map_game_friendly_name
@@ -113839,7 +113839,7 @@ Obtainable in the VIP Store.
 ITEM_desc
 Khan
 BOT_name
-Khan
+Primus of house Aico
 BOT_desc
 Bolt Pistol
 item_name
@@ -114568,7 +114568,6 @@ Travel 1,000,000 feet in game
 Activity_desc
 ACH_WANDERER
 Activity_name
-All standard champion voice packs|Beta exclusive God of War Fernando collection and Infernal War Horse mount
 ITEM_desc
 Copy of Grace
 item_name
@@ -115136,7 +115135,7 @@ Obtainable in the VIP Store.
 item_desc
 Default Khan
 ITEM_name
-Doubles team's VIP Points this match
+Increase your team's Battle Pass Experience by 20% this match.
 ITEM_desc
 Default Khan ACC
 ITEM_name
@@ -115254,7 +115253,7 @@ item_name
 item_desc
 Obtainable in the World Wide Chest.
 ITEM_desc
-Ushanka
+z--Unused--Ushanka
 ITEM_name
 Red October
 ITEM_short_desc
@@ -116337,61 +116336,61 @@ item_name
 item_desc
 Rental
 ITEM_desc
-Golden Revolver
+Golden Revolver - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Burst Cannon
+Golden Burst Cannon - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Blunderbuss
+Golden Blunderbuss - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Bomb
+Golden Bomb - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Shotgun
+Golden Shotgun - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Crossbow
+Golden Crossbow - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Rocket Launcher
+Golden Rocket Launcher - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Ice Staff
+Golden Ice Staff - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Flame Lance
+Golden Flame Lance - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Lightning Staff
+Golden Lightning Staff - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Throwing Axe
+Golden Throwing Axe - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Spear
+Golden Spear - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Star Splitter
+Golden Star Splitter - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Sniper Rifle
+Golden Sniper Rifle - TC
 ITEM_name
-Golden Magnums
+Golden Magnums - TC
 ITEM_name
 Rental
 ITEM_desc
@@ -116399,79 +116398,79 @@ Lian
 ITEM_short_desc
 Rental
 ITEM_desc
-Golden Heirloom Rifle
+Golden Heirloom Rifle - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Daggers
+Golden Daggers - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Cannon
+Golden Cannon - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Spitting Cobra
+Golden Spitting Cobra - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Launcher
+Golden Launcher - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Miniguns
+Golden Miniguns - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Trappings
+Golden Trappings - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Long Bow
+Golden Long Bow - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Wrist Crossbow
+Golden Wrist Crossbow - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Talon Rifle
+Golden Talon Rifle - TC
 ITEM_name
-Golden Veracharger
-ITEM_name
-Rental
-ITEM_desc
-Rental
-ITEM_desc
-Golden Massacre Axe
+Golden Veracharger - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Gauntlet
+Rental
+ITEM_desc
+Golden Massacre Axe - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Auto Rifle
+Golden Gauntlet - TC
+ITEM_name
+Rental
+ITEM_desc
+Golden Auto Rifle - TC
 ITEM_name
 Tencent Rental
 ITEM_desc
 Tyra Tencent WEP Gold
 ITEM_name
-Golden Assault Rifle
+Golden Assault Rifle - TC
 ITEM_name
 Rental
 ITEM_desc
 Rental
 ITEM_desc
-Golden Wand
+Golden Wand - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Mirror
+Golden Mirror - TC
 ITEM_name
 Rental
 ITEM_desc
-Golden Inferno Blade
+Golden Inferno Blade - TC
 ITEM_name
 A test device that tells the user to convert to a 3P camera using a Hit effect.
 item_desc
@@ -116830,15 +116829,15 @@ Strix ACC Skin03A
 ITEM_name
 Merc
 ITEM_short_desc
-Merc
+Obtainable in the Galaxy Chest.
 ITEM_desc
-Strix Skin03A
+Mercenary
 ITEM_name
 Merc
 ITEM_short_desc
-Merc
+Obtainable in the Galaxy Chest.
 ITEM_desc
-Strix WEP Skin03A
+Mercenary's Blaster
 ITEM_name
 Merc
 ITEM_short_desc
@@ -116866,15 +116865,15 @@ Lian ACC Skin02A
 ITEM_name
 Lian
 ITEM_short_desc
-Galaxy Battles
+Obtainable in the Galaxy Chest
 ITEM_desc
 Galactic Scion
 ITEM_name
 Lian
 ITEM_short_desc
-Galaxy Battles
+Obtainable in the Galaxy Chest
 ITEM_desc
-Lian WEP Skin02A
+Galactic Scion's Pulsar
 ITEM_name
 Terminus
 ITEM_short_desc
@@ -116958,7 +116957,7 @@ Copy of Ash_Deck
 ITEM_name
 The Law Won
 item_name
-[Weapon] Killing your target grants a 5% damage buff that stacks up to 5 times.
+[Weapon] Killing your Retribution target grants a 5% damage buff that stacks up to 5 times.
 item_desc
 Obtainable in the Festive Chest.
 ITEM_desc
@@ -117116,7 +117115,7 @@ Mirth (TDM)
 map_game_friendly_name
 WIP Mirth (TDM)
 map_game_name
-zOLD WIP Endure (TDM)
+WIP Heaven TDM
 MSL_name
 Titanslayer
 item_name
@@ -117466,7 +117465,7 @@ Rental
 ITEM_short_desc
 Rental
 ITEM_desc
-Golden LMG
+Golden LMG - TC
 ITEM_name
 The Void Protects
 item_name
@@ -117938,25 +117937,25 @@ Maeve ACC Skin00F
 ITEM_name
 Promo
 ITEM_short_desc
-Promo
+Unlock Free by linking your Hi-Rez Account in Paladins Strike.
 ITEM_desc
-Striker
+Strike
 ITEM_name
 Promo
 ITEM_short_desc
-Promo
+Unlock Free by linking your Hi-Rez Account in Paladins Strike.
 ITEM_desc
-Maeve WEP Skin00I
+Strike Daggers
 ITEM_name
 Promo
 ITEM_short_desc
-Daily Quest Reward - Gold and VIP
+Daily Quest Reward - Gold and Battle Pass XP
 Loot_Table_name
 Daily Quest Reward - VIP
 Loot_Table_name
-Daily Quest Reward - Gold2 and VIP
+Daily Quest Reward - Gold2 and Battle Pass XP2
 Loot_Table_name
-Daily Quest Reward - Large Gold and VIP
+Daily Quest Reward - Large Gold and Battle Pass XP
 Loot_Table_name
 5 Crystals
 ITEM_desc
@@ -118592,7 +118591,7 @@ Chest/Key - Diamond + Support Skin
 Loot_Table_name
 Guaranteed a <font color='#E38B00'>Legendary Card</font> within the next <font color='#BFFEFF'>%d</font> items.
 Activity_Goal_desc
-Skin Vendor Rental
+zDeprecated Skin Vendor Rental
 Loot_Table_name
 For Tencent Skin Rental
 Loot_Table_desc
@@ -121860,11 +121859,11 @@ Obtainable in the War Chest and Digital Deluxe Edition DLCs.
 ITEM_desc
 Exarch's Star Gazer
 ITEM_name
-Obtainable in the War Chest and Digital Deluxe Edition DLCs.
+Obtainable in Battle Pass.
 ITEM_desc
 Exarch
 ITEM_name
-Obtainable in the War Chest and Digital Deluxe Edition DLCs.
+Obtainable in Battle Pass.
 ITEM_desc
 Exarch's Constellation
 ITEM_name
@@ -122202,7 +122201,7 @@ Dragonfire Lance
 DEVICE_name
 Androxus Chest
 ITEM_name
-Copy of Skin Vendor Epic
+zDeprecated Copy of Skin Vendor Epic
 Loot_Table_name
 SLT - Collection - Damage DLC Durables
 Loot_Table_name
@@ -127296,29 +127295,29 @@ SLT - TC - Collection - Ruckus - B.E.T.A.
 Loot_Table_name
 SLT - TC Chest - Festive Chest - 9
 Loot_Table_name
-SLT - Daily Quest Reward - Crystals and VIP Tier 0
+SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 1
 Loot_Table_name
-SLT - Daily Quest Reward - Crystals and VIP Tier 1
+SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 2
 Loot_Table_name
-SLT - Daily Quest Reward - Crystals and VIP Tier 2
+SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 3
 Loot_Table_name
-SLT - Daily Quest Reward - Crystals and VIP Tier 3
+SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 4
 Loot_Table_name
-SLT - Daily Quest Reward - Gold and VIP Tier 0
+SLT - Daily Quest Reward - Gold and Battle Pass XP Tier 1
 Loot_Table_name
-SLT - Daily Quest Reward - Gold and VIP Tier 1
+SLT - Daily Quest Reward - Gold and Battle Pass XP Tier 2
 Loot_Table_name
-SLT - Daily Quest Reward - Gold and VIP Tier 2
+SLT - Daily Quest Reward - Gold and Battle Pass XP Tier 3
 Loot_Table_name
-SLT - Daily Quest Reward - Gold and VIP Tier 3
+SLT - Daily Quest Reward - Gold and Battle Pass XP Tier 4
 Loot_Table_name
-SLT - Daily Quest Reward - Gold2 and VIP Tier 0
+SLT - Daily Quest Reward - Gold2 and Battle Pass XP Tier 1
 Loot_Table_name
-SLT - Daily Quest Reward - Gold2 and VIP Tier 1
+SLT - Daily Quest Reward - Gold2 and Battle Pass XP Tier 2
 Loot_Table_name
-SLT - Daily Quest Reward - Gold2 and VIP Tier 2
+SLT - Daily Quest Reward - Gold2 and Battle Pass XP Tier 3
 Loot_Table_name
-SLT - Daily Quest Reward - Gold2 and VIP Tier 3
+SLT - Daily Quest Reward - Gold2 and Battle Pass XP Tier 4
 Loot_Table_name
 TC Hi-Tek
 ITEM_name
@@ -127616,13 +127615,13 @@ Robo Rider
 ITEM_desc
 Ruckus ACC Skin05A
 ITEM_name
-Robo Rider
+Obtainable in Battle Pass.
 ITEM_desc
 Robo Force
 ITEM_name
-Robo Rider
+Obtainable in Battle Pass.
 ITEM_desc
-Ruckus WEP Skin03A
+Robo Force Busters
 ITEM_name
 Red/Gold
 ITEM_desc
@@ -127822,7 +127821,7 @@ Obtainable in the Lunar Chest.
 ITEM_desc
 Gold
 ITEM_desc
-Golden Familiar
+Golden Familiar - TC
 ITEM_name
 Default
 ITEM_desc
@@ -129996,19 +129995,19 @@ Squidbert
 ITEM_name
 Croakie
 ITEM_name
-Obtainable in the Hats Chest.
+Obtainable in the Battle Pass
 ITEM_desc
-Obtainable in the Hats Chest
+Obtainable in the Battle Pass
 ITEM_desc
 Prickly
 ITEM_name
-Obtainable in the Hats Chest.
+Obtainable in the Battle Pass
 ITEM_desc
 In the Bag
 ITEM_name
 Snow Owl
 ITEM_short_desc
-Obtainable in the Hat Chest
+Obtainable in the Battle Pass
 ITEM_desc
 Bad Mother Clucker
 ITEM_name
@@ -131718,7 +131717,7 @@ Downed Champ Loot Crate
 Deployable_desc
 Nightbane
 ITEM_desc
-Androxus WEP Skin08A
+Huntsman's Hatred
 ITEM_name
 Nightbane
 ITEM_desc
@@ -131726,7 +131725,7 @@ Androxus ACC Skin06A
 ITEM_name
 Nightbane
 ITEM_desc
-Androxus Skin06A
+Huntsman
 ITEM_name
 Entitlement Vendor
 Loot_Table_name
@@ -131839,7 +131838,7 @@ ITEM_name
 map_game_friendly_name
 WIP BG
 map_game_name
-Robo Ruckus Voice Pack
+Robo Force Voice Pack
 ITEM_name
 Biker Vivian Voice Pack
 ITEM_name
@@ -131873,7 +131872,7 @@ War Chest
 ITEM_name
 Get both DLCs at even Greater Value
 ITEM_short_desc
-All War Chest Content|All Champion Pack Content|28 Day VIP Membership|40,000 VIP Points
+Champion Pack|Season Pass 2018 Bundle
 ITEM_desc
 Digital Deluxe Edition
 ITEM_name
@@ -132431,7 +132430,7 @@ Gain bonus damage while using Iron Sights.
 item_short_desc
 Your shield recharges while it is raised.
 item_short_desc
-Deal more weapon damage. Any ally affected by your Astral Mark also deals more weapon damage.
+Any ally affected by your Astral Mark also deals more weapon damage.
 item_short_desc
 Detonating Magic Mark deals damage in an area.
 item_short_desc
@@ -132543,7 +132542,7 @@ Blunderbuss now fires a slug.
 item_short_desc
 Part of all damage dealt to you is instead taken by your deployables if they are active.
 item_short_desc
-Killing your target grants a damage buff.
+Killing your Retribution target grants a damage buff.
 item_short_desc
 Fire a slug round that no longer explodes.
 item_short_desc
@@ -132575,7 +132574,7 @@ Rental
 ITEM_short_desc
 Rental
 ITEM_desc
-Golden Heavy Repeater
+Golden Heavy Repeater - TC
 ITEM_name
 Khan
 item_short_desc
@@ -133085,7 +133084,7 @@ Events Vendor
 Loot_Table_name
 Test
 item_short_desc
-Animated Spray Test
+Animated Spray Test 2x4
 item_name
 Obtainable in the Gold Chest.
 item_desc
@@ -133599,13 +133598,13 @@ Bombardment Fire Bomb Subdevice
 item_name
 Soul Eater Jenos Unlock
 Activity_Goal_title
-Neon Demon
+Obtainable in Battle Pass.
 ITEM_desc
-Grohk Skin03A
+Neon Demon
 ITEM_name
-Neon Demon
+Obtainable in the Battle Pass.
 ITEM_desc
-Grohk WEP Skin04A
+Neon Demon's Disintegrator
 ITEM_name
 SLT - Set - Tyra - Dire Wolf - Rental 1 Day
 Loot_Table_name
@@ -133613,7 +133612,7 @@ SLT - Collection - Kinessa - Nova Strike and Crystals
 Loot_Table_name
 SLT - Collection - Ying - Genie and Crystals
 Loot_Table_name
-Cat Skin01A
+Mecha Prowler
 ITEM_name
 Copy of Emote Vendor - Epic
 Loot_Table_name
@@ -133697,11 +133696,11 @@ SLT - Asiatic Event Quest Reward - Lotus of Life Completion
 Loot_Table_name
 Khan XP
 ITEM_name
-The Patriarch of House Aico issued a challenge to his captains: hold the house's banner for as long as possible. Few were strong enough to last a day.The last captain to receive the test, a young man named Khan, held the banner for hours. As his arms tired, he beckoned to a common servant and asked her to take it from him. 
+The Patriarch of House Aico issued a challenge to his captains: hold the house's banner for as long as possible. Few were strong enough to last a day. The last captain to receive the test, a young man named Khan, held the banner for hours. As his arms tired, he beckoned to a common servant and asked her to take it from him. 
  Even though I must fall,
   he said, 
  the banner will remain.
- This was no test of strength, but one of loyalty to House Aico. Khan passed the test and proved himself worthy of command. Today, he serves Lian as advisor and protector. 
+  This was no test of strength, but one of loyalty to House Aico. Khan passed the test and proved himself worthy of command. Today, he serves Lian as advisor and protector. 
 BOT_lore
 TC Viktor Invitational
 ITEM_name
@@ -133818,9 +133817,9 @@ Obtainable in the Feudal Chest.
 ITEM_desc
 SLT - Season 2 Pass Bundle
 Loot_Table_name
-Season 2 Pass Bundle
+Season Pass 2018 Bundle
 ITEM_name
-Season 2 Pass Receipt
+Season Pass 2018 Receipt
 ITEM_name
 zDelete
 Loot_Table_name
@@ -134061,7 +134060,7 @@ SLT - Collection - Buck - Buck Wild-RENTAL - 15 Day
 Loot_Table_name
 Default Avatar
 ITEM_name
-Champion Pack ENT
+ENT SLT Champion Pack
 Loot_Table_name
 Khan
 item_short_desc
@@ -134069,7 +134068,7 @@ Dominance
 item_name
 Obtainable in the Gold Chest.
 item_desc
-Battle Pass (Mech)
+Battle Pass
 ITEM_name
 Season 1 Level
 Activity_Goal_name
@@ -134101,7 +134100,7 @@ SLT - Collection - Willo - Bluebell - RENTAL
 Loot_Table_name
 SLT - Collection - ShaLin - Bravado - RENTAL
 Loot_Table_name
-Season 2 Pass
+Season Pass 2018
 ITEM_name
 SLT - Collection - Maldamba - Chancellor - RENTAL
 Loot_Table_name
@@ -134215,11 +134214,11 @@ Use by Tencent as reward
 ITEM_desc
 BattlePass Points
 ITEM_short_desc
-BattlePass Points
+Battle Pass Level
 ITEM_name
-BattlePass Points
+Battle Pass Experience
 ITEM_desc
-Heaven and Hell Nimble
+HH Nimble
 item_name
 Battle Pass - Mech
 ITEM_name
@@ -134237,155 +134236,155 @@ Carnival
 ITEM_desc
 Carnival Voice Pack
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Assault Rifle - Tencent
+Golden Assault Rifle
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Auto Rifle - Tencent
+Golden Auto Rifle
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Blunderbuss - Tencent
+Golden Blunderbuss
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Bomb - Tencent
+Golden Bomb
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Burst Cannon - Tencent
+Golden Burst Cannon
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Cannon - Tencent
+Golden Cannon
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Crossbow - Tencent
+Golden Crossbow
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Daggers - Tencent
+Golden Daggers
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Familiar - Tencent
+Golden Familiar
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Flame Lance - Tencent
+Golden Flame Lance
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Gauntlet - Tencent
+Golden Gauntlet
 ITEM_name
 Rental
 ITEM_short_desc
-Rental
+Shiny
 ITEM_desc
-Golden Heavy Repeater - Tencent
+Golden Heavy Repeater
 ITEM_name
 Lian
 ITEM_short_desc
-Rental
+Shiny
 ITEM_desc
-Golden Heirloom Rifle - Tencent
+Golden Heirloom Rifle
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Ice Staff - Tencent
+Golden Ice Staff
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Inferno Blade - Tencent
+Golden Inferno Blade
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Launcher - Tencent
+Golden Launcher
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Lightning Staff - Tencent
+Golden Lightning Staff
 ITEM_name
 Rental
 ITEM_short_desc
-Rental
+Shiny
 ITEM_desc
-Golden LMG - Tencent
+Golden LMG
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Long Bow - Tencent
+Golden Long Bow
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Magnums
+Golden Magnums
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Massacre Axe
+Golden Massacre Axe
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Miniguns
+Golden Miniguns
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Mirror
+Golden Mirror
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Revolver
+Golden Revolver
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Rocket Launcher
+Golden Rocket Launcher
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Shotgun
+Golden Shotgun
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Sniper Rifle
+Golden Sniper Rifle
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Spear
+Golden Spear
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Spitting Cobra
+Golden Spitting Cobra
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Star Splitter
+Golden Star Splitter
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Talon Rifle
+Golden Talon Rifle
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Throwing Axe
+Golden Throwing Axe
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Trappings
+Golden Trappings
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Veracharger
+Golden Veracharger
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Copy of Golden Wand
+Golden Wand
 ITEM_name
-Rental
+Shiny
 ITEM_desc
-Golden Wrist Crossbow - Tencent
+Golden Wrist Crossbow
 ITEM_name
 Battle Pass Mech - Premium Rewards Vendor
 Loot_Table_name
@@ -134409,17 +134408,739 @@ WIP HH Test
 map_game_name
 Blast Cripple
 EFFECT_GROUP_name
+Blast Cripple
+EFFECT_GROUP_name
+VOX_Announcer_ModeOnslaught
+HH Event Pickup
+Deployable_name
+Test BK
+item_short_desc
+Gear Up Spray
+item_name
+Obtainable in the Battle Pass.
+item_desc
+HH Event Rocket Launcher
+item_name
+Self Knock Back
+EFFECT_GROUP_name
+Self Damage
+EFFECT_GROUP_name
 Knockback Hit
 EFFECT_GROUP_name
+Champion Vendor Free
+Loot_Table_name
+Arid
+map_game_friendly_name
+WIP Arid_v2 (Siege) 
+map_game_name
+Eastwatch
+map_game_friendly_name
+WIP Eastwatch (Siege) 
+map_game_name
+Waterway
+map_game_friendly_name
+WIP Waterway (Siege)
+map_game_name
+BattlePass Personal Booster
+ITEM_short_desc
+Battle Pass 5% Personal Booster
+ITEM_name
+Increases total Battle Pass Boost by 5%
+ITEM_desc
+Champion Pack
+ITEM_name
+Voice Packs
+ITEM_name
+Recolor
+ITEM_short_desc
 SLT - Collection - Khan - Royal Guard
 Loot_Table_name
 Initial pre-pull stun
 EFFECT_GROUP_name
+Initial pre-pull stun
+EFFECT_GROUP_name
 Royal Guard
 ITEM_name
-Death Stamp
+Entitlement for Champion Pack
+Loot_Table_Items_desc
+Entitlement for Champion Pack
+Loot_Table_Items_name
+ENT SLT Founder's Pack
+Loot_Table_name
+ENT SLT Voice Pack
+Loot_Table_name
+SLT - TRANSIENT SET Fernando - God of War
+Loot_Table_name
+SLT - TRANSIENT Collection - Viktor - Soldier +
+Loot_Table_name
+SLT - TRANSIENT Collection - Zhin - Conqueror
+Loot_Table_name
+SLT - TRANSIENT Collection - Frontline DLC Durables
+Loot_Table_name
+Founder's Pack
 ITEM_name
+Champion Pack Refund Check Trigger
+ITEM_name
+Tyra Skin05A
+ITEM_name
+Covert Ops
+ITEM_name
+Covert Ops Eliminators
+ITEM_name
+Tyra WEP Skin05A
+ITEM_name
+Login SLT
+Loot_Table_name
+Items that are given to a player whenever they login.
+Loot_Table_desc
+Given at Login
+Loot_Table_Items_name
+Test
+item_short_desc
+Copy of Animated Spray Test 2x4
+item_name
+Obtainable in the Gold Chest.
+item_desc
+Death Stamp Deployable
+Deployable_name
+Tombstone
+ITEM_name
+Khan
+item_short_desc
+Unimpressed
+item_name
+Test Emote
+item_desc
+ITEM_desc
+Drogoz Skin04A
+ITEM_name
+ITEM_short_desc
+ITEM_desc
+Drogoz WEP Skin04A
+ITEM_name
+ITEM_desc
+Viktor Skin07A
+ITEM_name
+Hit Damage
+EFFECT_GROUP_name
+SLT - Champion Pack Bundle
+Loot_Table_name
+Heaven and Hell Cleanse Volume
+item_name
+Heaven And Hell Event Volume
+item_desc
+Kitten
+ITEM_short_desc
+ITEM_short_desc
+ITEM_desc
+Maeve WEP Skin02A
+ITEM_name
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
 SND_Notify_Unlocked_Stinger
+Death Stamp Vendor
+Loot_Table_name
+Reward for progressing through the Battle Pass.
+ITEM_desc
+Battle Chest
+ITEM_name
+Chest Loot Vendor - Battle Chest
+Loot_Table_name
+SLT - Chest - Battle Chest - Common
+Loot_Table_name
+SLT - Chest - Battle Chest - Uncommon
+Loot_Table_name
+Founder's Pack Refund Check SLT
+Loot_Table_name
+Win 25 games in Paladins Strike
+ITEM_short_desc
+Heavenly Striker
+ITEM_name
+Win 25 games in Paladins Strike
+ITEM_desc
+None
+ITEM_name
+Gearhead
+ITEM_name
+Complete all Mecha Battle Pass Challenges.
+ITEM_desc
+Makoa
+item_short_desc
+Break Dance
+item_name
+Roaming Emote
+item_desc
+HH Event Door
+BOT_name
+Heal for 50,000 in a Single Match
+Activity_Goal_name
+Deal 70,000 Damage in a Single Match
+Activity_Goal_title
+Deal 70,000 Damage in a Single Match
+Activity_Goal_desc
+Deal 70,000 Damage in a Single Match
+Activity_Goal_name
+Heal for 50,000 in a Single Match
+Activity_Goal_title
+Heal for 50,000 in a Single Match
+Activity_Goal_desc
+Get 7 Killing Blows in a Single Match
+Activity_Goal_title
+Get 7 Killing Blows in a Single Match
+Activity_Goal_desc
+Get 7 Killing Blows in a Single Match
+Activity_Goal_name
+Get 200 Objective Time in a Single Match
+Activity_Goal_title
+Get 200 Objective Time in a Single Match
+Activity_Goal_desc
+Get 200 Objective Time in a Single Match
+Activity_Goal_name
+Get 150 Eliminations
+Activity_Goal_title
+Get 150 Eliminations
+Activity_Goal_desc
+Get 150 Eliminations
+Activity_Goal_name
+Spend 15,000 Credits
+Activity_Goal_title
+Spend 15,000 Credits
+Activity_Goal_desc
+Spend 15,000 Credits
+Activity_Goal_name
+Get 75 Killing Blows
+Activity_Goal_title
+Get 75 Killing Blows
+Activity_Goal_desc
+Get 75 Killing Blows
+Activity_Goal_name
+Shield 150,000
+Activity_Goal_title
+Shield 150,000
+Activity_Goal_desc
+Shield 150,000
+Activity_Goal_name
+Heal 500,000
+Activity_Goal_title
+Heal 500,000
+Activity_Goal_desc
+Heal 500,000
+Activity_Goal_name
+Deal 1,500,000 Damage
+Activity_Goal_title
+Deal 1,500,000 Damage
+Activity_Goal_desc
+Deal 1,500,000 Damage
+Activity_Goal_name
+Flank Challenge 3
+Activity_Goal_title
+Flank Challenge 3
+Activity_Goal_desc
+Flank Challenge 3
+Activity_Goal_name
+Get 15 Double Kills
+Activity_Goal_title
+Get 15 Double Kills
+Activity_Goal_desc
+Get 15 Double Kills
+Activity_Goal_name
+Get 5,000 Objective Time
+Activity_Goal_title
+Get 5,000 Objective Time
+Activity_Goal_desc
+Get 5,000 Objective Time
+Activity_Goal_name
+Get Best in Role 5 Times
+Activity_Goal_title
+Get Best in Role 5 Times
+Activity_Goal_desc
+Get Best in Role 5 Times
+Activity_Goal_name
+Get play of the Game
+Activity_Goal_title
+Get play of the Game
+Activity_Goal_desc
+Get play of the Game
+Activity_Goal_name
+Win 10 Deathmatch Games
+Activity_Goal_title
+Win 10 Deathmatch Games
+Activity_Goal_desc
+Win 10 Deathmatch Games
+Activity_Goal_name
+Win 10 Siege Games
+Activity_Goal_title
+Win 10 Siege Games
+Activity_Goal_desc
+Win 10 Siege Games
+Activity_Goal_name
+Complete Tier 1 Challenges
+Activity_Goal_title
+Complete Tier 1 Challenges
+Activity_Goal_desc
+Complete Tier 1 Challenges
+Activity_Goal_name
+Complete Tier 2 Challenges
+Activity_Goal_title
+Complete Tier 2 Challenges
+Activity_Goal_desc
+Complete Tier 2 Challenges
+Activity_Goal_name
+Complete Tier 3 Challenges
+Activity_Goal_title
+Complete Tier 3 Challenges
+Activity_Goal_desc
+Complete Tier 3 Challenges
+Activity_Goal_name
+Complete Tier 4 Challenges
+Activity_Goal_title
+Complete Tier 4 Challenges
+Activity_Goal_desc
+Complete Tier 4 Challenges
+Activity_Goal_name
+Battle Pass Mech - Challenge Rewards Vendor
+Loot_Table_name
+HH Event Demon Drogoz
+BOT_name
+SLT - Collection - Maeve - Demon
+Loot_Table_name
+Maeve Skin04 Container
+ITEM_name
+Complete 1
+Activity_Goal_name
+Complete 2
+Activity_Goal_title
+Complete 2
+Activity_Goal_desc
+Complete 2
+Activity_Goal_name
+Complete 3
+Activity_Goal_title
+Complete 3
+Activity_Goal_desc
+Complete 3
+Activity_Goal_name
+Complete 1
+Activity_Goal_title
+Complete 1
+Activity_Goal_desc
+Complete 5
+Activity_Goal_title
+Complete 5
+Activity_Goal_desc
+Complete 5
+Activity_Goal_name
+Complete 4
+Activity_Goal_title
+Complete 4
+Activity_Goal_desc
+Complete 4
+Activity_Goal_name
+ITEM_name
+SLT - Collection - Drogoz - Abyss Lord
+Loot_Table_name
+Drogoz Skin04 Container
+ITEM_name
+SLT - Collection - Lex - Covert Ops
+Loot_Table_name
+Covert Ops
+ITEM_name
+SND_Notify_GoToBattlePass
+SND_Notify_GoToBattlePass_Global
+ITEM_desc
+zDelete
+ITEM_name
+Tyra Skin05 Container
+ITEM_name
+SLT - Collection - Tyra - Angel
+Loot_Table_name
+Champion Mastery Level 50 Reward Vendor - Gold Sets
+Loot_Table_name
+SLT - Collection - Maeve - Strike
+Loot_Table_name
+Strike
+ITEM_name
+Strike Avatar
+ITEM_name
+Striker
+ITEM_name
+Paladins Strike Rewards
+Loot_Table_name
+Battle Pass Vendor
+Loot_Table_name
+Battle Pass One
+ITEM_short_desc
+HH Event Pickup Device
+item_name
+Health Nugget
+EFFECT_GROUP_name
+SLT - Collection - Androxus - Gold Set
+Loot_Table_name
+SLT - Collection - Ash - Gold Set
+Loot_Table_name
+SLT - Collection - Barik - Gold Set
+Loot_Table_name
+SLT - Collection - Bomb King - Gold Set
+Loot_Table_name
+SLT - Collection - Buck - Gold Set
+Loot_Table_name
+SLT - Collection - Cassie - Gold Set
+Loot_Table_name
+SLT - Collection - Drogoz - Gold Set
+Loot_Table_name
+SLT - Collection - Evie - Gold Set
+Loot_Table_name
+SLT - Collection - Fernando - Gold Set
+Loot_Table_name
+SLT - Collection - Grohk - Gold Set
+Loot_Table_name
+SLT - Collection - Grover - Gold Set
+Loot_Table_name
+SLT - Collection - Inara - Gold Set
+Loot_Table_name
+SLT - Collection - Jenos - Gold Set
+Loot_Table_name
+SLT - Collection - Khan - Gold Set
+Loot_Table_name
+SLT - Collection - Kinessa - Gold Set
+Loot_Table_name
+SLT - Collection - Lex - Gold Set
+Loot_Table_name
+SLT - Collection - Lian - Gold Set
+Loot_Table_name
+SLT - Collection - Maeve - Gold Set
+Loot_Table_name
+SLT - Collection - Makoa - Gold Set
+Loot_Table_name
+SLT - Collection - Mal'Damba - Gold Set
+Loot_Table_name
+SLT - Collection - Moji - Gold Set
+Loot_Table_name
+SLT - Collection - Pip - Gold Set
+Loot_Table_name
+SLT - Collection - Ruckus - Gold Set
+Loot_Table_name
+SLT - Collection - Seris - Gold Set
+Loot_Table_name
+SLT - Collection - Sha Lin - Gold Set
+Loot_Table_name
+SLT - Collection - Skye - Gold Set
+Loot_Table_name
+SLT - Collection - Strix - Gold Set
+Loot_Table_name
+SLT - Collection - Talus - Gold Set
+Loot_Table_name
+SLT - Collection - Terminus - Gold Set
+Loot_Table_name
+SLT - Collection - Torvald - Gold Set
+Loot_Table_name
+SLT - Collection - Tyra - Gold Set
+Loot_Table_name
+SLT - Collection - Viktor - Gold Set
+Loot_Table_name
+SLT - Collection - Vivian - Gold Set
+Loot_Table_name
+SLT - Collection - Willo - Gold Set
+Loot_Table_name
+SLT - Collection - Ying - Gold Set
+Loot_Table_name
+SLT - Collection - Zhin - Gold Set
+Loot_Table_name
+Obtainable in Battle Pass.
+ITEM_desc
+Unlock Free by linking your Hi-Rez Account in Paladins Strike.
+ITEM_desc
+Unlock Free by linking your Hi-Rez Account in Paladins Strike.
+ITEM_desc
+Viktor ACC Skin09A
+ITEM_name
+ITEM_desc
+Gold Collections earned at champion mastery 50. Index = bot id
+Loot_Table_desc
+Huntsman
+ITEM_name
+Unlock Free by linking your Hi-Rez Account in Paladins Strike.
+ITEM_desc
+Unlock Free by linking your Hi-Rez Account in Paladins Strike.
+ITEM_desc
+Obtainable in Battle Pass.
+ITEM_desc
+Neon Demon
+ITEM_name
+Obtainable in Battle Pass.
+ITEM_desc
+Obtainable in the Galaxy Chest.
+ITEM_desc
+SLT - Collection - Grohk - Neon Demon
+Loot_Table_name
+SLT - Collection - Androxus - Huntsman
+Loot_Table_name
+Crazy King
+map_game_friendly_name
+WIP Crazy King
+map_game_name
+FrogRework
+map_game_friendly_name
+WIP FrogRework
+map_game_name
+Watch the Paladins Esports on Facebook and Mixer to get this exclusive chest! 
+ITEM_desc
+Esports Chest
+ITEM_name
+Illusory Mirror PvE
+item_name
+Fires a continuous beam for a short period that deals 5 ticks of 90 damage over .2 seconds every .5s. Effective up to Medium Range.
+item_desc
+Update the illusion version of the mirror when this changes.
+DEVICE_desc
+Hitting a target will aggro the Illusion onto that target.
+EFFECT_GROUP_desc
+Illusion Aggro
+EFFECT_GROUP_name
+Chest Loot Vendor - ESports Chest
+Loot_Table_name
+SLT - Chest - ESports Chest - XP
+Loot_Table_name
+SLT - Chest - Battle Chest - Battle Pass XP
+Loot_Table_name
+SLT - Chest - Battle Chest - Battle Pass XP
+Loot_Table_name
+Battle Spray
+ITEM_name
+Obtained in Battle Pass.
+ITEM_desc
+Obtainable in Battle Pass.
+ITEM_desc
+zzzGear Up
+ITEM_name
+SLT - Collection - Lian - Galactic Scion
+Loot_Table_name
+Galactic Scion
+ITEM_name
+Allows players to make progress through Mech Battle Pass Tier 1 Challenges.
+ITEM_desc
+Battle Pass Tier 1 Challenges
+ITEM_name
+Obtainable in the Galaxy Chest.
+ITEM_desc
+Allows players to make progress through Mech Battle Pass Tier 2 Challenges.
+ITEM_desc
+Battle Pass Tier 2 Challenges
+ITEM_name
+Allows players to make progress through Mech Battle Pass Tier 3 Challenges.
+ITEM_desc
+Battle Pass Tier 3 Challenges
+ITEM_name
+Allows players to make progress through Mech Battle Pass Tier 4 Challenges.
+ITEM_desc
+Battle Pass Tier 4 Challenges
+ITEM_name
+Allows players to make progress through Mech Battle Pass Tier 5 Challenges.
+ITEM_desc
+Battle Pass Tier 5 Challenges
+ITEM_name
+Battle Pass -SLT - Mech Instant Unlocks
+Loot_Table_name
+Full Metal Frame
+ITEM_name
+Terminating
+ITEM_name
+Battle Pass T1 Challenges
+Activity_name
+Battle Pass T2 Challenges
+Activity_name
+Battle Pass T3 Challenges
+Activity_name
+Battle Pass T4 Challenges
+Activity_name
+Battle Pass T5 Challenges
+Activity_name
+Battle Pass Mech Challenge Rewards Vendor
+Loot_Table_name
+Battle Pass Mech - SLT - T1 Challenge Rewards
+Loot_Table_name
+Battle Pass Mech - SLT - T2 Challenge Rewards
+Loot_Table_name
+Battle Pass Mech - SLT - T3 Challenge Rewards
+Loot_Table_name
+Battle Pass Mech - SLT - T4 Challenge Rewards
+Loot_Table_name
+Battle Pass Mech - SLT - T5 Challenge Rewards
+Loot_Table_name
+Tier 1 Challenge Start
+Activity_Goal_name
+Battle Pass Mech - SLT - Title Reward
+Loot_Table_name
+Tier 2 Challenge Start
+Activity_Goal_name
+Tier 3 Challenge Start
+Activity_Goal_name
+Tier 4 Challenge Start
+Activity_Goal_name
+Tier 5 Challenge Start
+Activity_Goal_name
+Golden Androxus
+ITEM_name
+Golden Ash
+ITEM_name
+Golden Bomb King
+ITEM_name
+Golden Buck
+ITEM_name
+Golden Barik
+ITEM_name
+Golden Cassie
+ITEM_name
+Golden Drogoz
+ITEM_name
+Golden Evie
+ITEM_name
+Golden Fernando
+ITEM_name
+Golden Grohk
+ITEM_name
+Golden Grover
+ITEM_name
+Golden Inara
+ITEM_name
+Golden Jenos
+ITEM_name
+Golden Khan
+ITEM_name
+Golden Kinessa
+ITEM_name
+Golden Lex
+ITEM_name
+Golden Lian
+ITEM_name
+Golden Maeve
+ITEM_name
+Golden Makoa
+ITEM_name
+Golden Mal'Damba
+ITEM_name
+Golden Moji
+ITEM_name
+Golden Pip
+ITEM_name
+Golden Ruckus
+ITEM_name
+Golden Seris
+ITEM_name
+Golden Sha Lin
+ITEM_name
+Golden Skye
+ITEM_name
+Golden Strix
+ITEM_name
+Golden Talus
+ITEM_name
+Golden Terminus
+ITEM_name
+Golden Torvald
+ITEM_name
+Golden Tyra
+ITEM_name
+Golden Viktor
+ITEM_name
+Golden Vivian
+ITEM_name
+Golden Willo
+ITEM_name
+Golden Ying
+ITEM_name
+Golden Zhin
+ITEM_name
+SLT - Chest - Esports Chest - Epic
+Loot_Table_name
+Battle Pass Level Up Vendor
+Loot_Table_name
+Lex Covert Ops Voice Pack
+ITEM_name
+Champion Pack
+Loot_Table_Items_name
+Season 2 Pass Bundle
+Loot_Table_Items_name
+Digital Deluxe Edition
+Loot_Table_Items_name
+Heaven TDM
+map_game_friendly_name
+WIP Heaven TDM
+map_game_name
+Flipbook_Sample
+item_name
+SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 5
+Loot_Table_name
+SLT - Daily Quest Reward - Gold and Battle Pass XP Tier 5
+Loot_Table_name
+SLT - Daily Quest Reward - Gold2 and Battle Pass XP Tier 5
+Loot_Table_name
+Foreman's Rise
+map_game_friendly_name
+LIVE Foreman's Rise (TDM)
+map_game_name
+Foreman's Rise
+map_game_friendly_name
+LIVE Foreman's Rise (TDM)
+map_game_name
+Obtainable in Battle Pass.
+ITEM_desc
+Obtainable in Battle Pass.
+ITEM_desc
+Furia
+BOT_name
+Fury
+BOT_desc
+Default Furia
+ITEM_name
+Furia Inhand
+item_name
+Primary fire short blast
+DEVICE_desc
+Fire Sound
+EFFECT_GROUP_name
+Default Furia Inhand
+ITEM_name
+Energy Charge - Furia
+item_name
+Lobby
+map_game_friendly_name
+LobbyMapV3
+map_game_name
+BETA Bundle
+Loot_Table_name
+Grohk Neon Demon Voice Pack
+ITEM_name
+Furia RMB
+item_name
+Beta Player
+ITEM_name
+Copy of SLT - Chest - Gold Chest - Epic Weapons
+Loot_Table_name
+Copy of SLT - Chest - Gold Chest - Epic Weapons
+Loot_Table_name
+zzzzDeprecated
+Loot_Table_name
+Furia Ult
+item_name
+SLT - Collection - Androxus - Huntsman 1 Day Rental
+Loot_Table_name
+SLT - Collection - Jenos - Exarch - RENTAL
+Loot_Table_name
+SLT - Collection - Grohk - Neon Demon - RENTAL
+Loot_Table_name
+SLT - Collection - Lian - Galactic Scion - RENTAL
+Loot_Table_name
+SLT - Collection - Strix - Mercenary - RENTAL
+Loot_Table_name
+SLT - Collection - Maeve - Strike - RENTAL
+Loot_Table_name
+SLT - Collection - Lex - Covert Ops - RENTAL
+Loot_Table_name
+1500 Crystals|Battle Pass 1|Battle Pass 2|Battle Pass 3
+ITEM_desc
 None
 VV_TEXT
 Patrol
@@ -134850,7 +135571,7 @@ OBSOLETE
 VV_text
 Target Can Be Repaired (0/1)
 VV_text
-Dropped (DeathDrop)
+Drop (Death Drop)
 VV_text
 Dropped Loot
 VV_text
@@ -136911,6 +137632,10 @@ Consecutive attacks stack increasing damage by {1.6/3.2/4.8/6.4/8}% (max 6 stack
 VV_text
 Dynamic Bundle
 Dynamic Bundle
+Export to TgClient_XboxOne
+VV_text
+Export to TgClient_PS4
+VV_text
 Active
 VV_text
 Completed
@@ -137097,6 +137822,8 @@ Warning!  Servers will shutdown in @@MINUTES@@ minutes for scheduled maintenance
 CHAT_MSG_SERVER_SHUTDOWN
 Turret
 VV_text
+Pending
+Pending
 Deck
 VV_text
 Deck
@@ -137376,6 +138103,16 @@ Gold Booster
 Token Booster
 Soul Orb Stack
 VV_text
+Closed
+Closed
+Needs Filling
+Needs Filling
+Filled
+Filled
+Needs Revocation
+Needs Revocation
+Revoked
+Revoked
 Weapon
 VV_text
 Required item not owned
@@ -137464,6 +138201,10 @@ EOM Capped
 EOM Capped
 Vox Chatter Suffix
 VV_text
+User Needs Filling
+User Needs Filling
+User Declined
+User Declined
 Invalid selection
 Invalid Selection
 Please finish choosing an item.
@@ -137799,6 +138540,8 @@ Character Slots
 Character Slots
 Mount Skin
 VV_text
+Death Stamp
+Death Stamp
 Skin
 VV_text
 Emote
@@ -137809,6 +138552,8 @@ MVP Pose
 VV_text
 Asiatic Crest
 VV_text
+Death Stamp
+VV_text
 Avatar
 VV_text
 BattlePass Levels
@@ -137816,5 +138561,15 @@ BP_LEVELS
 BattlePass Tiers
 BP_TIERS
 BattlePass Points
+BattlePassPoints
+EOM Booster
+EOM_Booster
+Portal Durable
+Portal Durable
+Export to TgClient_Oasis
 VV_text
-'E
+Export to GFxTranslation_Oasis
+VV_text
+Failed to Authenticate with Nintendo.
+NINTENDO_AUTH_FAILED
+F
