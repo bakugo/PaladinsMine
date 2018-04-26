@@ -77894,7 +77894,7 @@ Stealth
 EFFECT_GROUP_name
 Stealth
 EFFECT_GROUP_name
-No Chill I
+No Chill
 item_name
 [Weapon] Increase your movement speed while firing by {scale=5|5}%
 item_desc
@@ -118989,13 +118989,13 @@ PQ_250000_DAMAGE_ESN
 Activity_name
 Very Important
 Activity_Goal_title
-Accrue a total of 400 VIP points.
+Earn 25000 Battle Pass Experience.
 Activity_Goal_desc
-Accrue a total of 400 VIP points.
+Earn 25000 Battle Pass Experience.
 Activity_Goal_name
-Accrue a total of 400 VIP points from matches.
+Earn 25000 Battle Pass Experience from matches.
 Activity_title
-Accrue a total of 400 VIP points from matches.
+Earn 25000 Battle Pass Experience from matches.
 Activity_desc
 PQ_400_VIP_CR
 Activity_name
@@ -134762,7 +134762,7 @@ SLT - Collection - Maeve - Strike
 Loot_Table_name
 Strike
 ITEM_name
-Strike Avatar
+Strike
 ITEM_name
 Striker
 ITEM_name
@@ -134770,7 +134770,7 @@ Paladins Strike Rewards
 Loot_Table_name
 Battle Pass Vendor
 Loot_Table_name
-Battle Pass One
+Battle Pass 1
 ITEM_short_desc
 HH Event Pickup Device
 item_name
@@ -134919,25 +134919,25 @@ SLT - Collection - Lian - Galactic Scion
 Loot_Table_name
 Galactic Scion
 ITEM_name
-Allows players to make progress through Mech Battle Pass Tier 1 Challenges.
+Battle Pass Tier 1 Challenges available soon
 ITEM_desc
 Battle Pass Tier 1 Challenges
 ITEM_name
 Obtainable in the Galaxy Chest.
 ITEM_desc
-Allows players to make progress through Mech Battle Pass Tier 2 Challenges.
+Battle Pass Tier 2 Challenges available soon
 ITEM_desc
 Battle Pass Tier 2 Challenges
 ITEM_name
-Allows players to make progress through Mech Battle Pass Tier 3 Challenges.
+Battle Pass Tier 3 Challenges available soon
 ITEM_desc
 Battle Pass Tier 3 Challenges
 ITEM_name
-Allows players to make progress through Mech Battle Pass Tier 4 Challenges.
+Battle Pass Tier 4 Challenges available soon
 ITEM_desc
 Battle Pass Tier 4 Challenges
 ITEM_name
-Allows players to make progress through Mech Battle Pass Tier 5 Challenges.
+Unlock the Limited "Gearhead" Title by completing all Battle Pass Challenges
 ITEM_desc
 Battle Pass Tier 5 Challenges
 ITEM_name
@@ -135141,6 +135141,11 @@ SLT - Collection - Lex - Covert Ops - RENTAL
 Loot_Table_name
 1500 Crystals|Battle Pass 1|Battle Pass 2|Battle Pass 3
 ITEM_desc
+Break into Battle Pass and earn Exclusive Content All Year Long!
+ITEM_short_desc
+50% bonus Experience and Gold|Legendary Mecha Prowler Mount|Animated Loading Frame and Avatar|Unlock over 50 additional rewards just by leveling up!
+ITEM_desc
+SND_Notify_BattlePassAcquisition
 None
 VV_TEXT
 Patrol
