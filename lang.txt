@@ -133188,7 +133188,7 @@ Asiatic Firebomb Deployable
 Deployable_name
 Surge forward! Grabbing, stunning, and throwing the first enemy you contact. Deals 400 damage.
 item_desc
-Fire one 180 damage shot every 0.26s.
+Fire one 200 damage shot every 0.26s.
 item_desc
 Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 800 health.
 item_desc
@@ -134850,9 +134850,9 @@ SLT - Collection - Zhin - Gold Set
 Loot_Table_name
 Obtainable in Battle Pass.
 ITEM_desc
-Unlock Free by linking your Hi-Rez Account in Paladins Strike.
+Available from completing special quests in Paladins Strike.
 ITEM_desc
-Unlock Free by linking your Hi-Rez Account in Paladins Strike.
+Available from completing special quests in Paladins Strike.
 ITEM_desc
 Viktor ACC Skin09A
 ITEM_name
@@ -134863,7 +134863,7 @@ Huntsman
 ITEM_name
 Unlock Free by linking your Hi-Rez Account in Paladins Strike.
 ITEM_desc
-Unlock Free by linking your Hi-Rez Account in Paladins Strike.
+Available from completing special quests in Paladins Strike.
 ITEM_desc
 Obtainable in Battle Pass.
 ITEM_desc
@@ -135141,6 +135141,8 @@ SLT - Collection - Lex - Covert Ops - RENTAL
 Loot_Table_name
 1500 Crystals|Battle Pass 1|Battle Pass 2|Battle Pass 3
 ITEM_desc
+Battle Spray
+item_name
 Break into Battle Pass and earn Exclusive Content All Year Long!
 ITEM_short_desc
 50% bonus Experience and Gold|Legendary Mecha Prowler Mount|Animated Loading Frame and Avatar|Unlock over 50 additional rewards just by leveling up!
