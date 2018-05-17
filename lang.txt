@@ -41592,7 +41592,7 @@ Headstrong
 EFFECT_GROUP_name
 Concussion
 item_name
-[Net Shot] Reduce the cooldown of Net Shot by {scale=1.5|1.5}s.
+[Net Shot] Reduce the cooldown of Net Shot by {scale=1|1}s.
 item_desc
 Seismic Wave
 item_name
@@ -69583,7 +69583,7 @@ item_short_desc
 item_short_desc
 Safe Travel
 item_name
-[Charge] Gain a {scale=250|250} damage Shield for 5s after you Charge.
+[Charge] Gain a {scale=150|150} damage Shield for 3s after you Charge.
 item_desc
 Barricade Dazes * 5s
 item_short_desc
@@ -72582,7 +72582,7 @@ zDeprecated ([TEST]Regeneration)
 item_name
 Last Stand
 item_name
-[Shield] While Shield is active and you are below 50% Health, you heal {scale=100|100} Health each second until you reach 50% Health.
+[Shield] While Shield is active and you are below 40% Health, you heal {scale=100|100} Health each second until you reach 40% Health.
 item_desc
 Death Knight
 item_name
@@ -89728,8 +89728,6 @@ Crystals Needed
 PALADINS_CRYSTALSNEEDED
 You need more Crystals to purchase this item.
 PALADINS_NEEDMORECRYSTALS
-Get More
-PALADINS_GETMORE
 Bundle Available
 PALADINS_BUNDLEAVAILABLE
 This item is part of a bundle. View bundle?
@@ -96765,9 +96763,9 @@ Star Slayer
 ITEM_desc
 Star Slayer Flight Suit
 ITEM_name
-Founder's Pack Refund Check Trigger
+Champion's Pack Gold Refund
 ITEM_name
-Triggers the purchaser to query for "purchased" classes and submit token/favor refunds based upon a known vendor list of classes/prices
+Gold refund for purchased Champions.
 ITEM_desc
 Console Items Vendor
 Loot_Table_name
@@ -99798,7 +99796,7 @@ Isle PvE
 map_game_friendly_name
 WIP T_Isle PvE
 map_game_name
-Enter a defensive state that lasts 5s where you and your deployables take 30% reduced damage and you take 60% increased healing.
+Enter a defensive state that lasts 5s where you and your deployables take 30% reduced damage and you take 40% increased healing.
 item_desc
 Place a stone obelisk that pulses which slow enemies for 60% and deals 150 damage per second.
 item_desc
@@ -101954,7 +101952,7 @@ item_desc
 item_short_desc
 Stone Bulwark
 item_name
-[Earthen Guard] Heal for {scale=30|30} Health per second during Earthen Guard.
+[Earthen Guard] Heal for {scale=25|25} Health per second during Earthen Guard.
 item_desc
 Turret
 EFFECT_GROUP_name
@@ -105311,7 +105309,7 @@ Kinetic Burst
 item_name
 Assert Dominance
 item_name
-Leap forward and plant your Banner in the ground dealing 350 damage on impact and creating a Damage Immune zone for yourself that lasts 8s. You must remain in the zone to receive the Immunity.
+Leap forward and plant your Banner in the ground dealing 600 damage on impact and creating a Damage Immune zone for yourself that lasts 8s. You must remain in the zone to receive the Immunity.
 item_desc
 Flak's Assert Dominance Deployable
 Deployable_name
@@ -111580,7 +111578,7 @@ SLT - Set - Jenos - Capricorn
 Loot_Table_name
 An otherworldly weapon that channels the power of the stars. Deals 108 damage every 0.13s at medium range.
 item_desc
-Lock yourself in place and gather the power of the cosmos for 1.5s becoming CC immune, then unleash your energy in a long range blast that pierces through all obstacles and deals 2400 damage.
+Lock yourself in place and gather the power of the cosmos for 1.2s becoming CC immune, then unleash your energy in a long range blast that pierces through all obstacles and deals 2400 damage.
 item_desc
 Channel gravitational energy and lift an enemy up, dealing up to 360 damage over 2.5s. If the victim manages to move while lifted it will interrupt Void Grip.
 item_desc
@@ -113011,7 +113009,7 @@ map_game_name
 Default
 ITEM_desc
 A powerful rifle that fires one 1200 damage shot every second.
-Side Arm: A semi-automatic pistol that deals 250 damage per shot.
+Side Arm: A semi-automatic pistol that deals 220 damage per shot.
 item_desc
 Switch to your other weapon.
 item_desc
@@ -116276,7 +116274,7 @@ zDelete
 Loot_Table_name
 Slug Shot
 item_name
-[Weapon] Your weapon shots travel 50% faster and further but no longer explode.
+[Weapon] Your weapon shots travel 50% faster and 100% further but no longer explode.
 item_desc
 Hair Trigger
 item_name
@@ -129981,7 +129979,7 @@ Card Shrine
 Deployable_name
 Revive
 PALADINS_REVIVE
-Obtainable in the Hats Chest.
+Obtainable in the Season Pass
 ITEM_desc
 Grohk Lobster
 ITEM_name
@@ -132005,7 +132003,7 @@ Eliminations reduce your active Cooldowns by {scale=8|8}%.
 item_desc
 Vigorous Defense
 item_name
-Heal {scale=10|10} health per second while your Bulwark is up.
+Heal {scale=25|25} health per second while your Bulwark is up.
 item_desc
 Hopeguard
 item_name
@@ -132027,7 +132025,7 @@ test22222
 Loot_Table_name
 Close and Personal
 item_name
-Gain {scale=6|6}% damage reduction for 3s when hitting an enemy with Commander's Grab.
+Gain {scale=8|8}% damage reduction for 2s when hitting an enemy with Commander's Grab.
 item_desc
 Martial Law
 item_name
@@ -132039,7 +132037,7 @@ Activating Commander's Grab heals you for {scale=80|80}.
 item_desc
 Hulking Strength
 item_name
-Reduce the Cooldown of Commander's Grab by {scale=0.5|0.5}s.
+Reduce the Cooldown of Commander's Grab by {scale=0.6|0.6}s.
 item_desc
 Hold the Line!
 item_name
@@ -133186,11 +133184,11 @@ WIP Pirate Onslaught
 map_game_name
 Asiatic Firebomb Deployable
 Deployable_name
-Surge forward! Grabbing, stunning, and throwing the first enemy you contact. Deals 400 damage.
+Surge forward! Grabbing, stunning, and throwing the first enemy you contact. Deals 600 damage.
 item_desc
 Fire one 200 damage shot every 0.26s.
 item_desc
-Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 800 health.
+Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 1000 health.
 item_desc
 Activate your gauntlets Bulwark with 6000 Health. Regenerates while inactive.
 item_desc
@@ -134616,17 +134614,17 @@ Get 75 Killing Blows
 Activity_Goal_desc
 Get 75 Killing Blows
 Activity_Goal_name
-Shield 150,000
+Shield 150,000 Health
 Activity_Goal_title
-Shield 150,000
+Shield 150,000 Health
 Activity_Goal_desc
-Shield 150,000
+Shield 150,000 Health
 Activity_Goal_name
-Heal 500,000
+Heal 500,000 Health
 Activity_Goal_title
-Heal 500,000
+Heal 500,000 Health
 Activity_Goal_desc
-Heal 500,000
+Heal 500,000 Health
 Activity_Goal_name
 Deal 1,500,000 Damage
 Activity_Goal_title
@@ -134658,11 +134656,11 @@ Get Best in Role 5 Times
 Activity_Goal_desc
 Get Best in Role 5 Times
 Activity_Goal_name
-Get play of the Game
+Get Play of the Game
 Activity_Goal_title
-Get play of the Game
+Get Play of the Game
 Activity_Goal_desc
-Get play of the Game
+Get Play of the Game
 Activity_Goal_name
 Win 10 Deathmatch Games
 Activity_Goal_title
@@ -135139,15 +135137,61 @@ SLT - Collection - Maeve - Strike - RENTAL
 Loot_Table_name
 SLT - Collection - Lex - Covert Ops - RENTAL
 Loot_Table_name
+NP Pack 1 Receipt
+ITEM_name
+NP Pack 2 Receipt
+ITEM_name
+Vet Pack 1 Receipt
+ITEM_name
+Vet Pack 2 Receipt
+ITEM_name
+A Great Deal for New Players
+ITEM_short_desc
+Become Legendary Today!
+ITEM_short_desc
+Unbelievable Savings!
+ITEM_short_desc
+Terrorize Your Enemies!
+ITEM_short_desc
+Switch
+ITEM_name
+Switch Talon Rifle
+ITEM_name
+SLT - Collection - Strix - Switch
+Loot_Table_name
 1500 Crystals|Battle Pass 1|Battle Pass 2|Battle Pass 3
 ITEM_desc
 Battle Spray
 item_name
 Break into Battle Pass and earn Exclusive Content All Year Long!
 ITEM_short_desc
+Switch
+ITEM_name
 50% bonus Experience and Gold|Legendary Mecha Prowler Mount|Animated Loading Frame and Avatar|Unlock over 50 additional rewards just by leveling up!
 ITEM_desc
 SND_Notify_BattlePassAcquisition
+Unlocked all current and future Champions
+ITEM_short_desc
+Unlocked all current and future Champions
+ITEM_desc
+Galaxy Chest Exclusive
+ITEM_short_desc
+Galaxy Chest Exclusive
+ITEM_short_desc
+Battle Pass - SLT - T1 Challenges
+Loot_Table_name
+For incrementing 
+Loot_Table_desc
+Battle Pass - SLT - T2 Challenges
+Loot_Table_name
+Battle Pass - SLT - T3 Challenges
+Loot_Table_name
+Battle Pass - SLT - T4 Challenges
+Loot_Table_name
+Voice Packs
+ITEM_name
+Unlock all current and future Voice Packs
+ITEM_desc
 None
 VV_TEXT
 Patrol
