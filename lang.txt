@@ -21549,7 +21549,7 @@ You may rent a god for a single match using Favor while in the match lobby.
 Game_Tip_tip
 Lobby1
 Game_Tip_title
-Buying the right item in the right situation can turn the game in your favor.
+Inspect your Weapon by pressing <Cmd=GBA_Flourish>.
 Game_Tip_tip
 Loading1
 Game_Tip_title
@@ -36248,7 +36248,7 @@ Test version of the rest device that can be experimented on without affecting th
 item_short_desc
 Rest_Test
 item_name
-Deploy a barricade that provides cover. Barricade has 5000 health and lasts 4 seconds or until destroyed.
+Deploy a barricade that provides cover. Barricade has 5000 health and lasts 4s or until destroyed.
 item_desc
 Barricade
 item_name
@@ -37652,7 +37652,7 @@ Banish [Common]
 item_name
 [Priestess. Curse.] Deals 120 damage. Enemies cannot heal and take 10% more damage for 4 seconds.
 item_desc
-Enter stealth for 7.5 seconds. Getting too close to enemy players will reveal you while in stealth.
+Enter stealth for 7.5s. Getting too close to enemy players will reveal you while in stealth.
 item_desc
 [Assassin. Stealth.] While out of combat, passively gain stealth.
 item_desc
@@ -41830,7 +41830,7 @@ item_desc
 DEVICE_desc
 Gale
 item_name
-[Ghost Walk] Ghost Walk lowers the cooldown of Healing totem by {scale=1|1}s when Activated.
+[Ghost Walk] Ghost Walk lowers the cooldown of Healing Totem by {scale=1|1}s when Activated.
 item_desc
 [Totem.] +16% damage output and attack speed for 3 seconds
 DEVICE_desc
@@ -45256,7 +45256,7 @@ DEVICE_desc
 item_short_desc
 Brand
 item_name
-[Fireball] Fireball reduces healing by {scale=15|15}% for 3s.
+[Fireball] Enemies hit by Fireball receive {scale=15|15}% reduced healing for 3s.
 item_desc
 +10% * Defense
 DEVICE_name
@@ -57938,7 +57938,7 @@ Battle Focus
 EFFECT_GROUP_name
 +40% AS +40% Dmg * Recovery
 item_short_desc
-Celerity
+zzCelerity
 item_name
 [Recovery] +40% Attack Speed and +40% Damage when you activate Recovery.
 item_desc
@@ -70227,7 +70227,7 @@ PALADINS_Login_Change_User
 item_short_desc
 Vigor
 item_name
-[Recovery] Activating Recovery generates 1 Ammo every .5s for {scale=.5|.5}s.
+[Recovery] Activating Recovery generates 1 Ammo every 0.5s for {scale=0.5|0.5}s.
 item_desc
 Master Riding
 EFFECT_GROUP_name
@@ -70856,7 +70856,7 @@ Jump Higher
 item_short_desc
 Weightless
 item_name
-Jump higher for 2.5s. Pip can shoot during Weightless.
+Quickly launch yourself in the air and jump higher for 2.5s. 
 item_desc
 Scurry
 EFFECT_GROUP_name
@@ -73169,7 +73169,7 @@ TempleRuinsV6DLight
 map_game_friendly_name
 TempleRuinsV6DLight
 map_game_name
-WIP HH Test
+LIVE HH
 MSL_name
 TempleRuinsV6DLight
 Match_Queue_name
@@ -73342,7 +73342,7 @@ Casual Enchanted Forest
 map_game_name
 Take flight
 item_short_desc
-Hop on your staff and take flight for 2 seconds.
+Hop on your staff and take flight for 2s.
 item_desc
 Casual Enchanted Forest
 map_game_friendly_name
@@ -73800,7 +73800,7 @@ item_name
 item_desc
 Ice Storm
 item_name
-Summon a massive ice storm that deals 40 damage every .25 seconds, slows and Cripples targets inside, and lasts 4 seconds.
+Summon a massive ice storm that deals 40 damage every 0.25s, slows and Cripples targets inside, and lasts 6 seconds.
 item_desc
 Foundation
 item_name
@@ -74510,7 +74510,7 @@ Cauterizer
 EFFECT_GROUP_name
 Dome Shield
 item_name
-Deploy a 20,000 health Dome Shield for 6 seconds with a Flamethrower turret inside that deals 400 damage per second.
+Deploy a 20,000 health Dome Shield for 6s with a Flamethrower turret inside that deals 400 damage per second.
 item_desc
 PvE Seismic Smash
 Match_Queue_name
@@ -74764,13 +74764,13 @@ Deploy a dome shield
 item_short_desc
 A crossbow that deals 680 damage every .75 seconds.
 item_desc
-A short range flamethrower that deals 35 damage per hit every .1s and applies a Damage Over Time effect for 200 damage over 2s. The Flame Lance recharges when not firing.
+A short range flamethrower that deals 35 damage per hit every 0.1s and applies a Damage Over Time effect for 200 damage over 2s. The Flame Lance recharges when not firing.
 item_desc
 Lightning Storm
 item_short_desc
-Surge with power for 3s, slowing and striking 2 nearby enemies at a time for 200 damage and speeding up and healing yourself and 2 nearby allies for 500 health every .5 seconds.
+Surge with power for 3s, slowing and striking 2 nearby enemies at a time for 200 damage and speeding up and healing yourself and 2 nearby allies for 500 health every 0.5 seconds.
 item_desc
-A medium range staff that creates a channeled beam of lightning dealing 75 damage per hit every .1 seconds. The Lightning Staff recharges when not firing.
+A medium range staff that creates a channeled beam of lightning dealing 75 damage per hit every 0.1 seconds. The Lightning Staff recharges when not firing.
 item_desc
 Ice Storm
 item_short_desc
@@ -74786,7 +74786,7 @@ Smoke Screen Subdevice
 item_name
 Device used by deployable
 item_desc
-A wrist-mounted energy crossbow that deals 130 damage per shot every .1 seconds. Effective at Short Range.
+A wrist-mounted energy crossbow that deals 130 damage per shot every 0.1 seconds. Effective at Short Range.
 item_desc
 Vote Rotation
 MSL_name
@@ -75777,7 +75777,7 @@ item_name
 item_desc
 Bob and Weave
 item_name
-[Transporter]  Increase your movement speed by {scale=27|27}% for 2s after deploying or teleporting through transporter.
+[Transporter]  Increase your movement speed by {scale=27|27}% for 2s after deploying or teleporting through Transporter.
 item_desc
 Hard Boiled
 item_name
@@ -76105,7 +76105,7 @@ Weapon Skin Vendor
 Loot_Table_name
 Oppressor Mine
 item_name
-Kinessa throws out up to 2 mines that deal 20 damage every .2s to connected enemies.
+Kinessa throws out up to 2 mines that deal 20 damage every 0.2s to connected enemies.
 item_desc
 Oppressor Mine Subdevice
 item_name
@@ -76293,7 +76293,7 @@ item_name
 item_desc
 Calibrate
 item_name
-[Weapon] Hitting an enemy with your Carbine lowers the cooldown of Transporter by {scale=0.12|0.12}s.
+[Weapon] Hitting an enemy with your Carbine or Sniper Rifle lowers the cooldown of Transporter by {scale=0.12|0.12}s.
 item_desc
 zDeprecated (Minimalist card)
 item_name
@@ -76309,7 +76309,7 @@ Power Supply
 item_name
 [Weapon] Kills grant {scale=4|4} ammo.
 item_desc
-A combination weapon that fires as an energy carbine or a powerful laser rifle. The carbine does 180 damage per shot every .15 seconds.
+A combination weapon that fires as an energy carbine or a powerful laser rifle. The carbine does 180 damage per shot every 0.15 seconds.
 item_desc
 Glacier Keep Capture And Siege
 map_game_friendly_name
@@ -76479,7 +76479,7 @@ Specter
 item_name
 [Smoke Screen] Increase the duration of Smoke Screen by {scale=1|1}s.
 item_desc
-Reveal two additional miniguns that deal 120 damage every .04 seconds and two rocket launchers that deal 250 damage every .25 seconds. Your Movement Speed is reduced during Hexa Fire but you gain 10% damage reduction.
+Reveal two additional miniguns that deal 120 damage every 0.04 seconds and two rocket launchers that deal 250 damage every .25 seconds. Your Movement Speed is reduced during Hexa Fire but you gain 10% damage reduction.
 item_desc
 {2/4/6/8}s Stealth * Smoke Screen
 item_short_desc
@@ -76501,7 +76501,7 @@ Weapon Attacks * reveal 3s
 item_short_desc
 Open Season
 item_name
-[Sniper Mode] Your Sniper attacks reveal enemies to you for {scale=1|1}s.
+[Sniper Mode] Your attacks reveal enemies to you for {scale=1|1}s.
 item_desc
 Your Movement Speed is slowed.
 EFFECT_GROUP_desc
@@ -76609,13 +76609,13 @@ Revolver
 DEVICE_name
 Accursed Arm
 item_name
-Begin flying for 4s and mutate your Revolver to fire 4 explosive blasts that deal 1000 damage every .5 seconds.
+Begin flying for 4s and mutate your Revolver to fire 4 explosive blasts that deal 1000 damage every 0.5s.
 item_desc
 Accursed Arm Gun
 item_name
 Increase Stealth * Sight Range
 item_short_desc
-For 5 seconds successful shots made to the upper half of an enemy character will deal 50% increased damage. Your Sniper Shots also do not use ammo.
+For 5s successful shots made to the upper half of an enemy character will deal 50% increased damage. Your Sniper Shots also do not use ammo.
 item_desc
 For purchasing avatars
 Loot_Table_desc
@@ -76742,7 +76742,7 @@ TRv2 Practice
 Match_Queue_desc
 Illusory Mirror
 item_name
-Fires a continuous beam for a short period that deals 5 ticks of 90 damage over .2 seconds every .5s. Effective up to Medium Range.
+Fires a continuous beam for a short period that deals 5 ticks of 90 damage over 0.2s every 0.5s. Effective up to Medium Range.
 item_desc
 Chaos Gold - 500
 ITEM_name
@@ -77116,7 +77116,7 @@ Drogoz
 BOT_name
 Rocket Launcher
 item_name
-Bombard lesser creatures with explosive rockets that deal 850 damage per shot every 0.85 seconds.
+Bombard lesser creatures with explosive rockets that deal 850 damage per shot every 0.85s.
 item_desc
 Objective Guardian
 item_name
@@ -83680,7 +83680,7 @@ Illusion (Ying) Deployable
 Deployable_name
 Illusory Rift
 item_name
-Apply a buff on all allies that heals for 600 health per second for 8 seconds. While this buff is active Dimensional Link may now teleport you to any ally.
+Apply a buff on all allies that heals for 600 health per second for 8s. While this buff is active Dimensional Link may now teleport you to any ally.
 item_desc
 Skirmish B
 map_game_friendly_name
@@ -84286,7 +84286,7 @@ Capture And Payload
 Match_Queue_name
 zBROKEN Capture And Siege
 Match_Queue_name
-Lanepusher CaptureAndPayload
+Payload Cart
 BOT_name
 Enchanted Forest Cap and Payload
 map_game_friendly_name
@@ -84368,7 +84368,7 @@ Temple Ruins Co-Op
 map_game_friendly_name
 Temple Ruins Co-op
 map_game_name
-A six shot semi-automatic revolver that deals 520 damage per shot every .36s. Effective at Short Range.
+A six shot semi-automatic revolver that deals 520 damage per shot every 0.36s. Effective at Short Range.
 item_desc
 Winter Frost
 ITEM_desc
@@ -84892,7 +84892,7 @@ Skirmish Arena
 map_game_friendly_name
 Skirmish Arena
 map_game_name
-Gain 40% attack speed and 40% movement speed for 4.5 seconds. Firing does not consume ammo.
+Gain 40% attack speed and 40% movement speed for 4.5s. Firing does not consume ammo.
 item_desc
 Throw a fragmentation grenade dealing up to 750 damage. Holding <CMD=GBA_Ability_2> will cook the grenade and reduce its detonation time.
 item_desc
@@ -85316,11 +85316,11 @@ Glacier Keep V2 CAP
 map_game_name
 ZDelete Payload
 MSL_name
-Heaven TDM
+Abyss
 Match_Queue_short_desc
-Heaven TDM
+Abyss
 Match_Queue_name
-Heaven TDM
+Abyss
 Match_Queue_desc
 Cutthroat
 ITEM_desc
@@ -85368,7 +85368,7 @@ item_desc
 item_short_desc
 Decrepify
 item_name
-[Poison Bolts] Poison Bolts reduce healing by {scale=15|15}% for 3s.
+[Poison Bolts] Enemies hit by Poison Bolts receive {scale=15|15}% reduced healing for 3s.
 item_desc
 Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
@@ -86776,7 +86776,7 @@ item_name
 item_desc
 Second Wind
 item_name
-[Hustle] Increase Hustle speed by {scale=10|10}% for 1.5 seconds after activation.
+[Hustle] Increase Hustle speed by {scale=10|10}% for 1.5s after activation.
 item_desc
 zDeprecated Scramble III
 item_name
@@ -86796,7 +86796,7 @@ Scramble
 item_name
 [Hustle] Gain {scale=5|5}% damage reduction while using Hustle.
 item_desc
-Fire one shot every 0.1 seconds that deals 135 damage. Effective up to Medium Range.
+Fire one shot every 0.1s that deals 135 damage. Effective up to Medium Range.
 item_desc
 Bring up your Targeting Binoculars. Click on Enemy players to guide an artillery shell dealing 1400 damage to their location. Viktor's Movement speed is slowed while channeling Barrage.
 item_desc
@@ -87927,7 +87927,7 @@ Minigun (DF)
 item_short_desc
 Miniguns
 item_name
-Incredibly fast firing miniguns that deal 40 damage per shot every .04 seconds once fully spun up. Maintain fire to continually speed up the rate of fire. Effective at Medium Range.
+Incredibly fast firing miniguns that deal 40 damage per shot every 0.04 seconds once fully spun up. Maintain fire to continually speed up the rate of fire. Effective at Medium Range.
 item_desc
 Select a New Card
 PALADINS_SELECT_NEW_CARD
@@ -88229,7 +88229,7 @@ Common Hammer
 item_short_desc
 Spitting Cobra
 item_name
-Fires as glob of venom every .55s dealing 400 damage to a single target. Effective at Short Range. Reloading throws the cobra dealing 200 damage and stunning enemies for 1s.
+Fires as glob of venom every 0.55s dealing 400 damage to a single target. Effective at Short Range. Reloading throws the cobra dealing 200 damage and stunning enemies for 1s.
 item_desc
 Slip Away
 item_name
@@ -88524,7 +88524,7 @@ zOldPatience IV
 item_name
 [Nether Step] Increase the time you have between dashes by {4}s.
 item_desc
-A salvaged ship cannon that fires one 650 damage cannon ball every 1 second. Effective at Short Range.
+A salvaged ship cannon that fires one 650 damage cannon ball every 1s. Effective at Short Range.
 item_desc
 zDeprecated Surf III
 item_name
@@ -88608,7 +88608,7 @@ item_name
 item_desc
 Kinetics
 item_name
-[Blast Shot] Blast Shot reduces healing by {scale=15|15}% for 3s.
+[Blast Shot] Enemies hit by Blast Shot receive {scale=15|15}% reduced healing for 3s.
 item_desc
 zDeprecated Kinetics II
 item_name
@@ -89242,7 +89242,7 @@ item_name
 item_desc
 Mending Spirits
 item_name
-Summon a spirit to enchant an ally healing 280 Health every second for 5 seconds.
+Summon a spirit to enchant an ally healing 280 Health every second for 5s.
 item_desc
 zDeprecated (Raze II card)
 item_name
@@ -89368,7 +89368,7 @@ Spawned by Grohk's Totemic Ward device's firemode (TgDeviceFire_HealingTotem) im
 Deployable_desc
 Shell Shield
 item_name
-Project a 6000 health shield that blocks enemy fire for 4 seconds.
+Project a 6000 health shield that blocks enemy fire for 4s.
 item_desc
 Main Deployable used by Grohk's Totemic Ward ability. No shield unless Grohk Dome Deployable is set up to act like one.
 Deployable_desc
@@ -89518,7 +89518,7 @@ Elven Illusionist
 BOT_desc
 Barrier Reef
 item_name
-[Shell Shield] For every 3000 damage absorbed reduce the cooldown of Shell Shield by {scale=1|1} second.
+[Shell Shield] For every 3000 damage absorbed reduce the cooldown of Shell Shield by {scale=1|1}s.
 item_desc
 zDeprecated Ancient Resolve IV
 item_name
@@ -90410,7 +90410,7 @@ item_short_desc
 item_short_desc
 [Weapon] Eliminations increase your reload speed.
 item_short_desc
-[Sniper Mode] Your Sniper attacks reveal enemies.
+[Sniper Mode] Your attacks reveal enemies.
 item_short_desc
 [Armor] Gain crowd control reduction.
 item_short_desc
@@ -90428,7 +90428,7 @@ item_short_desc
 item_short_desc
 [Transporter] Increases the flight speed of Transporter,
 item_short_desc
-[Transporter]  Increase your movement speed after teleporting through transporter.
+[Transporter]  Increase your movement speed after teleporting through Transporter.
 item_short_desc
 [Transporter] Activating Transporter generates ammo.
 item_short_desc
@@ -90560,7 +90560,7 @@ item_short_desc
 item_short_desc
 [Shield] Every 600 Damage your shield takes reduces the cooldown of Charge.
 item_short_desc
-[Shield] While Shield is active and you are below 50% Health, you heal every second until you reach 50% Health.
+[Shield] While Shield is active and you are below 40% Health, you heal every second until you reach 40% Health.
 item_short_desc
 [Shield] Increase the Health of Shield.
 item_short_desc
@@ -91054,7 +91054,7 @@ Glacier Keep v03
 map_game_name
 Salvage
 item_name
-[Dredge Anchor] Activating Dredge Anchor generates 1 Ammo every .5s for {scale=.5|.5}s.
+[Dredge Anchor] Activating Dredge Anchor generates 1 Ammo every 0.5s for {scale=0.5|0.5}s.
 item_desc
 Encouragement
 item_name
@@ -91537,7 +91537,7 @@ Sanguine
 ITEM_desc
 Sanguine Revolver
 ITEM_name
-Androxus Revolver (Purple)
+Androxus Revolver (Teal)
 ITEM_desc
 Wraith Revolver
 ITEM_name
@@ -92640,7 +92640,7 @@ Igloo
 map_game_friendly_name
 I_Igloo Ranked
 map_game_name
-WIP Crazy King
+WIP ModExperiment_3
 MSL_name
 Mine
 map_game_friendly_name
@@ -92650,11 +92650,11 @@ Waterfall
 map_game_friendly_name
 I_Waterfall Ranked
 map_game_name
-Crazy King
+ModExperiment_3
 Match_Queue_short_desc
-Crazy King
+ModExperiment_3
 Match_Queue_name
-Crazy King
+ModExperiment_3
 Match_Queue_desc
 Beach
 map_game_friendly_name
@@ -96958,7 +96958,7 @@ Obtainable in the Festive Chest
 ITEM_desc
 Dasher's Antlers
 ITEM_name
-Regenerate 2150 Shield Health over 1s.
+Regenerate 2125 Shield Health over 1s.
 item_desc
 Obtainable in the Festive Chest
 ITEM_desc
@@ -98018,7 +98018,7 @@ Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
 Battle Focus
 EFFECT_GROUP_name
-Fire one shot every 0.09 seconds that deals 120 damage. Effective up to Medium Range.
+Fire one shot every 0.09s that deals 120 damage. Effective up to Medium Range.
 item_desc
 In The Fray
 item_name
@@ -99408,7 +99408,7 @@ WIP T_Falls PvE
 map_game_name
 Prowl
 item_name
-Move 50% Faster and increase your jump height for 4 seconds. Firing your weapon or using another ability will cancel Prowl.
+Move 50% Faster and increase your jump height for 4s. Firing your weapon or using another ability will cancel Prowl.
 item_desc
 PvE Our Blood is Rushing
 Match_Queue_short_desc
@@ -99484,7 +99484,7 @@ Goblin Mech Pilot
 BOT_desc
 Midnight
 item_name
-Enemies within 300ft have their vision restricted to a 30 foot radius for 4 seconds.
+Enemies within 300ft have their vision restricted to a 30 foot radius for 4s.
 item_desc
 Midnight Deployable
 Deployable_name
@@ -99529,7 +99529,7 @@ Default Inara
 ITEM_name
 Stone Spear
 item_name
-Fire a burst of 3 projectiles dealing 225 damage each over 0.3 seconds, every 1.25 seconds at medium range.
+Fire a burst of 3 projectiles dealing 225 damage each over 0.3s, every 1.25s at medium range.
 item_desc
 Energy Charge - Barrier Tank
 item_name
@@ -100344,7 +100344,7 @@ Fire in the Hole
 map_game_friendly_name
 WIP F_Dock PvE
 map_game_name
-Bulk up
+Bulk Up
 item_name
 [Recovery] Recovery heals for an additional 600 instantly and increases your maximum Health by 300 for 5s.
 item_desc
@@ -101103,7 +101103,7 @@ item_desc
 ITEM_name
 PvE_CrossbowCherubic
 item_name
-A crossbow that deals 650 damage every .75 seconds.
+A crossbow that deals 650 damage every 0.75 seconds.
 item_desc
 Bow Fire Audio
 EFFECT_GROUP_name
@@ -105061,9 +105061,9 @@ Reveal Self
 EFFECT_GROUP_name
 Fire a Stream of magic projectiles from your hand that deal 210 damage every 0.3s. Your projectiles pass through enemies and apply a Soul Orb stack with every hit. Stacks up to 4 times.
 item_desc
-Step into another plane of reality for 4 seconds. While this ability is active you are in stealth and immune to all harmful effects.
+Step into another plane of reality for 4s. While this ability is active you are in stealth and immune to all harmful effects.
 item_desc
-Restore the soul of an ally, Healing them for 1000 health every second for 2 seconds.
+Restore the soul of an ally, Healing them for 1000 health every second for 2s.
 item_desc
 Detonate all of your active Soul Charges. Deal 100 damage to the afflicted enemy for every charge detonated. Every charge detonated also heals you for 15% of your maximum life.
 item_desc
@@ -105806,15 +105806,15 @@ Reach mastery 30 with Willo.
 ITEM_desc
 of the Summer Court
 ITEM_name
-Fire a blast of Fae energy that deals 500 damage every 0.75 seconds.
+Fire a blast of Fae energy that deals 500 damage every 0.75s.
 item_desc
-Fire out a toxic spore that deals 100 damage and prevents all healing in an area for 5s. Enemies affected by the spore that move out of the infested area cannot heal for 2s.
+Fire out a toxic spore that deals 100 damage and prevents all healing in an area for 5s. Enemies affected by the spore that move out of the infested area cannot be healed for 2s.
 item_desc
 Toss a seed that explodes after a 1 second fuse, dealing 400 damage and spawning 4 additional seeds that each explode for 400 damage after 1 second.
 item_desc
 Quickly flutter your wings and propel yourself forwards and upwards.
 item_desc
-Harness the power of the Fae and take to the sky for 10 seconds. 
+Harness the power of the Fae and take to the sky for 10s. 
 item_desc
 Sandbridge
 map_game_friendly_name
@@ -107522,7 +107522,7 @@ WIP Dockwork One-Round
 map_game_name
 Siege Shield
 item_name
-Deploy a 5000 health siege shield that advances forward. Lasts 6 seconds.
+Deploy a 5000 health siege shield that advances forward and lasts 6s.
 item_desc
 Siege Shield Deployable
 Deployable_name
@@ -108170,7 +108170,7 @@ map_game_name
 item_short_desc
 Royal Seal
 item_name
-[Presence] Presence reduces healing by {scale=15|15}% for 3s.
+[Presence] Enemies hit by Presence receive {scale=15|15}% reduced healing for 3s.
 item_desc
 zDeprecated Royal Seal II
 item_name
@@ -109401,7 +109401,7 @@ Spray Rental Vendor - Weapons Chest
 Loot_Table_name
 Capture the Objective to Win
 PALADINS_ALERT_CAPTURE_OBJECTIVE_TO_WIN
-Within 2 seconds, Hurl burning oil with two quick swings that deal 450 damage and a heavy swing that deals 700 damage.
+Within 2s, Hurl burning oil with two quick swings that deal 450 damage and a heavy swing that deals 700 damage.
 item_desc
 Enter a counter stance for 1.5s. If you take an enemy hit to the front of your character you negate any effects of the hit and counter attack with a melee strike dealing 560 damage.
 item_desc
@@ -109827,7 +109827,7 @@ map_game_name
 item_short_desc
 Sidereal
 item_name
-[Weapon] Weapon attacks reveal enemies to you for {scale=1|1} second.
+[Weapon] Weapon attacks reveal enemies to you for {scale=1|1}s.
 item_desc
 zDeprecated Sidereal II
 item_name
@@ -110109,7 +110109,7 @@ item_desc
 item_short_desc
 Inner Peace
 item_name
-[Void Grip] Decrease the cooldown of Void Grip by {scale=1.2|1.2}s.
+[Void Grip] Reduce the cooldown of Void Grip by {scale=1.2|1.2}s.
 item_desc
 [Light Speed] Gain ammo every second during Light Speed.
 item_short_desc
@@ -111584,7 +111584,7 @@ Channel gravitational energy and lift an enemy up, dealing up to 360 damage over
 item_desc
 Lower your weapon and move 65% faster while increasing your jump height and lowering your fall speed.
 item_desc
-Apply a celestial blessing through all obstacles, healing for 220 Health every second for 10 seconds.
+Apply a celestial blessing through all obstacles, healing for 220 Health every second for 10s.
 item_desc
 Aaron Testing 123
 Loot_Table_Items_desc
@@ -113086,7 +113086,7 @@ Enter stealth and hide yourself from vision. While in Stealth your energy is con
 item_desc
 Fire a flare that reveals enemies to your team in a large radius.
 item_desc
-Throw a Flash Bang grenade that detonate on contact blinding nearby enemies for 3 seconds
+Throw a Flash Bang grenade that detonate on contact blinding nearby enemies for 3s.
 item_desc
 Tencent_TDM_A
 map_game_friendly_name
@@ -114203,7 +114203,7 @@ Overcharge your weapon, causing it to fire 33% faster for 3s without consuming a
 item_desc
 Inscribe a rune on the ground that will teleport you back to its location after 10s or when reactivated. Teleporting cleanses all effects and heals for 500.
 item_desc
-Charge forward, hitting enemies for 600 and knocking them straight back.
+Charge forward, hitting an enemy for 600 and knocking them straight back.
 item_desc
 Available in the VIP Store.
 ITEM_desc
@@ -117113,7 +117113,7 @@ Mirth (TDM)
 map_game_friendly_name
 WIP Mirth (TDM)
 map_game_name
-WIP Heaven TDM
+WIP DM Abyss
 MSL_name
 Titanslayer
 item_name
@@ -117779,7 +117779,7 @@ Loot_Table_name
 item_desc
 [Salvo] Salvo now activates instantly, always fires 6 shots, and deals 10% more damage.
 item_desc
-[Healing Totem] Healing totem can now deploy at range and 100% of your healing to full health players becomes a shield.
+[Healing Totem] Healing Totem can now deploy at range and healing done to full health players becomes a shield.
 item_desc
 [Weapon] Targets hit by Lightning Staff take 15% increased damage for 2s.
 item_desc
@@ -123449,7 +123449,7 @@ MalDamba Lore
 ITEM_name
 Good things come in small packages
 ITEM_short_desc
-While toiling in the gold mines, a particularly wily and inventive goblin named Ruckus stumbled upon the long-lost mind-stone of a fallen war golem. He installed the relic into his mechanical digging suit, hoping it would provide the suit with enough power to outperform the other miners. But he was surprised when the the ancient sentience reawakened and brought the suit to life. Though it resented its situation, its pilot, and the name it was given, Bolt nonetheless agreed to a tentative partnership, one that freed them both to scour the Realm in search of fame, fortune, and upgrades.
+While toiling in the gold mines, a particularly wily and inventive goblin named Ruckus stumbled upon the long-lost mind-stone of a fallen war golem. He installed the relic into his mechanical digging suit, hoping it would provide the suit with enough power to outperform the other miners. But he was surprised when the ancient sentience reawakened and brought the suit to life. Though it resented its situation, its pilot, and the name it was given, Bolt nonetheless agreed to a tentative partnership, one that freed them both to scour the Realm in search of fame, fortune, and upgrades.
 ITEM_desc
 Ruckus Lore
 ITEM_name
@@ -127887,7 +127887,7 @@ Chest Loot Vendor - Moji Chest
 Loot_Table_name
 Harmonious
 item_name
-Being hit while your Magic Barrier is active Heals you for {scale=100|100}.
+Being hit while your Magic Barrier is active heals you for {scale=100|100}.
 item_desc
 Shimmering
 item_name
@@ -129987,7 +129987,7 @@ Revives
 PALADINS_REVIVES
 Remain
 PALADINS_REMAIN
-Obtainable in the Hats Chest.
+Obtainable in Battle Pass.
 ITEM_desc
 Squidbert
 ITEM_name
@@ -131077,7 +131077,7 @@ Store Bundle - Strix - Infiltrator
 Loot_Table_name
 Store Bundle - Terminus - Jotunn
 Loot_Table_name
-Store Bundle - Ruckus - Robo Rider
+Store Bundle - Ruckus - Robo Force
 Loot_Table_name
 Store Bundle - Tyra - Drakefire
 Loot_Table_name
@@ -131516,7 +131516,7 @@ Viktor BR
 ITEM_name
 For Battle Royale
 EFFECT_GROUP_desc
-Store Bundle Vendor - Standard Skins
+Feature Page Bundle Vendor - Standard Skins
 Loot_Table_name
 Store Bundle Vendor - New Skins
 Loot_Table_name
@@ -132061,7 +132061,7 @@ Your shield recharges at 60% effectiveness while it is raised.
 item_desc
 Firing Line
 item_name
-Champions affected by Battle Shout now also deal 20% increased damage and gain CC immunity for 4 seconds.
+Champions affected by Battle Shout now also deal 20% increased damage and gain CC immunity for 4s.
 item_desc
 Storm of Bullets
 item_name
@@ -133568,7 +133568,7 @@ Copy of Plated
 ITEM_name
 Available for purchase at Mastery Level 20.
 ITEM_desc
-Copy of Cosmic Drogoz
+Golden Furia
 ITEM_name
 Available for purchase at Mastery Level 20.
 ITEM_desc
@@ -133716,14 +133716,17 @@ Ascension Peak (AA)
 map_game_friendly_name
 WIP Asiatic Map (Ascended Assault)
 map_game_name
+Obtainable in the Rise of Furia Event.
 ITEM_desc
-Maeve Skin04A
+Demonette
 ITEM_name
+Obtainable in the Rise of Furia Event.
 ITEM_desc
-Androxus Skin07A
+Fallen
 ITEM_name
+Obtainable in the Rise of Furia Event.
 ITEM_desc
-Androxus WEP Skin09A
+Fallen Redeemer
 ITEM_name
 Tencent Skin Vendor
 Loot_Table_name
@@ -133912,11 +133915,11 @@ SLT - Collection - Skye - Operative-RENTAL - 30 Day
 Loot_Table_name
 SLT - Collection - Pip - Pandamonium-RENTAL - 30 Day
 Loot_Table_name
-Heaven and Hell Volume
+HH Event Volume
 item_name
 SLT - Collection - Ying - Quicksilver-RENTAL - 30 Day
 Loot_Table_name
-Heaven And Hell Event Volume
+HH Event Volume
 item_desc
 SLT - Collection - Pip - Raider-RENTAL - 30 Day
 Loot_Table_name
@@ -134479,13 +134482,13 @@ Founder's Pack
 ITEM_name
 Champion Pack Refund Check Trigger
 ITEM_name
-Tyra Skin05A
+Archangel
 ITEM_name
 Covert Ops
 ITEM_name
 Covert Ops Eliminators
 ITEM_name
-Tyra WEP Skin05A
+Archangel's Prayer
 ITEM_name
 Login SLT
 Loot_Table_name
@@ -134507,14 +134510,16 @@ Khan
 item_short_desc
 Unimpressed
 item_name
-Test Emote
+Obtainable from the Rise of Furia Event.
 item_desc
+Obtainable from the Rise of Furia Event.
 ITEM_desc
-Drogoz Skin04A
+Abyssal Lord
 ITEM_name
 ITEM_short_desc
+Obtainable in the Rise of Furia Event.
 ITEM_desc
-Drogoz WEP Skin04A
+Abyssal Desecrator
 ITEM_name
 ITEM_desc
 Viktor Skin07A
@@ -134523,15 +134528,16 @@ Hit Damage
 EFFECT_GROUP_name
 SLT - Champion Pack Bundle
 Loot_Table_name
-Heaven and Hell Cleanse Volume
+HH Event Cleanse Volume
 item_name
-Heaven And Hell Event Volume
+HH Event Volume
 item_desc
 Kitten
 ITEM_short_desc
 ITEM_short_desc
+Obtainable in the Rise of Furia Event.
 ITEM_desc
-Maeve WEP Skin02A
+Demonette's Soul Shredders
 ITEM_name
 HeavenAndHell
 map_game_friendly_name
@@ -134562,13 +134568,13 @@ None
 ITEM_name
 Gearhead
 ITEM_name
-Complete all Mecha Battle Pass Challenges.
+Complete all Battle Pass Challenges.
 ITEM_desc
 Makoa
 item_short_desc
 Break Dance
 item_name
-Roaming Emote
+Obtainable from the Rise of Furia Event.
 item_desc
 HH Event Door
 BOT_name
@@ -134602,11 +134608,11 @@ Get 150 Eliminations
 Activity_Goal_desc
 Get 150 Eliminations
 Activity_Goal_name
-Spend 15,000 Credits
+Earn a total of 15,000 Credits
 Activity_Goal_title
-Spend 15,000 Credits
+Earn a total of 15,000 Credits
 Activity_Goal_desc
-Spend 15,000 Credits
+Earn a total of 15,000 Credits
 Activity_Goal_name
 Get 75 Killing Blows
 Activity_Goal_title
@@ -134638,11 +134644,11 @@ Flank Challenge 3
 Activity_Goal_desc
 Flank Challenge 3
 Activity_Goal_name
-Get 15 Double Kills
+Get a Triple Kill in 3 Different Matches
 Activity_Goal_title
-Get 15 Double Kills
+Get a Triple Kill in 3 Different Matches
 Activity_Goal_desc
-Get 15 Double Kills
+Get a Triple Kill in 3 Different Matches
 Activity_Goal_name
 Get 5,000 Objective Time
 Activity_Goal_title
@@ -134704,7 +134710,7 @@ HH Event Demon Drogoz
 BOT_name
 SLT - Collection - Maeve - Demon
 Loot_Table_name
-Maeve Skin04 Container
+zDelete
 ITEM_name
 Complete 1
 Activity_Goal_name
@@ -134739,7 +134745,7 @@ Activity_Goal_name
 ITEM_name
 SLT - Collection - Drogoz - Abyss Lord
 Loot_Table_name
-Drogoz Skin04 Container
+Abyssal Lord
 ITEM_name
 SLT - Collection - Lex - Covert Ops
 Loot_Table_name
@@ -134750,7 +134756,7 @@ SND_Notify_GoToBattlePass_Global
 ITEM_desc
 zDelete
 ITEM_name
-Tyra Skin05 Container
+zDelete
 ITEM_name
 SLT - Collection - Tyra - Angel
 Loot_Table_name
@@ -134905,7 +134911,7 @@ SLT - Chest - Battle Chest - Battle Pass XP
 Loot_Table_name
 SLT - Chest - Battle Chest - Battle Pass XP
 Loot_Table_name
-Battle Spray
+z--Unused--Battle Spray
 ITEM_name
 Obtained in Battle Pass.
 ITEM_desc
@@ -134917,21 +134923,21 @@ SLT - Collection - Lian - Galactic Scion
 Loot_Table_name
 Galactic Scion
 ITEM_name
-Battle Pass Tier 1 Challenges available soon
+Complete Challenges, Earn Experience!
 ITEM_desc
 Battle Pass Tier 1 Challenges
 ITEM_name
 Obtainable in the Galaxy Chest.
 ITEM_desc
-Battle Pass Tier 2 Challenges available soon
+Complete Challenges, Earn Experience!
 ITEM_desc
 Battle Pass Tier 2 Challenges
 ITEM_name
-Battle Pass Tier 3 Challenges available soon
+Complete Challenges, Earn Experience!
 ITEM_desc
 Battle Pass Tier 3 Challenges
 ITEM_name
-Battle Pass Tier 4 Challenges available soon
+Complete Challenges, Earn Experience!
 ITEM_desc
 Battle Pass Tier 4 Challenges
 ITEM_name
@@ -135089,17 +135095,17 @@ Obtainable in Battle Pass.
 ITEM_desc
 Furia
 BOT_name
-Fury
+Angel of Vengeance
 BOT_desc
 Default Furia
 ITEM_name
-Furia Inhand
+Pyre Blade
 item_name
 Primary fire short blast
 DEVICE_desc
 Fire Sound
 EFFECT_GROUP_name
-Default Furia Inhand
+Default Pyre Blade
 ITEM_name
 Energy Charge - Furia
 item_name
@@ -135111,7 +135117,7 @@ BETA Bundle
 Loot_Table_name
 Grohk Neon Demon Voice Pack
 ITEM_name
-Furia RMB
+Kindle Soul
 item_name
 Beta Player
 ITEM_name
@@ -135121,7 +135127,7 @@ Copy of SLT - Chest - Gold Chest - Epic Weapons
 Loot_Table_name
 zzzzDeprecated
 Loot_Table_name
-Furia Ult
+Inflame
 item_name
 SLT - Collection - Androxus - Huntsman 1 Day Rental
 Loot_Table_name
@@ -135137,6 +135143,18 @@ SLT - Collection - Maeve - Strike - RENTAL
 Loot_Table_name
 SLT - Collection - Lex - Covert Ops - RENTAL
 Loot_Table_name
+Pyre Strike
+item_name
+Pre-Fire Activate Sound
+EFFECT_GROUP_name
+Fire Audio
+EFFECT_GROUP_name
+this effectgroup only exists to make cards like "Cool Runnin" able to apply extra hits via the projectile's m_ExtraFireModes.
+EFFECT_GROUP_desc
+Pre-Fire Activate Sound
+EFFECT_GROUP_name
+Fire Audio
+EFFECT_GROUP_name
 NP Pack 1 Receipt
 ITEM_name
 NP Pack 2 Receipt
@@ -135147,18 +135165,88 @@ Vet Pack 2 Receipt
 ITEM_name
 A Great Deal for New Players
 ITEM_short_desc
+Frostmare Mount|100,000 Gold|Desirable Cosmetic
+ITEM_desc
+Frost Pack
+ITEM_name
 Become Legendary Today!
 ITEM_short_desc
+Star Slayer Skin|1x Diamond Chest|400 Crystals
+ITEM_desc
+Star Pack
+ITEM_name
 Unbelievable Savings!
 ITEM_short_desc
+3x Diamond Chest|5x Gold Chest|200 Crystals
+ITEM_desc
+Goddess Pack
+ITEM_name
 Terrorize Your Enemies!
 ITEM_short_desc
+Nightmare Mount|3x Diamond Chest|5x Gold Chest|400 Crystals
+ITEM_desc
+Nightmare Pack
+ITEM_name
+Frost Pack DLC - Consumables
+Loot_Table_name
+Frost Pack DLC - Durables
+Loot_Table_name
+Frost Pack DLC - Inner
+Loot_Table_name
+Frost Pack DLC - Outer
+Loot_Table_name
+Star Pack DLC - Consumables
+Loot_Table_name
+Star Pack DLC - Durables
+Loot_Table_name
+Star Pack DLC - Inner
+Loot_Table_name
+Star Pack DLC - Outer
+Loot_Table_name
+Vet Pack 1 DLC SLT
+Loot_Table_name
+Nightmare Pack DLC - Consumables
+Loot_Table_name
+Nightmare Pack DLC - Durables
+Loot_Table_name
+Nightmare Pack DLC - Inner
+Loot_Table_name
+Nightmare Pack DLC - Outer
+Loot_Table_name
+Archangel
+ITEM_name
+Fallen
+ITEM_name
 Switch
+ITEM_name
+Demonette
+ITEM_name
+SLT - Collection - Androxus - Fallen
+Loot_Table_name
+zDelete
+Loot_Table_name
+zDelete
+Loot_Table_name
+Strix Skin00D
+ITEM_name
+Strix ACC Skin00D
 ITEM_name
 Switch Talon Rifle
 ITEM_name
 SLT - Collection - Strix - Switch
 Loot_Table_name
+Wings of Wrath
+item_name
+Wings of Wrath Supporting Device
+item_name
+Default Androxus
+ITEM_name
+SLT - Collection - Androxus - Default Test
+Loot_Table_name
+No active Death Stamp
+ITEM_desc
+Furia
+ITEM_name
 1500 Crystals|Battle Pass 1|Battle Pass 2|Battle Pass 3
 ITEM_desc
 Battle Spray
@@ -135167,17 +135255,350 @@ Break into Battle Pass and earn Exclusive Content All Year Long!
 ITEM_short_desc
 Switch
 ITEM_name
+HH Fear
+item_name
+Ameri-Khan
+ITEM_name
+Ameri-Khan Eagle
+ITEM_name
+SLT - Collection - Khan - Murica
+Loot_Table_name
+Ameri-Khan
+ITEM_name
 50% bonus Experience and Gold|Legendary Mecha Prowler Mount|Animated Loading Frame and Avatar|Unlock over 50 additional rewards just by leveling up!
 ITEM_desc
+Angelic Inferno
+ITEM_short_desc
+Stay in the fray while keeping your allies healthy.
+ITEM_desc
+Furia_Deck
+ITEM_name
+[Weapon] Increase your Ammo count.
+item_short_desc
+Pyretic Dynamo
+item_name
+[Weapon] Increase your Ammo count by {scale=2|2}
+item_desc
+[Weapon] If an enemy is affected with a Soul Charge you move faster
+item_short_desc
+zzzdeprecated
+item_name
+[Weapon] If an enemy is affected with a Soul Charge you move {scale=8|8}% faster
+item_desc
+[Weapon] Gain Reload Speed.
+item_short_desc
+Devout Dexterity
+item_name
+[Weapon] Gain {scale=7|7}% Reload Speed.
+item_desc
+[Armor] Increase your Maximum Health.
+item_short_desc
+Incandescent Being
+item_name
+[Armor] Increase your Maximum Health by {scale=50|50}.
+item_desc
+[Wings of Wrath] Reduce the Cooldown of Wings of Wrath.
+item_short_desc
+Pyre Walker
+item_name
+[Wings of Wrath] Reduce the Cooldown of Wings of Wrath by {scale=0.5|0.5}s.
+item_desc
+[Wings of Wrath] Increase the distance of Wings of Wrath.
+item_short_desc
+Righteous Path
+item_name
+[Wings of Wrath] Increase the dash distance of Wings of Wrath by {scale=10|10}%
+item_desc
+Maeve Demon H&H
+ITEM_name
+Maeve
+item_short_desc
+Crossed
+item_name
+Reach mastery 30 with Furia.
+ITEM_desc
+The Angel of Vengeance
+ITEM_name
+SLT - Collection - Khan - Royal Guard-RENTAL - 1 Day
+Loot_Table_name
 SND_Notify_BattlePassAcquisition
+Tyra Angel H&H Voice Pack
+ITEM_name
+Drogoz Demon H&H Voice Pack
+ITEM_name
+Androxus Fallen Angel H&H Voice Pack
+ITEM_name
+Music Pack Vendor
+Loot_Table_name
+Rise of Furia
+ITEM_name
+Default
+ITEM_name
+Epic
+ITEM_name
+Ninja
+ITEM_name
+Crazy King
+map_game_friendly_name
+WIP Crazy King
+map_game_name
+DEVONLY Give All
+ITEM_name
+ENT SLT DEVONLY Give All
+Loot_Table_name
+Obtainable in the Festive Chest.
+ITEM_desc
+Obtainable in the Valentines Chest.
+ITEM_desc
+Obtainable in the Valentines Chest.
+ITEM_desc
+Obtainable in the Feudal Chest.
+ITEM_desc
+ENT SLT Talent Pack
+Loot_Table_name
+ENT SLT Mount Pack
+Loot_Table_name
+ENT SLT Avatar Pack
+Loot_Table_name
+ENT SLT Title Pack
+Loot_Table_name
+ENT SLT Loading Frame Pack
+Loot_Table_name
+ENT SLT Announcer Pack Pack
+Loot_Table_name
+ENT SLT Death Stamp Pack
+Loot_Table_name
+ENT SLT MVP Pose Pack
+Loot_Table_name
+Tencent Battle Chest Rental
+ITEM_name
+Tencent Chest Rental
+ITEM_desc
+ENT SLT Emote Pack
+Loot_Table_name
+SLT - Spray Rental - Battle Chest
+Loot_Table_name
+ENT SLT Spray Pack
+Loot_Table_name
 Unlocked all current and future Champions
 ITEM_short_desc
 Unlocked all current and future Champions
 ITEM_desc
+Seris
+item_short_desc
+Spooky
+item_name
+Obtainable from the Rise of Furia Event.
+item_desc
+ENT SLT Weapon Pack
+Loot_Table_name
+Obtainable in the Rise of Furia Event.
+ITEM_desc
+ENT SLT Skin Pack
+Loot_Table_name
+Obtainable in the Rise of Furia Event.
+ITEM_desc
+Default
+ITEM_short_desc
+Default
+ITEM_desc
+Win 3 Matches
+Activity_Goal_title
+Win 3 Matches
+Activity_Goal_desc
+Win 3 Matches
+Activity_Goal_name
+Win 3 Matches
+Activity_title
+Win 3 Matches
+Activity_desc
+Community Event - Win 3 Matches
+Activity_name
+SE Lanepusher
+BOT_name
+[Kindle Soul] Allies affected Kindle Soul reveal enemies with their weapon attacks.
+item_short_desc
+zzdeprecated
+item_name
+[Kindle Soul] Allies affected by Kindle Soul reveal enemies with their weapon attacks for {scale=1|1}s
+item_desc
+map_game_friendly_name
+WIP SE
+map_game_name
+Heaven TDM
+map_game_friendly_name
+WIP Heaven TDM
+map_game_name
 Galaxy Chest Exclusive
 ITEM_short_desc
 Galaxy Chest Exclusive
 ITEM_short_desc
+Androxus
+item_short_desc
+Executioner
+item_name
+Obtainable from the Rise of Furia Event.
+item_desc
+Used with Solar Blessing legendary.  Allows this ability to heal allies.
+EFFECT_GROUP_desc
+Exterminate
+item_name
+[Pyre Strike] When Pyre Strike hits an enemy it stops moving until its duration ends.
+item_desc
+SLT - Digital Deluxe Misc
+Loot_Table_name
+SLT - Season Pass Misc
+Loot_Table_name
+The Giver
+ITEM_name
+Help those in need
+ITEM_desc
+[Kindle Soul] Reduce the Cooldown of Kindle Soul.
+item_short_desc
+Light Forge
+item_name
+[Kindle Soul] Reduce the Cooldown of Kindle Soul by {scale=0.25|0.25}s.
+item_desc
+[Pyre Strike] Increase the Radius of Pyre Strike.
+item_short_desc
+Solar Flare
+item_name
+[Pyre Strike] Increase the Radius of Pyre Strike by {scale=10|10}%
+item_desc
+Solar Blessing
+item_name
+[Pyre Strike] Pyre Strike now stops on and heals allies it passes through for 300 health every 0.05s.
+item_desc
+Obtainable in the Festive Chest.
+ITEM_desc
+Copy of A-bomb-inable
+ITEM_name
+Obtainable in the Festive Chest.
+ITEM_desc
+Copy of A-bomb-inable
+ITEM_name
+[Wings of Wrath] Wings of Wrath attacks reduce the cooldown of Pyre Strike
+item_short_desc
+Stoke the Fire
+item_name
+[Wings of Wrath] Successful Wings of Wrath attacks reduce the cooldown of Pyre Strike by {scale=0.5|0.5}s
+item_desc
+[Wings of Wrath] Successful Wings of Wrath attacks heal you
+item_short_desc
+Fire Siphon
+item_name
+[Wings of Wrath] Successful Wings of Wrath attacks heal you for {scale=50|50}
+item_desc
+[Pyre Strike] Pyre Strike hits reduce Wings of Wrath cooldown
+item_short_desc
+Ignition
+item_name
+[Pyre Strike] A successful Pyre Strike hit reduces the cooldown of Wings of Wrath by {scale=1|1}s
+item_desc
+Increase the Stun duration of Pyre Strike.
+item_short_desc
+Conviction
+item_name
+[Pyre Strike] Increase the Stun duration of Pyre Strike by {scale=0.1|0.1}s
+item_desc
+Hallowed Sight
+item_name
+[Pyre Strike] Pyre Strike Reveals affected enemies for {scale=2|2}s
+item_desc
+Pyre Strike Reveals affected enemies.
+item_short_desc
+Wrath decays slower.
+item_short_desc
+Ruthless
+item_name
+[Armor] Wrath decays {scale=10|10}% slower.
+item_desc
+[Kindle Soul] Healing an ally with Kindle Soul also heals you.
+item_short_desc
+Burning Oath
+item_name
+[Kindle Soul] Healing an ally with Kindle Soul also heals you for {scale=105|105} health over 3s
+item_desc
+[Soul Kindle] Allys affected by Soul Kindle gain a shield
+item_short_desc
+Light of Dawn
+item_name
+[Kindle Soul] Allies affected by Kindle Soul gain a {scale=100|100} health shield for 2s
+item_desc
+[Kindle Soul] Healing an ally restores ammo.
+item_short_desc
+Inner Fire
+item_name
+[Kindle Soul] Healing an ally with Kindle Soul restores {scale=1|1} ammo.
+item_desc
+Furia XP
+ITEM_name
+Community Event - Play 10 Games - Console Make Good
+Activity_name
+Community Event - Earn 200 Eliminations - Console Make Good
+Activity_name
+zzzzDeprecated - Reuse 3
+Activity_name
+zzzzDeprecated - Reuse 4
+Activity_name
+zzzzDeprecated - Reuse 5
+Activity_name
+zzzzDeprecated - Reuse 6
+Activity_name
+zzzzDeprecated - Reuse  7
+Activity_name
+zzzzDeprecated - Reuse 8
+Activity_name
+zzzzDeprecated - Reuse 9
+Activity_name
+zzzzDeprecated - Reuse 10
+Activity_name
+zzzzDeprecated - Reuse 11
+Activity_name
+zzzzDeprecated - Reuse 12
+Activity_name
+zzzzDeprecated - Reuse 13
+Activity_name
+zzzzDeprecated - Reuse 14
+Activity_name
+zzzzDeprecated - Reuse 15
+Activity_name
+zzzzDeprecated - Reuse 16
+Activity_name
+Battle Pass Tier 1 Goal 1
+ITEM_name
+Battle Pass Tier 1 Goal 2
+ITEM_name
+Battle Pass Tier 1 Goal 3
+ITEM_name
+Battle Pass Tier 1 Goal 4
+ITEM_name
+Battle Pass Tier 2 Goal 1
+ITEM_name
+Battle Pass Tier 2 Goal 2
+ITEM_name
+Battle Pass Tier 2 Goal 3
+ITEM_name
+Battle Pass Tier 2 Goal 4
+ITEM_name
+Battle Pass Tier 3 Goal 1
+ITEM_name
+Battle Pass Tier 3 Goal 2
+ITEM_name
+Battle Pass Tier 3 Goal 3
+ITEM_name
+Battle Pass Tier 3 Goal 4
+ITEM_name
+Battle Pass Tier 4 Goal 1
+ITEM_name
+Battle Pass Tier 4 Goal 2
+ITEM_name
+Battle Pass Tier 4 Goal 3
+ITEM_name
+Battle Pass Tier 4 Goal 4
+ITEM_name
+HH Bundle - Demonette
+Loot_Table_name
 Battle Pass - SLT - T1 Challenges
 Loot_Table_name
 For incrementing 
@@ -135188,10 +135609,388 @@ Battle Pass - SLT - T3 Challenges
 Loot_Table_name
 Battle Pass - SLT - T4 Challenges
 Loot_Table_name
+Wings of Wrath gains an additional charge
+item_short_desc
+Celerity
+item_name
+[Wings of Wrath] Wings of Wrath gains an additional charge.
+item_desc
+Furia Voice Pack
+ITEM_name
 Voice Packs
 ITEM_name
 Unlock all current and future Voice Packs
 ITEM_desc
+Unlock all current and future Champions and Voice Packs
+ITEM_desc
+Cherish
+item_name
+[Kindle Soul] Kindle Soul heals up to 50% additional Health based on your ally's missing health.
+item_desc
+Ninja
+ITEM_desc
+Cassie Skin06A
+ITEM_name
+Ninja
+ITEM_short_desc
+Ninja
+ITEM_desc
+Cassie WEP Skin05A
+ITEM_name
+Ninja
+ITEM_short_desc
+SLT - Collection - Cassie - Ninja
+Loot_Table_name
+Cassie Ninja
+ITEM_name
+DM Abyss
+map_game_friendly_name
+WIP DM Abyss
+map_game_name
+Obtainable in the World Wide Chest.
+ITEM_desc
+Obtainable in the World Wide Chest.
+ITEM_desc
+Obtainable in the World Wide Chest.
+ITEM_desc
+Tier 1: Blueprints
+Activity_title
+Tier 2: Scrap Metal
+Activity_title
+Tier 3: Nuts and Bolts
+Activity_title
+Tier 4: Wiring
+Activity_title
+Tier 5
+Activity_title
+zDelete
+item_name
+Ninja
+BOT_name
+Ghost Feather
+BOT_desc
+Ninja SMGs
+item_name
+Ninja Projectiles
+item_name
+Ninja Patch Up
+item_name
+Recovery
+EFFECT_GROUP_name
+Fire Sound
+EFFECT_GROUP_name
+Ninja Sprint
+item_name
+Enter stealth and hide yourself from vision. While in Stealth your energy is consumed.
+item_desc
+Ninja Swap
+item_name
+Switch to your other weapon.
+item_desc
+Ninja Multistrike
+item_name
+Your Movement Speed is increased.
+EFFECT_GROUP_desc
+Rocket Boots
+EFFECT_GROUP_name
+Ninja
+ITEM_name
+ModExperiment_3
+map_game_friendly_name
+WIP ModExperiment_3
+map_game_name
+Abyssal Lord Drogoz
+ITEM_name
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+Maldamba Skin04A
+ITEM_name
+Maldamba WEP Skin04A
+ITEM_name
+SLT - Collection - Maldamba - Ninja
+Loot_Table_name
+Maldamba Ninja
+ITEM_name
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+HeavenAndHell
+map_game_friendly_name
+WIP HH Test
+map_game_name
+Effigy
+ITEM_name
+Cat Skin02A
+ITEM_name
+Dragon
+ITEM_short_desc
+Ninja
+ITEM_desc
+Makoa Skin05A
+ITEM_name
+Ninja
+ITEM_desc
+Makoa WEP Skin06A
+ITEM_name
+SLT - Collection - Makoa - Ninja
+Loot_Table_name
+Makoa Ninja
+ITEM_name
+HH Event Mega Pickup
+Deployable_name
+HH Event Mega Pickup Device
+item_name
+Health Nugget
+EFFECT_GROUP_name
+Exclusive Item
+ITEM_desc
+AmeriKhan
+ITEM_name
+Propel yourself backwards and fire 3 attacks that seek out enemies, dealing 200 damage each.
+item_desc
+Deal 330 damage every 0.5s in a medium spread. Healing allies builds your Wrath resource and increases your attack speed. Wrath decays over time.
+item_desc
+Summon a beam of searing light that travels forward. Enemies caught in its path are stunned for 1s and take an instant 400 Damage along with 20 damage every 0.05s they remain inside the beam.
+item_desc
+Target an ally near your reticle and cast a heal that heals for 1000 and then 500 over 2s.
+item_desc
+Iron Maiden Pyre Blade
+ITEM_name
+Iron Maiden
+ITEM_name
+Experimental Health Pickup Device
+item_name
+Health Nugget
+EFFECT_GROUP_name
+Channel the Pyre and become untargetable for 2s. Afterward, you and allies within 150ft of yourself gain 30% bonus weapon damage and 30% Movement speed for 8 seconds.
+item_desc
+Experimental Health Pickup
+Deployable_name
+SLT - Collection - Furia - Recolor
+Loot_Table_name
+Iron Maiden
+ITEM_name
+Goddess Pack DLC - Consumables
+Loot_Table_name
+Goddess Pack DLC - Durables
+Loot_Table_name
+Goddess Pack DLC - Inner
+Loot_Table_name
+Goddess Pack DLC - Outer
+Loot_Table_name
+Heaven and Hell Bundles Vendor
+Loot_Table_name
+Heaven and Hell Bundle - Archangel
+Loot_Table_name
+Heaven and Hell Bundle - Fallen
+Loot_Table_name
+Heaven and Hell Bundle - Demonette
+Loot_Table_name
+Heaven and Hell Bundle - Abyssal Lord
+Loot_Table_name
+Obtainable in the Rise of Furia Event.
+ITEM_desc
+Archangel Bundle
+ITEM_name
+Obtainable in the Rise of Furia Event.
+ITEM_desc
+Fallen Bundle
+ITEM_name
+Obtainable in the Rise of Furia Event.
+ITEM_desc
+Demonette Bundle
+ITEM_name
+Obtainable in the Rise of Furia Event.
+ITEM_desc
+Abyssal Lord Bundle
+ITEM_name
+Abyssal Shard
+ITEM_name
+Atomic Unit for Rise of Furia Abyssal Shard
+ITEM_desc
+Abyssal Lord Drogoz Unlock
+Activity_Goal_title
+Purchase all three Rise of Furia Bundles
+Activity_Goal_desc
+Abyssal Lord Drogoz Unlock
+Activity_Goal_name
+Abyssal Lord Drogoz Unlock
+Activity_title
+Purchase all three Rise of Furia Bundles
+Activity_desc
+Abyssal Lord Drogoz Unlock
+Activity_name
+Abyssal Lord Drogoz Unlock Progress
+ITEM_name
+Mastery/gold
+ITEM_desc
+Golden Pyre Blade
+ITEM_name
+Golden Furia
+ITEM_name
+SLT - Collection - Furia - Mastery
+Loot_Table_name
+Obtainable from the Rise of Furia Event.
+ITEM_desc
+The Demon
+ITEM_name
+Rise of Furia
+ITEM_name
+Heaven and Hell Store Vendor
+Loot_Table_name
+Acquire 100 Abyssal Shards
+Activity_name
+Heaven and Hell Quest Rewards Vendor
+Loot_Table_name
+Acquire 100 Abyssal Shards
+Activity_title
+Acquire 100 Abyssal Shards
+Activity_desc
+Call of the Abyss
+Activity_Goal_title
+Acquire 100 Abyssal Shards
+Activity_Goal_desc
+Acquire 100 Abyssal Shards
+Activity_Goal_name
+Pyre's Chosen
+Activity_Goal_title
+Acquire 200 Abyssal Shards
+Activity_Goal_desc
+Acquire 200 Abyssal Shards
+Activity_Goal_name
+Acquire 200 Abyssal Shards
+Activity_title
+Acquire 200 Abyssal Shards
+Activity_desc
+Acquire 200 Abyssal Shards
+Activity_name
+ITEM_desc
+Furia's Blessing
+ITEM_name
+Rise of Furia
+Match_Queue_short_desc
+Rise of Furia
+Match_Queue_name
+Race up the Abyssal Spire and do battle atop its summit for event exclusive content.
+Match_Queue_desc
+Drogoz
+item_short_desc
+Dominator
+item_name
+Obtainable from the Rise of Furia Event.
+item_desc
+SLT - Collection - Furia - Recolor - RENTAL - 1 Day
+Loot_Table_name
+SLT - Collection - Maeve - Demon - RENTAL - 1 Day
+Loot_Table_name
+SLT - Collection - Androxus - Fallen - RENTAL - 1 Day
+Loot_Table_name
+SLT - Collection - Tyra - Angel - RENTAL - 1 Day
+Loot_Table_name
+SLT - Collection - Drogoz - Abyss Lord - RENTAL - 1 Day
+Loot_Table_name
+Furia
+item_short_desc
+Hallower
+item_name
+Obtainable in the Gold Chest.
+item_desc
+Obtainable in the Rise of Furia Event.
+ITEM_desc
+Tyra
+item_short_desc
+Reckoning
+item_name
+Play 10 Games
+Activity_Goal_title
+Play 10 Games
+Activity_Goal_desc
+Play 10 Games
+Activity_Goal_name
+Obtainable from the Rise of Furia Event.
+ITEM_desc
+Obtainable from the Rise of Furia Event.
+ITEM_desc
+Obtainable from the Rise of Furia Event.
+ITEM_desc
+Rise of Furia
+map_game_friendly_name
+LIVE HH
+map_game_name
+Earn 200 Eliminations
+Activity_Goal_title
+Earn 200 Eliminations
+Activity_Goal_desc
+Earn 200 Eliminations
+Activity_Goal_name
+Default
+ITEM_desc
+Default Ninja SMGs
+ITEM_name
+Default
+ITEM_desc
+Default Ninja
+ITEM_name
+Tier 4 Challenge Rewards
+ITEM_name
+Play 10 Games
+Activity_title
+Play 10 Games
+Activity_desc
+SLT - Collection - Lian - Goddess-TRANSIENT OWN
+Loot_Table_name
+SLT - Collection - Ruckus - Starslayer-TRANSIENT OWN
+Loot_Table_name
+Furia
+item_short_desc
+Beacon
+item_name
+Furia
+item_short_desc
+Default Furia Emote
+item_name
+Furia Emote 01
+item_desc
+z--Unused--Error
+ITEM_name
+Corrupter
+ITEM_name
+Forsaken Frame
+ITEM_name
+Obtainable in the Gold Chest.
+ITEM_desc
+Death Stare Spray
+item_name
+Obtainable in the Rise of Furia event.
+item_desc
+Sarah prayed to the Eternal Pyre for the strength to fight the Abyss, to avenge her fallen sister. Her prayers were answered. She was saved from the Abyss, and transformed into Furia: An avenging angel of cleansing flame incarnate. Now the former sisters stand opposed, vessels of otherworldly powers far beyond that of mere mortals.
+BOT_lore
+SLT - Autobuy - Furia
+Loot_Table_name
+SND_Notify_GoToEvent
+SND_Notify_EOMLShards
+SND_Notify_HnHBlessing
+SND_Notify_HnHMinorUnlock
+SND_Notify_HnHMajorUnlock
 None
 VV_TEXT
 Patrol
@@ -137489,7 +138288,7 @@ ES29 (Burn Card 6) (Only in BG)
 VV_text
 ES30 (Streak Bonus) (Only in BG)
 VV_text
-ES31 (** Unused **)
+ES31 (Game Mode Reserved)
 VV_text
 ES32 (** Unused **)
 VV_text
@@ -137686,6 +138485,8 @@ Dynamic Bundle
 Export to TgClient_XboxOne
 VV_text
 Export to TgClient_PS4
+VV_text
+Music Pack Switch
 VV_text
 Active
 VV_text
@@ -138573,6 +139374,8 @@ Inherit Entitlement Inventory
 Inherit Entitlement Inventory
 Loading Frame
 Loading Frame
+Music Pack
+VV_text
 Spray
 VV_text
 CardDeck
@@ -138623,4 +139426,19 @@ Export to GFxTranslation_Oasis
 VV_text
 Failed to Authenticate with Nintendo.
 NINTENDO_AUTH_FAILED
-F
+Your search for @@player_name@@ had multiple results.
+PLAYER_NAME_TOO_MANY_RESULTS
+Music Pack
+MUSIC_PACK
+There was a problem communicating with the consumable service. Please try again.
+NINTENDO_WEB_CALL_ERROR
+Nintendo
+Nintendo
+This match does not allow players from your platform.
+MATCH_INCORRECT_PORTAL
+Shard
+VV_text
+Login Failed Unexpectedly.  Please try again.
+LOGIN_FAILED_UNKNOWN
+This account is undergoing maintenance.  Please try again shortly.
+Login_Failed_Account_Maintenance
