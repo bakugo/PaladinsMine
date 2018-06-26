@@ -39842,7 +39842,7 @@ item_name
 item_desc
 Quiver
 item_name
-[Weapon] Increase your Ammo count by {scale=2|2}.
+[Weapon] Increase your Ammo count by {scale=1|1}.
 item_desc
 Manticore Arrow * Cassie
 item_name
@@ -76293,7 +76293,7 @@ item_name
 item_desc
 Calibrate
 item_name
-[Weapon] Hitting an enemy with your Carbine or Sniper Rifle lowers the cooldown of Transporter by {scale=0.12|0.12}s.
+[Weapon] Hitting an enemy with your Carbine Rifle lowers the cooldown of Transporter by {scale=0.12|0.12}s.
 item_desc
 zDeprecated (Minimalist card)
 item_name
@@ -98334,7 +98334,7 @@ item_name
 item_desc
 Persistence
 item_name
-[Armor] Take {scale=6|6}% less damage when below 40% health.
+[Armor] Take {scale=4|4}% less damage when below 40% health.
 item_desc
 zDeprecated Walk it Off II
 item_name
@@ -100694,7 +100694,7 @@ Obtainable in the Valentine's Chest.
 item_desc
 Sixth Sense
 item_name
-[Pounce] Gain {scale=6|6}% Damage reduction for 3s after using Pounce.
+[Pounce] Gain {scale=5|5}% Damage reduction for 2s after using Pounce.
 item_desc
 zDeprecated Sixth Sense II
 item_name
@@ -100774,7 +100774,7 @@ item_name
 item_desc
 Scar Tissue
 item_name
-[Nine Lives] Gain {scale=6|6}% Damage Reduction for 3s after using Nine Lives.
+[Nine Lives] Gain {scale=5|5}% Damage Reduction for 2s after using Nine Lives.
 item_desc
 [Nine Lives] Gain Damage Reduction for 3s after using Nine Lives.
 item_short_desc
@@ -109401,7 +109401,7 @@ Spray Rental Vendor - Weapons Chest
 Loot_Table_name
 Capture the Objective to Win
 PALADINS_ALERT_CAPTURE_OBJECTIVE_TO_WIN
-Within 2s, Hurl burning oil with two quick swings that deal 450 damage and a heavy swing that deals 700 damage.
+Within 2s, Hurl burning oil with two quick swings that deal 400 damage and a heavy swing that deals 700 damage.
 item_desc
 Enter a counter stance for 1.5s. If you take an enemy hit to the front of your character you negate any effects of the hit and counter attack with a melee strike dealing 560 damage.
 item_desc
@@ -116809,7 +116809,7 @@ item_name
 item_desc
 Street Justice
 item_name
-[Pounce] Pounce deals 30% of the target's missing health as bonus damage.
+[Pounce] Pounce deals 25% of the target's missing health as bonus damage.
 item_desc
 Secret Technique
 item_name
@@ -135991,6 +135991,8 @@ SND_Notify_EOMLShards
 SND_Notify_HnHBlessing
 SND_Notify_HnHMinorUnlock
 SND_Notify_HnHMajorUnlock
+Obtainable in the Rise of Furia Event.
+ITEM_desc
 None
 VV_TEXT
 Patrol
