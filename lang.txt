@@ -90738,7 +90738,7 @@ Forest Payload Only
 map_game_name
 Twitch Prime Crown
 ITEM_name
-Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
+Limited Twitch Prime Exclusive.
 ITEM_desc
 Boss
 ITEM_desc
@@ -116573,7 +116573,7 @@ ENT Terminus Mastery Obsidian
 ITEM_name
 ENT Terminus Mastery Spray
 ITEM_name
-Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
+Limited Twitch Prime Exclusive.
 ITEM_desc
 Primal Prowler
 ITEM_name
@@ -123563,7 +123563,7 @@ SLT - Collection - Bomb King - Twitch
 Loot_Table_name
 Twitch Prime King Voice Pack
 ITEM_name
-Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
+Limited Twitch Prime Exclusive.
 ITEM_desc
 Ice Royale
 map_game_friendly_name
@@ -125389,7 +125389,7 @@ item_name
 item_desc
 Twitch Prime King Spray
 item_name
-Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
+Limited Twitch Prime Exclusive.
 item_desc
 zDeprecated The Void Protects II
 item_name
@@ -128503,7 +128503,7 @@ SLT - Collection - Strix - Infiltrator-RENTAL
 Loot_Table_name
 Infiltrator
 ITEM_name
-Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
+Limited Twitch Prime Exclusive.
 ITEM_desc
 Ascension Peak
 map_game_friendly_name
