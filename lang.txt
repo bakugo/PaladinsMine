@@ -70215,7 +70215,7 @@ Explosion that damages those in range
 Deployable_desc
 zDeprecated (Rupture Subdevice)
 item_name
-Mount Vendor
+zzzzMount Vendor
 Loot_Table_name
 PRESS <img src='Gamepad_A' width='26' height='26' vspace='-4'> TO LOGIN AS <font color='#A96E34'>`~</font>
 PALADINS_Login_Console
@@ -70702,7 +70702,7 @@ item_name
 item_desc
 Rapid Sustain
 item_name
-[Armor] While below 50% Health receive {scale=10|10}% increased healing.
+[Armor] While below 50% Health receive {scale=5|5}% increased healing.
 item_desc
 Fortune Fury
 item_name
@@ -73676,7 +73676,7 @@ Sunspear Siege
 map_game_friendly_name
 Sunspear Siege
 map_game_name
-LIVE Casual
+LIVE Siege
 MSL_name
 Quick Play
 Match_Queue_name
@@ -76541,7 +76541,7 @@ Sinistral Siege Alt
 map_game_friendly_name
 Sinistral Siege Alt
 map_game_name
-ZDelete TEST TDM TestMap
+WIP DM_Dragon_Firefall
 MSL_name
 Experimental siege map
 MSL_desc
@@ -76722,7 +76722,7 @@ Ritual Survival
 map_game_friendly_name
 Ritual Survival
 map_game_name
-LIVE Casual Practice 
+LIVE Siege Practice 
 MSL_name
 Tactical
 ITEM_name
@@ -77758,7 +77758,7 @@ Ninja
 item_name
 [Hidden] Gain {scale=5|5}% additional Movement Speed during Hidden.
 item_desc
-Champion Vendor Trial
+zDeprecated Champion Vendor Trial
 Loot_Table_name
 Impede I
 item_name
@@ -84276,7 +84276,7 @@ Glacier Keep Capture and Payload
 map_game_friendly_name
 Glacier Keep Capture and Payload
 map_game_name
-ZDelete WIP Isle TDM
+WIP DM Junction
 MSL_name
 Glacier Keep Capture And Payload
 map_game_friendly_name
@@ -85729,11 +85729,11 @@ Hangar Capture and Payload
 map_game_name
 LIVE Test Maps
 MSL_name
-WIP HH Test
+Arid v3
 Match_Queue_short_desc
-HeavenAndHell
+WIP Arid Siege
 Match_Queue_name
-WIP HH Test
+Arid v3
 Match_Queue_desc
 Core
 CHAOSCAPTURE_HangarA
@@ -90994,7 +90994,7 @@ Ruckus Proxy Objective
 Deployable_name
 Deep Breath
 item_name
-[Recovery] Activating Recovery Grants you {scale=8|8}% Damage Reduction for 3s.
+[Recovery] Activating Recovery Grants you {scale=6|6}% Damage Reduction for 2s.
 item_desc
 Moxie
 item_name
@@ -91248,7 +91248,7 @@ zDeprecated Power Supply IV
 item_name
 [Weapon] After getting a Kill Reload 32% faster for 5s.
 item_desc
-[Recovery] Activating Recovery Grants you Damage Reduction for 3s.
+[Recovery] Activating Recovery Grants you Damage Reduction for 2s.
 item_short_desc
 zDeprecated Deep Breath II
 item_name
@@ -91334,7 +91334,7 @@ X Spikes
 ITEM_name
 Ruckus Passive
 item_name
-Limited Twitch Prime Exclusive. Unlockable for Twitch Prime members at twitch.amazon.com/paladins
+Limited Twitch Prime Exclusive.
 ITEM_desc
 Temple Isle Assault
 map_game_friendly_name
@@ -91593,7 +91593,7 @@ WIP Pirate (Onslaught)
 Match_Queue_name
 WIP Pirate (Onslaught)
 Match_Queue_desc
-RANKED
+RANKED DRAFT
 PALADINS_RANKED
 Time left:
 PALADINS_TIME_LEFT
@@ -92640,7 +92640,7 @@ Igloo
 map_game_friendly_name
 I_Igloo Ranked
 map_game_name
-WIP ModExperiment_3
+WIP Arid v3
 MSL_name
 Mine
 map_game_friendly_name
@@ -92650,11 +92650,11 @@ Waterfall
 map_game_friendly_name
 I_Waterfall Ranked
 map_game_name
-ModExperiment_3
+Breach (siege)
 Match_Queue_short_desc
-ModExperiment_3
+Breach (siege)
 Match_Queue_name
-ModExperiment_3
+Breach (siege)
 Match_Queue_desc
 Beach
 map_game_friendly_name
@@ -92907,7 +92907,7 @@ Promotional Vendor - Weapons
 Loot_Table_name
 Promotional Vendor - Voice Packs
 Loot_Table_name
-Promotional Vendor - Mounts
+Mount Vendor
 Loot_Table_name
 Promotional Vendor - Emotes
 Loot_Table_name
@@ -94085,7 +94085,7 @@ IPv1 Practice
 map_game_name
 Snapdragon
 ITEM_desc
-LIVE Payload Practice 
+zLIVE Payload Practice 
 MSL_name
 Spec Ops
 ITEM_desc
@@ -95100,7 +95100,7 @@ Trade
 PALADINS_TRADE
 Master Collector
 Activity_Goal_title
-Unlock 100 Cards.
+Unlock 100 Talents.
 Activity_Goal_desc
 Master Collector
 Activity_Goal_name
@@ -100208,7 +100208,7 @@ item_name
 item_desc
 Surprise Attack
 item_name
-[Hidden] Deal 500 bonus damage on your first Weapon Shot out of Hidden.
+[Hidden] Deal 500 bonus damage on your first successful Weapon Shot out of Hidden.
 item_desc
 Debilitate
 item_name
@@ -100258,7 +100258,7 @@ Battle Focus
 EFFECT_GROUP_name
 Fusillade
 item_name
-[Weapon] Direct shots deal 35% more damage.
+[Weapon] Direct shots deal 25% more damage.
 item_desc
 Exaction
 item_name
@@ -100776,7 +100776,7 @@ Scar Tissue
 item_name
 [Nine Lives] Gain {scale=5|5}% Damage Reduction for 2s after using Nine Lives.
 item_desc
-[Nine Lives] Gain Damage Reduction for 3s after using Nine Lives.
+[Nine Lives] Gain Damage Reduction for 2s after using Nine Lives.
 item_short_desc
 [Nine Lives] Nine Lives now heals.
 item_short_desc
@@ -102058,9 +102058,9 @@ zDeprecated Steadfast IV
 item_name
 [Armor] Gain 600 maximum Health.
 item_desc
-Snowfall Junction (Onslaught)
+Snowfall Junction
 Match_Queue_name
-Primal Court (Onslaught)
+Primal Court
 Match_Queue_name
 Still Torvald
 BOT_name
@@ -102134,7 +102134,7 @@ Volcanic Crag Cannon
 ITEM_name
 PAYLOAD
 PALADINS_PAYLOAD
-CASUAL
+OPEN DRAFT
 PALADINS_CASUAL
 RANKED
 PALADINS_COMPETITIVE
@@ -105814,7 +105814,7 @@ Toss a seed that explodes after a 1 second fuse, dealing 400 damage and spawning
 item_desc
 Quickly flutter your wings and propel yourself forwards and upwards.
 item_desc
-Harness the power of the Fae and take to the sky for 10s. 
+Harness the power of the Fae and take to the sky for 10s.
 item_desc
 Sandbridge
 map_game_friendly_name
@@ -112262,7 +112262,7 @@ Jaguar Falls (Onslaught)
 map_game_friendly_name
 LIVE Jaguar Falls (Onslaught)
 map_game_name
-Jaguar Falls (Onslaught)
+Jaguar Falls
 Match_Queue_name
 Kunoichi Spray
 item_name
@@ -115036,7 +115036,7 @@ Practice Quarry Onslaught
 map_game_name
 Custom O_Foreman'sRise
 MSL_name
-Foreman's Rise (Onslaught)
+Foreman's Rise
 Match_Queue_name
 Khan Shield Deployable
 Deployable_name
@@ -117113,7 +117113,7 @@ Mirth (TDM)
 map_game_friendly_name
 WIP Mirth (TDM)
 map_game_name
-WIP DM Abyss
+Custom DM_Abyss
 MSL_name
 Titanslayer
 item_name
@@ -117425,7 +117425,7 @@ item_name
 item_desc
 Nightshade
 item_name
-[Dead Zone] Dead Zone now deals 800 damage when the initial explosion hits an enemy.
+[Dead Zone] Dead Zone now deals 400 damage when the initial explosion hits an enemy.
 item_desc
 Unholy Strength
 item_name
@@ -117777,7 +117777,7 @@ SLT - Collection - Viktor - Code Green Comms-RENTAL
 Loot_Table_name
 [Dragon Punch] Dragon Punch deals damage equal to your victims maximum health in a radius around their location and charges 15% faster.
 item_desc
-[Salvo] Salvo now activates instantly, always fires 6 shots, and deals 10% more damage.
+[Salvo] Salvo now activates instantly, always fires 6 shots, and has its cooldown reduced by 5s..
 item_desc
 [Healing Totem] Healing Totem can now deploy at range and healing done to full health players becomes a shield.
 item_desc
@@ -118297,7 +118297,7 @@ Explosive Flask
 EFFECT_GROUP_name
 Obtainable in the Lunar Chest.
 ITEM_desc
-Heirloom Crest
+z--Unused--Heirloom Crest
 ITEM_name
 Obtainable in the Lunar Chest.
 ITEM_desc
@@ -118701,17 +118701,17 @@ Play 4 games of Siege.
 Activity_title
 Play 4 games of Siege.
 Activity_desc
-Play 4 games of Deathmatch.
+Play 4 games of Team Deathmatch.
 Activity_title
-Play 4 games of Deathmatch.
+Play 4 games of Team Deathmatch.
 Activity_desc
 PQ_PLAY_4_DEATHMATCH_GLD
 Activity_name
 Unstoppable Onslaught
 Activity_Goal_title
-Play 4 games of Deathmatch.
+Play 4 games of Team Deathmatch.
 Activity_Goal_desc
-Play 4 games of Deathmatch.
+Play 4 games of Team Deathmatch.
 Activity_Goal_name
 Hard Carry
 Activity_Goal_title
@@ -118843,9 +118843,9 @@ Play 2 games of Siege.
 Activity_Goal_name
 Unstoppable Onslaught
 Activity_Goal_title
-Play 2 games of Deathmatch.
+Play 2 games of Team Deathmatch.
 Activity_Goal_desc
-Play 2 games of Deathmatch.
+Play 2 games of Team Deathmatch.
 Activity_Goal_name
 Hard Carry
 Activity_Goal_title
@@ -122531,7 +122531,7 @@ Practice Magistrate's Archives
 map_game_name
 Custom O_Magistrate'sArchives 
 MSL_name
-Magistrate's Archives (Onslaught) 
+Magistrate's Archives
 Match_Queue_name
 SLT - Chest - Barik Chest - Common
 Loot_Table_name
@@ -126923,7 +126923,7 @@ Active Diana Test Map
 map_game_name
 SLT - TC Chest - Gold Chest - Pity
 Loot_Table_name
-SLT - TC Chest - Gold Chest - Rare Skins 
+NOTUSED_SLT - TC Chest - Gold Chest - Rare Skins 
 Loot_Table_name
 Damage Generic Key
 ITEM_name
@@ -126957,7 +126957,7 @@ WIP Keep Royale Empty
 map_game_name
 Chest/Key - Flair + Flank
 Loot_Table_name
-zOLD WIP KRM Empty
+WIP SE_Dragon_Breach
 MSL_name
 Chest/Key - Flair + Frontline
 Loot_Table_name
@@ -126983,19 +126983,19 @@ BG Team Lobby
 map_game_friendly_name
 Team_Lobby
 map_game_name
-SLT - TC Chest - Gold Chest - Rare Weapon
+NOTUSED_SLT - TC Chest - Gold Chest - Rare Weapon
 Loot_Table_name
 SLT - TC Chest - Gold Chest - Rare Spray
 Loot_Table_name
-SLT - TC Chest - Gold Chest - Rare Spray Rental
+NOTUSED_SLT - TC Chest - Gold Chest - Rare Spray Rental
 Loot_Table_name
-SLT - TC Chest - Gold Chest - Epic Weapon
+NOTUSED_SLT - TC Chest - Gold Chest - Epic Weapon
 Loot_Table_name
-SLT - TC Chest - Gold Chest - Rare Skin Rental
+NOTUSED_SLT - TC Chest - Gold Chest - Rare Skin Rental
 Loot_Table_name
-SLT - TC Chest - Gold Chest - Rare Weapon Rental
+NOTUSED_SLT - TC Chest - Gold Chest - Rare Weapon Rental
 Loot_Table_name
-SLT - TC Chest - Gold Chest - Epic Weapon Rental
+NOTUSED_SLT - TC Chest - Gold Chest - Epic Weapon Rental
 Loot_Table_name
 SLT - TC Chest - Gold Chest - Rare Spray Rental
 Loot_Table_name
@@ -127239,7 +127239,7 @@ SLT - TC - Set - Viktor - Charcoal
 Loot_Table_name
 SLT - TC - Set - Ying - Genie
 Loot_Table_name
-SLT - TC Chest - Diamond Chest - Epic Skin
+NOTUSED_SLT - TC Chest - Diamond Chest - Epic Skin
 Loot_Table_name
 Chest Loot Vendor - Tencent Diamond Chest
 Loot_Table_name
@@ -127249,7 +127249,7 @@ SLT - TC - Set - Sha Lin - Guardian
 Loot_Table_name
 SLT - TC - Set - Sha Lin - Guardian
 Loot_Table_name
-SLT - TC Chest - Diamond Chest - Epic Weapon
+NOTUSED_SLT - TC Chest - Diamond Chest - Epic Weapon
 Loot_Table_name
 SLT - TC - Set - Viktor - Code Green Comms
 Loot_Table_name
@@ -127259,13 +127259,13 @@ SLT - TC - Set - Viktor - Code Green Comms
 Loot_Table_name
 SLT - TC Chest - Diamond Chest - Epic Collection
 Loot_Table_name
-SLT - TC Chest - Diamond Chest - Epic Skin Rental
+NOTUSED_SLT - TC Chest - Diamond Chest - Epic Skin Rental
 Loot_Table_name
-SLT - TC Chest - Diamond Chest - Epic Weapon Rental
+NOTUSED_SLT - TC Chest - Diamond Chest - Epic Weapon Rental
 Loot_Table_name
-SLT - TC Chest - Diamond Chest - Mount Rental
+NOTUSED_SLT - TC Chest - Diamond Chest - Mount Rental
 Loot_Table_name
-SLT - TC Chest - Diamond Chest - Epic Collection Rental
+NOTUSED_SLT - TC Chest - Diamond Chest - Epic Collection Rental
 Loot_Table_name
 SLT - TC - Collection - Barik - Hi-Tek
 Loot_Table_name
@@ -127977,7 +127977,7 @@ BattleGrounds Zeppelin Chest
 Deployable_name
 Custom T_TradeDistrict
 MSL_name
-Trade District (TDM)
+Trade District
 Match_Queue_name
 High Elf
 ITEM_name
@@ -127991,7 +127991,7 @@ LIVE Team Deathmatch Practice
 MSL_name
 Game modes based around eliminating enemy players.
 Match_Queue_short_desc
-Deathmatch
+Team Deathmatch
 Match_Queue_name
 Game modes based around eliminating enemy players.
 Match_Queue_desc
@@ -128049,9 +128049,9 @@ Custom T_Foreman'sRise
 MSL_name
 Custom T_Magistrate'sArchives
 MSL_name
-Foreman's Rise (TDM)
+Foreman's Rise
 Match_Queue_name
-Magistrate's Archives (TDM)
+Magistrate's Archives
 Match_Queue_name
 Magistrate's Archives (TDM)
 map_game_friendly_name
@@ -129969,7 +129969,7 @@ WIP BR
 MSL_name
 SLT - TC Chest - Diamond Chest - Legendary Collection
 Loot_Table_name
-SLT - TC Chest - Diamond Chest - Legendary Collection Rental
+NOTUSED_SLT - TC Chest - Diamond Chest - Legendary Collection Rental
 Loot_Table_name
 Grand Prize
 Activity_Goal_title
@@ -131763,7 +131763,7 @@ SLT - Collection - Willo - Firecracker-RENTAL - 1 Day
 Loot_Table_name
 SLT - Collection - Jenos - Millennium
 Loot_Table_name
-SLT - Collection - Ruckus - Sprocket
+zzzSLT - Collection - Ruckus - Sprocket
 Loot_Table_name
 SLT - Collection - Lex - Justicar
 Loot_Table_name
@@ -132324,7 +132324,7 @@ Healing allies with Blossom will heal them for an additional amount over time.
 item_short_desc
 Hunter's Mark's damage increase now benefits allies, it's damage increase is stronger, and has a reduced Cooldown.
 item_short_desc
-Salvo now activates instantly, always fires 6 shots, and deals more damage.
+Salvo now activates instantly, always fires 6 shots, and has a lower cooldown.
 item_short_desc
 Gourd now slows enemies in its area.
 item_short_desc
@@ -132846,9 +132846,9 @@ Recurring reward for winning first ranked siege match of the day
 Activity_desc
 FWOTD - Ranked Siege
 Activity_name
-Recurring reward for winning first deathmatch match of the day
+Recurring reward for winning first Team Deathmatch match of the day
 Activity_desc
-FWOTD - Deathmatch
+FWOTD - Team Deathmatch
 Activity_name
 First Queue Win of the Day
 Activity_Goal_name
@@ -133070,7 +133070,7 @@ zOld Arctic Set
 ITEM_name
 SLT - TC Chest - Gold Chest - Booster Weapon
 Loot_Table_name
-SLT - TC Chest - Gold Chest - Booster Weapon Rental
+NOTUSED_SLT - TC Chest - Gold Chest - Booster Weapon Rental
 Loot_Table_name
 Bombardment Fire Bomb Device
 item_name
@@ -133528,11 +133528,11 @@ Heal 200000 Health
 Activity_Goal_desc
 Heal 200000 Health
 Activity_Goal_name
-Play 4 Deathmatch Games
+Play 4 Team Deathmatch Games
 Activity_Goal_title
-Play 4 Deathmatch Games
+Play 4 Team Deathmatch Games
 Activity_Goal_desc
-Play 4 Deathmatch Games
+Play 4 Team Deathmatch Games
 Activity_Goal_name
 Play 4 Games As Support
 Activity_Goal_title
@@ -133885,7 +133885,7 @@ Copy of Taboo
 ITEM_name
 SLT - Collection - Maeve - Alley Cat-RENTAL - 30 Day
 Loot_Table_name
-SLT - TC Chest - Gold Chest - Rare Collections Rental 
+NOTUSED_SLT - TC Chest - Gold Chest - Rare Collections Rental 
 Loot_Table_name
 SLT - Collection - Ruckus - B.E.T.A.-RENTAL - 30 Day
 Loot_Table_name
@@ -134387,9 +134387,9 @@ Shiny
 ITEM_desc
 Golden Wrist Crossbow
 ITEM_name
-Battle Pass Mech - Premium Rewards Vendor
+Battle Pass Mech - Premium Track Vendor
 Loot_Table_name
-Battle Pass Mech - Free Rewards Vendor
+Battle Pass Mech - Free Track Vendor
 Loot_Table_name
 Kraken Ethereal Passive
 item_name
@@ -134668,11 +134668,11 @@ Get Play of the Game
 Activity_Goal_desc
 Get Play of the Game
 Activity_Goal_name
-Win 10 Deathmatch Games
+Win 10 Team Deathmatch Games
 Activity_Goal_title
-Win 10 Deathmatch Games
+Win 10 Team Deathmatch Games
 Activity_Goal_desc
-Win 10 Deathmatch Games
+Win 10 Team Deathmatch matches
 Activity_Goal_name
 Win 10 Siege Games
 Activity_Goal_title
@@ -134704,7 +134704,7 @@ Complete Tier 4 Challenges
 Activity_Goal_desc
 Complete Tier 4 Challenges
 Activity_Goal_name
-Battle Pass Mech - Challenge Rewards Vendor
+Battle Pass - Challenge Rewards Vendor
 Loot_Table_name
 HH Event Demon Drogoz
 BOT_name
@@ -134852,7 +134852,7 @@ SLT - Collection - Ying - Gold Set
 Loot_Table_name
 SLT - Collection - Zhin - Gold Set
 Loot_Table_name
-Obtainable in Battle Pass.
+Obtained from purchasing Battle Pass 1.
 ITEM_desc
 Available from completing special quests in Paladins Strike.
 ITEM_desc
@@ -134961,21 +134961,21 @@ Battle Pass T4 Challenges
 Activity_name
 Battle Pass T5 Challenges
 Activity_name
-Battle Pass Mech Challenge Rewards Vendor
+Battle Pass - SLT - Ninja Instant Unlocks
 Loot_Table_name
-Battle Pass Mech - SLT - T1 Challenge Rewards
+Battle Pass - SLT - T1 Challenge Rewards
 Loot_Table_name
-Battle Pass Mech - SLT - T2 Challenge Rewards
+Battle Pass - SLT - T2 Challenge Rewards
 Loot_Table_name
-Battle Pass Mech - SLT - T3 Challenge Rewards
+Battle Pass - SLT - T3 Challenge Rewards
 Loot_Table_name
-Battle Pass Mech - SLT - T4 Challenge Rewards
+Battle Pass - SLT - T4 Challenge Rewards
 Loot_Table_name
-Battle Pass Mech - SLT - T5 Challenge Rewards
+Battle Pass - SLT - T5 Challenge Rewards
 Loot_Table_name
 Tier 1 Challenge Start
 Activity_Goal_name
-Battle Pass Mech - SLT - Title Reward
+Battle Pass - SLT - T6 Challenge Rewards
 Loot_Table_name
 Tier 2 Challenge Start
 Activity_Goal_name
@@ -135519,7 +135519,7 @@ Burning Oath
 item_name
 [Kindle Soul] Healing an ally with Kindle Soul also heals you for {scale=105|105} health over 3s
 item_desc
-[Soul Kindle] Allys affected by Soul Kindle gain a shield
+[Kindle Soul] Allys affected by Kindle Soul gain a shield
 item_short_desc
 Light of Dawn
 item_name
@@ -135599,15 +135599,15 @@ Battle Pass Tier 4 Goal 4
 ITEM_name
 HH Bundle - Demonette
 Loot_Table_name
-Battle Pass - SLT - T1 Challenges
+Battle Pass Mech - SLT - T1 Challenges
 Loot_Table_name
 For incrementing 
 Loot_Table_desc
-Battle Pass - SLT - T2 Challenges
+Battle Pass Mech - SLT - T2 Challenges
 Loot_Table_name
-Battle Pass - SLT - T3 Challenges
+Battle Pass Mech - SLT - T3 Challenges
 Loot_Table_name
-Battle Pass - SLT - T4 Challenges
+Battle Pass Mech - SLT - T4 Challenges
 Loot_Table_name
 Wings of Wrath gains an additional charge
 item_short_desc
@@ -135629,19 +135629,19 @@ item_name
 item_desc
 Ninja
 ITEM_desc
-Cassie Skin06A
+Dragoncaller
 ITEM_name
 Ninja
 ITEM_short_desc
 Ninja
 ITEM_desc
-Cassie WEP Skin05A
+Dragoncaller's Venerator
 ITEM_name
 Ninja
 ITEM_short_desc
 SLT - Collection - Cassie - Ninja
 Loot_Table_name
-Cassie Ninja
+Dragoncaller
 ITEM_name
 DM Abyss
 map_game_friendly_name
@@ -135665,13 +135665,13 @@ Tier 5
 Activity_title
 zDelete
 item_name
-Ninja
+Koga
 BOT_name
-Ghost Feather
+The Lost Hand
 BOT_desc
-Ninja SMGs
+Submachine Guns
 item_name
-Ninja Projectiles
+Hellkite Claws
 item_name
 Ninja Patch Up
 item_name
@@ -135679,21 +135679,21 @@ Recovery
 EFFECT_GROUP_name
 Fire Sound
 EFFECT_GROUP_name
-Ninja Sprint
+Agility
 item_name
 Enter stealth and hide yourself from vision. While in Stealth your energy is consumed.
 item_desc
-Ninja Swap
+Dragon Stance
 item_name
-Switch to your other weapon.
+Unleash your Hellkite Claws. While in this stance you are constantly consuming Energy. Requires 1 unit of Energy available to trigger.
 item_desc
-Ninja Multistrike
+Cyclone Strike
 item_name
 Your Movement Speed is increased.
 EFFECT_GROUP_desc
 Rocket Boots
 EFFECT_GROUP_name
-Ninja
+Koga
 ITEM_name
 ModExperiment_3
 map_game_friendly_name
@@ -135705,13 +135705,13 @@ HeavenAndHell
 map_game_friendly_name
 WIP HH Test
 map_game_name
-Maldamba Skin04A
+Shadow Lord
 ITEM_name
-Maldamba WEP Skin04A
+Shadow Lord's Basilisk
 ITEM_name
 SLT - Collection - Maldamba - Ninja
 Loot_Table_name
-Maldamba Ninja
+Shadow Lord
 ITEM_name
 HeavenAndHell
 map_game_friendly_name
@@ -135739,21 +135739,21 @@ WIP HH Test
 map_game_name
 Effigy
 ITEM_name
-Cat Skin02A
+Crimson Serpent
 ITEM_name
 Dragon
 ITEM_short_desc
 Ninja
 ITEM_desc
-Makoa Skin05A
+Akuma
 ITEM_name
 Ninja
 ITEM_desc
-Makoa WEP Skin06A
+Akuma's Soul Crusher
 ITEM_name
 SLT - Collection - Makoa - Ninja
 Loot_Table_name
-Makoa Ninja
+Akuma
 ITEM_name
 HH Event Mega Pickup
 Deployable_name
@@ -135777,13 +135777,13 @@ Iron Maiden Pyre Blade
 ITEM_name
 Iron Maiden
 ITEM_name
-Experimental Health Pickup Device
+Powerup - Full Energy
 item_name
 Health Nugget
 EFFECT_GROUP_name
 Channel the Pyre and become untargetable for 2s. Afterward, you and allies within 150ft of yourself gain 30% bonus weapon damage and 30% Movement speed for 8 seconds.
 item_desc
-Experimental Health Pickup
+Powerup - Full Energy
 Deployable_name
 SLT - Collection - Furia - Recolor
 Loot_Table_name
@@ -135991,8 +135991,1955 @@ SND_Notify_EOMLShards
 SND_Notify_HnHBlessing
 SND_Notify_HnHMinorUnlock
 SND_Notify_HnHMajorUnlock
+Copy of Maldamba Skin04A
+ITEM_name
+Ability Enhancements:
+Primary Fire - Attack Speed Increase 
+20% Starting variable
+Calamity Blast - Projectile Speed Increase
+50% starting variable
+Shatterfall - Cooldown Reduced
+Flat 2s starting Variable
+EFFECT_GROUP_desc
+Enrage
+EFFECT_GROUP_name
+Slow
+EFFECT_GROUP_name
+Slow
+EFFECT_GROUP_name
+Slow
+EFFECT_GROUP_name
+map_game_friendly_name
+WIP IN
+map_game_name
+Flagball
+map_game_friendly_name
+WIP Flagball
+map_game_name
+Flagball
+map_game_friendly_name
+WIP Flagball
+map_game_name
+SE Flagball Device
+item_name
 Obtainable in the Rise of Furia Event.
 ITEM_desc
+map_game_friendly_name
+WIP IN
+map_game_name
+Abyssal Shard Conversion - SLT
+Loot_Table_name
+Abyssal Shard Refund - 1000
+Loot_Table_name
+Abyssal Shard Conversion - SLT - 1000 Owned
+Loot_Table_name
+zzzzzAbyssal Shard Conversion - SLT - 100 Owned
+Loot_Table_name
+Abyssal Shard Conversion - SLT - 100 Owned
+Loot_Table_name
+Abyssal Shard Conversion - SLT - All Owned
+Loot_Table_name
+Conversion Vendor
+Loot_Table_name
+Flagball
+map_game_friendly_name
+WIP Flagball
+map_game_name
+map_game_friendly_name
+WIP IN
+map_game_name
+Shadow Step
+item_name
+Default
+ITEM_desc
+Default Koga
+ITEM_name
+Skewer
+item_name
+Ninja
+ITEM_desc
+ShaLin Skin05A
+ITEM_name
+Ninja
+ITEM_short_desc
+ShaLin WEP Skin04A
+ITEM_name
+Ninja
+ITEM_short_desc
+Ninja
+ITEM_desc
+Mount Share Vendor
+Loot_Table_name
+ShaLin Lore Skin
+ITEM_name
+SLT - Collection - Sha Lin - Lore
+Loot_Table_name
+Rise
+map_game_friendly_name
+LIVE DM_Rise
+map_game_name
+Custom DM_Throne
+MSL_name
+Ninja Battle Pass T1 Challenges
+Activity_name
+A Shinobi's Code
+Activity_title
+Ninja Battle Pass T2 Challenges
+Activity_name
+The Art of Ninjutsu
+Activity_title
+Ninja Battle Pass T3 Challenges
+Activity_name
+The Silent Night
+Activity_title
+Ninja Battle Pass T4 Challenges
+Activity_name
+Journey of a Thousand Sins
+Activity_title
+Ninja Battle Pass T5 Challenges
+Activity_name
+Deadly Blade
+Activity_title
+Ninja Battle Pass T6 Challenges
+Activity_name
+Demon of the Thousand Hands
+Activity_title
+Ninja Battle Pass T7 Challenges
+Activity_name
+Heal for 125,000 in a Single Match
+Activity_Goal_title
+Heal for 125,000 in a Single Match
+Activity_Goal_desc
+Heal for 125,000 in a Single Match
+Activity_Goal_name
+Kill 3 Players within 5 seconds
+Activity_Goal_title
+Kill 3 Players within 5 seconds
+Activity_Goal_desc
+Kill 3 Players within 5 seconds
+Activity_Goal_name
+Goal 3
+Activity_Goal_title
+Goal 3
+Activity_Goal_desc
+Goal 3
+Activity_Goal_name
+Kill a player while Combat Sliding
+Activity_Goal_title
+Lex: Kill a player while Combat Sliding
+Activity_Goal_desc
+Lex: Kill a player while Combat Sliding
+Activity_Goal_name
+Expend %s Ammunition
+Activity_Goal_title
+Expend 15,000 Ammunition
+Activity_Goal_desc
+Expend 15,000 Ammunition
+Activity_Goal_name
+Shield for 60,000 in a Single Match
+Activity_Goal_title
+Shield for 60,000 in a Single Match
+Activity_Goal_desc
+Shield for 60,000 in a Single Match
+Activity_Goal_name
+Kill a player with Shatterfall
+Activity_Goal_title
+Terminus: Kill a player with Shatterfall
+Activity_Goal_desc
+Terminus: Kill a player with Shatterfall
+Activity_Goal_name
+Humble Beginnings Unlocked
+Activity_Goal_title
+Goal Group START
+Activity_Goal_desc
+Goal Group START
+Activity_Goal_name
+Humble Beginnings Complete
+Activity_Goal_title
+Tier 1 Challenges Complete
+Activity_Goal_desc
+Tier 1 Challenges Complete
+Activity_Goal_name
+A Shinobi's Code Completed
+Activity_Goal_title
+Goal Group COMPLETE
+Activity_Goal_desc
+Goal Group COMPLETE
+Activity_Goal_name
+A Shinobi's Code Unlocked
+Activity_Goal_title
+Goal Group START
+Activity_Goal_desc
+Goal Group START
+Activity_Goal_name
+Win a match as Koga
+Activity_Goal_title
+Koga: Win a match
+Activity_Goal_desc
+Koga: Win a match
+Activity_Goal_name
+Kill %s players with your Cannon after pulling them with Dredge Anchor
+Activity_Goal_title
+Makoa: Kill 5 players with your Cannon after pulling them with Dredge Anchor
+Activity_Goal_desc
+Makoa: Kill 5 players with your Cannon after pulling them with Dredge Anchor
+Activity_Goal_name
+Be in Ancient Rage for %s seconds
+Activity_Goal_title
+Makoa: Be in Ancient Rage for 60 seconds
+Activity_Goal_desc
+Makoa: Be in Ancient Rage for 60 seconds
+Activity_Goal_name
+Have a Shield raised for %s seconds
+Activity_Goal_title
+Have a Shield Raised for 500 seconds
+Activity_Goal_desc
+Have a Shield Raised for 500 seconds
+Activity_Goal_name
+Heal for %s
+Activity_Goal_title
+Heal for 1,000,000
+Activity_Goal_desc
+Heal for 1,000,000
+Activity_Goal_name
+Play %s Ranked Matches
+Activity_Goal_title
+Play 10 Ranked Matches
+Activity_Goal_desc
+Play 10 Ranked Matches
+Activity_Goal_name
+The Art of Ninjutsu Unlocked
+Activity_Goal_title
+Goal Group START
+Activity_Goal_desc
+Goal Group START
+Activity_Goal_name
+The Art of Ninjutsu Completed
+Activity_Goal_title
+Goal Group COMPLETE
+Activity_Goal_desc
+Goal Group COMPLETE
+Activity_Goal_name
+Eliminate %s Targets as Koga
+Activity_Goal_title
+Eliminate 50 Targets as Koga
+Activity_Goal_desc
+Eliminate 50 Targets as Koga
+Activity_Goal_name
+Hit 4 Players with one Barrage
+Activity_Goal_title
+Hit 4 Players with one Barrage
+Activity_Goal_desc
+Hit 4 Players with one Barrage
+Activity_Goal_name
+Heal 4 Different Players within 10 seconds
+Activity_Goal_title
+Heal 4 Different Players within 10 seconds
+Activity_Goal_desc
+Heal 4 Different Players within 10 seconds
+Activity_Goal_name
+Emote as the Thousand Hands Leader after getting a Kill
+Activity_Goal_title
+Emote as the Thousand Hands Leader after getting a Kill
+Activity_Goal_desc
+Emote as the Thousand Hands Leader after getting a Kill
+Activity_Goal_name
+Shield for 75,000 in a Single Match
+Activity_Goal_title
+Shield for 75,000 in a Single Match
+Activity_Goal_desc
+Shield for 75,000 in a Single Match
+Activity_Goal_name
+Play %s Team Deathmatch Matches
+Activity_Goal_title
+Play 5 Team Deathmatch Matches
+Activity_Goal_desc
+Play 5 Team Deathmatch Matches
+Activity_Goal_name
+The Silent Night Unlocked
+Activity_Goal_title
+Goal Group START
+Activity_Goal_desc
+Goal Group START
+Activity_Goal_name
+The Silent Night Completed
+Activity_Goal_title
+Goal Group COMPLETE
+Activity_Goal_desc
+Goal Group COMPLETE
+Activity_Goal_name
+Get %s Double Kills as Koga
+Activity_Goal_title
+Get 5 Double Kills as Koga
+Activity_Goal_desc
+Get 5 Double Kills as Koga
+Activity_Goal_name
+Spray in a Siege, Team Deathmatch, and Competitive match
+Activity_Goal_title
+Spray in a Siege, Team Deathmatch, and Competitive match
+Activity_Goal_desc
+Spray in a Siege, Team Deathmatch, and Competitive match
+Activity_Goal_name
+Absorb %s Damage with Emitter
+Activity_Goal_title
+Absorb 10,000 Damage with Emitter
+Activity_Goal_desc
+Absorb 10,000 Damage with Emitter
+Activity_Goal_name
+Androxus: Kill %s Players while drifting
+Activity_Goal_title
+Androxus: Kill 5 Players while drifting
+Activity_Goal_desc
+Androxus: Kill 5 Players while drifting
+Activity_Goal_name
+Have illusions active for %s seconds
+Activity_Goal_title
+Have illusions active for 1000 seconds
+Activity_Goal_desc
+Have illusions active for 1000 seconds
+Activity_Goal_name
+Deal %s Damage
+Activity_Goal_title
+Deal 2,000,000 Damage
+Activity_Goal_desc
+Deal 2,000,000 Damage
+Activity_Goal_name
+test0
+Activity_title
+The Ninja
+Activity_title
+Ninja Battle Pass Capstone Challenges
+Activity_name
+Journey of a Thousand Sins Unlocked
+Activity_Goal_title
+Goal Group START
+Activity_Goal_desc
+Goal Group START
+Activity_Goal_name
+Journey of a Thousand Sins Completed
+Activity_Goal_title
+Goal Group COMPLETE
+Activity_Goal_desc
+Goal Group COMPLETE
+Activity_Goal_name
+Travel %s Feet as Koga
+Activity_Goal_title
+Travel 1000000 Feet as Koga
+Activity_Goal_desc
+Travel 1000000 Feet as Koga
+Activity_Goal_name
+Khan: Send a player flying more than %s feet
+Activity_Goal_title
+Khan: Send a player flying more than 300 feet
+Activity_Goal_desc
+Khan: Send a player flying more than 300 feet
+Activity_Goal_name
+Hit an enemy with Disengage, and kill them with Blast Shot within 5 seconds
+Activity_Goal_title
+Hit an enemy with Disengage, and kill them with Blast Shot within 5 seconds
+Activity_Goal_desc
+Hit an enemy with Disengage, and kill them with Blast Shot within 5 seconds
+Activity_Goal_name
+Get %s Crossbow Eliminations
+Activity_Goal_title
+Get 20 Crossbow Eliminations
+Activity_Goal_desc
+Get 20 Crossbow Eliminations
+Activity_Goal_name
+Kill a player with Wings of Wrath
+Activity_Goal_title
+Kill a player with Wings of Wrath
+Activity_Goal_desc
+Kill a player with Wings of Wrath
+Activity_Goal_name
+Capture %s Siege Objective Points
+Activity_Goal_title
+Capture 10 Siege Objective Points
+Activity_Goal_desc
+Capture 10 Siege Objective Points
+Activity_Goal_name
+Deadly Blade Unlocked
+Activity_Goal_title
+Goal Group START
+Activity_Goal_desc
+Goal Group START
+Activity_Goal_name
+Deadly Blade Completed
+Activity_Goal_title
+Goal Group COMPLETE
+Activity_Goal_desc
+Goal Group COMPLETE
+Activity_Goal_name
+Kill %s players with Koga's Cyclone Strike
+Activity_Goal_title
+Kill 5 players with Koga's Cyclone Strike
+Activity_Goal_desc
+Kill 5 players with Koga's Cyclone Strike
+Activity_Goal_name
+Hit 3 Players at once with Through Time and Space
+Activity_Goal_title
+Hit 3 Players at once with Through Time and Space
+Activity_Goal_desc
+Hit 3 Players at once with Through Time and Space
+Activity_Goal_name
+Kill %s Players with Inferno Blade
+Activity_Goal_title
+Kill 15 Players with Inferno Blade
+Activity_Goal_desc
+Kill 15 Players with Inferno Blade
+Activity_Goal_name
+Spray within 5 seconds of a Killing an enemy %s times
+Activity_Goal_title
+Spray within 5 seconds of a Killing an enemy 15 times
+Activity_Goal_desc
+Spray within 5 seconds of a Killing an enemy 15 times
+Activity_Goal_name
+Heal for %s
+Activity_Goal_title
+Heal for 750,000
+Activity_Goal_desc
+Heal for 750,000
+Activity_Goal_name
+Earn a Quadra Kill
+Activity_Goal_title
+Earn a Quadra Kill
+Activity_Goal_desc
+Earn a Quadra Kill
+Activity_Goal_name
+Demon of the Thousand Hands Unlocked
+Activity_Goal_title
+Goal Group START
+Activity_Goal_desc
+Goal Group START
+Activity_Goal_name
+Demon of the Thousand Hands Completed
+Activity_Goal_title
+Goal Group COMPLETE
+Activity_Goal_desc
+Goal Group COMPLETE
+Activity_Goal_name
+Earn Top Play as Koga
+Activity_Goal_title
+Earn Top Play as Koga
+Activity_Goal_desc
+Earn Top Play as Koga
+Activity_Goal_name
+Heal an Ally, become a snake, and Fear an enemy within 5 seconds
+Activity_Goal_title
+Heal an Ally, become a snake, and Fear an enemy within 5 seconds
+Activity_Goal_desc
+Heal an Ally, become a snake, and Fear an enemy within 5 seconds
+Activity_Goal_name
+Heal for 150,000 in a Single Match
+Activity_Goal_title
+Heal for 150,000 in a Single Match
+Activity_Goal_desc
+Heal for 150,000 in a Single Match
+Activity_Goal_name
+Stay Airborne for more than 10 Seconds
+Activity_Goal_title
+Stay Airborne for more than 10 Seconds
+Activity_Goal_desc
+Stay Airborne for more than 10 Seconds
+Activity_Goal_name
+Kill %s players while below 5%% Health
+Activity_Goal_title
+Kill 15 players while below 5% Health
+Activity_Goal_desc
+Kill 15 players while below 5% Health
+Activity_Goal_name
+Deal 12,000 damage within 10 seconds
+Activity_Goal_title
+Deal 12,000 damage within 10 seconds
+Activity_Goal_desc
+Deal 12,000 damage within 10 seconds
+Activity_Goal_name
+BattlePass Points Ninja
+ITEM_short_desc
+Battle Pass Experience
+ITEM_desc
+Battle Pass Ninja XP
+ITEM_name
+Battle Pass Ninja - Challenge Rewards Vendor
+Loot_Table_name
+Battle Pass Ninja - Free Rewards Vendor
+Loot_Table_name
+Battle Pass Ninja - Free Rewards Vendor
+Loot_Table_name
+Battle Pass Ninja - Premium Rewards Vendor
+Loot_Table_name
+ITEM_short_desc
+Lore
+ITEM_desc
+Moji Skin01A
+ITEM_name
+Lore
+ITEM_short_desc
+Lore
+ITEM_desc
+Moji WEP Skin01A
+ITEM_name
+Moji Lore Skin
+ITEM_name
+SLT - Collection - Moji - Lore
+Loot_Table_name
+Dojo
+map_game_friendly_name
+WIP Dojo
+map_game_name
+Abyss
+map_game_friendly_name
+LIVE DM Abyss
+map_game_name
+Dojo
+map_game_friendly_name
+LIVE Dojo
+map_game_name
+Obtainable in Battle Pass 2.
+ITEM_desc
+Ruby Stinger
+ITEM_name
+Ninja DeathStamp
+ITEM_short_desc
+Double Barrel Test
+item_name
+Experimental Talent for Buck
+item_desc
+item_short_desc
+Battle Hardened
+item_name
+Obtainable in Battle Pass 2
+item_desc
+Talus
+item_short_desc
+Trickster
+item_name
+Obtainable in Battle Pass 2.
+item_desc
+Wall Climb
+item_name
+Device that allows the owning pawn to climb walls. Intended for Koga, but with a little bit of work in the Pawn class can be used for other champions.
+item_desc
+DM Junction
+map_game_friendly_name
+WIP DM Junction
+map_game_name
+DM Junction
+map_game_friendly_name
+WIP DM Junction
+map_game_name
+Increment Activity
+ITEM_name
+ModExperiment_3
+map_game_friendly_name
+WIP ModExperiment_3
+map_game_name
+Cyclone Strike Dash
+DEVICE_name
+Ninja RMB 2 Small
+item_name
+Cyclone Strike AoE
+DEVICE_name
+Play %s Siege Matches
+Activity_Goal_title
+Play 5 Siege Matches
+Activity_Goal_desc
+Play 5 Siege Matches
+Activity_Goal_name
+Deal 160,000 Damage in a Single Match
+Activity_Goal_title
+Deal 160,000 Damage in a Single Match
+Activity_Goal_desc
+Deal 160,000 Damage in a Single Match
+Activity_Goal_name
+Abyss
+map_game_friendly_name
+LIVE DM Abyss
+map_game_name
+Increase your maximum Health.
+item_short_desc
+Harsh Training
+item_name
+[Armor] Increase your maximum Health by {scale=50|50}.
+item_desc
+[Weapon] While firing SMGs increase healing received.
+item_short_desc
+Trigger Happy
+item_name
+[Weapon] While firing SMGs increase healing received by {scale=10|10}%
+item_desc
+[Armor] Gain Crowd Control reduction.
+item_short_desc
+Memento
+item_name
+[Armor] Gain {scale=14|14}% Crowd Control and Slow Reduction.
+item_desc
+[Shadow Step] Activating Shadow Step generates Ammo.
+item_short_desc
+Surprise!
+item_name
+[Shadow Step] Activating Shadow Step generates {scale=8|8} Ammo.
+item_desc
+[Shadow Step] Activating Shadow Step heals you.
+item_short_desc
+Tenacious
+item_name
+[Shadow Step] Activating Shadow Step heals you for {scale=60|60}
+item_desc
+[Dragon Stance] Gain lifesteal while in Dragon Stance.
+item_short_desc
+Criminal Record
+item_name
+[Dragon Stance] Gain {scale=5|5}% lifesteal while in Dragon Stance.
+item_desc
+[Dragon Stance] While in Dragon Stance generate Ammo.
+item_short_desc
+Trained Killer
+item_name
+[Dragon Stance] While in Dragon Stance generate {scale=6|6} Ammo per second.
+item_desc
+[Dragon Stance] Reduce the time to enter and exit Dragon Stance.
+item_short_desc
+Swift Hands
+item_name
+[Dragon Stance] Reduce the time to enter and exit Dragon Stance by {scale=10|10}%
+item_desc
+[Agility] Increase the speed boost of Agility.
+item_short_desc
+Raw Talent
+item_name
+[Agility] Increase the speed boost of Agility by {scale=4|4}%
+item_desc
+Bladestorm
+ITEM_short_desc
+Stay on the offense with a rain of bullets and flurry of slashes.
+ITEM_desc
+Koga_Deck
+ITEM_name
+Koga WEP Skin00B
+ITEM_name
+Koga Recolor
+ITEM_short_desc
+Koga WEP Skin Mastery
+ITEM_name
+Mastery/Gold
+ITEM_desc
+Koga Recolor
+ITEM_short_desc
+Koga Skin00B
+ITEM_name
+Koga Skin Mastery
+ITEM_name
+Mastery/Gold
+ITEM_desc
+[Agility] Heal yourself while Agility is active.
+item_short_desc
+Wind's Embrace
+item_name
+[Agility] Heal {scale=20|20} Health per second while Agility is active.
+item_desc
+[Agility] Gain increased jump height while Agility is active.
+item_short_desc
+Trespasser
+item_name
+[Agility] Gain {scale=20|20}% increased jump height while Agility is active.
+item_desc
+[Agility] Gain Ammo while Agility is active.
+item_short_desc
+Wanted
+item_name
+[Agility] Gain {scale=4|4} Ammo per second while Agility is active.
+item_desc
+[Skewer] Skewer deals bonus damage based on the amount of Energy it consumed.
+item_short_desc
+Blood Reaper
+item_name
+[Skewer] Skewer deals up to 400 bonus damage based on the amount of Energy it consumed.
+item_desc
+Dragon Stance consumes health instead of energy.
+item_short_desc
+Dragon Fangs
+item_name
+[Dragon Stance] Dragon Stance no longer consume Energy, and instead consume 200 Health per second.
+item_desc
+Abyss
+map_game_friendly_name
+LIVE Abyss (Team Deathmatch)
+map_game_name
+Abyss
+map_game_friendly_name
+LIVE Abyss (TDM)
+map_game_name
+Snowfall Junction
+map_game_friendly_name
+LIVE Snowfall Junction (Onslaught)
+map_game_name
+Snowfall Junction
+map_game_friendly_name
+Practice Snowfall Junction (Onslaught)
+map_game_name
+Primal Court
+map_game_friendly_name
+Practice Primal Court (Onslaught)
+map_game_name
+Magistrate's Archives
+map_game_friendly_name
+Practice Magistrate's Archives (TDM)
+map_game_name
+Jaguar Falls
+map_game_friendly_name
+Practice Jaguar Falls Onslaught 
+map_game_name
+Jaguar Falls
+map_game_friendly_name
+Practice Jaguar Falls (Onslaught)
+map_game_name
+Frostbite Cavern
+map_game_friendly_name
+zPractice Frostbite Cavern
+map_game_name
+Hidden Temple
+map_game_friendly_name
+zPractice Hidden Temple
+map_game_name
+Foreman's Rise
+map_game_friendly_name
+Practice Foreman's Rise (TDM)
+map_game_name
+Brightmarsh
+map_game_friendly_name
+zPractice Brightmarsh (Onslaught)
+map_game_name
+Magistrate's Archives (TDM)
+map_game_friendly_name
+zOld Magistrate's Archives (TDM)
+map_game_name
+Foreman's Rise
+map_game_friendly_name
+Practice Foreman's Rise (Onslaught)
+map_game_name
+Rise
+map_game_friendly_name
+LIVE Rise (TDM)
+map_game_name
+Abyss
+map_game_friendly_name
+Practice Abyss (TDM)
+map_game_name
+Abyss
+map_game_friendly_name
+Practice Abyss (TDM)
+map_game_name
+Player Emote 3
+ITEM_name
+Player Spray 4
+ITEM_name
+Throne
+map_game_friendly_name
+LIVE Throne (TDM)
+map_game_name
+Magistrate's Archives
+map_game_friendly_name
+zPractice Magistrate's Archives (TDM)
+map_game_name
+Magistrate's Archives
+map_game_friendly_name
+Practice Magistrate's Archives (Onslaught)
+map_game_name
+Outpost
+map_game_friendly_name
+zPractice Outpost
+map_game_name
+Foreman's Rise
+map_game_friendly_name
+zPractice Foreman's Rise (TDM)
+map_game_name
+Snowfall Junction
+map_game_friendly_name
+Practice Snowfall Junction (TDM)
+map_game_name
+Contains Common Skins, Uncommon Skins, and Voice packs for Frontline Champions.
+ITEM_desc
+Frontline Battle Chest
+ITEM_name
+Contains Common Skins, Uncommon Skins, and Voice packs for Support Champions.
+ITEM_desc
+Support Battle Chest
+ITEM_name
+Contains Common Skins, Uncommon Skins, and Voice packs for Damage Champions.
+ITEM_desc
+Damage Battle Chest
+ITEM_name
+Contains Common Skins, Uncommon Skins, and Voice packs for Flank Champions.
+ITEM_desc
+Flank Battle Chest
+ITEM_name
+Chest Loot Vendor - Frontline Battle Chest
+Loot_Table_name
+Chest Loot Vendor - Support Battle Chest
+Loot_Table_name
+Chest Loot Vendor - Flank Battle Chest
+Loot_Table_name
+Chest Loot Vendor - Damage Battle Chest
+Loot_Table_name
+SLT - Chest - Frontline Battle Chest - Skins
+Loot_Table_name
+SLT - Chest - Frontline Battle Chest - Voice Packs
+Loot_Table_name
+SLT - Chest - Support Battle Chest - Voice Packs
+Loot_Table_name
+SLT - Chest - Damage Battle Chest - Voice Packs
+Loot_Table_name
+SLT - Chest - Flank Battle Chest - Voice Packs
+Loot_Table_name
+SLT - Chest - Support Battle Chest - Skins
+Loot_Table_name
+SLT - Chest - Damage Battle Chest - Skins
+Loot_Table_name
+SLT - Chest - Flank Battle Chest - Skins
+Loot_Table_name
+Humble Beginnings
+Activity_title
+Skye Skin06A
+ITEM_name
+Skye WEP Skin05A
+ITEM_name
+Something to Prove
+item_name
+[Armor] Falling below 50% health grants {scale=10|10}% energy.
+item_desc
+Ninja Battle Pass Hidden Challenges
+Activity_name
+Exile
+ITEM_name
+SLT - Collection - Koga - Viper
+Loot_Table_name
+SLT - Collection - Koga - Mastery
+Loot_Table_name
+Golden Koga
+ITEM_name
+Koga XP
+ITEM_name
+Complete all Ninja Battle Pass Challenges.
+ITEM_desc
+The Ninja
+ITEM_name
+Complete the Shadow Warrior Trials. 
+ITEM_desc
+Shadow Warrior
+ITEM_name
+Battle Pass - SLT - T7 Challenge Rewards
+Loot_Table_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Ninja Battle Pass Tier 1 Challenges
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Ninja Battle Pass Tier 2 Challenges
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Ninja Battle Pass Tier 3 Challenges
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Ninja Battle Pass Tier 4 Challenges
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Ninja Battle Pass Tier 5 Challenges
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Ninja Battle Pass Tier 6 Challenges
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Ninja Battle Pass Tier 7 Challenges
+ITEM_name
+Unlocks Legendary Title "The Ninja"
+ITEM_desc
+Ninja Battle Pass Capstone Challenges
+ITEM_name
+Ninja Challenges Unlocked
+Activity_Goal_title
+Goal Group START
+Activity_Goal_desc
+Goal Group START
+Activity_Goal_name
+Ninja Challenges Completed
+Activity_Goal_title
+Goal Group COMPLETE
+Activity_Goal_desc
+Goal Group COMPLETE
+Activity_Goal_name
+Unlocks Legendary Title "Shadow Warrior"
+ITEM_desc
+Ninja Battle Pass Hidden Challenges
+ITEM_name
+Shadow Warrior Trials Unlocked
+Activity_Goal_title
+Goal Group START
+Activity_Goal_desc
+Goal Group START
+Activity_Goal_name
+Shadow Warrior Trials Completed
+Activity_Goal_title
+Goal Group COMPLETE
+Activity_Goal_desc
+Goal Group COMPLETE
+Activity_Goal_name
+Play a match as Koga
+Activity_Goal_title
+Play a match as Koga
+Activity_Goal_desc
+Play a match as Koga
+Activity_Goal_name
+Completed Humble Beginnings Challenges
+Activity_Goal_title
+Complete T1 Challenges
+Activity_Goal_desc
+Complete T1 Challenges
+Activity_Goal_name
+Completed A Shinobi's Code Challenges
+Activity_Goal_title
+Complete T2 Challenges
+Activity_Goal_desc
+Complete T2 Challenges
+Activity_Goal_name
+Completed The Art of Ninjutsu Challenges
+Activity_Goal_title
+Complete T3 Challenges
+Activity_Goal_desc
+Complete T3 Challenges
+Activity_Goal_name
+Completed The Silent Night Challenges
+Activity_Goal_title
+Complete T4 Challenges
+Activity_Goal_desc
+Complete T4 Challenges
+Activity_Goal_name
+Completed Journey of a Thousand Sins Challenges
+Activity_Goal_title
+Complete T5 Challenges
+Activity_Goal_desc
+Complete T5 Challenges
+Activity_Goal_name
+Battle Pass - SLT - Capstone Challenge Rewards
+Loot_Table_name
+Battle Pass - SLT - Hidden Challenge Rewards
+Loot_Table_name
+Completed Deadly Blade Challenges
+Activity_Goal_title
+Complete T6 Challenges
+Activity_Goal_desc
+Complete T6 Challenges
+Activity_Goal_name
+Completed Demon of the Thousand Hands Challenges
+Activity_Goal_title
+Complete T7 Challenges
+Activity_Goal_desc
+Complete T7 Challenges
+Activity_Goal_name
+Heal 225,000 Health in a Single Match
+Activity_Goal_title
+Heal 225,000 Health in a Single Match
+Activity_Goal_desc
+Heal 225,000 Health in a Single Match
+Activity_Goal_name
+Deal 225,000 Damage in a Single Match
+Activity_Goal_title
+Deal 225,000 Damage in a Single Match
+Activity_Goal_desc
+Deal 225,000 Damage in a Single Match
+Activity_Goal_name
+Earn a Penta Kill
+Activity_Goal_title
+Earn a Penta Kill
+Activity_Goal_desc
+Earn a Penta Kill
+Activity_Goal_name
+Play %s Matches
+Activity_Goal_title
+Play 50 Matches
+Activity_Goal_desc
+Play 50 Matches
+Activity_Goal_name
+Kill every champion (%s remaining)
+Activity_Goal_title
+Kill every champion
+Activity_Goal_desc
+Kill every champion
+Activity_Goal_name
+Play every champion (%s remaining)
+Activity_Goal_title
+Play every champion
+Activity_Goal_desc
+Play every champion
+Activity_Goal_name
+Completed Ninja Battle Pass Tier 1 Challenges
+ITEM_desc
+Ninja Battle Pass Tier 1 Completion
+ITEM_name
+Completed Ninja Battle Pass Tier 2 Challenges
+ITEM_desc
+Ninja Battle Pass Tier 2 Completion
+ITEM_name
+Completed Ninja Battle Pass Tier 3 Challenges
+ITEM_desc
+Ninja Battle Pass Tier 3 Completion
+ITEM_name
+Completed Ninja Battle Pass Tier 4 Challenges
+ITEM_desc
+Ninja Battle Pass Tier 4 Completion
+ITEM_name
+Completed Ninja Battle Pass Tier 5 Challenges
+ITEM_desc
+Ninja Battle Pass Tier 5 Completion
+ITEM_name
+Completed Ninja Battle Pass Tier 6 Challenges
+ITEM_desc
+Ninja Battle Pass Tier 6 Completion
+ITEM_name
+Completed Ninja Battle Pass Tier 7 Challenges
+ITEM_desc
+Ninja Battle Pass Tier 7 Completion
+ITEM_name
+SLT - Collection - Skye - Lore
+Loot_Table_name
+Skye Lore Skin
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+zzzzReuse
+ITEM_name
+Gale Storm
+item_name
+Emote
+item_name
+ModExperiment_1
+map_game_friendly_name
+WIP ModExperiment_1
+map_game_name
+spamwep_test
+item_name
+A custom launcher that fires volatile potions every 1s that explode in an area on impact dealing 600 damage per hit.
+item_desc
+Abyssal Shard Conversion - SLT - Break Dance
+Loot_Table_name
+zzzAbyssal Shard Conversion - SLT - Corrupter
+Loot_Table_name
+zzzAbyssal Shard Conversion - SLT - Corrupter
+Loot_Table_name
+Abyssal Shard Conversion - SLT - Corrupter
+Loot_Table_name
+Abyssal Shard Conversion - SLT - Death Stare Spray
+Loot_Table_name
+Abyssal Shard Conversion - SLT - Rise of Furia Music
+Loot_Table_name
+Abyssal Shard Conversion - SLT - Rise of Furia Music
+Loot_Table_name
+Abyssal Shard Conversion - SLT - Spooky
+Loot_Table_name
+Abyssal Shard Conversion - SLT - Unimpressed
+Loot_Table_name
+Adrenaline Junkie
+item_name
+Unyielding
+item_name
+Eliminations in Claw stance restore 6/12/18/24/30 stamina
+item_short_desc
+Ninja Multistrike Test
+item_name
+Surge with power for 3s, slowing and striking 2 nearby enemies at a time for 200 damage and speeding up and healing yourself and 2 nearby allies for 500 health every 0.5 seconds.
+item_desc
+Furia Skin01A
+ITEM_name
+Lore
+ITEM_short_desc
+Lore Event
+ITEM_desc
+Copy of Iron Maiden Pyre Blade
+ITEM_name
+Furia WEP Skin01A
+ITEM_name
+Lore
+ITEM_short_desc
+Lore Event
+ITEM_desc
+FeyRazzle ranked announcer pack.
+ITEM_short_desc
+FeyRazzle
+ITEM_name
+Obtainable in Battle Pass 2.
+ITEM_desc
+Ult Announcement Temp
+EFFECT_GROUP_name
+Ult Announcement Temp
+EFFECT_GROUP_name
+50% bonus Experience and Gold|Legendary Crimson Serpent Mount|Animated Loading Frame and Avatar|Unlock over 100 additional rewards just by leveling up!
+ITEM_desc
+Abyss
+Match_Queue_short_desc
+Abyss
+Match_Queue_name
+Abyss
+Match_Queue_desc
+Throne
+Match_Queue_short_desc
+Throne
+Match_Queue_name
+Throne
+Match_Queue_desc
+Dealing damage with SMGs restores Stamina.
+item_short_desc
+[SMGS] Dealing damage with Submachine Guns restores Energy.
+item_desc
+Emote Loadout Slot
+ITEM_name
+Spray Loadout Slot
+ITEM_name
+Loadout Slot Vendor
+Loot_Table_name
+French Announcer
+ITEM_name
+Russian Announcer
+ITEM_name
+German Announcer
+ITEM_name
+PTBR Announcer
+ITEM_name
+ESLA Announcer
+ITEM_name
+Ninja Multistrike Moveable
+item_name
+Rapidly damage nearby enemies for 2000 health per second for 2s.
+item_desc
+Spray in a siege match
+Activity_Goal_name
+Spray in a Team Deathmatch Game
+Activity_Goal_name
+Spray in a competitive match
+Activity_Goal_name
+Spray in a Siege, Deathmatch, and Competitive match activity trigger
+ITEM_name
+Represents partial progress on the "Spray in a Siege, Deathmatch, and Competitive match" challenge for Battle Pass 2.
+Loot_Table_Items_desc
+DALava
+item_name
+Spray
+item_name
+Khan Skin02A
+ITEM_name
+Khan
+ITEM_short_desc
+Khan WEP Skin02A
+ITEM_name
+Season Pass Check - SLT - Battle Pass 1 Owned
+Loot_Table_name
+Season Pass Check - SLT - Battle Pass 1 Unowned
+Loot_Table_name
+Season Pass Check - SLT - Battle Pass 2 Owned
+Loot_Table_name
+Season Pass Check - SLT - Battle Pass 2 Unowned
+Loot_Table_name
+Season Pass Check - SLT - Battle Pass 3 Owned
+Loot_Table_name
+Season Pass Check - SLT - Battle Pass 3 Unowned
+Loot_Table_name
+Copy of Tempest
+item_name
+Surge with power for 3s, slowing and striking 2 nearby enemies at a time for 200 damage and speeding up and healing yourself and 2 nearby allies for 500 health every 0.5 seconds.
+item_desc
+Falling below 50% health grants stamina.
+item_short_desc
+[Skewer] Kills with Skewer restore energy.
+item_short_desc
+[Skewer] Kills with Skewer restore {scale=10|10}% energy.
+item_desc
+Guild Tactics
+item_name
+[Skewer] Kills with Skewer restore {scale=200|200} health.
+item_desc
+[Skewer] Kills with Skewer restore health.
+item_short_desc
+Kill every champion
+ITEM_name
+Represents partial (X/37) progress on the "Kill Every Champion" Hidden Challenge for Battle Pass 2.
+Loot_Table_Items_desc
+Kill Androxus
+Activity_Goal_title
+Kill Androxus
+Activity_Goal_desc
+Kill Androxus
+Activity_Goal_name
+Kill Ash
+Activity_Goal_title
+Kill Ash
+Activity_Goal_desc
+Kill Ash
+Activity_Goal_name
+Kill Barik
+Activity_Goal_title
+Kill Barik
+Activity_Goal_desc
+Kill Barik
+Activity_Goal_name
+Kill Bomb King
+Activity_Goal_title
+Kill Bomb King
+Activity_Goal_desc
+Kill Bomb King
+Activity_Goal_name
+Kill Buck
+Activity_Goal_title
+Kill Buck
+Activity_Goal_desc
+Kill Buck
+Activity_Goal_name
+Kill Cassie
+Activity_Goal_title
+Kill Cassie
+Activity_Goal_desc
+Kill Cassie
+Activity_Goal_name
+Kill Drogoz
+Activity_Goal_title
+Kill Drogoz
+Activity_Goal_desc
+Kill Drogoz
+Activity_Goal_name
+Kill Evie
+Activity_Goal_title
+Kill Evie
+Activity_Goal_desc
+Kill Evie
+Activity_Goal_name
+Kill Fernando
+Activity_Goal_title
+Kill Fernando
+Activity_Goal_desc
+Kill Fernando
+Activity_Goal_name
+Kill Furia
+Activity_Goal_title
+Kill Furia
+Activity_Goal_desc
+Kill Furia
+Activity_Goal_name
+Kill Grohk
+Activity_Goal_title
+Kill Grohk
+Activity_Goal_desc
+Kill Grohk
+Activity_Goal_name
+Kill Grover
+Activity_Goal_title
+Kill Grover
+Activity_Goal_desc
+Kill Grover
+Activity_Goal_name
+Kill Inara
+Activity_Goal_title
+Kill Inara
+Activity_Goal_desc
+Kill Inara
+Activity_Goal_name
+Kill Jenos
+Activity_Goal_title
+Kill Jenos
+Activity_Goal_desc
+Kill Jenos
+Activity_Goal_name
+Kill Khan
+Activity_Goal_title
+Kill Khan
+Activity_Goal_desc
+Kill Khan
+Activity_Goal_name
+Kill Kinessa
+Activity_Goal_title
+Kill Kinessa
+Activity_Goal_desc
+Kill Kinessa
+Activity_Goal_name
+Kill Koga
+Activity_Goal_title
+Kill Koga
+Activity_Goal_desc
+Kill Koga
+Activity_Goal_name
+Kill Lex
+Activity_Goal_title
+Kill Lex
+Activity_Goal_desc
+Kill Lex
+Activity_Goal_name
+Kill Lian
+Activity_Goal_title
+Kill Lian
+Activity_Goal_desc
+Kill Lian
+Activity_Goal_name
+Kill Maeve
+Activity_Goal_title
+Kill Maeve
+Activity_Goal_desc
+Kill Maeve
+Activity_Goal_name
+Kill Makoa
+Activity_Goal_title
+Kill Makoa
+Activity_Goal_desc
+Kill Makoa
+Activity_Goal_name
+Kill Mal'Damba
+Activity_Goal_title
+Kill Mal'Damba
+Activity_Goal_desc
+Kill Mal'Damba
+Activity_Goal_name
+Kill Moji
+Activity_Goal_title
+Kill Moji
+Activity_Goal_desc
+Kill Moji
+Activity_Goal_name
+Kill Pip
+Activity_Goal_title
+Kill Pip
+Activity_Goal_desc
+Kill Pip
+Activity_Goal_name
+Kill Ruckus
+Activity_Goal_title
+Kill Ruckus
+Activity_Goal_desc
+Kill Ruckus
+Activity_Goal_name
+Kill Seris
+Activity_Goal_title
+Kill Seris
+Activity_Goal_desc
+Kill Seris
+Activity_Goal_name
+Kill Sha Lin
+Activity_Goal_title
+Kill Sha Lin
+Activity_Goal_desc
+Kill Sha Lin
+Activity_Goal_name
+Kill Skye
+Activity_Goal_title
+Kill Skye
+Activity_Goal_desc
+Kill Skye
+Activity_Goal_name
+Kill Strix
+Activity_Goal_title
+Kill Strix
+Activity_Goal_desc
+Kill Strix
+Activity_Goal_name
+Kill Talus
+Activity_Goal_title
+Kill Talus
+Activity_Goal_desc
+Kill Talus
+Activity_Goal_name
+Kill Terminus
+Activity_Goal_title
+Kill Terminus
+Activity_Goal_desc
+Kill Terminus
+Activity_Goal_name
+Kill Torvald
+Activity_Goal_title
+Kill Torvald
+Activity_Goal_desc
+Kill Torvald
+Activity_Goal_name
+Kill Tyra
+Activity_Goal_title
+Kill Tyra
+Activity_Goal_desc
+Kill Tyra
+Activity_Goal_name
+Kill Viktor
+Activity_Goal_title
+Kill Viktor
+Activity_Goal_desc
+Kill Viktor
+Activity_Goal_name
+Kill Vivian
+Activity_Goal_title
+Kill Vivian
+Activity_Goal_desc
+Kill Vivian
+Activity_Goal_name
+Kill Willo
+Activity_Goal_title
+Kill Willo
+Activity_Goal_desc
+Kill Willo
+Activity_Goal_name
+Kill Ying
+Activity_Goal_title
+Kill Ying
+Activity_Goal_desc
+Kill Ying
+Activity_Goal_name
+Kill Zhin
+Activity_Goal_title
+Kill Zhin
+Activity_Goal_desc
+Kill Zhin
+Activity_Goal_name
+Play every champion
+ITEM_name
+Play Androxus
+Activity_Goal_title
+Play Androxus
+Activity_Goal_desc
+Play Androxus
+Activity_Goal_name
+Play Ash
+Activity_Goal_title
+Play Ash
+Activity_Goal_desc
+Play Ash
+Activity_Goal_name
+Play Barik
+Activity_Goal_title
+Play Barik
+Activity_Goal_desc
+Play Barik
+Activity_Goal_name
+Play Bomb King
+Activity_Goal_title
+Play Bomb King
+Activity_Goal_desc
+Play Bomb King
+Activity_Goal_name
+Play Buck
+Activity_Goal_title
+Play Buck
+Activity_Goal_desc
+Play Buck
+Activity_Goal_name
+Play Cassie
+Activity_Goal_title
+Play Cassie
+Activity_Goal_desc
+Play Cassie
+Activity_Goal_name
+Play Evie
+Activity_Goal_title
+Play Evie
+Activity_Goal_desc
+Play Evie
+Activity_Goal_name
+Play Fernando
+Activity_Goal_title
+Play Fernando
+Activity_Goal_desc
+Play Fernando
+Activity_Goal_name
+Play Drogoz
+Activity_Goal_title
+Play Drogoz
+Activity_Goal_desc
+Play Drogoz
+Activity_Goal_name
+Play Furia
+Activity_Goal_title
+Play Fria
+Activity_Goal_desc
+Play Furia
+Activity_Goal_name
+Play Grohk
+Activity_Goal_title
+Play Grohk
+Activity_Goal_desc
+Play Grohk
+Activity_Goal_name
+Play Grover
+Activity_Goal_title
+Play Grover
+Activity_Goal_desc
+Play Grover
+Activity_Goal_name
+Play Inara
+Activity_Goal_title
+Play Inara
+Activity_Goal_desc
+Play Inara
+Activity_Goal_name
+Play Jenos
+Activity_Goal_title
+Play Jenos
+Activity_Goal_desc
+Play Jenos
+Activity_Goal_name
+Play Khan
+Activity_Goal_title
+Play Khan
+Activity_Goal_desc
+Play Khan
+Activity_Goal_name
+Play Kinessa
+Activity_Goal_title
+Play Kinessa
+Activity_Goal_desc
+Play Kinessa
+Activity_Goal_name
+Play Koga
+Activity_Goal_title
+Play Koga
+Activity_Goal_desc
+Play Koga
+Activity_Goal_name
+Arid v3
+map_game_friendly_name
+WIP Arid v3
+map_game_name
+Play Lex
+Activity_Goal_title
+Play Lex
+Activity_Goal_desc
+Play Lex
+Activity_Goal_name
+Play Lian
+Activity_Goal_title
+Play Lian
+Activity_Goal_desc
+Play Lian
+Activity_Goal_name
+Play Maeve
+Activity_Goal_title
+Play Maeve
+Activity_Goal_desc
+Play Maeve
+Activity_Goal_name
+Play Makoa
+Activity_Goal_title
+Play Makoa
+Activity_Goal_desc
+Play Makoa
+Activity_Goal_name
+Play Mal'Damba
+Activity_Goal_title
+Play Mal'Damba
+Activity_Goal_desc
+Play Mal'Damba
+Activity_Goal_name
+Play Moji
+Activity_Goal_title
+Play Moji
+Activity_Goal_desc
+Play Moji
+Activity_Goal_name
+Play Pip
+Activity_Goal_title
+Play Pip
+Activity_Goal_desc
+Play Pip
+Activity_Goal_name
+Play Ruckus
+Activity_Goal_title
+Play Ruckus
+Activity_Goal_desc
+Play Ruckus
+Activity_Goal_name
+Play Seris
+Activity_Goal_title
+Play Seris
+Activity_Goal_desc
+Play Seris
+Activity_Goal_name
+Play Sha Lin
+Activity_Goal_title
+Play Sha Lin
+Activity_Goal_desc
+Play Sha Lin
+Activity_Goal_name
+Play Skye
+Activity_Goal_title
+Play Ske
+Activity_Goal_desc
+Play Skye
+Activity_Goal_name
+Play Strix
+Activity_Goal_title
+Play Strix
+Activity_Goal_desc
+Play Strix
+Activity_Goal_name
+Play Talus
+Activity_Goal_title
+Play Talus
+Activity_Goal_desc
+Play Talus
+Activity_Goal_name
+Play Terminus
+Activity_Goal_title
+Play Terminus
+Activity_Goal_desc
+Play Terminus
+Activity_Goal_name
+Play Torvald
+Activity_Goal_title
+Play Torvald
+Activity_Goal_desc
+Play Torvald
+Activity_Goal_name
+Play Tyra
+Activity_Goal_title
+Play Tyra
+Activity_Goal_desc
+Play Tyra
+Activity_Goal_name
+Play Viktor
+Activity_Goal_title
+Play Viktor
+Activity_Goal_desc
+Play Viktor
+Activity_Goal_name
+Play Vivian
+Activity_Goal_title
+Play Vivian
+Activity_Goal_desc
+Play Vivian
+Activity_Goal_name
+Play Willo
+Activity_Goal_title
+Play Willo
+Activity_Goal_desc
+Play Willo
+Activity_Goal_name
+Play Ying
+Activity_Goal_title
+Play Ying
+Activity_Goal_desc
+Play Ying
+Activity_Goal_name
+Play Zhin
+Activity_Goal_title
+Play Zhin
+Activity_Goal_desc
+Play Zhin
+Activity_Goal_name
+Ascension Peak (AA)
+map_game_friendly_name
+LIVE Asiatic Map (Ascended Assault)
+map_game_name
+Dragonfire Spray
+item_name
+Fernando
+item_short_desc
+Surf
+item_name
+Obtainable in Battle Pass 2.
+item_desc
+Red Assassin Spray
+item_name
+Blue Assassin Spray
+item_name
+Zhin
+item_short_desc
+Sulk
+item_name
+Obtainable from Battle Pass 2.
+item_desc
+[Dragon Stance] Enemies hit by Claw attacks receive reduced healing.
+item_short_desc
+[Dragon Stance] Enemies hit by Claw attacks receive {scale=15|15}% reduced healing for 3s.
+item_desc
+Koga Voice Pack
+ITEM_name
+The Lost Hand
+ITEM_name
+Oni Mask
+ITEM_name
+Vox (Hugh) ranked announcer pack.
+ITEM_short_desc
+Play 25 games in Ranked Season 2 Fall Split.
+ITEM_desc
+ITEM_name
+Cutesy Maeve
+ITEM_name
+Cutesy Snek
+ITEM_name
+Cutesy Zhin
+ITEM_name
+Goodnight
+ITEM_name
+Breach
+map_game_friendly_name
+WIP SE_Dragon_Breach
+map_game_name
+Hits with your SMGs cost no ammo.
+item_short_desc
+Master of Arms
+item_name
+[Weapon] Successful Hits with your Submachine Guns cost no ammo.
+item_desc
+Finish your Placement matches
+Activity_Goal_title
+Qualify Split 2
+Activity_Goal_name
+Qualify Split 2
+Activity_Goal_name
+Finish your Placement matches
+Activity_Goal_title
+Ranked Reward - Qualify
+Activity_title
+RR_S2_S2_Qualify
+Activity_name
+Play 25 Games
+Activity_Goal_title
+Play 25 Games
+Activity_Goal_name
+Ranked Reward - Play Split 2
+Activity_title
+RR_S2_S2_Play_Games
+Activity_name
+SLT - Collection - Khan - Lore
+Loot_Table_name
+Khan Lore Skin
+ITEM_name
+Robo
+ITEM_desc
+Grover Skin04A
+ITEM_name
+Robo
+ITEM_short_desc
+Robo
+ITEM_desc
+Grover WEP Skin05A
+ITEM_name
+Robo
+ITEM_short_desc
+SLT - Daily Quest Reward - Gold and Battle Pass XP Tier 6
+Loot_Table_name
+SLT - Daily Quest Reward - Gold and Battle Pass XP Tier 7
+Loot_Table_name
+SLT - Daily Quest Reward - Gold and Battle Pass XP Tier 8
+Loot_Table_name
+SLT - Daily Quest Reward - Gold2 and Battle Pass XP Tier 6
+Loot_Table_name
+SLT - Daily Quest Reward - Gold2 and Battle Pass XP Tier 7
+Loot_Table_name
+SLT - Daily Quest Reward - Gold2 and Battle Pass XP Tier 8
+Loot_Table_name
+SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 6
+Loot_Table_name
+SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 7
+Loot_Table_name
+SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 8
+Loot_Table_name
+Grover R Skin
+ITEM_name
+SLT - Collection - Grover - Robo
+Loot_Table_name
+Community Avatar Contest Winner, created by Bellaa. Obtainable in Battle Pass 2
+ITEM_desc
+Furia Lore Skin
+ITEM_name
+SLT - Collection - Furia - Lore
+Loot_Table_name
+Community Avatar Contest Winner, created by Rubiini.
+ITEM_desc
+Community Avatar Contest Winner, created by MECHii.
+ITEM_desc
+Community Avatar Contest Winner, created by Bellaa. Obtainable in Battle Pass 2.
+ITEM_desc
+Obtainable from the Mecha Battle Pass.
+ITEM_desc
+Obtainable in Battle Pass 2.
+ITEM_desc
+Obtainable in Battle Pass 2.
+ITEM_desc
+DM Junction
+map_game_friendly_name
+LIVE DM Junction
+map_game_name
+Shadow Warrior Trials
+Activity_title
+Firefall
+map_game_friendly_name
+WIP DM_Dragon_Firefall
+map_game_name
+Firefall (TDM)
+Match_Queue_short_desc
+Firefall (TDM)
+Match_Queue_name
+Firefall (TDM)
+Match_Queue_desc
+Energy Charge - Koga
+item_name
+Fires two rounds each dealing 40 damage every 0.06s.
+Hellkite Claws: hurls a fiery slash dealing 600 damage every 0.55s
+item_desc
+Melt into the shadows becoming untargetable and striking anyone within 25 feet of you for 1500 damage per second over 2s. Goes through shields.
+item_desc
+Quickly dart forward becoming untargetable for the duration. Consumes 1 unit of Energy. 
+Skewer: Dash forward slicing anything in your path for 600 damage. Consumes all Energy.
+item_desc
+Move 50% faster and increase jump height for 4s. Consumes 1 unit of Energy.
+Passive: Hold <CMD=GBA_Jump> when running into a wall to climb it.
+item_desc
+Battle Pass XP Booster Vendor
+Loot_Table_name
+BattlePass Personal Booster
+ITEM_short_desc
+Increases total Battle Pass Boost by 5%
+ITEM_desc
+Ninja Battle Pass 5% Personal Booster
+ITEM_name
+Shadowblade
+ITEM_name
+Ascension Peak (AA)
+map_game_friendly_name
+zOLD Asiatic Map (Ascended Assault)
+map_game_name
+Obtainable in Battle Pass 2.
+ITEM_desc
+Play a match as Koga
+Activity_Goal_title
+Play a match as Koga
+Activity_Goal_desc
+Play a match as Koga
+Activity_Goal_name
+Copy of Wall Climb
+item_name
+Device that allows the owning pawn to climb walls. Intended for Koga, but with a little bit of work in the Pawn class can be used for other champions.
+item_desc
+Shogunate Frame
+ITEM_name
+green
+ITEM_desc
+Future Soldier
+ITEM_name
+SLT - Collection - Ash - Future Soldier
+Loot_Table_name
+Flagball
+map_game_friendly_name
+WIP Flagball
+map_game_name
+Rise of Furia
+map_game_friendly_name
+LIVE HH
+map_game_name
+Primal Court
+map_game_friendly_name
+LIVE Primal Court (Onslaught)
+map_game_name
+Trade District
+map_game_friendly_name
+LIVE Trade District (TDM)
+map_game_name
+Snowfall Junction
+map_game_friendly_name
+LIVE Snowfall Junction (TDM)
+map_game_name
+Crystalize
+item_name
+Trade District
+map_game_friendly_name
+Practice Trade District (TDM)
+map_game_name
+Koga
+item_short_desc
+Catch Ya Later
+item_name
+Obtainable in the Gold Chest.
+item_desc
+Koga
+item_short_desc
+Push Ups
+item_name
+Obtainable in the Gold Chest.
+item_desc
+Kinessa
+item_short_desc
+Clocking
+item_name
+Obtainable in Battle Pass 2.
+item_desc
+Heroic Leap now deals damage and knocks up enemies near where you land.
+item_short_desc
+Bounce House v2
+item_name
+[Heroic Leap] Heroic Leap now deals 600 damage, knocks up enemies straight up and has a 20% increased radius
+item_desc
+Player Spray 2
+ITEM_name
+Player Spray 3
+ITEM_name
+Player Emote 4
+ITEM_name
+Player Emote 2
+ITEM_name
+Koga
+item_short_desc
+Strike Pose
+item_name
+Obtainable in Battle Pass 2.
+item_desc
+Burst Rifle
+item_name
+Fire a burst of 3 projectiles dealing 225 damage each over 0.3s, every 1.25s at medium range.
+item_desc
+Once, a nameless street rat challenged the tyrant Zhin. For the boy's remarkable skills, Zhin granted him a new life in the Thousands Hands Guild, and a new name: Koga. The Guild was Koga's family and he became their finest ninja. But not all families get along. Jealous lies spread, false evidence was planted, and Zhin's fury forced Koga to flee. Now the exiled ninja fights for his new family -- The Paladins -- as he searches for the one who betrayed him.
+BOT_lore
+FWOTD  - Onslaught
+Activity_name
+Recurring reward for winning first Onslaught match of the day
+Activity_desc
+Koga
+item_short_desc
+Default Koga Emote
+item_name
+Koga
+item_desc
+Obtained from purchasing Battle Pass 2. 
+ITEM_desc
+Obtainable from Battle Pass 2.
+ITEM_desc
+Obtainable from Battle Pass 2.
+ITEM_desc
+Obtainable from Battle Pass 2.
+ITEM_desc
+Obtainable in Battle Pass 2.
+ITEM_desc
+Obtainable in Battle Pass 2.
+ITEM_desc
+Reach mastery 30 with Koga.
+ITEM_desc
+The Lost Hand
+ITEM_name
+Obtainable from Battle Pass 2.
+ITEM_desc
+Obtainable from Battle Pass 2.
+ITEM_desc
+Obtainable from Battle Pass 2.
+ITEM_desc
+zzzBattle Pass - SLT - Level Bundle
+Loot_Table_name
+SLT - Autobuy - Koga
+Loot_Table_name
+Battle Pass Level 40 Bundle
+ITEM_name
+TEMP TEXT
+ITEM_desc
+Cassie
+item_short_desc
+Copy of Default Cassie Emote
+item_name
+Wave
+item_desc
 None
 VV_TEXT
 Patrol
@@ -136309,7 +138256,7 @@ ES12 (Supporting Device 2)
 SLOT_12
 ES13 (Regeneration)
 SLOT_13
-ES14 (** Unused? **)
+ES14 (Supporting Device 3)
 SLOT_14
 Float4
 FLOAT4
@@ -136729,6 +138676,10 @@ Is Attacker Taskforce (0/1)
 VV_text
 Target Is Highest Recent Threat (0/1)
 VV_text
+Purchase
+Purchase
+Reward
+Reward
 That name is already in use.
 CLAN_DUPLICATE_NAME
 Failed; you are already a member of a clan.
@@ -136907,6 +138858,8 @@ Despawn Alarm Bots
 VV_text
 Requested player was not found or is offline.
 player not found
+Sell
+Sell
 The promotion code is expired or not activated yet.
 PROMOTION_EXPIRED
 The promotion code is claimed already.
@@ -136919,6 +138872,8 @@ There is no team to merge.
 Team none to merge
 There is not enough room to merge your teams.
 Team Merge no room
+GM Given
+GM Given
 Can't delete rank @@name@@ while it is in use
 RANK_IN_USE
 Invalid clan name. Names must be 4-15 characters in length.
@@ -136996,6 +138951,8 @@ Armor Mod
 VV_text
 Teleport To Spawn
 Teleport To Spawn
+Given By System
+SYS_GIVEN
 Virtual
 VV_text
 Objective Bot Is Friendly (0/1)
@@ -137092,9 +139049,11 @@ VV_text
 VV_text
 VV_text
 Jetpack Trail
-VV_TEXT
+Skin Contrail
 Container
 Container
+Promotion
+Promotion
 Smite Normal
 LOBBYCLASS_PVP
 Apply Self
@@ -137296,6 +139255,10 @@ Is Offhand 3 In Range (0/1)
 VV_text
 The other player is not in a match
 Match Other not in match
+Refund
+Refund
+Return
+Return
 Self / Friend
 Friend
 Skills
@@ -137358,6 +139321,8 @@ Neutral Boss
 Neutral Boss
 @@PLAYER_NAME@@ has left the match lobby.
 ALERT_PLAYER_LEFT_MATCH
+Transfer
+Transfer
 Float8
 FLOAT8
 Character
@@ -137382,8 +139347,6 @@ Map Files
 VV_text
 Introduction
 Introduction
-Recipe
-Recipe
 Cannot connect to server. Please wait and try again shortly.
 Game not available for login
 Name Change
@@ -137423,9 +139386,9 @@ Activity
 Activity
 Activity
 In Game
-In Game
+VV_text
 Player - Out Of Game
-Out of Game
+VV_text
 Champion Mastery
 VV_text
 Setting
@@ -137873,7 +139836,7 @@ Rewards
 Internal URL
 Internal URL
 Champion - Out Of Game
-God Out of Game
+VV_text
 Hide If Not Owned
 UI_HINT_HIDE_IF_NOT_OWNED
 Stun Taunt
@@ -138192,6 +140155,10 @@ Treasure Chest
 Treasure
 Emote
 Social Emote
+Console
+Console
+Odyssey
+Odyssey
 Chaos Tank Class
 VV_text
 Chaos Engineer Class
@@ -138414,10 +140381,16 @@ Refund Check Trigger
 Refund Check Trigger
 Class Bundle Refund Check
 Class Bundle
+Punish Lobby Leave
+Punish Lobby Leave
+Punish Match Leave
+Punish Match Leave
 Warning: Your account has been flagged for bad behavior. Further bad behavior will result in an account suspension or ban.
 PUNISH_WARN
 Warning: if you continue to remain idle, you will be kicked from the match.
 PUNISH_IDLE_WARN
+Spray 3D
+Global Emote
 Reminder: you were recently warned for bad behavior. Further bad behavior will result in an account suspension or ban.
 PUNISH_WARN_LOGIN
 Season
@@ -138490,6 +140463,8 @@ Export to TgClient_PS4
 VV_text
 Music Pack Switch
 VV_text
+Return
+Return
 Active
 VV_text
 Completed
@@ -138656,10 +140631,16 @@ You are allowed @@remaining_messages@@ more messages until suspended from this c
 CHAT_SUPPRESSED_SOFT
 Weaken
 VV_text
+JSON Gate
+JSON Gate
 Chat Message
 Chat Message
 Ability1 Card
 VV_text
+Normal
+Normal
+Bypassed
+Bypassed
 GenericFire2
 VV_text
 Coupon
@@ -138688,6 +140669,10 @@ Kills
 VV_text
 Hud Popup No Title
 VV_text
+Send Gift
+Send Gift
+Receive Gift
+Receive Gift
 You haven't reached the minimum required for gifting.
 Gift error minimum level
 Gifting is only allowed between friends.
@@ -138714,8 +140699,8 @@ That player is a member of a clan.
 CLAN_MEMBER_OF_OTHER_NO_NAME
 You do not have enough commendation points.
 Commendation error points
-You can not commend a player you have already commended or reported in a match.
-Commendation error match
+You can not commend a player you have already commended or reported in the same day.
+Commendation error duplicate
 You can not commend players in this queue.
 Commendation error queue
 Please wait until your commendation points reset before commending this player again.
@@ -138750,6 +140735,8 @@ PaladinsHeads
 VV_text
 Revealed
 VV_text
+Steam DLC
+Steam DLC
 Friend Referral
 Friend Referral
 Ability2 Card
@@ -138808,6 +140795,8 @@ VV_text
 VV_text
 MVP Pose
 MVP POSE
+Twitch_MileStone
+Twitch_MileStone
 Legendary
 Legendary
 There was a problem with your sell request
@@ -138852,6 +140841,8 @@ You cannot purchase this item from your region.
 PURCHASE_BLOCKED_BY_COUNTRY
 You must be level 10 to purchase this item.
 PURCHASE_BLOCKED_BY_LEVEL
+Twitch_Prime
+Twitch_Prime
 Sale
 VV_text
 Card Spray
@@ -138911,18 +140902,40 @@ Talent (Armor)
 VV_text
 Talent (Weapon)
 VV_text
+Increment Activity
+Increment Activity
+Revoke Currency
+Revoke Currency
+Modify Currency
+Modify Currency
+Add Character Class
+Add Character Class
 The Activities, goals, and groups from the DB could not be merged with in memory data.  A GSC restart will be required to pickup any changes.
 ACTIVITY_RELOAD_FAILED
 Strongest Masks
 VV_text
+Revoke Character Class
+Revoke Character Class
+Modify Clan Points
+Modify Clan Points
+Upgrade Account
+Upgrade Account
+Revoke Account Upgrade
+Revoke Account Upgrade
 Healing Increase
 VV_text
+Revoke New Acquisition
+Revoke New Acquisition
 Talent (Ultimate)
 VV_text
+Revoke Started
+Revoke Started
 Stackable Refresh
 VV_text
 Lawman's Mark
 VV_text
+Xbox
+Xbox
 Unqueued from live spectating.
 LIVE_SPECTATOR_UNQUEUED
 This match does not allow live spectating.
@@ -138967,11 +140980,19 @@ Needs Revocation
 Needs Revocation
 Revoked
 Revoked
+PTS Grant
+PTS Grant
+Instance
+Instance
+Account Transfer
+Account Transfer
 Weapon
 VV_text
 Required item not owned
 Shop required item error
 PS4 Only
+PromoCode
+PromoCode
 This function is deprecated and may be removed.
 ADMIN_FUNCTION_DEPRECATED
 Mesmerize
@@ -138984,6 +141005,8 @@ PaladinsMount
 VV_text
 Astro DOT
 VV_text
+Closed by Support
+Closed by Support
 Astro Heal
 VV_text
 Astro Buff
@@ -139003,6 +141026,8 @@ VV_text
 VV_text
 VV_text
 VV_text
+Triumph System
+Triumph System
 Lift
 VV_text
 Flash Bang
@@ -139017,6 +141042,10 @@ Ranked
 Ranked
 Notified
 Notified
+Removed Currency
+Removed Currency
+Returned Currency
+Returned Currency
 VIP Booster
 VV_text
 While Dead
@@ -139059,6 +141088,8 @@ User Needs Filling
 User Needs Filling
 User Declined
 User Declined
+Sell Item
+Sell Item
 Invalid selection
 Invalid Selection
 Please finish choosing an item.
@@ -139249,13 +141280,13 @@ VV_text
 Featured New
 UI_HINT_FEATURED_NEW
 Card Rank Common
-Card Rank Common
+VV_text
 Card Rank Rare
-Card Rank Rare
+VV_text
 Card Rank Epic
-Card Rank Epic
+VV_text
 VIP Tiers
-VIP Tiers
+VV_text
 Randomly Sampled
 Randomly Sampled
 Lore
@@ -139263,11 +141294,9 @@ Lore
 Facebook_Drop
 Facebook_Drop
 Card Rank Legendary
-Card Rank Legendary
+VV_text
 Conversion
 Conversion
-OB64 Conversion
-OB64_Conversion
 @@name@@: Mismatch between user attempting to log in and user linked to account
 LINKED_ACCOUNT_USER_ID_MISMATCH
 Royale PvP
@@ -139276,12 +141305,12 @@ Could not connect to @@name@@.
 NO_PORTAL_CONNECTION
 VIP Reward
 VIP Reward
-OB64 Chest Conversion
-OB64_Chest_Conversion
 Campaign
 Campaign
 Campaign Violation
 Campaign Violation
+Database Script
+Database Script
 A map change order is pending
 MAP_CHANGE_ORDER_PENDING
 This queue does not allow Exclusive Parties.
@@ -139310,6 +141339,10 @@ First Purchase
 First Purchase
 Purchase
 Purchase
+Account Linking
+Account Linking
+Clan
+Clan
 Unable to connect to Steam. Please make sure you are launching the game from Steam and have the appropriate parental permissions to run it.
 STEAM_INIT_FAILURE
 Royale Weapon
@@ -139383,7 +141416,7 @@ VV_text
 CardDeck
 CardDeck
 God Out of Game - Deprecated
-God Out of Game OLD
+VV_text
 Player Slots
 Player Slots
 Conversion
@@ -139406,6 +141439,10 @@ Weapon Skin
 VV_text
 MVP Pose
 VV_text
+Apple
+Apple
+Google
+Google
 Asiatic Crest
 VV_text
 Death Stamp
@@ -139413,15 +141450,17 @@ VV_text
 Avatar
 VV_text
 BattlePass Levels
-BP_LEVELS
+VV_text
 BattlePass Tiers
-BP_TIERS
+VV_text
 BattlePass Points
 BattlePassPoints
 EOM Booster
 EOM_Booster
 Portal Durable
 Portal Durable
+Partner Achievement
+Partner Achievement
 Export to TgClient_Oasis
 VV_text
 Export to GFxTranslation_Oasis
@@ -139432,6 +141471,8 @@ Your search for @@player_name@@ had multiple results.
 PLAYER_NAME_TOO_MANY_RESULTS
 Music Pack
 MUSIC_PACK
+Mixer Drop
+Mixer Drop
 There was a problem communicating with the consumable service. Please try again.
 NINTENDO_WEB_CALL_ERROR
 Nintendo
@@ -139444,3 +141485,43 @@ Login Failed Unexpectedly.  Please try again.
 LOGIN_FAILED_UNKNOWN
 This account is undergoing maintenance.  Please try again shortly.
 Login_Failed_Account_Maintenance
+This is your first time logging in.  Do you want to link to an existing account or create a new one?
+LOGIN_PROMPT_LINK_OR_CREATE
+Your Steam Player Name needs to be changed before logging in.
+LOGIN_FAILED_STEAM_NAME_UNACCEPTABLE
+BattlePass Points Ninja
+BattlePassNinjaPoints
+BattlePass Ninja Levels
+VV_text
+Increment Activity
+Increment Activity
+Loadout Slot
+Loadout Slot
+@@PLAYER_NAME@@ has joined challenge [@@CHALLENGE_NAME@@] for a total of @@PLAYER_COUNT@@.
+QUEUE_CHALLENGE_PLAYER_ADDED
+Challenge [@@CHALLENGE_NAME@@] total @@PLAYER_COUNT@@ now meets MinPlayersInMatch [@@CUSTOM_MIN_PLAYERS_IN_MATCH@@]. You can now start match.
+QUEUE_CHALLENGE_MIN_PLAYERS
+Challenge [@@CHALLENGE_NAME@@] now full [@@PLAYER_COUNT@@]. Starting ...
+QUEUE_CHALLENGE_FULL_STARTING
+North America West
+SYS_SITE_9
+Challenge [@@CHALLENGE_NAME@@] has too few players to start [@@PLAYER_COUNT@@ < @@CUSTOM_MIN_PLAYERS_IN_MATCH@@].
+QUEUE_CHALLENGE_TOO_FEW_PLAYERS
+Challenge [@@CHALLENGE_NAME@@] started by owner.
+QUEUE_CHALLENGE_OWNER_STARTED
+Failed to Authenticate with Facebook.
+FACEBOOK_AUTH_FAILED
+Challenge [@@CHALLENGE_NAME@@] full [@@PLAYER_COUNT@@]. You can now start match.
+QUEUE_CHALLENGE_FULL
+Asia/Pacific Rim
+SYS_SITE_7_ALT
+Spray 3D
+VV_text
+Level Rewards
+Level Rewards
+Relative
+Relative
+Absolute
+Absolute
+Level Ref
+Level Ref
