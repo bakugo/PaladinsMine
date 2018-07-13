@@ -117425,7 +117425,7 @@ item_name
 item_desc
 Nightshade
 item_name
-[Dead Zone] Dead Zone now deals 400 damage when the initial explosion hits an enemy.
+[Dead Zone] Dead Zone now deals 800 damage when the initial explosion hits an enemy.
 item_desc
 Unholy Strength
 item_name
@@ -136150,27 +136150,27 @@ Terminus: Kill a player with Shatterfall
 Activity_Goal_name
 Humble Beginnings Unlocked
 Activity_Goal_title
-Goal Group START
+Humble Beginnings Unlocked
 Activity_Goal_desc
-Goal Group START
+Humble Beginnings Unlocked
 Activity_Goal_name
 Humble Beginnings Complete
 Activity_Goal_title
-Tier 1 Challenges Complete
+Humble Beginnings Complete
 Activity_Goal_desc
-Tier 1 Challenges Complete
+Humble Beginnings Complete
 Activity_Goal_name
 A Shinobi's Code Completed
 Activity_Goal_title
-Goal Group COMPLETE
+A Shinobi's Code Completed
 Activity_Goal_desc
-Goal Group COMPLETE
+A Shinobi's Code Completed
 Activity_Goal_name
 A Shinobi's Code Unlocked
 Activity_Goal_title
-Goal Group START
+A Shinobi's Code Unlocked
 Activity_Goal_desc
-Goal Group START
+A Shinobi's Code Unlocked
 Activity_Goal_name
 Win a match as Koga
 Activity_Goal_title
@@ -136210,15 +136210,15 @@ Play 10 Ranked Matches
 Activity_Goal_name
 The Art of Ninjutsu Unlocked
 Activity_Goal_title
-Goal Group START
+The Art of Ninjutsu Unlocked
 Activity_Goal_desc
-Goal Group START
+The Art of Ninjutsu Unlocked
 Activity_Goal_name
 The Art of Ninjutsu Completed
 Activity_Goal_title
-Goal Group COMPLETE
+The Art of Ninjutsu Completed
 Activity_Goal_desc
-Goal Group COMPLETE
+The Art of Ninjutsu Completed
 Activity_Goal_name
 Eliminate %s Targets as Koga
 Activity_Goal_title
@@ -136258,15 +136258,15 @@ Play 5 Team Deathmatch Matches
 Activity_Goal_name
 The Silent Night Unlocked
 Activity_Goal_title
-Goal Group START
+The Silent Night Unlocked
 Activity_Goal_desc
-Goal Group START
+The Silent Night Unlocked
 Activity_Goal_name
 The Silent Night Completed
 Activity_Goal_title
-Goal Group COMPLETE
+The Silent Night Completed
 Activity_Goal_desc
-Goal Group COMPLETE
+The Silent Night Completed
 Activity_Goal_name
 Get %s Double Kills as Koga
 Activity_Goal_title
@@ -136312,15 +136312,15 @@ Ninja Battle Pass Capstone Challenges
 Activity_name
 Journey of a Thousand Sins Unlocked
 Activity_Goal_title
-Goal Group START
+Journey of a Thousand Sins Unlocked
 Activity_Goal_desc
-Goal Group START
+Journey of a Thousand Sins Unlocked
 Activity_Goal_name
 Journey of a Thousand Sins Completed
 Activity_Goal_title
-Goal Group COMPLETE
+Journey of a Thousand Sins Completed
 Activity_Goal_desc
-Goal Group COMPLETE
+Journey of a Thousand Sins Completed
 Activity_Goal_name
 Travel %s Feet as Koga
 Activity_Goal_title
@@ -136360,15 +136360,15 @@ Capture 10 Siege Objective Points
 Activity_Goal_name
 Deadly Blade Unlocked
 Activity_Goal_title
-Goal Group START
+Deadly Blade Unlocked
 Activity_Goal_desc
-Goal Group START
+Deadly Blade Unlocked
 Activity_Goal_name
 Deadly Blade Completed
 Activity_Goal_title
-Goal Group COMPLETE
+Deadly Blade Completed
 Activity_Goal_desc
-Goal Group COMPLETE
+Deadly Blade Completed
 Activity_Goal_name
 Kill %s players with Koga's Cyclone Strike
 Activity_Goal_title
@@ -136408,15 +136408,15 @@ Earn a Quadra Kill
 Activity_Goal_name
 Demon of the Thousand Hands Unlocked
 Activity_Goal_title
-Goal Group START
+Demon of the Thousand Hands Unlocked
 Activity_Goal_desc
-Goal Group START
+Demon of the Thousand Hands Unlocked
 Activity_Goal_name
 Demon of the Thousand Hands Completed
 Activity_Goal_title
-Goal Group COMPLETE
+Demon of the Thousand Hands Completed
 Activity_Goal_desc
-Goal Group COMPLETE
+Demon of the Thousand Hands Completed
 Activity_Goal_name
 Earn Top Play as Koga
 Activity_Goal_title
@@ -136616,19 +136616,19 @@ Stay on the offense with a rain of bullets and flurry of slashes.
 ITEM_desc
 Koga_Deck
 ITEM_name
-Koga WEP Skin00B
+Exile's SMGs
 ITEM_name
 Koga Recolor
 ITEM_short_desc
-Koga WEP Skin Mastery
+Golden SMGs
 ITEM_name
 Mastery/Gold
 ITEM_desc
 Koga Recolor
 ITEM_short_desc
-Koga Skin00B
+Exile
 ITEM_name
-Koga Skin Mastery
+Golden Koga
 ITEM_name
 Mastery/Gold
 ITEM_desc
@@ -136730,9 +136730,9 @@ Abyss
 map_game_friendly_name
 Practice Abyss (TDM)
 map_game_name
-Player Emote 3
+Emote Slot 3
 ITEM_name
-Player Spray 4
+Spray Slot 4
 ITEM_name
 Throne
 map_game_friendly_name
@@ -136864,15 +136864,15 @@ Ninja Battle Pass Capstone Challenges
 ITEM_name
 Ninja Challenges Unlocked
 Activity_Goal_title
-Goal Group START
+Ninja Challenges Unlocked
 Activity_Goal_desc
-Goal Group START
+Ninja Challenges Unlocked
 Activity_Goal_name
 Ninja Challenges Completed
 Activity_Goal_title
-Goal Group COMPLETE
+Ninja Challenges Completed
 Activity_Goal_desc
-Goal Group COMPLETE
+Ninja Challenges Completed
 Activity_Goal_name
 Unlocks Legendary Title "Shadow Warrior"
 ITEM_desc
@@ -136880,15 +136880,15 @@ Ninja Battle Pass Hidden Challenges
 ITEM_name
 Shadow Warrior Trials Unlocked
 Activity_Goal_title
-Goal Group START
+Shadow Warrior Trials Unlocked
 Activity_Goal_desc
-Goal Group START
+Shadow Warrior Trials Unlocked
 Activity_Goal_name
 Shadow Warrior Trials Completed
 Activity_Goal_title
-Goal Group COMPLETE
+Shadow Warrior Trials Completed
 Activity_Goal_desc
-Goal Group COMPLETE
+Shadow Warrior Trials Completed
 Activity_Goal_name
 Play a match as Koga
 Activity_Goal_title
@@ -137753,7 +137753,7 @@ Community Avatar Contest Winner, created by Rubiini.
 ITEM_desc
 Community Avatar Contest Winner, created by MECHii.
 ITEM_desc
-Community Avatar Contest Winner, created by Bellaa. Obtainable in Battle Pass 2.
+Community Avatar Contest Winner, created by freaxxie. Obtainable in Battle Pass 2.
 ITEM_desc
 Obtainable from the Mecha Battle Pass.
 ITEM_desc
@@ -137874,13 +137874,13 @@ Bounce House v2
 item_name
 [Heroic Leap] Heroic Leap now deals 600 damage, knocks up enemies straight up and has a 20% increased radius
 item_desc
-Player Spray 2
+Spray Slot 2
 ITEM_name
-Player Spray 3
+Spray Slot 3
 ITEM_name
-Player Emote 4
+Emote Slot 4
 ITEM_name
-Player Emote 2
+Emote Slot 2
 ITEM_name
 Koga
 item_short_desc
