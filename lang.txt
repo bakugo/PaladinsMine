@@ -117777,7 +117777,7 @@ SLT - Collection - Viktor - Code Green Comms-RENTAL
 Loot_Table_name
 [Dragon Punch] Dragon Punch deals damage equal to your victims maximum health in a radius around their location and charges 15% faster.
 item_desc
-[Salvo] Salvo now activates instantly, always fires 6 shots, and has its cooldown reduced by 5s..
+[Salvo] Salvo now activates instantly, always fires 6 shots, and has its cooldown reduced by 5s.
 item_desc
 [Healing Totem] Healing Totem can now deploy at range and healing done to full health players becomes a shield.
 item_desc
@@ -135625,7 +135625,7 @@ Unlock all current and future Champions and Voice Packs
 ITEM_desc
 Cherish
 item_name
-[Kindle Soul] Kindle Soul heals up to 50% additional Health based on your ally's missing health.
+[Kindle Soul] Kindle Soul heals up to 25% additional Health based on your ally's missing health.
 item_desc
 Ninja
 ITEM_desc
@@ -136660,7 +136660,7 @@ Dragon Stance consumes health instead of energy.
 item_short_desc
 Dragon Fangs
 item_name
-[Dragon Stance] Dragon Stance no longer consume Energy, and instead consume 200 Health per second.
+[Dragon Stance] Dragon Stance no longer consumes Energy, and instead consumes 200 Health per second. Requires at least 400 Health to initiate.
 item_desc
 Abyss
 map_game_friendly_name
