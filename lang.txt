@@ -136324,9 +136324,9 @@ Journey of a Thousand Sins Completed
 Activity_Goal_name
 Travel %s Feet as Koga
 Activity_Goal_title
-Travel 1000000 Feet as Koga
+Travel 62500 Feet as Koga
 Activity_Goal_desc
-Travel 1000000 Feet as Koga
+Travel 62500 Feet as Koga
 Activity_Goal_name
 Khan: Send a player flying more than %s feet
 Activity_Goal_title
@@ -136654,7 +136654,7 @@ item_desc
 item_short_desc
 Blood Reaper
 item_name
-[Skewer] Skewer deals up to 400 bonus damage based on the amount of Energy it consumed.
+[Skewer] Skewer deals up to 400 bonus damage based on the amount of Energy it consumed, up to one unit.
 item_desc
 Dragon Stance consumes health instead of energy.
 item_short_desc
@@ -137743,7 +137743,7 @@ Grover R Skin
 ITEM_name
 SLT - Collection - Grover - Robo
 Loot_Table_name
-Community Avatar Contest Winner, created by Bellaa. Obtainable in Battle Pass 2
+Community Avatar Contest Winner, created by Belllaa. Obtainable in Battle Pass 2
 ITEM_desc
 Furia Lore Skin
 ITEM_name
@@ -137940,6 +137940,8 @@ Copy of Default Cassie Emote
 item_name
 Wave
 item_desc
+Season Pass 2018
+ITEM_name
 None
 VV_TEXT
 Patrol
