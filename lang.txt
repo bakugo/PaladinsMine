@@ -60485,7 +60485,7 @@ Shield Allies
 item_short_desc
 Healing Totem
 item_name
-Deploy a totem with 1000 health that heals nearby allies for 420 Health every second and lasts 6 seconds.
+Deploy a 1000 health totem up to 100 feet away that heals nearby for 420 Health every second and lasts 6 seconds.
 item_desc
 Minigun Projectile Version
 item_name
@@ -74768,9 +74768,9 @@ A short range flamethrower that deals 35 damage per hit every 0.1s and applies a
 item_desc
 Lightning Storm
 item_short_desc
-Surge with power for 3s, slowing and striking 2 nearby enemies at a time for 200 damage and speeding up and healing yourself and 2 nearby allies for 500 health every 0.5 seconds.
+Surge with Power and take flight for 5s. Slow and strike nearby enemies for 200 damage while speeding up and healing nearby allies for 500 health every 0.5s.
 item_desc
-A medium range staff that creates a channeled beam of lightning dealing 75 damage per hit every 0.1 seconds. The Lightning Staff recharges when not firing.
+A medium range staff that creates a channeled beam of lightning dealing 75 damage per hit every 0.1 seconds. Deals up to 30% more damage the longer you are on target.
 item_desc
 Ice Storm
 item_short_desc
@@ -85316,11 +85316,11 @@ Glacier Keep V2 CAP
 map_game_name
 ZDelete Payload
 MSL_name
-Abyss
+Ice (Payload)
 Match_Queue_short_desc
-Abyss
+Ice (Payload)
 Match_Queue_name
-Abyss
+Ice (Payload)
 Match_Queue_desc
 Cutthroat
 ITEM_desc
@@ -96962,7 +96962,7 @@ Regenerate 2125 Shield Health over 1s.
 item_desc
 Obtainable in the Festive Chest
 ITEM_desc
-Frosty Foliage
+z-- Frosty Foliage
 ITEM_name
 Obtainable in the Festive Chest
 ITEM_desc
@@ -97048,7 +97048,7 @@ zDeprecated Primal Might IV
 item_name
 [Armor] Getting an elimination reduces all active cooldowns by 40%.
 item_desc
-Project a 2000 Health shield onto an ally for 2s.
+Project a 2000 Health shield onto an ally for 3s.
 item_desc
 [Hunter's Mark] Reduce the cooldown of Hunter's Mark.
 item_short_desc
@@ -97264,7 +97264,7 @@ item_name
 item_desc
 Favored Quarry
 item_name
-[Hunter's Mark] The reveal portion of your Hunter's Mark lasts {scale=2|2}s longer.
+[Hunter's Mark] The reveal portion of your Hunter's Mark lasts {scale=1|1}s longer.
 item_desc
 Salamander Hide
 item_name
@@ -97416,17 +97416,17 @@ WIP Froze_Guard
 map_game_friendly_name
 WIP Froze_Guard
 map_game_name
-WIP FrogRework
+WIP Hidden Temple
 MSL_name
 WIP Frozen_Guard
 map_game_friendly_name
 WIP Frozen_Guard
 map_game_name
-FrogRework (Siege)
+Hidden Temple (Payload)
 Match_Queue_short_desc
-FrogRework (Siege)
+Hidden Temple (Payload)
 Match_Queue_name
-FrogRework (Siege)
+Hidden Temple (Payload)
 Match_Queue_desc
 Jaguar Falls
 map_game_friendly_name
@@ -97524,7 +97524,7 @@ zDelete
 ITEM_name
 zDelete
 ITEM_name
-Beast
+zzzBeast
 ITEM_name
 zDelete
 ITEM_name
@@ -98957,7 +98957,7 @@ item_desc
 item_short_desc
 Induction
 item_name
-[Recharge] Activating Recharge generates {scale=1|1} Ammo.
+[Recharge] Activating Recharge generates {scale=2|2} Ammo.
 item_desc
 Friendship King
 BOT_name
@@ -99509,7 +99509,7 @@ Chicken Queen
 BOT_name
 Elven Illusionist
 BOT_desc
-Rosebud Canopy
+z-- Rosebud Canopy
 ITEM_name
 Obtained in Valentine's Chest.
 ITEM_desc
@@ -100198,7 +100198,7 @@ item_name
 item_desc
 Wormhole
 item_name
-[Blink] Blink may be used a second time within 4s to return to the initial casting location and the cooldown of blink is reduced by 1s.
+[Blink] Blink may be used a second time within 4s to return to the initial casting location.
 item_desc
 Card Vendor Legendary Rank 1
 Loot_Table_name
@@ -100232,7 +100232,7 @@ Wind Totem
 EFFECT_GROUP_name
 Maelstrom
 item_name
-[Shock Pulse] Your Weapon Shots reduce the Cooldown of Shock Pulse by 0.3s and Shock Pulse bounces 4 more times.
+[Shock Pulse] Your Weapon Shots reduce the Cooldown of Shock Pulse by 0.5s and Shock Pulse bounces 4 more times.
 item_desc
 Aegis
 item_name
@@ -100248,7 +100248,7 @@ item_name
 item_desc
 Impulse
 item_name
-[Blast Shot] Increase the damage of Blast Shot by 250 and reduce the Cooldown by 2s.
+[Blast Shot] Increase the damage of Blast Shot by 150 and reduce the Cooldown by 2s.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -100526,13 +100526,13 @@ Featherlite
 item_name
 [Prowl] Gain {scale=5|5}% damage reduction while using Prowl.
 item_desc
+Burst Mode
+item_name
+Enable 3 Shot Burst Mode on your Assault Rifle, increasing damage and improving effectiveness at range.
+item_desc
 Firefight
 item_name
 [Weapon] Gain 30% bonus damage while Hip Firing.
-item_desc
-Gunnery
-item_name
-[Iron Sights] Gain 15% bonus damage while using Iron Sights.
 item_desc
 Cardio
 item_name
@@ -100626,7 +100626,7 @@ Maeve_Deck
 ITEM_name
 Hunting Party
 item_name
-[Hunter's Mark] Hunter's Mark's damage increase now also benefits allies, is increased to 25% bonus damage, and has a 2s reduced Cooldown.
+[Hunter's Mark] Hunter's Mark now has 2 Charges and also benefits allies. It has a 2s reduced cooldown and the bonus damage is increased to 25%.
 item_desc
 Rogue's Gambit
 item_name
@@ -100648,7 +100648,7 @@ Evolve
 EFFECT_GROUP_name
 Desert Shadow
 item_name
-[Withdraw] Increase the Stealth duration of Withdraw by 2s and your first shot breaking Stealth deals 25% more damage.
+[Withdraw] Your first shot breaking Stealth with Withdraw deals 25% more damage.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -100686,7 +100686,7 @@ Obtainable in Valentine's Chest.
 item_desc
 Mercy Kill
 item_name
-[Nade Launcher] Nade Launcher deals up to 100% additional damage based on the target's missing Health.
+[Nade Launcher] Nade Launcher now deals 35% of the targets max health.
 item_desc
 McDreamy
 item_name
@@ -100846,7 +100846,7 @@ Gourd now slows enemies in the area for 40%.
 item_short_desc
 Ripened Gourd
 item_name
-[Gourd] Gourd now slows enemies in its area for 40%
+[Gourd] Gourd has a 50% chance to not go on Cooldown.
 item_desc
 Alternating Current
 item_name
@@ -100860,7 +100860,7 @@ Snake Toss deals additional damage.
 item_short_desc
 Wekono's Wrath
 item_name
-[Weapon] Snake Toss deals an additional 500 damage.
+[Weapon] Snake Toss is faster and deals an additional 500 damage.
 item_desc
 Healing a target already affected by Mending Spirit's HoT heals for a flat 300.
 item_short_desc
@@ -100904,7 +100904,7 @@ item_name
 item_desc
 Dark Stalker
 item_name
-[Weapon] Deal 20% more weapon damage to enemies below 40% Health.
+[Weapon] Deal 20% more weapon damage to enemies below 50% Health.
 item_desc
 Sound
 EFFECT_GROUP_name
@@ -100974,7 +100974,7 @@ Reduce the effectiveness of booster
 item_desc
 Combat Medic
 item_name
-[Healing Potion] Hitting an ally with Healing Potion increases your attack speed by 50% for 4.5s.
+[Healing Potion] Potion Launcher now also heals allies.
 item_desc
 Poison Fog Deployable
 Deployable_name
@@ -101468,7 +101468,7 @@ zDELETE IMM_P_Igloo_v02 One Push
 map_game_name
 Deep Roots
 item_name
-[Crippling Throw] Crippling Throw now also roots and deals 10% more damage.
+[Crippling Throw] Crippling Throw now roots for 1s and bounces between enemies.
 item_desc
 Seris
 BOT_name
@@ -101682,7 +101682,7 @@ EFFECT_GROUP_name
 item_desc
 [Restore Soul] Increase the range of Restore Soul by 300% and the Duration by 1s.
 item_desc
-[Weapon] Each Soul Charge you detonate increases your Maximum Health and Weapon Damage by 2% until you die. Stacks up to 8 times.
+[Weapon] Each Soul Charge you detonate increases your Maximum Health and Weapon Damage by 2% until you die. Stacks up to 15 times.
 item_desc
 Forward
 map_game_friendly_name
@@ -107806,7 +107806,7 @@ Robot
 ITEM_desc
 Ying Skin05A
 ITEM_name
-Robot
+Wraith
 ITEM_desc
 Ying Skin06A
 ITEM_name
@@ -109202,9 +109202,9 @@ item_name
 Mastery Emote
 item_desc
 item_short_desc
-Ash Mastery 01
+Punch Out
 item_name
-Mastery emote
+Obtainable in the Dragon's Call event.
 item_desc
 Daily Gold Limit
 Activity_name
@@ -112366,7 +112366,7 @@ Self Damage
 EFFECT_GROUP_name
 Chest Loot Vendor - Deep Space Chest
 Loot_Table_name
-SLT - Chest - Deep Space Chest - Epic Exclusive
+SLT - Chest - Deep Space Chest - Epic
 Loot_Table_name
 SLT - Chest - Deep Space Chest - Kinessa Skins
 Loot_Table_name
@@ -116771,7 +116771,7 @@ Enemy DoT
 EFFECT_GROUP_name
 Wekono's Curse
 item_name
-[Mending Spirits] Mending Spirits may now be cast on enemies to deal 560 damage over 2s.
+[Mending Spirits] Mending Spirits may now be cast on enemies to deal 560 damage over 2s. 
 item_desc
 Leaden Cannonball
 item_name
@@ -116783,7 +116783,7 @@ Grapeshot
 DEVICE_name
 Just Breathe
 item_name
-Crossbow shots deal up to 30% increased damage past 70 feet.
+Crossbow shots deal 850 damage at long range.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -116809,7 +116809,7 @@ item_name
 item_desc
 Street Justice
 item_name
-[Pounce] Pounce deals 25% of the target's missing health as bonus damage.
+[Pounce] Pounce now executes targets below 35% health.
 item_desc
 Secret Technique
 item_name
@@ -116911,7 +116911,7 @@ Enchanted Key
 ITEM_name
 Royal Subjects
 item_name
-[Weapon] Increase the explosion size of Sticky Bombs by 30%
+[Weapon] Increase the explosion size of Sticky Bombs by 20%
 item_desc
 Legendary Enchanted Key
 ITEM_name
@@ -117013,7 +117013,7 @@ Chest/Key - Radiant + Legendary Enchanted
 Loot_Table_name
 Snow Globe
 item_name
-[Ice Storm] Ice Storm now deals 100% more damage and costs 60% energy, but lasts only 2s.
+[Ice Storm] Ice Storm now deals 100% more damage and costs 50% energy, but lasts only 3s.
 item_desc
 Pre-Fire Activate Sound
 EFFECT_GROUP_name
@@ -117085,7 +117085,7 @@ item_name
 item_desc
 Davey Jones Locker
 item_name
-[Dredge Anchor] If your victim dies within 4s of being hit by Dredge Anchor, the cooldown is reset.
+[Dredge Anchor] Your Shell Spin now lasts until canceled and you can control its direction.
 item_desc
 Blue
 ITEM_short_desc
@@ -117405,11 +117405,11 @@ Opportunity in Chaos
 item_name
 [Weapon] After firing continuously for 2s, gain 20% increased damage.
 item_desc
-You and your deployables take less damage from enemies revealed by your Sensor Drone.
+Move 25% faster while Deflector Shield is active.
 item_short_desc
 Suspect Everyone
 item_name
-[Sensor Drone] You and your deployables take 20% less damage from enemies revealed by your Sensor Drone.
+[Sensor Drone] Move 30% faster while Deflector Shield is active.
 item_desc
 Sensor Drones explode near enemies.
 item_short_desc
@@ -117591,7 +117591,7 @@ Copy of Tyra Tencent Skin01A
 ITEM_name
 Bucking Madness
 item_name
-Eliminations during Buck Wild reset its duration and it charges 15% faster.
+Eliminations increase your attack speed by 20% for 10s.
 item_desc
 Overprotective
 item_name
@@ -117745,11 +117745,11 @@ Salty Springs (Siege)
 map_game_friendly_name
 WIP Salt (Siege)
 map_game_name
-Heal Cone
+Life Exchange
 DEVICE_name
 Life Exchange
 item_name
-[Shatter] Shatter now instantly heals your target for 800 health per active illusion, but consumes your illusions. The Cooldown of Shatter is reduced by 1s.
+[Shatter] Shatter now instantly heals your target for 800 health but no longer explodes Illusions.
 item_desc
 Diana Test Map
 map_game_friendly_name
@@ -117779,7 +117779,7 @@ Loot_Table_name
 item_desc
 [Salvo] Salvo now activates instantly, always fires 6 shots, and has its cooldown reduced by 5s.
 item_desc
-[Healing Totem] Healing Totem can now deploy at range and healing done to full health players becomes a shield.
+[Healing Totem] Your Lighting staff now also heals allies.
 item_desc
 [Weapon] Targets hit by Lightning Staff take 15% increased damage for 2s.
 item_desc
@@ -118545,7 +118545,7 @@ Summon two Sentinel Drones that fire energy blasts while you shoot your Light Ma
 item_desc
 Project a frontal shield that blocks 1400 damage for 6s. You may fire while Deflector Shield is active.
 item_desc
-Throw out a deployable sensor that reveals enemies to your team in a large radius.
+Throw out up to 2 deployable sensors that reveal enemies to your team in a large radius.
 item_desc
 Look down the barrel of your machine gun. You gain improved accuracy but move 50% slower. The slow does not stack with firing your gun.
 item_desc
@@ -123133,11 +123133,11 @@ Zhin WOTD
 Activity_Goal_name
 Buck WOTD
 Activity_Goal_name
-If an enemy is close to your Sensor Drone, it explodes dealing damage.
+If an enemy is close to your Sensor Drone, it explodes dealing damage and knocking back
 item_short_desc
 Booby Trap
 item_name
-[Sensor Drone] Your Sensor Drones explode dealing 500 damage when an enemy is within 20ft.
+[Sensor Drone] Your Sensor Drones explode dealing 500 damage and knocking back when an enemy is within 20ft.
 item_desc
 Champion Mastery Reward Vendor - Champion Chest
 Loot_Table_name
@@ -127849,7 +127849,7 @@ Use for Tencent SOAP Queue Noob Player Redirect
 Match_Queue_desc
 Tencent SOAP Queue Noob Player Redirect
 Match_Queue_short_desc
-Leave a cloud that grants allies 30% movement speed and 600 health over 3s. Lasts 6s.
+Leave a cloud for 3s that grants allies 600 health over 3s.
 item_desc
 Players you kill leave Health Drops that heal you for 800 when picked up.
 item_desc
@@ -131948,13 +131948,13 @@ Future
 ITEM_desc
 Ash ACC Skin03A
 ITEM_name
-Future
+Obtainable in the Deep Space Chest.
 ITEM_desc
-Ash Skin02A
+Xeno-Buster
 ITEM_name
 Future
 ITEM_desc
-Ash WEP Skin02A
+Xeno-Buster's Hyperlight Cannon
 ITEM_name
 SND_Notify_Royale_DeathField
 Asiatic
@@ -132057,7 +132057,7 @@ Activating Battle Shout grants {scale=8|8}% movement speed for 3s.
 item_desc
 Lian's Shield
 item_name
-Your shield recharges at 60% effectiveness while it is raised.
+Your shield recharges at 100% effectiveness while it is raised.
 item_desc
 Firing Line
 item_name
@@ -132294,7 +132294,7 @@ Shatterfall now stuns enemies, but no longer slows.
 item_short_desc
 Reversal now always fires back and deals more minimum damage.
 item_short_desc
-Increase the Stealth duration of Withdraw and your first shot breaking Stealth deals more damage.
+Your first shot breaking Stealth with Withdraw deals more damage.
 item_short_desc
 Every tick of healing or damage from Gourd reduces the cooldown of Gourd.
 item_short_desc
@@ -132304,7 +132304,7 @@ Shell Shield is now placed on the ground, is not Channeled, and lasts longer.
 item_short_desc
 Increase the damage of Blast Shot and reduce the Cooldown.
 item_short_desc
-Shatter now instantly heals your target for an amount health per active illusion, but consumes your illusions. The Cooldown of Shatter is reduced.
+Shatter now instantly heals your target for 800 health but does not explode Illusions.
 item_short_desc
 Illusions can now target two allies when Healing, but Illusions heal for less.
 item_short_desc
@@ -132314,7 +132314,7 @@ Healing Potion heals allies for more.
 item_short_desc
 Gain Damage Reduction and CC Immunity while using Combat Slide.
 item_short_desc
-Nade Launcher deals additional damage based on the target's missing Health.
+Nade Launcher now deals 35% of a targets max health.
 item_short_desc
 Dead Zone now deals more damage when the initial explosion hits an enemy.
 item_short_desc
@@ -132326,7 +132326,7 @@ Hunter's Mark's damage increase now benefits allies, it's damage increase is str
 item_short_desc
 Salvo now activates instantly, always fires 6 shots, and has a lower cooldown.
 item_short_desc
-Gourd now slows enemies in its area.
+Gourd has a 50% chance to not go on Cooldown
 item_short_desc
 Deal more damage after Soar ends.
 item_short_desc
@@ -132352,7 +132352,7 @@ Smoke Screen now deals damage when it deploys.
 item_short_desc
 Heal a percent of your maximum Health during Billow.
 item_short_desc
-Healing totem can now deploy at range and a portion of your healing to full health players becomes a shield.
+Your Lighting staff now heals allies.
 item_short_desc
 Oppressor Mines can now affect 2 more targets and Sniper Shots against enemies affected by Mines deal more damage.
 item_short_desc
@@ -132376,9 +132376,9 @@ Headshots deal an additional percent of your target's maximum health as damage.
 item_short_desc
 For every enemy you hit with Valor gain increased damage.
 item_short_desc
-Blink may be used a second time within 4s to return to the initial casting location and the cooldown of blink is reduced.
+Blink may be used a second time within 4s to return to the initial casting location
 item_short_desc
-Leave a cloud that heals allies and grants them movement speed.
+Leave a cloud that heals allies
 item_short_desc
 Warder's Field has increased radius and now cripples.
 item_short_desc
@@ -132400,7 +132400,7 @@ Poison Bolts deals more damage, twice as fast.
 item_short_desc
 Receive more healing.
 item_short_desc
-Crippling Throw now roots and deals more damage.
+Crippling Throw now roots and bounces between enemies
 item_short_desc
 The amount of Booster you have also acts as a shield that can absorb damage.
 item_short_desc
@@ -132452,13 +132452,13 @@ If an Illusion is killed or expires, it triggers a Shatter explosion.
 item_short_desc
 Players you kill leave Health Drops that heal you for {scale=680|40} when picked up.
 item_short_desc
-Quickly killing dredge anchor targets resets it's cooldown.
+Your Shell Spin now lasts until canceled and you can control its direction.
 item_short_desc
 Kills increase your damage until you die.
 item_short_desc
 Countering an attack deals more damage and no longer takes you out of your Counter State.
 item_short_desc
-Each Soul Charge you detonate increases your Maximum Health and Weapon Damage until you die. Stacks up to 8 times.
+Each Soul Charge you detonate increases your Maximum Health and Weapon Damage until you die. Stacks up to 15 times.
 item_short_desc
 You may hold more charges of Missile Launcher.
 item_short_desc
@@ -132488,7 +132488,7 @@ Mending Spirits may now be cast on enemies to deal damage.
 item_short_desc
 Flame Lance now shoots fireballs.
 item_short_desc
-Eliminations during Buck Wild reset its duration and you attack faster during it.
+Eliminations increase your attack speed for 10s.
 item_short_desc
 Headshots deal additional damage.
 item_short_desc
@@ -132500,7 +132500,7 @@ item_short_desc
 item_short_desc
 [Whirl] Whirl does up increased damage based on your opponent's missing health.
 item_short_desc
-Increased damage while hip firing.
+Battle Rifle
 item_short_desc
 All enemies within short range of you are revealed to you.
 item_short_desc
@@ -132522,7 +132522,7 @@ Your heavy swing is empowered.
 item_short_desc
 Assert Dominance now charges {scale=12.75|.75}% faster, stuns enemies, and causes them to take more damage.
 item_short_desc
-Pounce deals part of the target's missing health as bonus damage.
+Pounce executes targets below 35% health.
 item_short_desc
 Headshots deal increased damage.
 item_short_desc
@@ -135471,7 +135471,7 @@ item_name
 item_desc
 Obtainable in the Festive Chest.
 ITEM_desc
-Copy of A-bomb-inable
+Dredge Skin00B
 ITEM_name
 Obtainable in the Festive Chest.
 ITEM_desc
@@ -135503,7 +135503,7 @@ item_name
 item_desc
 Hallowed Sight
 item_name
-[Pyre Strike] Pyre Strike Reveals affected enemies for {scale=2|2}s
+[Pyre Strike] Pyre Strike Reveals affected enemies for {scale=1|1}s
 item_desc
 Pyre Strike Reveals affected enemies.
 item_short_desc
@@ -135523,7 +135523,7 @@ item_desc
 item_short_desc
 Light of Dawn
 item_name
-[Kindle Soul] Allies affected by Kindle Soul gain a {scale=100|100} health shield for 2s
+[Kindle Soul] Allies affected by Kindle Soul gain a {scale=50|50} health shield for 2s
 item_desc
 [Kindle Soul] Healing an ally restores ammo.
 item_short_desc
@@ -136058,21 +136058,21 @@ Skewer
 item_name
 Ninja
 ITEM_desc
-ShaLin Skin05A
+Outlaw
 ITEM_name
 Ninja
 ITEM_short_desc
-ShaLin WEP Skin04A
+Outlaw's Warbow
 ITEM_name
 Ninja
 ITEM_short_desc
-Ninja
+Obtainable in the Summer Event.
 ITEM_desc
 Mount Share Vendor
 Loot_Table_name
-ShaLin Lore Skin
+Outlaw
 ITEM_name
-SLT - Collection - Sha Lin - Lore
+SLT - Collection - Sha Lin - Outlaw
 Loot_Table_name
 Rise
 map_game_friendly_name
@@ -136471,17 +136471,17 @@ Loot_Table_name
 ITEM_short_desc
 Lore
 ITEM_desc
-Moji Skin01A
+Dragonborn
 ITEM_name
 Lore
 ITEM_short_desc
-Lore
+Obtainable in the Summer Event.
 ITEM_desc
-Moji WEP Skin01A
+Dragonborn's Razorback
 ITEM_name
-Moji Lore Skin
+Dragonborn
 ITEM_name
-SLT - Collection - Moji - Lore
+SLT - Collection - Moji - Dragonborn
 Loot_Table_name
 Dojo
 map_game_friendly_name
@@ -136812,7 +136812,7 @@ Ninja Battle Pass Hidden Challenges
 Activity_name
 Exile
 ITEM_name
-SLT - Collection - Koga - Viper
+SLT - Collection - Koga - Exile
 Loot_Table_name
 SLT - Collection - Koga - Mastery
 Loot_Table_name
@@ -136966,13 +136966,13 @@ Play 50 Matches
 Activity_Goal_desc
 Play 50 Matches
 Activity_Goal_name
-Kill every champion (%s remaining)
+Kill every champion%s
 Activity_Goal_title
 Kill every champion
 Activity_Goal_desc
 Kill every champion
 Activity_Goal_name
-Play every champion (%s remaining)
+Play every champion%s
 Activity_Goal_title
 Play every champion
 Activity_Goal_desc
@@ -137054,19 +137054,19 @@ Ninja Multistrike Test
 item_name
 Surge with power for 3s, slowing and striking 2 nearby enemies at a time for 200 damage and speeding up and healing yourself and 2 nearby allies for 500 health every 0.5 seconds.
 item_desc
-Furia Skin01A
+Aurora
 ITEM_name
 Lore
 ITEM_short_desc
 Lore Event
 ITEM_desc
-Copy of Iron Maiden Pyre Blade
+Dredge WEP Skin00B
 ITEM_name
-Furia WEP Skin01A
+Aurora's Dawnbringer
 ITEM_name
 Lore
 ITEM_short_desc
-Lore Event
+Obtainable in the Vault.
 ITEM_desc
 FeyRazzle ranked announcer pack.
 ITEM_short_desc
@@ -137130,11 +137130,11 @@ DALava
 item_name
 Spray
 item_name
-Khan Skin02A
+Overlord
 ITEM_name
 Khan
 ITEM_short_desc
-Khan WEP Skin02A
+Overlord's Armagedon
 ITEM_name
 Season Pass Check - SLT - Battle Pass 1 Owned
 Loot_Table_name
@@ -137705,19 +137705,19 @@ Ranked Reward - Play Split 2
 Activity_title
 RR_S2_S2_Play_Games
 Activity_name
-SLT - Collection - Khan - Lore
+SLT - Collection - Khan - Overlord
 Loot_Table_name
-Khan Lore Skin
+Overlord
 ITEM_name
-Robo
+Obtainable in the Diamond Chest.
 ITEM_desc
-Grover Skin04A
+GR0B0T
 ITEM_name
 Robo
 ITEM_short_desc
-Robo
+Obtainable in the Diamond Chest.
 ITEM_desc
-Grover WEP Skin05A
+GR0B0T's Harvester
 ITEM_name
 Robo
 ITEM_short_desc
@@ -137739,15 +137739,15 @@ SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 7
 Loot_Table_name
 SLT - Daily Quest Reward - Large Gold and Battle Pass XP Tier 8
 Loot_Table_name
-Grover R Skin
+GR0B0T
 ITEM_name
-SLT - Collection - Grover - Robo
+SLT - Collection - Grover - GR0B0T
 Loot_Table_name
 Community Avatar Contest Winner, created by Belllaa. Obtainable in Battle Pass 2
 ITEM_desc
-Furia Lore Skin
+Aurora
 ITEM_name
-SLT - Collection - Furia - Lore
+SLT - Collection - Furia - Aurora
 Loot_Table_name
 Community Avatar Contest Winner, created by Rubiini.
 ITEM_desc
@@ -137818,11 +137818,11 @@ Device that allows the owning pawn to climb walls. Intended for Koga, but with a
 item_desc
 Shogunate Frame
 ITEM_name
-green
+Obtainable in the Deep Space Chest.
 ITEM_desc
-Future Soldier
+Xeno-Buster
 ITEM_name
-SLT - Collection - Ash - Future Soldier
+SLT - Collection - Ash - Xeno-buster
 Loot_Table_name
 Flagball
 map_game_friendly_name
@@ -137844,7 +137844,7 @@ Snowfall Junction
 map_game_friendly_name
 LIVE Snowfall Junction (TDM)
 map_game_name
-Crystalize
+Crystallize
 item_name
 Trade District
 map_game_friendly_name
@@ -137888,9 +137888,9 @@ Strike Pose
 item_name
 Obtainable in Battle Pass 2.
 item_desc
-Burst Rifle
+Burst Rifle Test
 item_name
-Fire a burst of 3 projectiles dealing 225 damage each over 0.3s, every 1.25s at medium range.
+Test for Viktor Burst Rifle Talent
 item_desc
 Once, a nameless street rat challenged the tyrant Zhin. For the boy's remarkable skills, Zhin granted him a new life in the Thousands Hands Guild, and a new name: Koga. The Guild was Koga's family and he became their finest ninja. But not all families get along. Jealous lies spread, false evidence was planted, and Zhin's fury forced Koga to flee. Now the exiled ninja fights for his new family -- The Paladins -- as he searches for the one who betrayed him.
 BOT_lore
@@ -137940,8 +137940,735 @@ Copy of Default Cassie Emote
 item_name
 Wave
 item_desc
+Akuma Makoa Voice Pack
+ITEM_name
+Akuma Skin VP
+ITEM_desc
+Viktor_Runner
+BOT_name
+The Lone Wolf
+BOT_desc
+Ying Wep Skin08A
+ITEM_name
+Spell test A
+item_name
+A long bow that draws back an arrow and releases it for up to 1000 damage every 1.5s.
+item_desc
+Spell test B
+item_name
+A long bow that draws back an arrow and releases it for up to 1000 damage every 1.5s.
+item_desc
+SLT - Collection - Maldamba - Ninja RENTAL
+Loot_Table_name
+SLT - Collection - Makoa - Ninja RENTAL
+Loot_Table_name
+SLT - Collection - Cassie - Ninja RENTAL
+Loot_Table_name
+SLT - Collection - Koga - Exile RENTAL
+Loot_Table_name
+SLT - Collection - Koga - Mastery RENTAL
+Loot_Table_name
+Red Countess
+ITEM_short_desc
+Vivian WEP Skin02A
+ITEM_name
+Red Countess
+ITEM_short_desc
+Vivian Skin02A
+ITEM_name
+Halloween Vivian
+ITEM_name
+Death Knight
+ITEM_desc
+Fernando Skin07A
+ITEM_name
+Death Knight
+ITEM_short_desc
+SLT - Collection - Vivian - Halloween
+Loot_Table_name
+Death Knight
+ITEM_desc
+Fernando WEP Skin07A
+ITEM_name
+Death Knight
+ITEM_short_desc
+Halloween Fernando
+ITEM_name
+SLT - Collection - Fernando - Halloween
+Loot_Table_name
+zDelete
+Loot_Table_name
+DigiNinja
+ITEM_short_desc
+Koga Skin01A
+ITEM_name
+DigiNinja
+ITEM_short_desc
+Koga WEP Skin01A
+ITEM_name
 Season Pass 2018
 ITEM_name
+Dredge
+BOT_name
+Jud Dredge
+BOT_desc
+Default
+ITEM_desc
+Default Dredge
+ITEM_name
+Halloween Fernando
+BOT_name
+The Self-Appointed Knight
+BOT_desc
+Halloween Scale Boss
+item_name
+[Armor] Scale yourself by 200%
+item_desc
+Halloween Ying
+BOT_name
+The Blossom
+BOT_desc
+Halloween Vivian
+BOT_name
+The Cunning
+BOT_desc
+Halloween Viktor
+BOT_name
+The Lone Wolf
+BOT_desc
+Fireball_Halloween
+item_name
+Fire a burst of 3 projectiles dealing 225 damage each over 0.3s, every 1.25s at medium range.
+item_desc
+Flame Lance Halloween
+item_name
+A short range flamethrower that deals 35 damage per hit every 0.1s and applies a Damage Over Time effect for 200 damage over 2s. The Flame Lance recharges when not firing.
+item_desc
+Dragonfire Lance
+DEVICE_name
+Dredge Inhand
+item_name
+Default
+ITEM_desc
+Default Dredge Inhand
+ITEM_name
+Energy Charge - Dredge
+item_name
+Vivian Halloween Deployable
+Deployable_name
+Halloween Nullify
+item_name
+Focus the power of your gauntlet and channel a beam of energy on a single enemy for 2.5s, silencing them and dealing 800 damage over the duration.
+item_desc
+Single Target Silence
+DEVICE_name
+Halloween Sentinels
+item_name
+Summon two Sentinel Drones that fire energy blasts while you shoot your Light Machine Gun. Each Sentinel fires once per second dealing 200 damage and has 1200 health. Sentinels persist until destroyed or the player is killed.
+item_desc
+If an enemy is close to your Sensor Drone, it explodes dealing damage.
+item_short_desc
+Booby Trap v2
+item_name
+[Sensor Drone] more booms
+item_desc
+Illusory Mirror Halloween (Illusion)
+item_name
+Fires a continuous beam for a short period that deals 5 ticks of 90 damage over 0.2s every 0.5s. Effective up to Medium Range.
+item_desc
+Update the illusion version of the mirror when this changes.
+DEVICE_desc
+Hitting a target will aggro the Illusion onto that target.
+EFFECT_GROUP_desc
+Illusion Aggro
+EFFECT_GROUP_name
+Halloween Ying Illusion
+BOT_name
+Elven Illusionist
+BOT_desc
+Halloween Illusion
+item_name
+Create an illusion that heals a nearby ally for 420 every second.
+item_desc
+Hidden Temple
+map_game_friendly_name
+LIVE Hidden Temple
+map_game_name
+Hidden Temple
+map_game_friendly_name
+WIP Hidden Temple
+map_game_name
+Halloween
+ITEM_desc
+Viktor Skin08A
+ITEM_name
+Halloween
+ITEM_short_desc
+Viktor WEP Skin06A
+ITEM_name
+Halloween
+ITEM_short_desc
+Halloween
+ITEM_desc
+Cyberpunk Koga
+ITEM_name
+SLT - Collection - Koga - Cyberpunk
+Loot_Table_name
+Ice Payload
+map_game_friendly_name
+Ice (Payload)
+map_game_name
+Ice Payload
+map_game_friendly_name
+WIP Ice (Payload)
+map_game_name
+WIP Ice Payload
+MSL_name
+Dredge RMB
+item_name
+Dredge Q
+item_name
+Dredge Ult
+item_name
+Dredge Ult Deployable
+Deployable_name
+Dredge Ult Subdevice
+item_name
+Dragon's Call Bundles Vendor
+Loot_Table_name
+Summer Vault Vendor
+Loot_Table_name
+Dragon's Call Vault Vendor
+Loot_Table_name
+Dragon's Call Rewards Vendor
+Loot_Table_name
+SLT - Bundle - Dragon's Call Skins
+Loot_Table_name
+Dragon's Call Bundle
+ITEM_name
+Win five matches as Barik while playing on Steam.
+ITEM_desc
+Obtainable in the Paladins World Champion 2018 Digital Loot Pack.
+ITEM_desc
+Kinessa
+item_short_desc
+Serpentine
+item_name
+Obtainable in the Dragon's Call event.
+item_desc
+Dredge
+ITEM_name
+Dredge Reload
+item_name
+zzzzShatter now instantly heals your target for an amount health per active illusion, but consumes your illusions. The Cooldown of Shatter is reduced.
+item_short_desc
+zzzzLife Exchange test
+item_name
+[Shatter] zzzzShatter now instantly heals your target for 800 health per active illusion, but consumes your illusions. The Cooldown of Shatter is reduced by 1s.
+item_desc
+zzzzDeprecated Trace Heal for Life Exchange
+DEVICE_desc
+Halloween_Vacuum
+item_name
+Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 1000 health.
+item_desc
+Dredge F
+item_name
+Inara
+item_short_desc
+Tranquility
+item_name
+Obtainable in the Dragon's Call event.
+item_desc
+Dredge F Deployable
+Deployable_name
+Copy of SE Flagball Device
+item_name
+For healing talent
+DEVICE_desc
+Snow Globe talent
+DEVICE_desc
+Halloween_Transform
+item_name
+Enter a defensive state that lasts 5s where you and your deployables take 30% reduced damage and you take 40% increased healing.
+item_desc
+Halloween_FireBomb
+item_name
+Hurl an incendiary device that leaves a pool of fire for 6s. Enemies that contact the fire will burn for 9% of their maximum health over 0.6s and have their healing reduced by 50%. Continued Contact refreshes this effect. 
+item_desc
+Halloween Assault Rifle
+item_name
+Fire one shot every 0.1s that deals 135 damage. Effective up to Medium Range.
+item_desc
+Halloween Frag Grenade
+item_name
+Throw a fragmentation grenade dealing up to 750 damage. Holding <CMD=GBA_Ability_2> will cook the grenade and reduce its detonation time.
+item_desc
+Halloween_Howl
+item_name
+Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 1000 health.
+item_desc
+SND_Notify_GoToEvent_Global
+SND_Notify_GameIntro_Global
+SND_Notify_POTG_Global
+SND_Notify_POTG
+SND_Notify_GameIntro
+Halloween Shadow Travel
+item_name
+Step into another plane of reality for 4s. While this ability is active you are in stealth and immune to all harmful effects.
+item_desc
+Scurry
+EFFECT_GROUP_name
+Scurry
+EFFECT_GROUP_name
+Scurry
+EFFECT_GROUP_name
+Halloween Explosion
+item_name
+Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 1000 health.
+item_desc
+SND_Notify_MatchLobbyCustomize
+SND_Notify_MatchLobbyCustomize_Global
+SND_Notify_MatchLobbyChampions
+SND_Notify_MatchLobbyChampions_Global
+Custom DM_SnowfallJunction
+MSL_name
+Custom DM_SnowfallJunction
+MSL_name
+SND_Notify_MatchReady
+Maeve Runner
+BOT_name
+of Blades
+BOT_desc
+SND_Notify_MatchReady_Global
+Prowl No Cool
+item_name
+Move 50% Faster and increase your jump height for 4s. Firing your weapon or using another ability will cancel Prowl.
+item_desc
+Buck Runner
+BOT_name
+The Unyielding
+BOT_desc
+Fernando Runner
+BOT_name
+The Self-Appointed Knight
+BOT_desc
+Heroic Leap No Cool
+item_name
+Buck leaps an incredible height and distance.
+item_desc
+Leap Activate Sound
+EFFECT_GROUP_name
+Charge No Cool
+item_name
+Dash forward at great speed dealing 200 damage.
+item_desc
+Ying Mending Spirits
+item_name
+Test device for Life Exchange Talent
+item_desc
+Only Heal Friends
+DEVICE_name
+Friendly Heal
+EFFECT_GROUP_name
+Friendly Heal
+EFFECT_GROUP_name
+Heal Friends / Hurt Enemies
+DEVICE_name
+Friendly Heal
+EFFECT_GROUP_name
+Friendly Heal
+EFFECT_GROUP_name
+Enemy DoT
+EFFECT_GROUP_name
+Enemy DoT
+EFFECT_GROUP_name
+Vault Key
+ITEM_name
+Summer Event XP
+ITEM_name
+Ancient Idol
+ITEM_name
+Summer Event Key Conversion - SLT
+Loot_Table_name
+Converts unspent Summer Event 2018 Vault key to specific reward
+Loot_Table_desc
+SLT - Collection - Dredge - Recolor
+Loot_Table_name
+Dredge Recolor
+ITEM_name
+SLT - Collection - Viktor - Halloween
+Loot_Table_name
+Halloween Viktor
+ITEM_name
+Dredge XP
+ITEM_name
+High Sea Ordnance 
+ITEM_short_desc
+Blast your enemies into tiny pieces.
+ITEM_desc
+Dredge_Deck
+ITEM_name
+SLT - Autobuy - Dredge
+Loot_Table_name
+Talus Skin02A
+ITEM_name
+Monster
+ITEM_short_desc
+Monster
+ITEM_desc
+Talus WEP Skin02A
+ITEM_name
+Monster
+ITEM_short_desc
+Monster
+ITEM_desc
+Burst gun test
+item_name
+A rifle that has been passed down through your noble house for ages. Deals 400 damage every 0.45s at medium range.
+item_desc
+hangtime Jump
+item_name
+Quickly launch yourself in the air and jump higher for 2.5s. 
+item_desc
+Scurry
+EFFECT_GROUP_name
+Halloween Midnight
+item_name
+Enemies within 300ft have their vision restricted to a 30 foot radius for 20s.
+item_desc
+Burst Rifle Talent firemode
+DEVICE_desc
+SLT - Spray Rental - Frontline Battle Chest
+Loot_Table_name
+SLT - Spray Rental - Damage Battle Chest
+Loot_Table_name
+SLT - Spray Rental - Support Battle Chest
+Loot_Table_name
+Halloween Illusory Mirror
+item_name
+Fires a continuous beam for a short period that deals 5 ticks of 90 damage over 0.2s every 0.5s. Effective up to Medium Range.
+item_desc
+Update the illusion version of the mirror when this changes.
+DEVICE_desc
+Hitting a target will aggro the Illusion onto that target.
+EFFECT_GROUP_desc
+Illusion Aggro
+EFFECT_GROUP_name
+zzzzDeprecated Trace Heal for Life Exchange
+DEVICE_desc
+Halloween_WindUp
+item_name
+Enter a defensive state that lasts 5s where you and your deployables take 30% reduced damage and you take 40% increased healing.
+item_desc
+Evie
+item_short_desc
+Show Stopper
+item_name
+Obtainable in the Dragon's Call event.
+item_desc
+Coldfire Spray
+item_name
+Summer Event
+item_short_desc
+SLT - Spray Rental - Flank Battle Chest
+Loot_Table_name
+Tencent Frontline Battle Chest Rental
+ITEM_desc
+Tencent Frontline Battle Chest Rental
+ITEM_name
+Tencent Damage Battle Chest Rental
+ITEM_desc
+Tencent Damage Battle Chest Rental
+ITEM_name
+Tencent Support Battle Chest Rental
+ITEM_desc
+Tencent Support Battle Chest Rental
+ITEM_name
+Tencent Frontline Battle Chest Rental
+ITEM_desc
+Tencent Flank Battle Chest Rental
+ITEM_name
+Halloween Ying IllusionR
+BOT_name
+Elven Illusionist
+BOT_desc
+Halloween Mirror Illusion
+item_name
+Fires a continuous beam for a short period that deals 5 ticks of 90 damage over 0.2s every 0.5s. Effective up to Medium Range.
+item_desc
+Update the illusion version of the mirror when this changes.
+DEVICE_desc
+Hitting a target will aggro the Illusion onto that target.
+EFFECT_GROUP_desc
+Illusion Aggro
+EFFECT_GROUP_name
+zzzzDeprecated Trace Heal for Life Exchange
+DEVICE_desc
+Halloween IllusionR
+item_name
+Create an illusion that heals a nearby ally for 420 every second.
+item_desc
+Halloween 1HP Attack
+item_name
+Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 1000 health.
+item_desc
+KismetBunny
+BOT_name
+Elf Assassin
+BOT_desc
+Dragon's Call
+map_game_friendly_name
+LIVE FlagBall
+map_game_name
+Dragon's Call
+map_game_friendly_name
+LIVE Flagball
+map_game_name
+LIVE FlagBall
+MSL_name
+Dragon's Call
+Match_Queue_short_desc
+Dragon's Call
+Match_Queue_name
+Deliver the key sphere to your enemy's base. First team to deliver it four times wins.
+Match_Queue_desc
+Halloween Scale Minion
+item_name
+[Armor] Scale yourself by 200%
+item_desc
+Obtainable in the Dragon's Call event.
+ITEM_desc
+Skylord Seal
+ITEM_name
+Halloween Ying fight
+map_game_friendly_name
+WIP Halloween Ying fight
+map_game_name
+Halloween Ying fight
+map_game_friendly_name
+WIP Halloween Ying fight
+map_game_name
+Flametongue
+ITEM_name
+Snack Time
+ITEM_name
+Obtainable in the Vault.
+ITEM_desc
+Obtainable in the Summer Event.
+ITEM_desc
+Obtainable in the Summer Event.
+ITEM_desc
+Obtainable in the Summer Event.
+ITEM_desc
+Flagball
+map_game_friendly_name
+WIP Flagball
+map_game_name
+Halloween Talus
+ITEM_name
+SLT - Collection - Talus - Halloween
+Loot_Table_name
+Warder Frame
+ITEM_name
+Dragon's Call
+map_game_friendly_name
+LIVE Flagball
+map_game_name
+Increased damage while hip firing.
+item_short_desc
+Dragon's Call Bonus Bundle
+ITEM_name
+SLT - Bundle - Dragon's Call Bonus
+Loot_Table_name
+Dragon's Call Skins Bundle Unlock
+Activity_Goal_title
+Purchase Two of the Dragon's Call Event Skins
+Activity_Goal_desc
+Dragon's Call Skins Bundle Unlock
+Activity_Goal_name
+Dragon's Call Bonus Bundle Unlock
+Activity_Goal_title
+Unlock the Dragon's Call Skins Bundle
+Activity_Goal_desc
+Dragon's Call Bonus Bundle Unlock
+Activity_Goal_name
+Dragon's Call Skins Bundle Unlock
+Activity_title
+Dragon's Call Skins Bundle Unlock
+Activity_desc
+Dragon's Call Skins Bundle Unlock
+Activity_name
+Dragon's Call Bonus Bundle Unlock
+Activity_title
+Dragon's Call Bonus Bundle Unlock
+Activity_desc
+Dragon's Call Bonus Bundle Unlock
+Activity_name
+Dragon's Call Skins Bundle Unlock Progress
+ITEM_name
+Dragon's Call Bonus Bundle Unlock Progress
+ITEM_name
+Possessing this item doubles the amount of Goal Points earned during the Dragon's Call event.
+ITEM_desc
+Obtainable in the Dragon's Call event.
+ITEM_desc
+Dragon Baller
+ITEM_name
+Copy of Healing Totem
+item_name
+Deploy a totem with 1000 health that heals nearby allies for 420 Health every second and lasts 6 seconds.
+item_desc
+Dragon Gauntlet Spray
+item_name
+Obtainable in the Dragon's Call event.
+item_desc
+Dragon's Call
+Match_Queue_name
+Deliver the key sphere to your enemy's base. First team to deliver it four times wins.
+Match_Queue_desc
+Dragon's Call
+Match_Queue_short_desc
+Dragon's Call
+Match_Queue_name
+Deliver the key sphere to your enemy's base. First team to deliver it four times wins.
+Match_Queue_desc
+Dragon's Call
+Match_Queue_short_desc
+Custom Flagball
+MSL_name
+Pacify
+item_name
+Obtainable in the Dragon's Call event.
+item_desc
+Iron Maiden
+ITEM_desc
+Inara Skin02A
+ITEM_name
+Iron Maiden
+ITEM_short_desc
+Iron Maiden
+ITEM_desc
+Inara WEP Skin02A
+ITEM_name
+Iron Maiden
+ITEM_short_desc
+SND_Notify_SFX_FlagBall_Game_EnemyScored
+SND_Notify_SFX_FlagBall_Game_TeamScored
+SND_Notify_SFX_FlagBall_Ball_Throw
+SND_Notify_SFX_FlagBall_Ball_Catch
+SND_Notify_SFX_FlagBall_Ball_Spawned
+SND_Notify_SFX_FlagBall_Ball_Dropped
+SND_Notify_SFX_FlagBall_Ball_Reset
+SND_Notify_SFX_FlagBall_Ball_PickedUp
+SND_Notify_SFX_FlagBall_Game_ScoreAchieved
+SND_Notify_SFX_FlagBall_Game_MatchPoint
+SND_Notify_SFX_FlagBall_Countdown
+Lion
+ITEM_desc
+Cat Mount Skin03A
+ITEM_name
+Dragon's Call
+map_game_friendly_name
+LIVE Flagball
+map_game_name
+Halloween LMG
+item_name
+Fire a shot every 0.14s dealing 170 damage. Effective up to Medium range. While firing you move 50% slower.
+item_desc
+SND_Notify_ANN_FlagBall_Ball_Spawn
+SND_Notify_ANN_FlagBall_Ball_Reset
+SND_Notify_ANN_FlagBall_Ball_Dropped
+SND_Notify_ANN_FlagBall_Ball_Enemy
+SND_Notify_ANN_FlagBall_Ball_Team
+SND_Notify_ANN_FlagBall_Game_TeamScore
+SND_Notify_ANN_FlagBall_Game_EnemyScore
+SND_Notify_ANN_FlagBall_Game_MatchPoint
+SND_Notify_ANN_FlagBall_Game_Victory
+SND_Notify_ANN_FlagBall_Game_Defeat
+SND_Notify_ANN_FlagBall_Game_Start
+SND_Notify_ANN_FlagBall_Game_LeadGain
+SND_Notify_ANN_FlagBall_Game_LeadLost
+SND_Notify_ANN_FlagBall_Game_Tied
+SND_Notify_MUS_FlagBall_Loading
+SND_Notify_MUS_FlagBall_Intro
+SND_Notify_MUS_FlagBall_MatchStart
+SND_Notify_MUS_FlagBall_Score
+SND_Notify_MUS_FlagBall_MatchPoint
+SND_Notify_MUS_FlagBall_End
+Throw Ball
+PALADINS_FLAGBALL_THROWBALL
+Drop Ball
+PALADINS_FLAGBALL_DROPBALL
+Obtainable in the Diamond Chest.
+ITEM_desc
+Obtainable in the Dragon's Call event.
+ITEM_desc
+Obtainable in the Dragon's Call event.
+ITEM_desc
+Obtainable in the Dragon's Call event.
+ITEM_desc
+Obtainable in the Dragon's Call event.
+ITEM_desc
+Firemode for Spirit's Domain Talent - Heals friendly allies. Update with base Lightning Staff.
+DEVICE_desc
+Jaguar Falls
+map_game_friendly_name
+LIVE Jaguar Falls (Onslaught)
+map_game_name
+Magistrate's Archives
+map_game_friendly_name
+Magistrate's Archives (Onslaught)
+map_game_name
+Snowfall Junction (Onslaught NoCap)
+map_game_friendly_name
+TEST I_Junction Onslaught NoCap
+map_game_name
+Primal Court (Onslaught NoCap)
+map_game_friendly_name
+TEST T_Court Onslaught NoCap
+map_game_name
+Asiatic Map (Onslaught)
+map_game_friendly_name
+WIP Asiatic Map (Onslaught)
+map_game_name
+Asiatic Map NEAR (TDM)
+map_game_friendly_name
+WIP Asiatic Map NEAR (TDM)
+map_game_name
+Tilted (Onslaught)
+map_game_friendly_name
+WIP Tilted (Onslaught)
+map_game_name
+SLT - Chest - Deep Space Chest - Common
+Loot_Table_name
+SLT - Chest - Deep Space Chest - Rare
+Loot_Table_name
+Dragon's Call
+map_game_friendly_name
+LIVE Flagball
+map_game_name
+zDelete
+Loot_Table_name
+Dragon's Call
+ITEM_name
+SND_Notify_VaultOpenPurchase
+SND_Notify_VaultCompletePurchase
+SND_Notify_EOMLEventXPTicker
+Hercules
+ITEM_desc
+Buck Skin05A
+ITEM_name
+Hercules
+ITEM_short_desc
+Hercules
+ITEM_desc
+Buck WEP Skin04A
+ITEM_name
+Hercules
+ITEM_short_desc
+Use to unlock an exclusive skin in the Vault.
+ITEM_desc
 None
 VV_TEXT
 Patrol
@@ -139443,8 +140170,12 @@ You are suspended for match griefing for @@hours@@ hour(s) and @@minutes@@ minut
 SUSPENDED_GAME
 Harassment
 Harassment
+Teaming
+Teaming
 Intentional Feeding
 Intentional Feeding
+Stream Sniping
+Stream Sniping
 Leaving the Game (AFK)
 No Action
 No Action
@@ -141527,3 +142258,31 @@ Absolute
 Absolute
 Level Ref
 Level Ref
+Realm Exclusive
+VV_text
+Realm Limited
+VV_text
+You were recently reported for poor behavior, with the reasoning (Teaming). Continued reports against your account can result in negative action on your account.
+Report Notification Teaming
+You were recently reported for poor behavior, with the reasoning (Stream Sniping). Continued reports against your account can result in negative action on your account.
+Report Notification Stream Sniping
+Vault Key
+VV_text
+Summer Event Points
+VV_text
+Summer Event Levels
+VV_text
+Video Path
+VV_text
+Your player not found in template.
+CUSTOM_TEMPLATE_PLAYER_NOT_FOUND
+Player duplicated in template.
+CUSTOM_TEMPLATE_DUPLICATE_PLAYER
+Specified template name not registered.
+CUSTOM_TEMPLATE_NAME_NOT_REGISTERED
+Template QueueId different than custom match QueueId.
+CUSTOM_TEMPLATE_QUEUE_DOESNT_MATCH
+Template includes player mapped to invalid task force.
+CUSTOM_TEMPLATE_INVALID_TASK_FORCE
+Template task force size exceeds match rules.
+CUSTOM_TEMPLATE_TASK_FORCE_TOO_LARGE
