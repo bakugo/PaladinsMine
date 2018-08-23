@@ -117405,11 +117405,11 @@ Opportunity in Chaos
 item_name
 [Weapon] After firing continuously for 2s, gain 20% increased damage.
 item_desc
-Move 25% faster while Deflector Shield is active.
+You and your deployables take 20% less damage from enemies revealed by your Sensor Drone.
 item_short_desc
 Suspect Everyone
 item_name
-[Sensor Drone] Move 30% faster while Deflector Shield is active.
+You and your deployables take 20% less damage from enemies revealed by your Sensor Drone.
 item_desc
 Sensor Drones explode near enemies.
 item_short_desc
@@ -117749,7 +117749,7 @@ Life Exchange
 DEVICE_name
 Life Exchange
 item_name
-[Shatter] Shatter now instantly heals your target for 800 health but no longer explodes Illusions.
+[Shatter] Shatters now instantly heals your target for 800 health but no longer explodes Illusions, and the cooldown is increased by 1.
 item_desc
 Diana Test Map
 map_game_friendly_name
