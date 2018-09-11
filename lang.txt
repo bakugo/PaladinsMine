@@ -117779,7 +117779,7 @@ Loot_Table_name
 item_desc
 [Salvo] Salvo now activates instantly, always fires 6 shots, and has its cooldown reduced by 5s.
 item_desc
-[Healing Totem] Your Lighting staff now also heals allies.
+[Healing Totem] Your Lightning Staff now also heals allies.
 item_desc
 [Weapon] Targets hit by Lightning Staff take 15% increased damage for 2s.
 item_desc
@@ -131952,7 +131952,7 @@ Obtainable in the Deep Space Chest.
 ITEM_desc
 Xeno-Buster
 ITEM_name
-Future
+Obtainable in the Deep Space Chest.
 ITEM_desc
 Xeno-Buster's Hyperlight Cannon
 ITEM_name
@@ -132352,7 +132352,7 @@ Smoke Screen now deals damage when it deploys.
 item_short_desc
 Heal a percent of your maximum Health during Billow.
 item_short_desc
-Your Lighting staff now heals allies.
+Your Lightning staff now heals allies.
 item_short_desc
 Oppressor Mines can now affect 2 more targets and Sniper Shots against enemies affected by Mines deal more damage.
 item_short_desc
