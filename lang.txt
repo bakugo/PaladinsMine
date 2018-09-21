@@ -62465,7 +62465,7 @@ Chest Loot Vendor - Radiant
 Loot_Table_name
 Radiant Chest
 ITEM_name
-Chest Claim Vendor
+Chest Vendor
 Loot_Table_name
 Remove Debuffs
 EFFECT_GROUP_name
@@ -84054,7 +84054,7 @@ Sinistral New Bases
 map_game_friendly_name
 Sinistral New Bases
 map_game_name
-WIP Salty Springs (Siege)
+WIP Supa Rift (Siege)
 MSL_name
 Skirmish Survival
 Match_Queue_short_desc
@@ -89332,7 +89332,7 @@ item_name
 item_desc
 Gourd
 item_name
-Toss a gourd full of venom that heals allies for 280 Health every second and damages enemies for 200 Damage every second.
+Toss a gourd full of venom that heals allies for 300 Health every second and damages enemies for 200 Damage every second.
 item_desc
 Buildup Audio
 EFFECT_GROUP_name
@@ -90740,7 +90740,7 @@ Twitch Prime Crown
 ITEM_name
 Limited Twitch Prime Exclusive.
 ITEM_desc
-Boss
+Twitch Exclusive
 ITEM_desc
 Boss Bomb
 ITEM_name
@@ -91148,7 +91148,7 @@ zDeprecated Encouragement IV
 item_name
 [Armor] Eliminations reduce all active cooldowns by 4s.
 item_desc
-[Hustle] After using hustle gain reload speed for 3s.
+ [Hustle] After using hustle gain reload speed for 3s. 
 item_short_desc
 zDeprecated Guerrilla Warfare II
 item_name
@@ -92707,7 +92707,7 @@ ITEM_desc
 Pride Rocket Launcher
 ITEM_name
 ITEM_desc
-Drogoz Wep Skin00F
+Buccaneer's Howitzer
 ITEM_name
 Lust
 ITEM_desc
@@ -95398,11 +95398,11 @@ Waterfall
 map_game_friendly_name
 Old Survival Waterfall 
 map_game_name
-Salt (Siege)
+Supa Rift (Siege)
 Match_Queue_short_desc
-Salty Springs (Siege)
+Supa Rift (Siege)
 Match_Queue_name
-Salt (Siege)
+Supa Rift (Siege)
 Match_Queue_desc
 Waterfall
 map_game_friendly_name
@@ -97396,11 +97396,11 @@ zDeprecated Salamander Hide IV
 item_name
 [Fire Bomb] Reduce self damage taken from Fire Bomb by 80%.
 item_desc
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Invitational 2017
 ITEM_name
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Invitational 2017 Bulwark
 ITEM_name
@@ -97456,7 +97456,7 @@ Diana Test Map
 map_game_friendly_name
 WIP Diana Test Map
 map_game_name
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Invitational 2017 Lance
 ITEM_name
@@ -97610,11 +97610,11 @@ Amaranthine Crossbow
 ITEM_name
 Invitational 2017 Rifle
 ITEM_name
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Tyra Voice Pack
 ITEM_name
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Invitational 2017 Patch
 ITEM_name
@@ -97642,7 +97642,7 @@ PerfCaptureMap
 map_game_friendly_name
 PerfCaptureMap
 map_game_name
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Invitational 2017
 ITEM_name
@@ -98873,15 +98873,15 @@ Obtainable in the Radiant Chest.
 item_desc
 HRX 2017
 item_name
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 item_desc
 Invitational 2017
 item_name
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 item_desc
 Trophy 2017
 item_name
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 item_desc
 Phantom Spray
 item_name
@@ -99190,9 +99190,9 @@ Turret Idolizer
 BOT_name
 Dwarf Engineer
 BOT_desc
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Obtainable in the Little Box of Horrors.
 ITEM_desc
@@ -107806,9 +107806,9 @@ Robot
 ITEM_desc
 Ying Skin05A
 ITEM_name
-Wraith
+Obtainable in the Dark Tides Event.
 ITEM_desc
-Ying Skin06A
+Death Speaker
 ITEM_name
 item_name
 Strix
@@ -108916,7 +108916,7 @@ zOld Heartwood
 ITEM_name
 Fire a shrapnel round every 0.9s that explodes in an AOE dealing 400 damage.
 item_desc
-Superheat your next shrapnel round. When you next fire, the round will instantly explode in a frontal cone, dealing 300 damage and applying a knockback.
+Superheat your next shrapnel round. When you next fire, the round will instantly explode in a frontal cone, dealing 450 damage and applying a knockback.
 item_desc
 Lower your shoulder and hurtle forward. Hitting an enemy will deal 800 damage and apply a strong knockback.
 item_desc
@@ -109641,9 +109641,9 @@ ITEM_name
 PALADINS_BAN_CHAMP
 Choose a champion to ban
 PALADINS_YOURTURNTOBAN
-Reported Player Action
+Chat Message
 ITEM_name
-An action has been taken against a player you have reported.
+Full Chat Message Item Description, needs to be handled in client based on extra data sent with acquisition.
 ITEM_desc
 SLT - Spray Rental - Radiant Chest [5]
 Loot_Table_name
@@ -111791,7 +111791,7 @@ Energy Charge - Lazarus
 item_name
 Facebook Live
 PALADINS_FACEBOOK_LIVE
-reanimateSupporting (laz)
+Reanimate
 item_name
 [Weapon] Reduce Side Arm recoil.
 item_short_desc
@@ -114506,9 +114506,9 @@ Matches Won
 Activity_Goal_title
 Wins
 Activity_Goal_name
-Moonstone Spires
+z--Unused--Moonstone Spires
 ITEM_name
-Geist Spires
+z--Unused--Geist Spires
 ITEM_name
 Moonstone
 ITEM_name
@@ -114955,7 +114955,7 @@ Unlock Ranked.
 Activity_desc
 ACH_HERE_COMES_A_NEW_CHALLENGER
 Activity_name
-Oni's Grin
+z--Unused--Oni's Grin
 ITEM_name
 Obtainable in the Feudal Chest.
 ITEM_desc
@@ -115000,9 +115000,9 @@ Chest Loot Vendor - Halloween Chest
 Loot_Table_name
 SLT - Chest - Halloween Chest - Epic
 Loot_Table_name
-SLT - Chest - Halloween Chest - Spray
+SLT - Chest - Halloween Chest - Mount
 Loot_Table_name
-SLT - Chest - Halloween Chest - Rare
+SLT - Chest - Halloween Chest - Emotes
 Loot_Table_name
 Give everyone a scare with spectacularly spooky skins and weapons! No Tricks only Treats this Halloween!
 ITEM_desc
@@ -115114,15 +115114,15 @@ Comrade's Mirror
 ITEM_name
 Red October
 ITEM_short_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Expo 2018 Hood
 ITEM_name
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Expo 2018
 ITEM_name
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Expo 2018 Trappings
 ITEM_name
@@ -115523,7 +115523,7 @@ SLT - Set - Strix - Crow-RENTAL
 Loot_Table_name
 SLT - Collection - Pip - Cosmic
 Loot_Table_name
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 HRX 2018 Shackles
 ITEM_name
@@ -115542,11 +115542,11 @@ Cosmic Pip
 ITEM_name
 Harrowing Horrors
 ITEM_name
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 HRX 2018
 ITEM_name
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 HRX 2018 Rocket Launcher
 ITEM_name
@@ -115628,7 +115628,7 @@ SLT - Spray Rental - Overgrown
 Loot_Table_name
 Boo!
 item_name
-Obtainable in the Little Box of Horrors
+Obtainable in the Dark Tides Event.
 item_desc
 Genie Chest Spray Rental
 ITEM_name
@@ -116034,19 +116034,19 @@ Terminus Voice Pack
 ITEM_name
 Terminus VoicePack
 ITEM_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Coldsnap Guise
 ITEM_name
 Snow Owl
 ITEM_short_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Coldsnap
 ITEM_name
 Snow Owl
 ITEM_short_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Coldsnap Talon Rifle
 ITEM_name
@@ -116260,7 +116260,7 @@ Galaxy battles chest
 item_desc
 Defiant Fist
 item_name
-[Defiance] Successful hits with Revolver increase the damage of your next Defiance by 10% up to 100%.
+[Defiance] Successful hits with Revolver increase the damage of your next Defiance by 15% up to 100%.
 item_desc
 Torvald
 item_short_desc
@@ -117089,19 +117089,19 @@ item_name
 item_desc
 Blue
 ITEM_short_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Silvertongue Streak
 ITEM_name
 Blue
 ITEM_short_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Silvertongue
 ITEM_name
 Blue
 ITEM_short_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Silvertongue LMG
 ITEM_name
@@ -117749,7 +117749,7 @@ Life Exchange
 DEVICE_name
 Life Exchange
 item_name
-[Shatter] Shatters now instantly heals your target for 800 health but no longer explodes Illusions, and the cooldown is increased by 1.
+[Shatter] Shatters now instantly heals your target for 800 health but no longer explodes Illusions, and the cooldown is increased by 1s.
 item_desc
 Diana Test Map
 map_game_friendly_name
@@ -119153,7 +119153,7 @@ Copy of Watchmen
 ITEM_name
 Copy of HRX 2018 Bundle
 ITEM_name
-Copy of HRX 2018 Bundle
+HRX Digital Loot Pack
 ITEM_name
 Complete 40 Daily Quests
 Activity_Goal_desc
@@ -133572,7 +133572,7 @@ Golden Furia
 ITEM_name
 Available for purchase at Mastery Level 20.
 ITEM_desc
-Copy of Copy of Cosmic Drogoz
+ULTtest
 ITEM_name
 Available for purchase at Mastery Level 20.
 ITEM_desc
@@ -133766,7 +133766,7 @@ Obtainable in the Diamond Chest.
 ITEM_desc
 Obtainable in the VIP Pack.
 ITEM_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Obtainable in the Gold Chest.
 ITEM_desc
@@ -133784,15 +133784,15 @@ Obtainable in the Galaxy Chest.
 ITEM_desc
 Obtainable in the Front Line Pack.
 ITEM_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
-Obtainable in the PWC 2018 Digital Loot Pack.
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Obtainable in the Diamond Chest.
 ITEM_desc
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
-Included in the 2017 Digital Loot Pack
+Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Obtainable in the Jade Priestess Bundle.
 ITEM_desc
@@ -135155,17 +135155,17 @@ Pre-Fire Activate Sound
 EFFECT_GROUP_name
 Fire Audio
 EFFECT_GROUP_name
-NP Pack 1 Receipt
+Frost Pack Receipt
 ITEM_name
-NP Pack 2 Receipt
+Star Pack Receipt
 ITEM_name
-Vet Pack 1 Receipt
+Goddess Pack Receipt
 ITEM_name
-Vet Pack 2 Receipt
+Nightmare Pack Receipt
 ITEM_name
 A Great Deal for New Players
 ITEM_short_desc
-Frostmare Mount|100,000 Gold|Desirable Cosmetic
+Frostmare Mount|2x Gold Chests|100,000 Gold
 ITEM_desc
 Frost Pack
 ITEM_name
@@ -135177,7 +135177,7 @@ Star Pack
 ITEM_name
 Unbelievable Savings!
 ITEM_short_desc
-3x Diamond Chest|5x Gold Chest|200 Crystals
+Goddess Lian Skin|2x Diamond Chest|5x Gold Chest|200 Crystals
 ITEM_desc
 Goddess Pack
 ITEM_name
@@ -135471,7 +135471,7 @@ item_name
 item_desc
 Obtainable in the Festive Chest.
 ITEM_desc
-Dredge Skin00B
+Buccaneer
 ITEM_name
 Obtainable in the Festive Chest.
 ITEM_desc
@@ -136027,7 +136027,7 @@ ITEM_desc
 map_game_friendly_name
 WIP IN
 map_game_name
-Abyssal Shard Conversion - SLT
+Abyssal Shard Conversion - SLT - Master
 Loot_Table_name
 Abyssal Shard Refund - 1000
 Loot_Table_name
@@ -136460,7 +136460,7 @@ Battle Pass Experience
 ITEM_desc
 Battle Pass Ninja XP
 ITEM_name
-Battle Pass Ninja - Challenge Rewards Vendor
+Summer Event Conversion - SLT - Master
 Loot_Table_name
 Battle Pass Ninja - Free Rewards Vendor
 Loot_Table_name
@@ -137060,7 +137060,7 @@ Lore
 ITEM_short_desc
 Lore Event
 ITEM_desc
-Dredge WEP Skin00B
+Buccaneer's Howitzer
 ITEM_name
 Aurora's Dawnbringer
 ITEM_name
@@ -137683,7 +137683,7 @@ Hits with your SMGs cost no ammo.
 item_short_desc
 Master of Arms
 item_name
-[Weapon] Successful Hits with your Submachine Guns cost no ammo.
+[Weapon] Successful Hits with your Submachine Guns have a 50% chance to cost no ammo.
 item_desc
 Finish your Placement matches
 Activity_Goal_title
@@ -137755,7 +137755,7 @@ Community Avatar Contest Winner, created by MECHii.
 ITEM_desc
 Community Avatar Contest Winner, created by freaxxie. Obtainable in Battle Pass 2.
 ITEM_desc
-Obtainable from the Mecha Battle Pass.
+Obtainable in the Little Box of Horrors.
 ITEM_desc
 Obtainable in Battle Pass 2.
 ITEM_desc
@@ -137948,7 +137948,7 @@ Viktor_Runner
 BOT_name
 The Lone Wolf
 BOT_desc
-Ying Wep Skin08A
+Death Speaker's Wail
 ITEM_name
 Spell test A
 item_name
@@ -137970,29 +137970,29 @@ SLT - Collection - Koga - Mastery RENTAL
 Loot_Table_name
 Red Countess
 ITEM_short_desc
-Vivian WEP Skin02A
+Day Walker's Bloodthirst
 ITEM_name
 Red Countess
 ITEM_short_desc
-Vivian Skin02A
+Day Walker
 ITEM_name
-Halloween Vivian
+Day Walker
 ITEM_name
-Death Knight
+Obtainable in the Dark Tides Event.
 ITEM_desc
-Fernando Skin07A
+Knightmare
 ITEM_name
 Death Knight
 ITEM_short_desc
 SLT - Collection - Vivian - Halloween
 Loot_Table_name
-Death Knight
+Obtainable in the Dark Tides Event.
 ITEM_desc
-Fernando WEP Skin07A
+Knightmare's Soulblaze
 ITEM_name
 Death Knight
 ITEM_short_desc
-Halloween Fernando
+Knightmare
 ITEM_name
 SLT - Collection - Fernando - Halloween
 Loot_Table_name
@@ -138000,43 +138000,43 @@ zDelete
 Loot_Table_name
 DigiNinja
 ITEM_short_desc
-Koga Skin01A
+Prototype
 ITEM_name
 DigiNinja
 ITEM_short_desc
-Koga WEP Skin01A
+Prototype's Zap Daddies
 ITEM_name
 Season Pass 2018
 ITEM_name
 Dredge
 BOT_name
-Jud Dredge
+Admiral of the Abyss
 BOT_desc
 Default
 ITEM_desc
 Default Dredge
 ITEM_name
-Halloween Fernando
+Knightmare
 BOT_name
 The Self-Appointed Knight
 BOT_desc
-Halloween Scale Boss
+Halloween Boss Immunity
 item_name
 [Armor] Scale yourself by 200%
 item_desc
-Halloween Ying
+Death Speaker
 BOT_name
 The Blossom
 BOT_desc
-Halloween Vivian
+Day Walker
 BOT_name
 The Cunning
 BOT_desc
-Halloween Viktor
+Full Moon
 BOT_name
 The Lone Wolf
 BOT_desc
-Fireball_Halloween
+zDelete
 item_name
 Fire a burst of 3 projectiles dealing 225 damage each over 0.3s, every 1.25s at medium range.
 item_desc
@@ -138046,11 +138046,11 @@ A short range flamethrower that deals 35 damage per hit every 0.1s and applies a
 item_desc
 Dragonfire Lance
 DEVICE_name
-Dredge Inhand
+Cursed Howitzer
 item_name
 Default
 ITEM_desc
-Default Dredge Inhand
+Default Howitzer
 ITEM_name
 Energy Charge - Dredge
 item_name
@@ -138072,7 +138072,7 @@ Booby Trap v2
 item_name
 [Sensor Drone] more booms
 item_desc
-Illusory Mirror Halloween (Illusion)
+zDelete Illusory Mirror Halloween (Illusion)
 item_name
 Fires a continuous beam for a short period that deals 5 ticks of 90 damage over 0.2s every 0.5s. Effective up to Medium Range.
 item_desc
@@ -138082,7 +138082,7 @@ Hitting a target will aggro the Illusion onto that target.
 EFFECT_GROUP_desc
 Illusion Aggro
 EFFECT_GROUP_name
-Halloween Ying Illusion
+Yingwraith
 BOT_name
 Elven Illusionist
 BOT_desc
@@ -138098,19 +138098,19 @@ Hidden Temple
 map_game_friendly_name
 WIP Hidden Temple
 map_game_name
-Halloween
+Obtainable in the Dark Tides Event.
 ITEM_desc
-Viktor Skin08A
+Full Moon
 ITEM_name
 Halloween
 ITEM_short_desc
-Viktor WEP Skin06A
+Full Moon Ripper
 ITEM_name
 Halloween
 ITEM_short_desc
-Halloween
+Obtainable in the Dark Tides Event.
 ITEM_desc
-Cyberpunk Koga
+Prototype
 ITEM_name
 SLT - Collection - Koga - Cyberpunk
 Loot_Table_name
@@ -138124,11 +138124,11 @@ WIP Ice (Payload)
 map_game_name
 WIP Ice Payload
 MSL_name
-Dredge RMB
+Broadside
 item_name
-Dredge Q
+Harpoon
 item_name
-Dredge Ult
+Kraken
 item_name
 Dredge Ult Deployable
 Deployable_name
@@ -138158,7 +138158,7 @@ Obtainable in the Dragon's Call event.
 item_desc
 Dredge
 ITEM_name
-Dredge Reload
+Abyssal Reload
 item_name
 zzzzShatter now instantly heals your target for an amount health per active illusion, but consumes your illusions. The Cooldown of Shatter is reduced.
 item_short_desc
@@ -138172,7 +138172,7 @@ Halloween_Vacuum
 item_name
 Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 1000 health.
 item_desc
-Dredge F
+Shortcut
 item_name
 Inara
 item_short_desc
@@ -138188,7 +138188,7 @@ For healing talent
 DEVICE_desc
 Snow Globe talent
 DEVICE_desc
-Halloween_Transform
+Halloween Speed Up
 item_name
 Enter a defensive state that lasts 5s where you and your deployables take 30% reduced damage and you take 40% increased healing.
 item_desc
@@ -138204,16 +138204,16 @@ Halloween Frag Grenade
 item_name
 Throw a fragmentation grenade dealing up to 750 damage. Holding <CMD=GBA_Ability_2> will cook the grenade and reduce its detonation time.
 item_desc
-Halloween_Howl
+Halloween Knockback
 item_name
-Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 1000 health.
+Knockback nearby enemies
 item_desc
 SND_Notify_GoToEvent_Global
 SND_Notify_GameIntro_Global
 SND_Notify_POTG_Global
 SND_Notify_POTG
 SND_Notify_GameIntro
-Halloween Shadow Travel
+zDelete Halloween Shadow Travel
 item_name
 Step into another plane of reality for 4s. While this ability is active you are in stealth and immune to all harmful effects.
 item_desc
@@ -138289,17 +138289,17 @@ Summer Event XP
 ITEM_name
 Ancient Idol
 ITEM_name
-Summer Event Key Conversion - SLT
+Summer Event Conversion - SLT - Vault Key
 Loot_Table_name
 Converts unspent Summer Event 2018 Vault key to specific reward
 Loot_Table_desc
 SLT - Collection - Dredge - Recolor
 Loot_Table_name
-Dredge Recolor
+Buccaneer
 ITEM_name
 SLT - Collection - Viktor - Halloween
 Loot_Table_name
-Halloween Viktor
+Full Moon
 ITEM_name
 Dredge XP
 ITEM_name
@@ -138311,17 +138311,17 @@ Dredge_Deck
 ITEM_name
 SLT - Autobuy - Dredge
 Loot_Table_name
-Talus Skin02A
+Trick or Treat
 ITEM_name
 Monster
 ITEM_short_desc
-Monster
+Obtainable in the Little Box of Horrors.
 ITEM_desc
-Talus WEP Skin02A
+Trick or Treat's Surprise
 ITEM_name
 Monster
 ITEM_short_desc
-Monster
+Obtainable in the Little Box of Horrors.
 ITEM_desc
 Burst gun test
 item_name
@@ -138345,7 +138345,7 @@ SLT - Spray Rental - Damage Battle Chest
 Loot_Table_name
 SLT - Spray Rental - Support Battle Chest
 Loot_Table_name
-Halloween Illusory Mirror
+zDelete Halloween Illusory Mirror
 item_name
 Fires a continuous beam for a short period that deals 5 ticks of 90 damage over 0.2s every 0.5s. Effective up to Medium Range.
 item_desc
@@ -138465,7 +138465,7 @@ Flagball
 map_game_friendly_name
 WIP Flagball
 map_game_name
-Halloween Talus
+Trick or Treat
 ITEM_name
 SLT - Collection - Talus - Halloween
 Loot_Table_name
@@ -138541,15 +138541,15 @@ Pacify
 item_name
 Obtainable in the Dragon's Call event.
 item_desc
-Iron Maiden
+Obtainable in the Dark Tides Event.
 ITEM_desc
-Inara Skin02A
+Iron Madam
 ITEM_name
 Iron Maiden
 ITEM_short_desc
-Iron Maiden
+Obtainable in the Dark Tides Event.
 ITEM_desc
-Inara WEP Skin02A
+Iron Madam's Punisher
 ITEM_name
 Iron Maiden
 ITEM_short_desc
@@ -138566,7 +138566,7 @@ SND_Notify_SFX_FlagBall_Game_MatchPoint
 SND_Notify_SFX_FlagBall_Countdown
 Lion
 ITEM_desc
-Cat Mount Skin03A
+Molten Prowler
 ITEM_name
 Dragon's Call
 map_game_friendly_name
@@ -138655,20 +138655,1103 @@ ITEM_name
 SND_Notify_VaultOpenPurchase
 SND_Notify_VaultCompletePurchase
 SND_Notify_EOMLEventXPTicker
-Hercules
+Obtainable in the 2018 Digital Loot Pack.
 ITEM_desc
-Buck Skin05A
+Buckules
 ITEM_name
 Hercules
 ITEM_short_desc
-Hercules
+Obtainable in the HRX Digital Loot Pack.
 ITEM_desc
-Buck WEP Skin04A
+Buckules' Lion Slayer
 ITEM_name
 Hercules
 ITEM_short_desc
+Navi
+ITEM_name
+Navi
+ITEM_short_desc
+Obtainable in the 2018 Digital Loot Pack.
+ITEM_desc
+Navi Spitting Cobra
+ITEM_name
+Navi
+ITEM_short_desc
+Obtainable in the HRX Digital Loot Pack.
+ITEM_desc
+ITEM_short_desc
+Mixer
+ITEM_name
+Mixer Heavy Repeater
+ITEM_name
+ITEM_short_desc
+Brightmarsh
+map_game_friendly_name
+LIVE Brightmarsh (Onslaught)
+map_game_name
+Flagball
+map_game_friendly_name
+WIP Flagball
+map_game_name
+Mixer Khan
+ITEM_name
+Navi Maldamba
+ITEM_name
+SLT - Collection - Khan - Mixer
+Loot_Table_name
+SLT - Collection - MalDamba - Navi
+Loot_Table_name
 Use to unlock an exclusive skin in the Vault.
 ITEM_desc
+ui_autogen_1025
+SLT - Collection - Inara - Iron Maiden
+Loot_Table_name
+Iron Madam
+ITEM_name
+SLT - Collection - Ying - Death Speaker
+Loot_Table_name
+Death Speaker
+ITEM_name
+Complacent
+item_short_desc
+Complacent
+item_name
+Obtainable in the Dark Tides Event.
+item_desc
+Impaler Arrow now explodes on contact for additional damage and knocks back all enemies in the radius, but can no longer stun.
+item_short_desc
+Hurl
+item_name
+[Harpoon] Harpoon has no cooldown and no longer slows enemies.
+item_desc
+Dredge Anchor Whip Test
+item_name
+Hurl your anchor and reel in an unsuspecting enemy.
+item_desc
+Scuttle
+item_name
+[Weapon] Your reload projectile now explodes in an area of effect
+item_desc
+Dredge F Subdevice
+item_name
+Freebooter
+item_name
+[Short Cut] Allies may Pass through your Shortcut.
+item_desc
+Strix Skin06A
+ITEM_name
+Strix WEP Skin05A
+ITEM_name
+[Weapon] Your weapon no longer knocks you back and deals less self damage.
+item_short_desc
+Copy of Sturdy
+item_name
+[Weapon] Your weapon no longer knocks you back and deals {scale=20|20}% less self damage.
+item_desc
+Dark Tides
+ITEM_name
+Dark Tidings Bundles Vendor
+Loot_Table_name
+Dark Tidings Store Vendor
+Loot_Table_name
+Dark Tidings Vault Vendor
+Loot_Table_name
+SND_Notify_MUS_Level_default_Play
+Ying
+item_short_desc
+Limitless
+item_name
+Death Speaker's Artifact
+ITEM_name
+Possibly the weird "hacked" version?
+Loot_Table_Items_desc
+Buckules
+ITEM_name
+SLT - Collection - Buck - Lion
+Loot_Table_name
+Summer Event Conversion - SLT - Inara MVP
+Loot_Table_name
+Summer Event Conversion - SLT - Inara MVP
+Loot_Table_name
+Summer Event Conversion - SLT - Dragon Gauntlet Spray
+Loot_Table_name
+Summer Event Conversion - SLT - Flametongue Avatar
+Loot_Table_name
+Summer Event Conversion - SLT - Kinessa MVP
+Loot_Table_name
+Summer Event Conversion - SLT - Ash Emote
+Loot_Table_name
+Summer Event Conversion - SLT - Coldfire Spray
+Loot_Table_name
+Summer Event Conversion - SLT - Snack Time Avatar
+Loot_Table_name
+Summer Event Conversion - SLT - Evie Emote
+Loot_Table_name
+Summer Event Conversion - SLT - Death Stamp
+Loot_Table_name
+ITEM_desc
+Evil Mojo
+ITEM_name
+Bad, do not use. 
+Loot_Table_Items_desc
+Bad, do not use.
+Loot_Table_Items_desc
+Goddess Pack DLC - No Crystals
+Loot_Table_name
+Nightmare Pack DLC - No Crystals
+Loot_Table_name
+zDelete
+Loot_Table_name
+Star Pack DLC - No Crystals
+Loot_Table_name
+Dummy
+BOT_name
+An Abyssal Echo Emerges
+ABYSSAL_ECHOES_CHALLENGER_APPROACHES
+Default
+ITEM_desc
+Default Dummy
+ITEM_name
+The Insane Activity Trigger
+ITEM_name
+The Dedicated Activity Trigger
+ITEM_name
+Variety is the Spice of Life Activity Trigger
+ITEM_name
+Copy of Kraken Anchor
+item_name
+Hurl your anchor and reel in an unsuspecting enemy.
+item_desc
+Death Speaker Bundle
+ITEM_name
+Obtainable in the Dark Tides Event
+ITEM_desc
+Knightmare Bundle
+ITEM_name
+Obtainable in the Dark Tides Event
+ITEM_desc
+Day Walker Bundle
+ITEM_name
+Obtainable in the Dark Tides Event
+ITEM_desc
+Full Moon Bundle
+ITEM_name
+Obtainable in the Dark Tides Event
+ITEM_desc
+SLT - Dark Tidings Bundle - Ying - Halloween
+Loot_Table_name
+SLT - Dark Tidings Bundle - Fernando - Halloween
+Loot_Table_name
+SLT - Dark Tidings Bundle - Vivian - Halloween
+Loot_Table_name
+SLT - Dark Tidings Bundle - Viktor - Halloween
+Loot_Table_name
+Mage Avatar
+BOT_name
+The Magest
+BOT_desc
+Mage
+BOT_name
+Energy Charge - Mage
+item_name
+Mage
+ITEM_name
+Mage
+Loot_Table_Items_name
+Banshee's Wail
+ITEM_name
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Banshee
+ITEM_name
+Death Speaker
+ITEM_name
+Knightmare
+ITEM_name
+Day Walker
+ITEM_name
+Harbinger
+ITEM_name
+Mage Ult
+item_name
+Spawn Avatar
+DEVICE_name
+Banshee
+ITEM_name
+SLT - Collection - Ying - Halloween Recolor
+Loot_Table_name
+Halloween Fireball
+item_name
+Shoot a ball of fire that Fears an enemy for 2s.
+item_desc
+Buildup Audio
+EFFECT_GROUP_name
+Fireball Fire Sound
+EFFECT_GROUP_name
+Halloween Charge
+item_name
+Dash forward at great speed stunning anyone hit.
+item_desc
+Halloween Shield
+item_name
+Expand your shield to block 20,000 damage for 60s. You cannot attack while your shield is active.
+item_desc
+Shield
+EFFECT_GROUP_name
+If an enemy is close to your Sensor Drone, it explodes dealing damage and knocking back
+item_short_desc
+Halloween Booby Trap
+item_name
+[Sensor Drone] Your Sensor Drones explode dealing 500 damage and knocking back when an enemy is within 20ft.
+item_desc
+Halloween Sensor Drone
+item_name
+Throw out up to 2 deployable sensors that reveal enemies to your team in a large radius.
+item_desc
+Halloween Deflector Shield
+item_name
+Project a frontal shield that blocks 1400 damage for 6s. You may fire while Deflector Shield is active.
+item_desc
+Vivian Halloween Shield Deployable
+Deployable_name
+Halloween Illusory Mirror
+item_name
+Fires a continuous beam for a short period that deals 5 ticks of 90 damage over 0.2s every 0.5s. Effective up to Medium Range.
+item_desc
+Update the illusion version of the mirror when this changes.
+DEVICE_desc
+Hitting a target will aggro the Illusion onto that target.
+EFFECT_GROUP_desc
+Illusion Aggro
+EFFECT_GROUP_name
+zzzzDeprecated Trace Heal for Life Exchange
+DEVICE_desc
+Halloween Dimensional Link
+item_name
+For 4s, swap locations with the furthest illusion. If none are deployed, it will take Ying to the location of the last active Illusion.
+item_desc
+Halloween Illusory Mirror (Illusion)
+item_name
+For Illusions
+DEVICE_name
+Make sure to update this when the base version of the mirror gets updated.
+DEVICE_desc
+For Illusions
+DEVICE_name
+Activated by Lifelike legendary.
+DEVICE_desc
+Daily Deal - Table 1
+Loot_Table_name
+zDelete
+Loot_Table_name
+zDelete
+Loot_Table_name
+Halloween Barrage Explosion
+item_name
+Halloween Barrage Deployable
+Deployable_name
+Halloween Barrage Fire
+item_name
+Device controlling the actual firing of the barrage - not the binoculars.
+item_desc
+Daily Deal 300
+ITEM_name
+Daily Deal 350
+ITEM_name
+Daily Deal 400
+ITEM_name
+Daily Deal - Prices
+Loot_Table_name
+Death Knight
+ITEM_short_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Sanguine
+ITEM_name
+Death Knight
+ITEM_short_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Sanguine Soulblaze
+ITEM_name
+Sanguine
+ITEM_name
+SLT - Collection - Fernando - Halloween Recolor
+Loot_Table_name
+SLT - Collection - Moji - Dragonborn RENTAL
+Loot_Table_name
+SLT - Collection - Sha Lin - Outlaw RENTAL
+Loot_Table_name
+SLT - Collection - Khan - Overlord RENTAL
+Loot_Table_name
+SLT - Collection - Furia - Aurora RENTAL
+Loot_Table_name
+Halloween Charge Poly
+item_name
+Dash forward at great speed poly anyone hit.
+item_desc
+zOld Daily Deal Skins - Epic
+Loot_Table_name
+Gold Doubloon
+ITEM_name
+Dark Tidings Event Currency
+ITEM_desc
+Dark Doubloon
+ITEM_name
+Dark Tidings Event Currency
+ITEM_desc
+Daily Deal - Skins Legendary
+Loot_Table_name
+Daily Deal - Skins Epic
+Loot_Table_name
+Daily Deal - Skins Rare
+Loot_Table_name
+Daily Deal - Skins Un/Common
+Loot_Table_name
+Chest Loot Vendor - Cyber Chest
+Loot_Table_name
+SLT - Chest - Cyber Chest - Epic
+Loot_Table_name
+SLT - Chest - Cyber Chest - Rare Skin
+Loot_Table_name
+SLT - Chest - Cyber Chest - Commons
+Loot_Table_name
+Cyber Chest
+ITEM_name
+Contessa
+ITEM_name
+Supa Rift (Siege)
+map_game_friendly_name
+WIP Supa Rift (Siege)
+map_game_name
+Supa Rift (Siege)
+map_game_friendly_name
+WIP Supa Rift (Siege)
+map_game_name
+Cosplay at our Events
+ITEM_desc
+Cosplay Comrade
+ITEM_name
+Unlock Free by linking your Hi-Rez Account with your Nintendo Account.
+ITEM_desc
+[Armor] Increase your base maximum Health.
+item_short_desc
+Dreadnought
+item_name
+[Armor] Increase your Maximum Health by {scale=50|50}
+item_desc
+Evolve
+EFFECT_GROUP_name
+[Armor] While below 50% Health receive increased healing.
+item_short_desc
+Sea Dogs
+item_name
+[Armor] While below 50% Health receive {scale=5|5}% increased healing.
+item_desc
+[Weapon] Increase your Ammo count 
+item_short_desc
+Gun Deck
+item_name
+[Weapon] Increase your Maximum Ammo by {scale=1|1}
+item_desc
+[Armor] Dropping below 50% of your max Health grants you a Shield.
+item_short_desc
+Hangman's Ire
+item_name
+[Armor] Dropping below 50% HP grants a {scale=150|150}hp Shield for 3s
+item_desc
+[Broadside] Broadside reveals enemies
+item_short_desc
+Spy Glass
+item_name
+[Broadside] Enemies Within {scale=10|10}ft of Broadside's projectiles are revealed.
+item_desc
+[Broadside] Hitting with Broadside heals you
+item_short_desc
+Reckless Barrage
+item_name
+[Broadside] Hitting with Broadside heals you for {scale=50|50} health
+item_desc
+[Broadside] Hitting with Broadside restores ammo
+item_short_desc
+Abyss Cannon
+item_name
+[Broadside] Hitting with Broadside grants you {scale=1|1} ammo
+item_desc
+[Broadside] Broadside increases reload speed
+item_short_desc
+Heave Away
+item_name
+[Broadside] Broadside increases your reload speed by {scale=8|8}% for 5s
+item_desc
+[Harpoon] Harpoon Deals bonus Damage to Shields
+item_short_desc
+Hull Piercer
+item_name
+[Harpoon] Harpoon Deals {scale=75|75}% increased Damage to Shields.
+item_desc
+[Harpoon] Heal when hitting with Harpoon
+item_short_desc
+Mortal Skewer
+item_name
+[Harpoon] Heal for {scale=80|80} Health when hitting Harpoon.
+item_desc
+[Harpoon] Using Harpoon generates ammo.
+item_short_desc
+Cursed Weaponry
+item_name
+[Harpoon] Using Harpoon generates {scale=1|1} ammo.
+item_desc
+[Harpoon] Increase the strength of Harpoon's Slow
+item_short_desc
+Blow the Man Down
+item_name
+[Harpoon] Increase the strength of Harpoon's Slow by {scale=5|5}%
+item_desc
+Red Countess(?)
+ITEM_short_desc
+Contessa
+ITEM_name
+Red Countess(?)
+ITEM_short_desc
+Contessa's Bloodthirst
+ITEM_name
+Dredge
+item_short_desc
+Watch the Horizon
+item_name
+Obtainable in the Gold Chest.
+ITEM_desc
+SLT - Collection - Vivian - Halloween Recolor
+Loot_Table_name
+zDelete
+Loot_Table_name
+EDM Strix
+ITEM_name
+SLT - Collection - Strix - EDM
+Loot_Table_name
+Dredge
+item_short_desc
+Default Dredge Emote
+item_name
+Laugh
+item_desc
+Daily Deal - Skins Accs
+Loot_Table_name
+Daily Deal - Weps Legendary
+Loot_Table_name
+Daily Deal - Mounts
+Loot_Table_name
+Daily Deal - Death Stamps
+Loot_Table_name
+Daily Deal - Music Themes
+Loot_Table_name
+Daily Deal - MVPs Looping
+Loot_Table_name
+Daily Deal - Sprays World
+Loot_Table_name
+Daily Deal - Weps Rare
+Loot_Table_name
+Daily Deal - Sprays Animated
+Loot_Table_name
+Daily Deal - Weps Epic
+Loot_Table_name
+Daily Deal - Announcers
+Loot_Table_name
+Daily Deal - Emotes Looping
+Loot_Table_name
+Daily Deal - Emotes Epic
+Loot_Table_name
+Daily Deal - Emotes Rare
+Loot_Table_name
+Daily Deal - MVPs Epic
+Loot_Table_name
+Daily Deal - Avatars
+Loot_Table_name
+Daily Deal - MVPs Rare
+Loot_Table_name
+zDelete
+Loot_Table_name
+Daily Deal - Sprays Rare/Epic
+Loot_Table_name
+Copy of Spray Vendor - Gold Card
+Loot_Table_name
+Copy of Spray Vendor - Gold Card
+Loot_Table_name
+Wraith Variant
+ITEM_desc
+Ying Skin07A
+ITEM_name
+Halloween Deflector Shield x3 (#1)
+item_name
+Ability used by Halloween Vivian to deploy 3 spinning deflector shields when she is low on health.
+item_desc
+Koga
+item_short_desc
+Stealth Mode
+item_name
+Obtainable in the Little Box of Horrors.
+item_desc
+Halloween Tracker - Fernando
+ITEM_name
+Halloween Tracker - Viktor
+ITEM_name
+Halloween Tracker - Vivian
+ITEM_name
+Halloween Tracker - Ying
+ITEM_name
+Dark Tidings - Trackers
+Loot_Table_name
+Vivian Halloween Shield x3 Deployable
+Deployable_name
+Plank Walker
+item_name
+[Short Cut] Heal for {scale=100|100} Health when traveling through a Short Cut.
+item_desc
+20% off Dark Tides Bundles
+ITEM_name
+Get 20% off you next Dark Tides Bundle purchase!
+ITEM_desc
+Haul on the Bowline
+item_name
+[Short Cut] Gain {scale=8|8}% movement speed for 2s after exiting a Short Cut
+item_desc
+Halloween Deflector Shield x3 (#2)
+item_name
+Ability used by Halloween Vivian to deploy 3 spinning deflector shields when she is low on health.
+item_desc
+Halloween Deflector Shield x3 (#3)
+item_name
+Ability used by Halloween Vivian to deploy 3 spinning deflector shields when she is low on health.
+item_desc
+Expansive Vault
+item_name
+[Short Cut] Your first jump within {scale=1|1}s of exiting Short Cut will be higher.
+item_desc
+SND_Notify_DarkTidings_DubloonPickup
+SLT - Bundle - Digital Loot Pack 2018
+Loot_Table_name
+Digital Loot Pack 2018
+ITEM_name
+Celebrate the 2018 Paladins World Championship at Dreamhack Atlanta with exclusive items.
+ITEM_desc
+Halloween 2018 Event Conversion - SLT - Master
+Loot_Table_name
+Converts unspent Vault Key in inventory to Iron Maiden Inara at end of event
+Loot_Table_desc
+Halloween 2018 Event Conversion - SLT - Vault Key
+Loot_Table_name
+Finish your Placement matches
+Activity_Goal_title
+Qualify Split 3
+Activity_Goal_name
+SND_Notify_DarkTidings_EnemyDefeat
+Play 25 Games
+Activity_Goal_title
+Play 25 Games
+Activity_Goal_name
+SND_Notify_DarkTidings_EnemyLeave
+SND_Notify_DarkTidings_EnemySpawn
+Ranked Reward - Qualify
+Activity_title
+RR_S2_S3_Qualify
+Activity_name
+Ranked Reward - Play Split 3
+Activity_title
+RR_S2_S3_Play_Games
+Activity_name
+Ranked Rewards - SLT - Season 2 Split 3
+Loot_Table_name
+zzzzRanked Rewards - SLT - Season 2 Split 3
+Loot_Table_name
+SND_Notify_ANN_DarkTidings_Viktor_Intro
+SND_Notify_ANN_DarkTidings_Ying_Intro
+SND_Notify_ANN_DarkTidings_Vivian_Intro
+SND_Notify_ANN_DarkTidings_Fernando_Intro
+SND_Notify_ANN_DarkTidings_Viktor_Death
+SND_Notify_ANN_DarkTidings_Ying_Death
+SND_Notify_ANN_DarkTidings_Vivian_Death
+SND_Notify_ANN_DarkTidings_Fernando_Death
+SND_Notify_ANN_DarkTidings_Viktor_Leave
+SND_Notify_ANN_DarkTidings_Ying_Leave
+SND_Notify_ANN_DarkTidings_Vivian_Leave
+SND_Notify_ANN_DarkTidings_Fernando_Leave
+Lore Lady Announcer
+ITEM_name
+Blasphemous Idol
+ITEM_name
+Jolly Roger
+item_name
+3D Spray
+item_desc
+Dark Bargain
+item_name
+[Short Cut] Standing near a Short Cut Heals you for {scale= 50|50} health every 1s
+item_desc
+Fernando
+item_short_desc
+Colossus
+item_name
+Viktor
+item_short_desc
+Feral
+item_name
+SND_Notify_MUS_DarkTidings_EchoSpawn
+SND_Notify_MUS_DarkTidings_Outro
+Daily Deal - Voice Packs
+Loot_Table_name
+Copy of Spray Vendor - Gold Card
+Loot_Table_name
+Daily Deal - Sprays Cards
+Loot_Table_name
+Obtainable in the Daily Deal.
+ITEM_desc
+Hard Carry
+ITEM_name
+Fernando
+item_short_desc
+Romantic
+item_name
+Fernando MVP
+item_desc
+Obtainable in the Daily Deal.
+ITEM_desc
+Loose Cannon
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+The Hot Potato
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+The Impatient
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+The Best
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+Cries Over Spilt Milk
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+Devil's Advocate
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+Professional Snuggler
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+The Nefarious
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+The Wicked
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+The Absolute Madman
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+The Corrupt
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+Can't be Stopped
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+Gun Wizard
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+Dream Killer
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+The Fabulous
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+Bloodseeker
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+Busy Bee
+ITEM_name
+Obtainable in the Daily Deal.
+ITEM_desc
+The Die-hard
+ITEM_name
+Daily Deal - Titles
+Loot_Table_name
+Daily Deal - Table 2
+Loot_Table_name
+Daily Deal - Table 3
+Loot_Table_name
+zDelete
+Loot_Table_name
+Ghost Catcher
+Activity_Goal_title
+Defeat all 4 Abyssal Echoes
+Activity_Goal_desc
+Defeat all 4 Abyssal Echoes
+Activity_Goal_name
+Ghost Catcher
+Activity_title
+Halloween - Kill 4 Echos
+Activity_name
+Vivian Vampire
+item_short_desc
+Wink
+item_name
+Obtainable from Twitch Drops.
+item_desc
+Viktor Lycan
+item_short_desc
+Pale Moon
+item_name
+Inara Metal Madam
+item_short_desc
+Metal!
+item_name
+Talus Halloween
+item_short_desc
+Gimme Gimme
+item_name
+Mixer Logo
+item_short_desc
+Mixer Spray
+item_name
+Terminus
+item_short_desc
+Termenstein
+item_name
+Obtainable in the Little Box of Horrors.
+item_desc
+Dredge Q Abyss Spike Deployable
+Deployable_name
+Abyss Spike
+item_name
+[Harpoon] Harpoon now lodges into terrain and explodes for 1000 damage when enemies are nearby.
+item_desc
+Abyss Spike Mine
+item_name
+Knightmare's Artifact
+ITEM_name
+Day Walker's Artifact
+ITEM_name
+SLT - Chest - Halloween Chest - Rare
+Loot_Table_name
+Terminus Ultimate
+item_desc
+Furia
+item_short_desc
+Treat
+item_name
+Obtainable in the Little Box of Horrors.
+item_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Cyber Chest.
+ITEM_desc
+Obtainable from Twitch Drops.
+ITEM_desc
+Obtainable from Twitch Drops.
+ITEM_desc
+Boo!-ty-licious
+ITEM_name
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Golden Dredge
+ITEM_name
+Golden Howitzer
+ITEM_name
+Available for purchase at Mastery Level 20.
+ITEM_desc
+Golden Dredge
+ITEM_name
+Available for purchase at Mastery Level 20.
+ITEM_desc
+Dredge
+item_short_desc
+Brandish
+item_name
+Obtainable in the Gold Chest.
+item_desc
+Frost Pack DLC - No Crystals
+Loot_Table_name
+A Great Deal for New Players
+ITEM_short_desc
+Frostmare Mount|2x Gold Chests|100,000 Gold
+ITEM_desc
+Frost Pack
+ITEM_name
+Unbelievable Savings!
+ITEM_short_desc
+Goddess Lian Skin|2x Diamond Chest|10x Gold Chest
+ITEM_desc
+Goddess Pack
+ITEM_name
+Terrorize Your Enemies!
+ITEM_short_desc
+Nightmare Mount|5x Diamond Chest|5x Gold Chest
+ITEM_desc
+Nightmare Pack
+ITEM_name
+Become Legendary Today!
+ITEM_short_desc
+Star Slayer Skin|3x Diamond Chest
+ITEM_desc
+Star Pack
+ITEM_name
+SLT - Collection - Dredge - Mastery
+Loot_Table_name
+Daily Deal 450
+ITEM_name
+Daily Deal 500
+ITEM_name
+Daily Deal 550
+ITEM_name
+Daily Deal 600
+ITEM_name
+Reach mastery 30 with Dredge.
+ITEM_desc
+Admiral of the Abyss
+ITEM_name
+Obtainable in the Dark Tides Event.
+ITEM_desc
+The Salty
+ITEM_name
+Admiral Dredge ruled the eight oceans as as the Realm's most feared pirate, until one final treasure led to his doom. Dredge stole the Warders' relics from the Paladins, but could not tame the dragons' might. His ship was destroyed, his crew scattered, and Dredge sank to certain death in the the ocean's depths. The Abyss intervened and bore Dredge back into the Realm of the living. Now the undead admiral sails the seas again. And none will take his treasure.
+BOT_lore
+Every 0.7s fire an explosive projectile that deals 800 damage. Reloading fires a slow traveling projectile that deals 1000 damage.
+item_desc
+Fire three projectiles that each deal 950 Damage after a 2s fuse.
+item_desc
+Hurl a piercing harpoon. Enemies hit by the harpoon take 800 damage and are slowed by 50% for 2s.
+item_desc
+Deploy up to two portals that you can travel between.
+item_desc
+Create a rift, after 2s Abyssal tentacles rip through reality dealing 4000 Damage in an area.
+item_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Cyber Chest.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Kraken's Frame
+ITEM_name
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Little Box of Horrors.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Dredge Voice Pack
+ITEM_name
+Gold
+ITEM_desc
+z--Unused--Viktor Mastery
+ITEM_name
+Viktor Gold
+ITEM_short_desc
+Grinning Gourds
+item_name
+Obtainable in the Dark Tides Event.
+item_desc
+Mastery
+ITEM_desc
+Viktor Mastery
+ITEM_name
+Gold
+ITEM_short_desc
+Kill every Abyssal Echo
+ITEM_name
+Kill Death Speaker
+Activity_Goal_title
+Kill Death Speaker
+Activity_Goal_desc
+Kill Death Speaker
+Activity_Goal_name
+Kill Knightmare
+Activity_Goal_title
+Kill Knightmare
+Activity_Goal_desc
+Kill Knightmare
+Activity_Goal_name
+Kill Day Walker
+Activity_Goal_title
+Kill Day Walker
+Activity_Goal_desc
+Kill Day Walker
+Activity_Goal_name
+Kill Full Moon
+Activity_Goal_title
+Kill Full Moon
+Activity_Goal_desc
+Kill Full Moon
+Activity_Goal_name
+SLT - Dark Tidings Full Purchase Bundle
+Loot_Table_name
+Full Moon Bundle
+ITEM_name
+Privateer
+Activity_Goal_title
+Collect 15 Dark Doubloons
+Activity_Goal_desc
+Collect 15 Dark Doubloons
+Activity_Goal_name
+Acquire 15 Dark Doubloons
+Activity_title
+Acquire 15 Dark Doubloons
+Activity_desc
+Acquire 15 Dark Doubloons
+Activity_name
+Buried Treasure
+Activity_Goal_title
+Collect 30 Dark Doubloons
+Activity_Goal_desc
+Collect 30 Dark Doubloons
+Activity_Goal_name
+Acquire 30 Dark Doubloons
+Activity_title
+Acquire 30 Dark Doubloons
+Activity_desc
+Acquire 30 Dark Doubloons
+Activity_name
+Salty Salty Dog
+Activity_Goal_title
+Play 150 Games
+Activity_Goal_desc
+Play 150 Games
+Activity_Goal_name
+Play 150 Games
+Activity_title
+Play 150 Games
+Activity_desc
+Halloween - Play 150 Games
+Activity_name
+Report Notifications
+Loot_Table_name
+Report Notifications
+Loot_Table_name
+Report Notifications
+Loot_Table_name
+Chat Notifications
+Loot_Table_name
+Short Chat Message Item Description
+ITEM_short_desc
+Cosplay
+ITEM_name
+Unlocked through promotional Cosplay events.
+ITEM_desc
+Holiday 2018 Event Conversion - SLT - Master
+Loot_Table_name
+Dragon's Call
+map_game_friendly_name
+LIVE Flagball
+map_game_name
+The Abyssal Echo Escaped
+ABYSSAL_ECHOES_ESCAPES
+The Wolfman Approaches
+ABYSSAL_ECHOES_WOLFMAN
+zDelete
+ITEM_name
+Slayed the Abyssal Echo
+ABYSSAL_ECHOES_SLAYED
+Dark Tidings Silent Receipt
+ITEM_name
+SLT - Dark Tidings Silent Receipt Produce
+Loot_Table_name
+SLT - Dark Tidings Silent Receipt - Produce First
+Loot_Table_name
+SLT - Dark Tidings Silent Receipt - Consume
+Loot_Table_name
+SLT - Dark Tidings Bonus Bundle - Produce
+Loot_Table_name
+Failed to Damage the Abyssal Echo
+ABYSSAL_ECHOES_NO_DAMAGE
+Community Spray Test Pack
+ITEM_name
+SLT - Collection - Bundle - Community Sprays Test
+Loot_Table_name
+SND_Notify_ANN_DarkTidings_Ying_Taunt
+SLT - Dark Tidings Silent Receipt - Produce Second
+Loot_Table_name
+Obtain by linking your Facebook account at https://www.hirezstudios.com/my-account/#link
+ITEM_desc
+Marauder's Port
+map_game_friendly_name
+LIVE Marauder's Port (Onslaught) 
+map_game_name
+Marauder's Port
+map_game_friendly_name
+Practice Marauder's Port (Onslaught) 
+map_game_name
+SND_Notify_ANN_DarkTidings_Viktor_Taunt
+Custom O_Marauder's Port
+MSL_name
+SND_Notify_ANN_DarkTidings_Fernando_Taunt
+SND_Notify_ANN_DarkTidings_Vivian_Taunt
+Marauder's Port
+Match_Queue_name
+Dark Tides
+ITEM_desc
+Marauder's Port
+Match_Queue_name
+SND_Notify_MUS_TDM_Intro
+SND_Notify_MUS_TDM_MatchStart
+SND_Notify_MUS_TDM_Low
+SND_Notify_MUS_TDM_Medium
+SND_Notify_MUS_TDM_High
+SND_Notify_MUS_TDM_End
+Obtainable in the Dark Tides Event.
+ITEM_desc
+Copy of Banshee
+ITEM_name
+Dragon's Call
+map_game_friendly_name
+LIVE Flagball
+map_game_name
+Obtainable in the HRX Digital Loot Pack.
+ITEM_desc
+Obtainable in the HRX Digital Loot Pack.
+ITEM_desc
+Gold
+ITEM_name
+Dark Tides Small Exchange
+ITEM_desc
+Dark Tides Large Exchange
+ITEM_desc
+Gold
+ITEM_name
 None
 VV_TEXT
 Patrol
@@ -138682,31 +139765,33 @@ VV_TEXT
 VV_TEXT
 VV_TEXT
 Add (+)
+VV_TEXT
 Increase (+%)
-PERC_INCREASE
+VV_TEXT
 Decrease (-%)
-PERC_DECREASE
+VV_TEXT
 Subtract (-)
-Subtract
+VV_TEXT
 Number
-NUMBER
+VV_TEXT
 Percent
-PERCENT
+VV_TEXT
 units
-FEET
+VV_TEXT
 Seconds
-SECONDS
+VV_TEXT
 Num/Sec
-NUM_PER_SEC
+VV_TEXT
 Ft/Sec
-FT_PER_SEC
+VV_TEXT
+VV_TEXT
 Instant Ranged Attack
-Instant Ranged
+VV_TEXT
 VV_TEXT
 True
-True
+VV_TEXT
 Physical
-Physical
+VV_TEXT
 Mesh
 VV_TEXT
 Texture
@@ -138726,7 +139811,7 @@ VV_TEXT
 None
 VV_TEXT
 Float
-FLOAT
+VV_TEXT
 Animation Set
 VV_TEXT
 Animation Tree
@@ -138739,15 +139824,16 @@ VV_TEXT
 Deployable Class
 VV_TEXT
 Stackable
-Stackable
+VV_TEXT
 Strongest Wins
-Strongest
+VV_TEXT
 Impact Material
 VV_TEXT
 Projectile Class
 VV_TEXT
+VV_TEXT
 Projectile Ranged Attack
-Projectile Ranged
+VV_TEXT
 Display Group
 VV_TEXT
 Pawn Class
@@ -138774,31 +139860,31 @@ VV_TEXT
 None
 VV_TEXT
 ES2 (E Ability; Ultimate)
-SLOT_2
+VV_TEXT
 ES4 (F Ability; Movement)
-SLOT_4
+VV_TEXT
 ES3 (Q Ability)
-SLOT_3
+VV_TEXT
 ES5 (Card Slot 1)
-SLOT_5
+VV_TEXT
 ES6 (Recall)
-SLOT_6
+VV_TEXT
 ES7 (Emote)
-SLOT_7
+VV_TEXT
 ES8 (Burn Card 1)
-SLOT_8
+VV_TEXT
 Material Instance Const
 VV_TEXT
 Enemy
-Enemy
+VV_TEXT
 Self
-Self
+VV_TEXT
 Random (1 to 100)
 VV_TEXT
 Device
-Device
+VV_TEXT
 ES1 (Primary Weapon)
-SLOT_1
+VV_TEXT
 Game Class
 VV_TEXT
 Map Object Classes
@@ -138837,11 +139923,12 @@ VV_TEXT
 Has Last Attacker (0/1)
 VV_TEXT
 Equip
-Equip
+VV_TEXT
 Buildup
-Buildup
+VV_TEXT
 While Firing
-While Firing
+VV_TEXT
+VV_TEXT
 Friends In Vision Range (#)
 VV_TEXT
 Friends In Assist Range (#)
@@ -138861,7 +139948,7 @@ VV_TEXT
 Is Offhand 1 Ready (0/1)
 VV_TEXT
 Equip Mode
-Equip Mode
+VV_TEXT
 Target In Clear LOS (0/1)
 VV_TEXT
 Has Trigger Target (0/1)
@@ -138873,7 +139960,7 @@ VV_TEXT
 Has Friendly Target (0/1)
 VV_TEXT
 <Local>
-Local
+VV_TEXT
 Has Owner (0/1)
 VV_TEXT
 Distance From Owner (# ft)
@@ -138885,11 +139972,11 @@ VV_TEXT
 Current Target Health (0-100%)
 VV_TEXT
 Public
-Public
+VV_TEXT
 Default
-Default
+VV_TEXT
 Enraged
-Enraged
+VV_TEXT
 Posture Is Hibernate (0/1)
 VV_TEXT
 Friend To Enemy Ratio (#)
@@ -138938,15 +140025,15 @@ VV_TEXT
 Is Equip 8 Ready (0/1)
 VV_TEXT
 ES9 (Burn Card 2)
-SLOT_9
+VV_TEXT
 ES10 (Burn Card 3)
-SLOT_10
+VV_TEXT
 Ranged (Smite)
-Ranged
+VV_TEXT
 WorldObjects
 VV_TEXT
 Stunned
-Stunned
+VV_TEXT
 Distance From Nearest Enemy (# ft)
 VV_TEXT
 Distance From Last Attacker (# ft)
@@ -138954,7 +140041,7 @@ VV_TEXT
 Target
 VV_TEXT
 Destination
-VV_text
+VV_TEXT
 Reticule
 VV_TEXT
 Aim Offset Profile
@@ -138978,19 +140065,19 @@ VV_text
 Use Device (Check Proximity)
 VV_text
 Patrol
-Patrol
+VV_TEXT
 ES11 (Burn Card 4)
-SLOT_11
+VV_TEXT
 ES12 (Supporting Device 2)
-SLOT_12
+VV_TEXT
 ES13 (Regeneration)
-SLOT_13
+VV_TEXT
 ES14 (Supporting Device 3)
-SLOT_14
+VV_TEXT
 Float4
-FLOAT4
+VV_TEXT
 Apply Always
-VV_text
+VV_TEXT
 HairColorBlack2
 VV_text
 HairColorBlonde0
@@ -139000,7 +140087,7 @@ VV_text
 HairColorBlack1
 VV_text
 None
-VV_text
+VV_TEXT
 At Open Relax Point (0/1)
 VV_text
 At Default Mine Point (0/1)
@@ -139022,13 +140109,13 @@ VV_text
 HairColorBlonde2
 VV_text
 Generic
-VV_text
+VV_TEXT
 Hair
-VV_text
+VV_TEXT
 Head
-VV_text
+VV_TEXT
 Body
-VV_text
+VV_TEXT
 Time Since Made Help Call (#) 
 VV_text
 Radio Alarm
@@ -139038,7 +140125,7 @@ VV_text
 At Wall Relax Point (0/1)
 VV_text
 Vendor
-Vendor
+VV_TEXT
 At Standard Console Point (0/1)
 VV_text
 At Default Lab Console (0/1)
@@ -139052,11 +140139,11 @@ VV_text
 Time At Action Point (#)
 VV_text
 Default Deployable
-VV_text
+VV_TEXT
 BOT_Ranged
-BOT_Ranged
+VV_TEXT
 BOT_Melee
-BOT_Melee
+VV_TEXT
 Blueprint
 VV_text
 Distance From Spawn Location (# ft)
@@ -139100,7 +140187,7 @@ VV_text
 Target Can Be Repaired (0/1)
 VV_text
 Drop (Death Drop)
-VV_text
+VV_TEXT
 Dropped Loot
 VV_text
 Closer Cover For Command Dest (0/1)
@@ -139108,17 +140195,17 @@ VV_text
 Distance From Command Dest (#)
 VV_text
 Item
-VV_text
+VV_TEXT
 Scale By Damage
-VV_text
+VV_TEXT
 Scale By Radius
-VV_text
+VV_TEXT
 Apply Enemy
-VV_text
+VV_TEXT
 Offhand Animation Names
-VV_text
+VV_TEXT
 Successful Hit
-Successful Hit
+VV_TEXT
 Block
 VV_text
 Break Block
@@ -139130,13 +140217,13 @@ VV_text
 Target In Melee Attack (0/1)
 VV_text
 Leader
-Leader
+VV_TEXT
 Officer
-Officer
+VV_TEXT
 Member
-Member
+VV_TEXT
 Initiate
-Initiate
+VV_TEXT
 Alliance Chat Listen
 VV_text
 Alliance Chat Talk
@@ -139168,15 +140255,15 @@ VV_text
 Edit Defense List
 VV_text
 Clan Accepted Application
-CLAN_ACCEPTS_APPLICATION
+VV_TEXT
 Clan Rejected Application
-CLAN_REJECTS_APPLICATION
+VV_TEXT
 Is Target Stunned (0/1)
 VV_text
 Unequip Devices
 VV_text
 Player Applied
-Player Applies
+VV_TEXT
 Is Target Stealthed (0/1)
 VV_text
 The character "@@player_name@@" was not found.
@@ -139202,15 +140289,15 @@ CLAN_PLAYER_JOINED
 @@player_name@@ declined your clan invitation.
 CLAN_PLAYER_REJECTED_INVITE
 None
-None
+VV_TEXT
 Distance From Sound Actor (#ft)
 VV_text
 Search
-VV_text
+VV_TEXT
 Use Device (Check Facing)
-VV_text
+VV_TEXT
 ES15 (Energy Charge)
-SLOT_15
+VV_TEXT
 Last Attacker In Equip 2 Range (0/1)
 VV_text
 Last Attacker In Equip 3 Range (0/1)
@@ -139220,7 +140307,7 @@ VV_text
 Highest Threat In Equip 3 Range (0/1)
 VV_text
 None (DEPRECATED FIELD)
-VV_text
+VV_TEXT
 Enemy Taunt Sighted (0/1)
 VV_text
 Was unable to change to requested map
@@ -139248,25 +140335,25 @@ Login Invalid
 Unable to connect to server.
 Network Failure
 Match
-Match
+VV_TEXT
 A mission is ready for you to join, do you want to accept?
 Match Invitation
 Generic
-Generic
+VV_TEXT
 InHand Assembly
-VV_text
+VV_TEXT
 Attached Assembly
-VV_text
+VV_TEXT
 Non Structures (Players/Decoys/Mechanicals)
-Humanoid
+VV_TEXT
 Structures
-Structures
+VV_TEXT
 The match closed, will need to rejoin queue.
 Match Closed
 Match Map Games
-Match Map Game
+VV_TEXT
 Damage Class
-VV_text
+VV_TEXT
 @@player_name@@ is already a member of your party.
 Team already a member
 @@player_name@@ is a member of another party.
@@ -139296,9 +140383,9 @@ Invalid player name
 You cannot invite yourself to a party.
 Team no self invite
 Remove Effect
-Remove Effect
+VV_TEXT
 Friend
-Friend_Only
+VV_TEXT
 Steam Authentication Failed.
 STEAM_AUTH_FAILED
 @@player_name@@ entered the party into a match queue.
@@ -139374,7 +140461,7 @@ Match team missing member
 Unable to queue your party.  @@player_name@@ is currently in queue.
 Match team member is queued
 Appearance
-VV_text
+VV_TEXT
 You are not in a party.
 Team not in one
 @@text_value@@
@@ -139386,9 +140473,9 @@ VV_text
 Distance From Nearest Human Enemy (# ft) 
 VV_text
 Production
-Production
+VV_TEXT
 Playtest
-Playtest
+VV_TEXT
 Distance To Enemy Medic, Non-LOS (# ft)
 VV_text
 Distance From Nearest Assault Friend (# ft)
@@ -139406,9 +140493,9 @@ VV_text
 Target Is Highest Recent Threat (0/1)
 VV_text
 Purchase
-Purchase
+VV_TEXT
 Reward
-Reward
+VV_TEXT
 That name is already in use.
 CLAN_DUPLICATE_NAME
 Failed; you are already a member of a clan.
@@ -139418,29 +140505,29 @@ Misc Unknown
 Unable to leave. As leader, you must transfer leadership before leaving or disband.
 CLAN_OWNER_NO_LEAVE
 ES16 (Right Click Ability; Alt Fire)
-SLOT_16
+VV_TEXT
 ES17 (Spray)
-SLOT_17
+VV_TEXT
 ES18 (Supporting Device)
-SLOT_18
+VV_TEXT
 ES19 (Card Slot 2)
-SLOT_19
+VV_TEXT
 ES20 (Card Slot 3)
-SLOT_20
+VV_TEXT
 ES21 (Card Slot 4)
-SLOT_21
+VV_TEXT
 ES22 (Card Slot 5)
-SLOT_22
+VV_TEXT
 ES23 (Mount)
-SLOT_23
+VV_TEXT
 ES24 (Combo)
-SLOT_24
+VV_TEXT
 Your account has been banned.
 Banned Indefinitely
 Created
-Create
+VV_TEXT
 Invited
-Invite
+VV_TEXT
 You have created the clan '@@clan_name@@'.
 CLAN_CREATED
 @@player_name@@ has been promoted to @@rank_name@@.
@@ -139455,13 +140542,13 @@ Your clan has been disbanded.
 CLAN_DISBANDED
 You are not authorized to send on this channel.
 Chat send not allowed
-VV_text
+VV_TEXT
 Your party is too small to join this queue.
 Match Team too small
 You cannot join this queue unless you are a member of a team.
 Match must have team
 Scale By Radius Squared
-VV_text
+VV_TEXT
 You declined a party invite from @@player_name@@.
 Team You Declined
 Set Phase 0
@@ -139488,9 +140575,9 @@ Distance To Enemy Robotics, Non-LOS (# ft)
 VV_text
 Time Since Acquired Target (#)
 VV_text
-VV_text
+VV_TEXT
 Armor
-Enhancement
+VV_TEXT
 Global
 CC Global
 Instance
@@ -139525,7 +140612,7 @@ VV_text
 Use Device (Lagged)
 VV_text
 Component
-Component
+VV_TEXT
 Use Device (Spread)
 VV_text
 Ignore Alarm
@@ -139557,7 +140644,7 @@ VV_text
 Highest Threat In LOS (0/1)
 VV_text
 Receipt
-Receipt
+VV_TEXT
 Time Since Hit Target (#)
 VV_text
 Your prior mission was closed.
@@ -139567,7 +140654,7 @@ VV_text
 Time Since Hit Enemy (#)
 VV_text
 Binds When Acquired
-VV_text
+VV_TEXT
 Number Of Human Friends (#)
 VV_text
 Combat
@@ -139588,7 +140675,7 @@ VV_text
 Requested player was not found or is offline.
 player not found
 Sell
-Sell
+VV_TEXT
 The promotion code is expired or not activated yet.
 PROMOTION_EXPIRED
 The promotion code is claimed already.
@@ -139602,7 +140689,7 @@ Team none to merge
 There is not enough room to merge your teams.
 Team Merge no room
 GM Given
-GM Given
+VV_TEXT
 Can't delete rank @@name@@ while it is in use
 RANK_IN_USE
 Invalid clan name. Names must be 4-15 characters in length.
@@ -139616,7 +140703,7 @@ CLAN_USER_MOTD_PREPEND
 Press ENTER to access chat.
 INGAME_LOGIN_WELCOME
 Self
-VV_text
+VV_TEXT
 CC_GM
 @@player_name@@ has come online.
 LISTED_PLAYER_ONLINE
@@ -139629,7 +140716,7 @@ CHAT_SUPPRESSED_MINUTES
 chat suppressed for @@remaining_seconds@@ seconds : @@text_value@@
 CHAT_SUPPRESSED_SECONDS
 Repair Kit
-Repair Kit
+VV_TEXT
 @@PLAYER_NAME@@ is already your friend.
 CHAT_MSG_FRIEND_ALREADY
 @@PLAYER_NAME@@ is already being ignored.
@@ -139659,7 +140746,7 @@ VV_text
 Owner Has Target (0/1)
 VV_text
 Consumable
-Consumable
+VV_TEXT
 Unable to queue your team. @@player_name@@ does not have access to this feature.
 UI_TEAM_MEMBER_NO_ACCESS
 Trade
@@ -139677,11 +140764,11 @@ CLAN_MAX_MEMBERS
 Is Target In Volume (0/1)
 VV_text
 Armor Mod
-VV_text
+VV_TEXT
 Teleport To Spawn
-Teleport To Spawn
+VV_TEXT
 Given By System
-SYS_GIVEN
+VV_TEXT
 Virtual
 VV_text
 Objective Bot Is Friendly (0/1)
@@ -139691,7 +140778,7 @@ F2P_PUBLIC_CHAT_LIMIT
 You must be a subscriber to access this feature.
 UI_Subscriber_Required
 Sub Loot Table
-SUB TABLE
+VV_TEXT
 Enemy Deployable In LOS (0/1)
 VV_text
 Distance From Nearest Enemy Deployable (# ft)
@@ -139703,27 +140790,27 @@ VV_text
 Time Since Left Combat (#) 
 VV_text
 Time Since Last Event (#)
-VV_text
+VV_TEXT
 Last Event Number (#)
 VV_text
 Time Since Spawned (#)
 VV_text
 Closest Enemy Objective
-VV_text
+VV_TEXT
 Has Friendly Objective (0/1)
 VV_text
 Has Friendly Objective Bot (0/1)
 VV_text
 Has Enemy Objective (0/1)
-VV_text
+VV_TEXT
 Has Enemy Objective Bot (0/1)
-VV_text
+VV_TEXT
 Account Upgrade
-ACCOUNT_UPGRADE
+VV_TEXT
 An error occurred with this promotion.
 PROMOTION_ERROR
 Sub-Behavior
-VV_text
+VV_TEXT
 You have a party member who is not sufficiently experienced (@@player_name@@) so you cannot join this queue.
 MATCH_TEAM_MEMBER_LEVEL_TOO_LOW
 Spawn Pets
@@ -139736,9 +140823,9 @@ Your account is suspended for @@hours@@ hour(s) and @@minutes@@ minute(s)
 SUSPENDED_CANT_LOGIN
 Your chat session with @@PLAYER_NAME@@ has not started yet or has been ended.
 CHAT_MSG_IGNORED_BY_GM
-Vanity Pet
+VV_TEXT
 All Profile Types
-VV_text
+VV_TEXT
 Target Is Owner
 VV_text
 Target Has Vortex (0/1)
@@ -139753,10 +140840,10 @@ I am on fire (0/1)
 VV_text
 I am debuffed (generic) (0/1)
 VV_text
-Message from HiRez GM:
-FROM_HIREZ_GM
+Message from GM:
+Message from GM
 Map Assets
-VV_text
+VV_TEXT
 Normal
 VV_text
 Clip Pacing Only
@@ -139766,25 +140853,25 @@ VV_text
 I Am Taunter (0/1)
 VV_text
 Chest Key
-Treasure Roll Key
+VV_TEXT
 Essence
-Credits
+VV_TEXT
 Gold
-Tokens
+VV_TEXT
 Crystals
-HZ Points
+VV_TEXT
 VV_text
 VV_text
 VV_text
 VV_text
 Jetpack Trail
-Skin Contrail
+VV_TEXT
 Container
-Container
+VV_TEXT
 Promotion
-Promotion
+VV_TEXT
 Smite Normal
-LOBBYCLASS_PVP
+VV_TEXT
 Apply Self
 VV_text
 You need to select a class.
@@ -139794,141 +140881,143 @@ LOBBY_CHAR_LOCKED_ID
 Character not available.
 LOBBY_CHAR_NOT_AVAILABLE
 Ground Target Deployable
-Ground Target Deployable
+VV_TEXT
 Mana
 VV_text
 Energy
 VV_text
 Instant Line Attack
-Instant Line
+VV_TEXT
 VV_text
 Class Portrait Textures
-VV_text
+VV_TEXT
 Class Card Textures
-VV_text
+VV_TEXT
 Class Icon Textures
-VV_text
+VV_TEXT
 GenericFire1
-GenericFire1
+VV_TEXT
 Test
-Arena
+VV_TEXT
 Friend / Enemy
+VV_TEXT
 Fired (Per Shot)
-Fired Per Shot
+VV_TEXT
 Ground Target
-Ground Target
+VV_TEXT
 Players
-Gods
+VV_TEXT
 Mechanicals
-Minions
+VV_TEXT
 Hit Special (Managed)
-Hit Special Managed
+VV_TEXT
 Camera Shake
-VV_text
+VV_TEXT
 Passive Abilities
-PASSIVE_ABILITIES
+VV_TEXT
 Slot 1
-VV_text
+VV_TEXT
 Slot 2
-VV_text
+VV_TEXT
 Slot 3
-VV_text
+VV_TEXT
 Slot 4
-VV_text
+VV_TEXT
 Slot 5
-VV_text
+VV_TEXT
 Slot 6
-VV_text
+VV_TEXT
 Slow
-Slow
+VV_TEXT
 Stun
-Stun
+VV_TEXT
 Root
-Root
+VV_TEXT
 Fear
-Fear
+VV_TEXT
 Knockback
-Knockback
+VV_TEXT
 Silence
-Silence
+VV_TEXT
 33% Lifesteal
-VV_text
+VV_TEXT
 100% Lifesteal
-VV_text
+VV_TEXT
 Magical
-Magical
+VV_TEXT
 Anubis Death Gaze
-VV_text
+VV_TEXT
 Hit Aura (Managed)
-Hit Aura
+VV_TEXT
 Mission
-Mission
+VV_TEXT
 Dead
-Dead
+VV_TEXT
 Map NPCs
-VV_text
+VV_TEXT
 At Spawn Location (0/1)
-VV_text
+VV_TEXT
 Player @@player_name@@ has logged off
 Player Logged off
 Creep Buffs
-VV_text
+VV_TEXT
 Map Rotation
-ROTATION
+VV_TEXT
 Random
-Random
+VV_TEXT
 Linear
-Linear
+VV_TEXT
 Linear 2 Repeat
-Linear2
+VV_TEXT
 Linear 4 Repeat
-Linear4
+VV_TEXT
 Class Symbol Textures
-VV_text
+VV_TEXT
 Norse
-Norse
+VV_TEXT
 Hindu
-Hindu
+VV_TEXT
 Monster
-Monster
+VV_TEXT
 Spawn Orientation
-VV_text
+VV_TEXT
 Greek
-Greek
+VV_TEXT
 Chinese
-Chinese
+VV_TEXT
 Egyptian
-Egyptian
+VV_TEXT
 Is In-Hand Ready (0/1)
-VV_text
+VV_TEXT
 Is Offhand 2 Ready (0/1)
-VV_text
+VV_TEXT
 Is Offhand 2 In Range (0/1)
-VV_text
+VV_TEXT
 Party
 CC_PARTY
 Consumables
-Consumable
+VV_TEXT
 Local
-Local
+VV_TEXT
 Owner
-VV_text
+VV_TEXT
 INACTIVE
-INACTIVE
+VV_TEXT
 PENDING
-PENDING
+VV_TEXT
 Inventory Class
-VV_text
+VV_TEXT
 The servers are currently under maintenance.
 Game undergoing maintenance
 Minion
-Minion
+VV_TEXT
 Guardian
-Guardian
+VV_TEXT
 Phoenix
-Phoenix
+VV_TEXT
+VV_TEXT
 Tower
-Tower
+VV_TEXT
 You already have a pending friend invite to @@player_name@@
 CHAT_MSG_FRIEND_ALREADY_INVITED
 You have a pending friend request from @@player_name@@.
@@ -139936,36 +141025,36 @@ CHAT_MSG_FRIEND_PENDING_INVITE
 Request is not allowed for this player
 CHAT_MSG_NO_SOCIAL
 Highest Value
-Highest Value
+VV_TEXT
 In Hand
-In Hand
+VV_TEXT
 Sorry, that name cannot be used.
 CREATE_NAME_RESULT_UNACCEPTABLE
 That name is unavailable.
 CREATE_NAME_RESULT_UNAVAILABLE
 Friendly
-VV_text
+VV_TEXT
 Enemy
-VV_text
+VV_TEXT
 You must accept the EULA before you can continue.
 MUST_ACCEPT_EULA
 You are @@active_position@@ queue to get in
 WAIT_LOGIN_QUEUE
 White
-White
+VV_TEXT
 Black
-Black
+VV_TEXT
 Reserved
-Reserved
-Purchase
+VV_TEXT
+VV_TEXT
 Rent
-Rented
+VV_TEXT
 Trial
-Trial
+VV_TEXT
 Free
-Free
+VV_TEXT
 Character Class
-Character Class
+VV_TEXT
 Shopping is not available at this time
 Shop not available
 There was a problem with your purchase request
@@ -139975,97 +141064,98 @@ Shop price change
 You do not have enough funds to complete the transaction.
 Shop short funds
 Buff Monster
-Buff Monster
+VV_TEXT
 One or more parameters were invalid
 Invalid parameter
 Is Offhand 3 Ready (0/1)
-VV_text
+VV_TEXT
 Is Offhand 3 In Range (0/1)
-VV_text
+VV_TEXT
 The other player is not in a match
 Match Other not in match
 Refund
-Refund
+VV_TEXT
 Return
-Return
+VV_TEXT
 Self / Friend
-Friend
+VV_TEXT
 Skills
-Skill
+VV_TEXT
 Perks
-VV_text
+VV_TEXT
 Skin
-Skin
+VV_TEXT
 Mission Time Elapsed (#)
-VV_text
+VV_TEXT
 Requested vendor not found
 Loot vendor not found
+VV_TEXT
 Selector
-VV_text
+VV_TEXT
 Sequence
-VV_text
+VV_TEXT
 In game
-In game
+VV_TEXT
 Web Store
-Web Site
+VV_TEXT
 Global
-Global
+VV_TEXT
 Team
-Team
+VV_TEXT
 Begin Transaction
-Init
+VV_TEXT
 Transaction Committed
-Committed
+VV_TEXT
 Fill Order
-Fill Order
+VV_TEXT
 Fulfilled order
-Filled Order
+VV_TEXT
 Failure
-Error
+VV_TEXT
 Currency
-Currency
+VV_TEXT
 Add Item
-Add Item
+VV_TEXT
 Boost
-Boost
+VV_TEXT
 Paid Player Status
-VIP Status
+VV_TEXT
 Ground Target Projectile
-Ground Target Projectile
+VV_TEXT
 String
-STRING
+VV_TEXT
 Non-Purchased
-No Sale
+VV_TEXT
 Morph Set
-VV_text
+VV_TEXT
 Refresh
-Refresh
+VV_TEXT
 Challenges
 VV_TEXT
 Support
-Support
+VV_TEXT
 Player report received.
 REPORT_PLAYER_RECEIVED
 Neutral Boss
-Neutral Boss
+VV_TEXT
 @@PLAYER_NAME@@ has left the match lobby.
 ALERT_PLAYER_LEFT_MATCH
 Transfer
-Transfer
+VV_TEXT
 Float8
-FLOAT8
+VV_TEXT
 Character
-Character
+VV_TEXT
 Player
-Player
+VV_TEXT
 Map Game
-Map Game
+VV_TEXT
 Match Queue
-Queue
+VV_TEXT
 Passive Abilities (Removed 1-12-12)
-VV_text
+VV_TEXT
 PromotionCode
-PromoCode
+VV_TEXT
 This promotion is not available.
 PROMOTION_NOT_AVAILABLE
 The code entered is not a valid promotion code.
@@ -140073,71 +141163,71 @@ PROMOTION_INVALID
 @@PLAYER_NAME@@ did not make a selection.
 ALERT_PLAYER_DID_NOT_SELECT_GOD
 Map Files
-VV_text
+VV_TEXT
 Introduction
-Introduction
+VV_TEXT
 Cannot connect to server. Please wait and try again shortly.
 Game not available for login
 Name Change
-Name Change
+VV_TEXT
 Loading Map
-Loading Map
+VV_TEXT
 Loading Map Done - Success
-Loading Success
+VV_TEXT
 Loading Map Done - Failure
-Loading Failure
+VV_TEXT
 Not Cooked
-DevOnly
+VV_TEXT
 Below Windows XP
-Windows Old
+VV_TEXT
 Windows XP 
-Win XP
+VV_TEXT
 Windows Vista
-Win Vista
+VV_TEXT
 Windows 7
-Win 7
+VV_TEXT
 Windows 8
-VV_text
+VV_TEXT
 Tier
-Tier
+VV_TEXT
 Progress Tracking
-VV_text
+VV_TEXT
 Stat
-Stat
+VV_TEXT
 Challenge
-Custom
+VV_TEXT
 Challenges Only
-Challenge Only
+VV_TEXT
 Activity
+VV_TEXT
 Activity
+VV_TEXT
 Activity
-Activity
-Activity
-Activity
+VV_TEXT
 In Game
-VV_text
+VV_TEXT
 Player - Out Of Game
-VV_text
+VV_TEXT
 Champion Mastery
-VV_text
+VV_TEXT
 Setting
-Setting
+VV_TEXT
 Activity Trigger Type
-ACTIVITY_TRIGGER
+VV_TEXT
 Behavior Location
-VV_text
+VV_TEXT
 Behavior Actor
-VV_text
+VV_TEXT
 This match queue is not available, please try back later.
 QUEUE_CLOSED
 Smite PvE
-LOBBYCLASS_PVE
+VV_TEXT
 Smite Demo
-VV_text
+VV_TEXT
 Price
-Price
+VV_TEXT
 Acquisition
-Acquisition
+VV_TEXT
 You are not allowed to join or team for request queue
 Match not allowed
 Incorrect password
@@ -140145,84 +141235,85 @@ Incorrect Password
 You level is not valid for this server
 Incorrect Level
 Ground Target Bot
-Ground Target Bot
+VV_TEXT
 Loadouts
 VV_TEXT
 Offering - Statue
-VV_text
+VV_TEXT
 Offering - Idol
-VV_text
+VV_TEXT
 Offering - Relic
-VV_text
+VV_TEXT
 Offering - Oil
-VV_text
+VV_TEXT
 Offering - Incense
-VV_text
+VV_TEXT
 Offering - Tablet
-VV_text
+VV_TEXT
 Common
-Common
+VV_TEXT
 Offering Pages
-VV_text
+VV_TEXT
 Offering
-Offering
+VV_TEXT
 You are suspended for match griefing for @@hours@@ hour(s) and @@minutes@@ minute(s)
 SUSPENDED_GAME
 Harassment
-Harassment
+VV_TEXT
 Teaming
-Teaming
+VV_TEXT
 Intentional Feeding
-Intentional Feeding
+VV_TEXT
 Stream Sniping
-Stream Sniping
+VV_TEXT
 Leaving the Game (AFK)
+VV_TEXT
 No Action
-No Action
+VV_TEXT
 Other
-Other
+VV_TEXT
 Hirez
-Misc
+VV_TEXT
 Twitch
-Twitch
+VV_TEXT
 Training
-God Guides
+VV_TEXT
 Community
-Community
+VV_TEXT
 Disarm
-Disarm
+VV_TEXT
 Familiar
-Familiar
+VV_TEXT
 Match stub created
-Match stub created
+VV_TEXT
 Match stub closed
-Match stub closed
+VV_TEXT
 Match stub change
-Match stub change
+VV_TEXT
 Match deserter
-Match deserter
+VV_TEXT
 Match friend
-Match friend
+VV_TEXT
 Player spawned
-Player spawned
+VV_TEXT
 Player directed to map
-Player Directed
+VV_TEXT
 Player Version Update
-Player Version Update
+VV_TEXT
 Class Bundle
-Class Bundle
+VV_TEXT
 @@PLAYER_NAME@@ does not accept whispers.
 CHAT_MSG_IGNORED_BY_PLAYER
 Roman
-Roman
+VV_TEXT
 Both tier and site
-VV_text
+VV_TEXT
 Site only
-VV_text
+VV_TEXT
 Tier only
-VV_text
+VV_TEXT
 Challenge
-VV_text
+VV_TEXT
 The challenge name [@@CHALLENGE_NAME@@] is already in use
 QUEUE_CHALLENGE_NAME_EXISTS
 The challenge name [@@CHALLENGE_NAME@@] was not found
@@ -140232,71 +141323,71 @@ QUEUE_CHALLENGE_CREATED
 The queue is not open at this time
 Match Queue Closed
 Website
-Website
+VV_TEXT
 Refund
-Refund
+VV_TEXT
 A refund was issued for @@change_amt@@
 Shop refund issued
 VIP Points
-VIP Points
+VV_TEXT
 Smite Joust
-VV_text
+VV_TEXT
 Pre-Hit Delay
-Pre Hit Delay
+VV_TEXT
 Post-Hit Delay
-Post Hit Delay
+VV_TEXT
 Media Status
-Media Status
+VV_TEXT
 Player URL
-Player URL
+VV_TEXT
 Joined
-Join
+VV_TEXT
 Left
-Leave
+VV_TEXT
 Kicked
-Kick
+VV_TEXT
 Promoted
-Promote
+VV_TEXT
 Demoted
-Demote
+VV_TEXT
 Disbanded
-Disband
+VV_TEXT
 Set MotD
-MOTD
+VV_TEXT
 Set Description
-INFO
+VV_TEXT
 Updated Recruiting
-Recruiting
+VV_TEXT
 Changed Leader
-Changed Leader
+VV_TEXT
 Updated Public Comment
-Public Comment
+VV_TEXT
 Updated Officer Comment
-Officer Comment
+VV_TEXT
 Rejected Invitation
-Declined Invite
+VV_TEXT
 Applied to
-Applied to
+VV_TEXT
 Updated Ranks
-Updated Ranks
+VV_TEXT
 Updated Tax
-Updated Tax
+VV_TEXT
 Updated Region
-Updated Region
+VV_TEXT
 Invite Sent
-Invite Sent
+VV_TEXT
 Invite Pending
-Invite Pending
+VV_TEXT
 Invite Rejected
-Invite Rejected
+VV_TEXT
 Invite Failed - Already in an Agency
-Already In A Clan
+VV_TEXT
 System
-System
+VV_TEXT
 Retention Tracking
-VV_text
+VV_TEXT
 Behavior Tree
-VV_text
+VV_TEXT
 Offline 1 minute
 OFFLINE_MINUTE
 Offline @@COUNT@@ minutes
@@ -140330,92 +141421,98 @@ STATUS_DISCONNECTED
 You may not remove someone at or above your rank.
 CLAN_NO_REMOVE_RANK
 Logged In
-Logged In
+VV_TEXT
 Logged Out
-Logged Out
+VV_TEXT
 Practice
-VV_text
+VV_TEXT
 Normal
-VV_text
+VV_TEXT
 Custom
-VV_text
+VV_TEXT
 Smite Draft
-VV_text
+VV_TEXT
 Fixed
-Fixed
+VV_TEXT
 Fixed Player
-Fixed Player
+VV_TEXT
 Monthly
-VV_text
+VV_TEXT
 Player died
-VV_text
+VV_TEXT
 Tutorial- Intro sequence finished
-VV_text
+VV_TEXT
 Tutorial- Movement sequence finished
-VV_text
+VV_TEXT
 Tutorial- Basic Abilities sequence finished
-VV_text
+VV_TEXT
 Tutorial- Player leveled an ability
-VV_text
+VV_TEXT
 Tutorial- Special Abilities sequence finished
-VV_text
+VV_TEXT
 Tutorial- Tower sequence finished
-VV_text
+VV_TEXT
 Tutorial- Shop sequence finished
-VV_text
+VV_TEXT
 Tutorial- Phoenix sequence finished
-VV_text
+VV_TEXT
 Tutorial- Minotaur sequence finished
-VV_text
+VV_TEXT
 Buffs
-VV_text
+VV_TEXT
 You have pending friend requests.
 CHAT_MSG_FRIEND_PENDING_INVITES
-UI_HINT_NEW
+VV_TEXT
 Reduced
-UI_HINT_REDUCED
+VV_TEXT
 On Sale
-UI_HINT_SALE
+VV_TEXT
 Mayan
-Mayan
+VV_TEXT
 Changed Tag Name
-Changed Tag
+VV_TEXT
 Changed Clan Name
-CHANGED NAME
+VV_TEXT
 Invalid tag.  Tags must be 0-5 alphanumeric characters in length.
 CLAN_INVALID_TAG
 Invalid name. Names must begin and end with a letter and otherwise be letters or single spaces.
 CLAN_INVALID_NAME_COMPOSITION
 Paladins Flanker
-Paladins Flanker
+VV_TEXT
 Paladins Front Line
-Paladins Front Line
+VV_TEXT
 Guardian
-Guardian
+VV_TEXT
 Mage
-Mage
+VV_TEXT
 [TAG] PlayerName
+VV_TEXT
 <TAG> PlayerName
+VV_TEXT
 PlayerName [TAG]
+VV_TEXT
 PlayerName <TAG>
+VV_TEXT
 PlayerName.TAG
+VV_TEXT
 Core Stats
-Core Stats
+VV_TEXT
 You have joined the clan '@@CLAN_NAME@@'.
 CLAN_YOU_JOINED
 Item Power (Add)
-Item Power
+VV_TEXT
 Total Power (Add)
-Total Power
+VV_TEXT
 You are no longer a member of @@CLAN_NAME@@.
 CLAN_YOU_LEFT
 The clan's Tag is now "@@MESSAGE@@".
 CLAN_TAG_UPDATED
 Changed Tag Format
-Changed Tag Format
+VV_TEXT
 You may change your Tag format only once per hour.
 CLAN_TAG_FORMAT_CHANGE_SOON
 TAG.PlayerName
+VV_TEXT
 @@PLAYER_NAME@@ is DND: Do Not Disturb.
 PLAYER_IS_DND
 STATUS_DND
@@ -140424,21 +141521,21 @@ UPDATED_DND_ON
 You are no longer DND.
 UPDATED_DND_OFF
 Invitation Expired
-Invitation Expired
+VV_TEXT
 Player Rejected Invitation
-PLAYER_DECLINES_INVITATION
+VV_TEXT
 Player Accepted Invitation
-Player Accepts Invitation
+VV_TEXT
 Clan Invited Player
-CLAN_INVITES_PLAYER
+VV_TEXT
 Player Cancels Application
-PLAYER_CANCELS_APPLICATION
+VV_TEXT
 There is an existing invitation sent to @@player_name@@.
 CLAN_INVITE_ALREADY_ACTIVE
 Realtime
-Realtime
+VV_TEXT
 Offline
-Offline
+VV_TEXT
 Unable to invite player.  Your current clan size (@@MEMBER_COUNT@@) plus the number of player invitations your clan has pending (@@PLAYER_COUNT@@) equals or exceeds the maximum clan size (@@count@@).
 CLAN_MAX_MEMBERS_INCLUDING_INVITES
 <squelch>
@@ -140446,15 +141543,15 @@ SPECTATOR_COMMAND
 You have pending clan invitations.
 CHAT_MSG_CLAN_PENDING_INVITES
 Clan Cancels Invitation
-CLAN_CANCELS_INVITATION
+VV_TEXT
 You must be a member of a clan
 Clan must be member
 Cancel Invite
-Cancel Invite
+VV_TEXT
 Clan invitation canceled.
 CLAN_CANCEL_INVITE
 Leagues
-VV_text
+VV_TEXT
 @@CLAN_NAME@@ created.
 CLAN_INITIAL_MOTD
 You are unable to create a clan for the next @@LOCKOUT_MINUTES@@ minutes.
@@ -140462,134 +141559,134 @@ CLAN_YOU_LOCKED_OUT
 Invitation failed: @@PLAYER_NAME@@ is currently unable to join a clan.
 CLAN_OTHER_LOCKED_OUT
 FinalBlow
-FinalBlow
+VV_TEXT
 A GM has changed your clan name.
 CLAN_GM_ACTION_NAMECHANGE
 A GM has changed your clan tag.
 CLAN_GM_ACTION_TAGCHANGE
 Streaming Status
-Streaming Status
+VV_TEXT
 Refund
-Refund
+VV_TEXT
 Core Settings
-Core Settings
+VV_TEXT
 Movement
-VV_text
+VV_TEXT
 Apply Enamored
-VV_text
+VV_TEXT
 Cripple
-Cripple
+VV_TEXT
 Not Self
-Not Self
+VV_TEXT
 Match Lobby
-VV_text
+VV_TEXT
 Victory
-VV_text
+VV_TEXT
 Defeat
-VV_text
+VV_TEXT
 Your account is currently in use
 Account in use
 Roles
-VV_text
+VV_TEXT
 Pros
-VV_text
+VV_TEXT
 Cons
-VV_text
+VV_TEXT
 High Area Damage
-High Area Damage
+VV_TEXT
 Low Defense
-Low Defense
+VV_TEXT
 Type
-VV_text
+VV_TEXT
 Damage
-VV_text
+VV_TEXT
 Melee
-Melee
+VV_TEXT
 Paladins Damage
-Paladins Damage
+VV_TEXT
 Physical
-Physical
+VV_TEXT
 Magical
-Magical
+VV_TEXT
 Hunter
-Hunter
+VV_TEXT
 High Single Target Damage
-High Single Target Damage
+VV_TEXT
 High Crowd Control
-High Crowd Control
+VV_TEXT
 High Defense
-High Defense
+VV_TEXT
 Low Crowd Control
-Low Crowd Control
+VV_TEXT
 Low Damage
-Low Damage
+VV_TEXT
 High Sustain
-High Sustain
+VV_TEXT
 Pusher
-Pusher
+VV_TEXT
 Great Jungler
-Great Jungler
+VV_TEXT
 Medium Single Target Damage
-Medium Single Target Damage
+VV_TEXT
 Medium Crowd Control
-Medium Crowd Control
+VV_TEXT
 Medium Area Damage
-Medium Area Damage
+VV_TEXT
 Team Create
-Create
+VV_TEXT
 Team Close
-Close
+VV_TEXT
 Team add member
-Add Member
+VV_TEXT
 Team del member
-Del Member
+VV_TEXT
 Team kick member
-Kick Member
+VV_TEXT
 Team set leader
-Set Leader
+VV_TEXT
 Gold Skin
-Gold Skin
+VV_TEXT
 Base Power (Add)
-Base Power
+VV_TEXT
 Offline
-Offline
+VV_TEXT
 High Mobility
-High Mobility
-VV_text
+VV_TEXT
+VV_TEXT
 Loading
-VV_text
+VV_TEXT
 Ground Target Teleport
-Ground Target Teleport
+VV_TEXT
 Voice Pack
-Voice Pack
+VV_TEXT
 Package Names
-VV_text
+VV_TEXT
 Rewards
-Rewards
+VV_TEXT
 Internal URL
-Internal URL
+VV_TEXT
 Champion - Out Of Game
-VV_text
+VV_TEXT
 Hide If Not Owned
-UI_HINT_HIDE_IF_NOT_OWNED
+VV_TEXT
 Stun Taunt
-Stun Taunt
+VV_TEXT
 @@PLAYER_NAME@@ accepted your friend invite.
 FRIEND_INVITE_ACCEPTED
 @@PLAYER_NAME@@ declined your friend invite.
 FRIEND_INVITE_DECLINED
 Map Teleport
-Map Teleport
+VV_TEXT
 Legendary Skin
-Legendary Skin
+VV_TEXT
 Attached Deployable
-Attached Deployable
+VV_TEXT
 Absolute Scale
-VV_text
+VV_TEXT
 Deployable
-Deployable
+VV_TEXT
 Decoy
-Decoy
+VV_TEXT
 Portal user id was not found
 ADMIN_PU_NOT_FOUND
 User account was not found
@@ -140605,7 +141702,7 @@ team ended
 Player @@player_id@@ has been game banned for @@minutes@@ minutes
 Admin Game ban
 Hit Special (Instant)
-Hit Special Instant
+VV_TEXT
 Account id not provided
 Admin missing account id
 Unknown admin command @@admin_request@@
@@ -140651,18 +141748,18 @@ AAS_WARNING_HOUR_FIVE
 #WARN#You have been playing for too long, there will be no reward for you from playing the game,  please disconnect immediately. You have to be offline for more than 5 hours for the game reward to go back normal.
 AAS_WARNING_HOUR_FIVEPLUS
 Health
-VV_text
+VV_TEXT
 Your god selection is not the correct level.
 LOBBY_CHAR_NOT_CORRECT_LEVEL
 Generic 1
-Generic 1
+VV_TEXT
 Generic 2
-Generic 2
+VV_TEXT
 Promo Skin
-VV_text
+VV_TEXT
 Completed
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
 You may message only friends while you are "Do Not Disturb".
 CHAT_MSG_NO_NONFRIENDS_WHILE_DND
 Invalid clan name. Names must be 2-10 characters in length.
@@ -140672,7 +141769,7 @@ CREATE_NAME_INVALID_LENGTH
 Invalid name. Names must be 2-10 characters in length.
 CREATE_NAME_INVALID_LENGTH_TENCENT
 Linux
-Linux
+VV_TEXT
 Error: You are not a member of that channel.
 UI_NOT_CHANNEL_MEMBER
 Spectating @@player_name@@'s current match.
@@ -140690,102 +141787,102 @@ SPECTATOR_MATCH_QUEUED
 Unqueued from spectating.
 SPECTATOR_UNQUEUED
 High Movement Speed
-High Movement Speed
+VV_TEXT
 High Attack Speed
-High Attack Speed
+VV_TEXT
 Translated
-VV_text
+VV_TEXT
 Proofed
-VV_text
+VV_TEXT
 Do Not Translate
-VV_text
+VV_TEXT
 Difficulty
-VV_text
+VV_TEXT
 Very Hard
-Very Hard
+VV_TEXT
 Hard
-Hard
+VV_TEXT
 Average
-Average
+VV_TEXT
 Easy
-Easy
+VV_TEXT
 Very Easy
-Very Easy
+VV_TEXT
 Reviewed
-Reviewed
+VV_TEXT
 Warned
-VV_text
+VV_TEXT
 @@player_name@@ has left the queue.
 MATCH_PLAYER_LEFT_QUEUE
 The party has been disbanded.
 TEAM_DISBANDED
 Hud Popup
-VV_text
+VV_TEXT
 Shoutcaster
-Shoutcaster
+VV_TEXT
 Tournament(3rd Party)
-Esports
+VV_TEXT
 Co-Op
-VV_text
+VV_TEXT
 Goodwill
-Goodwill
+VV_TEXT
 Tencent
-VV_text
+VV_TEXT
 Avatars
-Avatar
+VV_TEXT
 Duplicate request
 Admin duplicate
 Tier 1
-VV_text
+VV_TEXT
 Tier 2
-VV_text
+VV_TEXT
 Tier 3
-VV_text
+VV_TEXT
 Has Healing
-Has Healing
+VV_TEXT
 Internal
-VV_text
+VV_TEXT
 Achievement
-Achievement Avatar
+VV_TEXT
 Promotional
-Promo Avatar
+VV_TEXT
 Iconic
-VV_text
+VV_TEXT
 Nostalgia
-Nostalgia Avatar
+VV_TEXT
 Jungle
-VV_text
+VV_TEXT
 Support
-VV_text
+VV_TEXT
 Solo
-VV_text
+VV_TEXT
 Standard
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
 Starter
-VV_text
+VV_TEXT
 Core
-VV_text
+VV_TEXT
 Defensive
-VV_text
+VV_TEXT
 Damage
-VV_text
+VV_TEXT
 Lost connection to login and chat servers.  You can finish your current match before needing to log in again.
 NETWORK_STATUS_DISCONNECTED_FROM_CORE
 Consumable
-VV_text
+VV_TEXT
 You cannot join the queue yet, waiting for match to end
 Match waiting
 The member in your party (@@player_name@@) is not able to queue at this time
 Match waiting in team
 Active
-VV_text
+VV_TEXT
 Arena
-VV_text
+VV_TEXT
 Assault
-VV_text
+VV_TEXT
 Tutorial
-VV_text
+VV_TEXT
 Your chat message was over the size limit.
 CHAT_ERROR_TOO_LONG
 Your chat message had too many character repeats.
@@ -140793,77 +141890,77 @@ CHAT_ERROR_CHAR_REPEAT
 Your chat message had big words.
 CHAT_ERROR_WORD_LENGTH
 Elite Minion
-Elite Minion
+VV_TEXT
 Exclusive Skin
-VV_text
+VV_TEXT
 LFG (EU)
 CC_LFG_2
 Master
-Master
+VV_TEXT
 Diamond
-Diamond
+VV_TEXT
 Platinum
-Platinum
+VV_TEXT
 Gold
-Gold
+VV_TEXT
 Silver
-Silver
+VV_TEXT
 Bronze
-Bronze
+VV_TEXT
 Random Character Class
-Random Character Class
+VV_TEXT
 Invalid tag, unacceptable.
 CLAN_INVALID_TAG_UNACCEPTABLE
 @@player_name@@ accepted your clan invitation.
 CLAN_PLAYER_ACCEPTED_INVITE
 Self / Enemy
-Enemy_And_Self
+VV_TEXT
 Missing or wrong authentication
 Admin Bad Authentication
 Ward Skins
-Ward Skin
+VV_TEXT
 Champion
-VV_text
+VV_TEXT
 Default
-VV_text
+VV_TEXT
 Skin
-VV_text
+VV_TEXT
 Device Form Class
-VV_text
+VV_TEXT
 PaladinsWeapons
-VV_text
+VV_TEXT
 Basic Attack
-VV_text
+VV_TEXT
 PaladinsCharacter
-VV_text
+VV_TEXT
 Test Device
-VV_text
+VV_TEXT
 PaladinsProjectiles
-VV_text
+VV_TEXT
 PaladinsDeployables
-VV_text
+VV_TEXT
 Paladins
-VV_text
+VV_TEXT
 Chaos Sniper
-VV_text
+VV_TEXT
 Chaos Medic Class
-VV_text
+VV_TEXT
 Chaos Assault Class
-VV_text
+VV_TEXT
 Chaos Infiltrator Class
-VV_text
+VV_TEXT
 Chaos Blaster
-VV_text
+VV_TEXT
 On Fire
-VV_text
+VV_TEXT
 You have joined the challenge [@@CHALLENGE_NAME@@]
 QUEUE_CHALLENGE_JOINED
 There are not enough available spaces to complete this action.
 CHALLENGE_NO_SPACE
 Poisoned
-VV_text
+VV_TEXT
 In Game Perk
-VV_text
+VV_TEXT
 The player is not available for inviting
 PLAYER_NOT_INVITABLE
 Leader left, match has been closed
@@ -140875,57 +141972,57 @@ custom over side
 You have been invited to a match by [@@PLAYER_NAME@@]
 Custom invite
 Stealth
-VV_text
+VV_TEXT
 Chest
-TREASURE_ROLL
+VV_TEXT
 Neutral
-VV_text
+VV_TEXT
 Class Card Material
-VV_text
+VV_TEXT
 Your account has been migrated.
 Account Migrated
 Treasure Chest
-Treasure
+VV_TEXT
 Emote
-Social Emote
+VV_TEXT
 Console
-Console
+VV_TEXT
 Odyssey
-Odyssey
+VV_TEXT
 Chaos Tank Class
-VV_text
+VV_TEXT
 Chaos Engineer Class
-VV_text
+VV_TEXT
 Loading Frame
-FRAME
+VV_TEXT
 Chaos Ice
-VV_text
+VV_TEXT
 Chaos Fire
-VV_text
+VV_TEXT
 Chaos Kinetic
-VV_text
+VV_TEXT
 Chaos Storm
-VV_text
+VV_TEXT
 You already have all of the items in the treasure chest.  Chests can be used in future releases when additional items are added.
 TREASURE_ROLL_FAILED_OWN_ALL_ITEMS
 Perks (Deprecated)
-VV_text
+VV_TEXT
 Announcer
-ANNOUNCER_PACK
+VV_TEXT
 Qualifying
-Qualifying
+VV_TEXT
 Boost
-VV_text
+VV_TEXT
 Chaos Blink Armor
-VV_text
+VV_TEXT
 ES25 (MVP Pose)
-VV_text
+VV_TEXT
 ES26 (Talent)
-VV_text
+VV_TEXT
 ES27 (Property Debug)
-VV_text
+VV_TEXT
 ES28 (Burn Card 5) (Only in BG)
-VV_text
+VV_TEXT
 Please connect to Xbox Live to continue.
 XBL_NOT_LOGGED_IN
 You do not have an Xbox Live Gold subscription.
@@ -140939,30 +142036,30 @@ XBL_NO_PORTAL_CONNECTION
 Unable to connect to "PlayStation Network".
 PSN_NO_PORTAL_CONNECTION
 Exclusive
-VV_text
+VV_TEXT
 Limited
-VV_text
+VV_TEXT
 Additional
-VV_text
+VV_TEXT
 This item is no longer active.
 Item Is No Longer Active
 This item can not be purchased at this time.
 Outside Effective Range
 SOCIAL_EMOTE
 Chaos Marksman Class
-VV_text
+VV_TEXT
 The player has been banned
 Player Banned
 Chaos Robotics Class
-VV_text
+VV_TEXT
 Chaos Rocketeer Class
-VV_text
+VV_TEXT
 Chaos Raider Class
-VV_text
+VV_TEXT
 Passives
-VV_text
+VV_TEXT
 Wall Hack
-VV_text
+VV_TEXT
 @@player_name@@ cannot be invited due to queue requirements.
 Team no invite player requirements failed
 Your status is now concealed.
@@ -140972,53 +142069,55 @@ UPDATED_ONLINEONLY_OFF
 A network error occurred. Error code: @@ERROR_TEXT@@
 NETWORK_FAILURE_CODE
 Not Console
+VV_TEXT
 Console Only
-Console
+VV_TEXT
 Xbox One Only
-XboxOne
+VV_TEXT
 Export to C++ Header
-VV_text
+VV_TEXT
 Export to BattleGame
-VV_text
+VV_TEXT
 Export to GFxTranslation
-VV_text
+VV_TEXT
 Export to Launch
-VV_text
+VV_TEXT
 Export to TgClient
-VV_text
+VV_TEXT
 ES29 (Burn Card 6) (Only in BG)
-VV_text
+VV_TEXT
 ES30 (Streak Bonus) (Only in BG)
-VV_text
+VV_TEXT
 ES31 (Game Mode Reserved)
-VV_text
+VV_TEXT
 ES32 (** Unused **)
-VV_text
+VV_TEXT
 Ability
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
 Set (%)
-VV_text
+VV_TEXT
 Weapon Card
-VV_text
+VV_TEXT
 LFG (OC)
 CC_LFG_3
 Armor Card
-VV_text
+VV_TEXT
 Sub Devices
-VV_text
+VV_TEXT
 @@player_name@@ is in a match and cannot be invited.
 TEAM_INVITE_ALREADY_IN_MATCH
+VV_TEXT
 Locked
-Locked
+VV_TEXT
 Read Only
-Read Only
+VV_TEXT
 Jump Penalty
-VV_text
+VV_TEXT
 Movement Ability
-VV_text
+VV_TEXT
 While Active
-VV_text
+VV_TEXT
 Could not connect to party.
 CONSOLE_PORTAL_PARTY_NOT_FOUND
 Could not join party because it is in a queue.
@@ -141028,17 +142127,17 @@ CONSOLE_PORTAL_PARTY_CANNOT_JOIN
 Could not connect to party.
 CONSOLE_PORTAL_PARTY_NOT_VALID
 Mount
-VV_text
+VV_TEXT
 Ranged (Deprecated)
-VV_text
+VV_TEXT
 Generic 3
-VV_text
+VV_TEXT
 Generic 4
-VV_text
+VV_TEXT
 Generic 5
-VV_text
+VV_TEXT
 Generic 6
-VV_text
+VV_TEXT
 Ranked teams must be in adjacent tiers.
 MATCH_LEAGUE_TEAM_INVALID
 You have a party member without the sufficient owned masteries (@@player_name@@) so you cannot join this queue.
@@ -141046,18 +142145,19 @@ MATCH_TEAM_MEMBER_MASTERY_TOO_LOW
 You do not have the sufficient owned masteries to join this queue.
 MASTERY_TOO_LOW
 Disabled
-Disabled
+VV_TEXT
 Award EOM
+VV_TEXT
 Award Immediately
-Award Immediately
+VV_TEXT
 Siege Wall
-VV_text
+VV_TEXT
 Award & Update Immediately
-Update Immediately
+VV_TEXT
 Achievement Processing Class
-VV_text
+VV_TEXT
 Achievement
-Achievement
+VV_TEXT
 You do not have the sufficient owned gods to join this queue.
 OWNERSHIP_TOO_LOW
 You have a party member without the sufficient owned gods (@@player_name@@) so you cannot join this queue.
@@ -141065,11 +142165,11 @@ MATCH_TEAM_MEMBER_OWNERSHIP_TOO_LOW
 Your application to join has expired.
 CLAN_APPLICATION_EXPIRED
 Update Immediately Silent
-Immediate Silent
+VV_TEXT
 Rejected
-Rejected
+VV_TEXT
 Ability Card
-VV_text
+VV_TEXT
 Application failed: clan already has the maximum number of members allowed (@@count@@)
 CLAN_MAX_MEMBERS_APPLICATION
 Could not connect to Xbox Live.
@@ -141081,55 +142181,65 @@ ESPORTS_MATCH_ENDED
 That tag is unavailable.
 CREATE_TAG_RESULT_UNAVAILABLE
 [Spinning Strike.] Gain 36% damage reduction.
-VV_text
+VV_TEXT
  +36% Defense * Spinning Strike 
-VV_text
+VV_TEXT
 [Spinning Strike.] Gain 48% damage reduction.
-VV_text
+VV_TEXT
  +48% Defense * Spinning Strike 
-VV_text
+VV_TEXT
 [Spinning Strike.] Gain 60% damage reduction.
-VV_text
+VV_TEXT
  +60% Defense * Spinning Strike 
-VV_text
+VV_TEXT
 ZOLD Microburst
-VV_text
+VV_TEXT
 [Spinning Strike.] Deal 140 bonus damage over 2 seconds and knock enemies backward.
-VV_text
+VV_TEXT
 +140 Dmg * Spinning Strike
-VV_text
+VV_TEXT
 [Spinning Strike.] Deal 210 bonus damage over 2 seconds and knock enemies backward.
-VV_text
+VV_TEXT
 +210 Dmg * Spinning Strike
-VV_text
+VV_TEXT
 [Spinning Strike.] Deal 280 bonus damage over 2 seconds and knock enemies backward.
-VV_text
+VV_TEXT
 AI Test
-VV_text
+VV_TEXT
 Anti-Burst * Emitter
-VV_text
+VV_TEXT
 [Emitter.] Attacks that would deal over 30% current health are halved.
-VV_text
+VV_TEXT
 Refund Check Trigger
-Refund Check Trigger
+VV_TEXT
 Class Bundle Refund Check
-Class Bundle
+VV_TEXT
 Punish Lobby Leave
-Punish Lobby Leave
+VV_TEXT
 Punish Match Leave
-Punish Match Leave
+VV_TEXT
+State Normal
+VV_TEXT
+State Warned
+VV_TEXT
+State First Ban
+VV_TEXT
+State Second Ban
+VV_TEXT
 Warning: Your account has been flagged for bad behavior. Further bad behavior will result in an account suspension or ban.
 PUNISH_WARN
 Warning: if you continue to remain idle, you will be kicked from the match.
 PUNISH_IDLE_WARN
 Spray 3D
-Global Emote
+VV_TEXT
+State Warned_2
+VV_TEXT
 Reminder: you were recently warned for bad behavior. Further bad behavior will result in an account suspension or ban.
 PUNISH_WARN_LOGIN
 Season
-Season
+VV_TEXT
 Tournament
-Tournament
+VV_TEXT
 You cannot pick this match.
 ESPORTS_MATCH_INVALID
 Failed to provide a player Id
@@ -141161,104 +142271,104 @@ SPECTATOR_MATCH_REQUIRES_PASSWORD
 Incorrect password to spectate match.
 SPECTATOR_INCORRECT_PASSWORD
 Exit combat after 5s, regenerating {1.6/3.2/4.8/6.4/8}% of your max Health each second.
-VV_text
+VV_TEXT
 This replay requires a password to view
 REPLAY_REQUIRES_PASSWORD
 Incorrect password to replay match
 REPLAY_INCORRECT_PASSWORD
 Gain * Defense
-Steam
+VV_TEXT
 User Declined
-User Declined
+VV_TEXT
 Event
-Event
+VV_TEXT
 Unable to connect to Steam.
 STEAM_AUTH_FAILED_CLIENT
 King of the Hill * Cassie
-VV_text
+VV_TEXT
 Mitigate damage by 10/20/30/40/50% while near an objective.
-VV_text
+VV_TEXT
 Your Steam account has unused DLC, which may be used by one Hi-Rez account.  Would you like to use the available DLC now?
 STEAM_OFFER_DLC
 The Steam Overlay must be enabled in order to purchase items through Steam.
 STEAM_OVERLAY_DISABLED
 {1.6/3.2/4.8/6.4/8}% Dmg * Consecutive Atks
-VV_text
+VV_TEXT
 Masterful * Barik
-VV_text
+VV_TEXT
 Consecutive attacks stack increasing damage by {1.6/3.2/4.8/6.4/8}% (max 6 stacks)
-VV_text
+VV_TEXT
 Dynamic Bundle
-Dynamic Bundle
+VV_TEXT
 Export to TgClient_XboxOne
-VV_text
+VV_TEXT
 Export to TgClient_PS4
-VV_text
+VV_TEXT
 Music Pack Switch
-VV_text
+VV_TEXT
 Return
-Return
+VV_TEXT
 Active
-VV_text
+VV_TEXT
 Completed
-VV_text
+VV_TEXT
 Abandoned
-VV_text
+VV_TEXT
 Queued
-VV_text
+VV_TEXT
 Player Quest
-Player Quest
+VV_TEXT
 Invalid name. Names must begin and end with a letter or a number and otherwise be letters, numbers,  or single spaces.
 CLAN_INVALID_NAME_COMPOSITION_ALNUM
 Exclusive
-Exclusive
+VV_TEXT
 Limited
-Limited
+VV_TEXT
 eSports Exclusive
-Exclusive Esports
+VV_TEXT
 Seasonal Exclusive
-Exclusive Seasonal
+VV_TEXT
 Chest Exclusive
-Exclusive Chest
+VV_TEXT
 Promo Exclusive
-Exclusive Promo
+VV_TEXT
 Clan Exclusive
-Exclusive Clan
+VV_TEXT
 eSports Limited
-LImited Esports
+VV_TEXT
 Promo Limited
-Limited Promo
+VV_TEXT
 Seasonal Limited
-Limited Seasonal
+VV_TEXT
 Clan Limited
-Limited Clan
+VV_TEXT
 Chest Limited
-Limited Chest
+VV_TEXT
 Bonus Reward
 QUEST_SPECIAL_EVENT_NAME
 Get the First Win of the Day in `~ game modes.
 QUEST_SPECIAL_EVENT_DESC
 Easy
-DIFFICULTY_EASY
+VV_TEXT
 Medium
-DIFFICULTY_MEDIUM
+VV_TEXT
 Invalid
-VV_text
+VV_TEXT
 Victory Rush * Buck
-Joust
+VV_TEXT
 +{20/40/60/80/100}% Atk Spd and +{10/20/30/40/50}% Move Spd for 4s after a kill
-Clash
+VV_TEXT
 Practice
-Practice
-Coop
+VV_TEXT
+VV_TEXT
 Casual
-Normal
+VV_TEXT
 Ranked
-Ranked
+VV_TEXT
 Tutorial
-Tutorial
+VV_TEXT
 Custom
-Custom
+VV_TEXT
 Failed to Authenticate with "PlayStation Network".
 PSN_AUTH_FAILED
 Unable to Authenticate with "PlayStation Network".
@@ -141270,142 +142380,147 @@ PSN_WEB_CALL_ERROR_NEED_SUPPORT
 There was a problem completing your purchase. 
 PSN_TIMEOUT_ON_CONSUME
 Entitlement
-Entitlement
+VV_TEXT
 Training Quest
-Training Quest
+VV_TEXT
 Practice
-DIFFICULTY_PRACTICE
+VV_TEXT
 @@PLAYER_NAME@@ accepted your friend referral.
 FRIEND_REFERRAL_ACCEPTED
 Special Event
-Special Event
+VV_TEXT
 Scheduled
-Scheduled
+VV_TEXT
 Daze
-VV_text
+VV_TEXT
 Confuse
-VV_text
+VV_TEXT
 Marked
-VV_text
+VV_TEXT
 Knockup
-VV_text
+VV_TEXT
 Frozen
-VV_text
+VV_TEXT
 The external referral system is not enabled
-VV_text
+VV_TEXT
 You cannot pick this team because the maximum number of picks have been made.
-VV_text
+VV_TEXT
 PaladinsWogParts
-VV_text
+VV_TEXT
 Bleeding
-VV_text
+VV_TEXT
 Skin Parts
-VV_text
+VV_TEXT
 World Tip
-VV_text
+VV_TEXT
 Pet Owner
-VV_text
+VV_TEXT
 Add % Max Health
-VV_text
+VV_TEXT
 Forward Teleport
-VV_text
+VV_TEXT
 Mount
-Mount Skin
+VV_TEXT
 Horse Mount Riding AnimSets
-VV_text
+VV_TEXT
 Skin Bots
-VV_text
+VV_TEXT
 Weapon
-Weapon Skin
+VV_TEXT
 On Landed
-VV_text
+VV_TEXT
 Human Warrior
-VV_text
+VV_TEXT
 Decoys
-VV_text
+VV_TEXT
 Players/Decoys
-VV_text
+VV_TEXT
 Mechanicals/Decoys
-VV_text
+VV_TEXT
 Polymorph
-VV_text
+VV_TEXT
 Ultimate
-VV_text
+VV_TEXT
 CC Immune
-VV_text
+VV_TEXT
 Recall
-VV_text
+VV_TEXT
 Actives
-VV_text
+VV_TEXT
 akEvent
-VV_text
+VV_TEXT
 Blaster
-Blaster
+VV_TEXT
 Carry
-VV_text
+VV_TEXT
 Defense
-VV_text
+VV_TEXT
 Paladins Support
-Paladins Support
+VV_TEXT
 Movement Speed Buff
-VV_text
+VV_TEXT
 Mount Speed Buff
-VV_text
+VV_TEXT
 Connection to Steam timed out during finalize.
 STEAM_TIMEOUT_ON_CONSUME
 Hard
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
 Promotional Crystals
-VV_text
+VV_TEXT
 Camera Anim
-VV_text
+VV_TEXT
 You are allowed @@remaining_messages@@ more messages until suspended from this chat.
 CHAT_SUPPRESSED_SOFT
 Weaken
-VV_text
+VV_TEXT
+State Show Warn
+VV_TEXT
+State Show Warn2
+VV_TEXT
 JSON Gate
-JSON Gate
+VV_TEXT
 Chat Message
-Chat Message
+VV_TEXT
 Ability1 Card
-VV_text
+VV_TEXT
 Normal
-Normal
+VV_TEXT
 Bypassed
-Bypassed
+VV_TEXT
 GenericFire2
-VV_text
+VV_TEXT
 Coupon
-Coupon
+VV_TEXT
 Hud Special
-VV_text
+VV_TEXT
 Used Coupon
-Use Coupon
+VV_TEXT
+VV_TEXT
 All Skins
-Skin
+VV_TEXT
 All Voice Packs
-Voice Pack
+VV_TEXT
 Warning!  Servers will shutdown in @@MINUTES@@ minutes for scheduled maintenance.
 CHAT_MSG_SERVER_SHUTDOWN
 Turret
-VV_text
+VV_TEXT
 Pending
-Pending
+VV_TEXT
 Deck
-VV_text
+VV_TEXT
 Deck
-VV_text
+VV_TEXT
 Deck
-Deck
+VV_TEXT
 Kills
-VV_text
+VV_TEXT
 Hud Popup No Title
-VV_text
+VV_TEXT
 Send Gift
-Send Gift
+VV_TEXT
 Receive Gift
-Receive Gift
+VV_TEXT
 You haven't reached the minimum required for gifting.
 Gift error minimum level
 Gifting is only allowed between friends.
@@ -141417,13 +142532,13 @@ Gift error transaction limit
 You have reached your gift quantity limit.
 Gift error quantity limit
 Basic Tutorial
-VV_text
+VV_TEXT
 Tutorial-Completed Look at event 
-VV_text
+VV_TEXT
 An error has occurred.
 Misc Error
 Pulled
-VV_text
+VV_TEXT
 @@player_name@@ has commended you. 
 Commendation Player
 There is an existing invitation sent to that player.
@@ -141459,134 +142574,134 @@ SYS_SITE_6
 Southeast Asia
 SYS_SITE_7
 Accessory
-Head Skin
+VV_TEXT
 While Holding
-VV_text
+VV_TEXT
 All Character Classes
-Character Class
+VV_TEXT
 PaladinsHeads
-VV_text
+VV_TEXT
 Revealed
-VV_text
+VV_TEXT
 Steam DLC
-Steam DLC
+VV_TEXT
 Friend Referral
-Friend Referral
+VV_TEXT
 Ability2 Card
-VV_text
+VV_TEXT
 Altfire Card
-VV_text
+VV_TEXT
 Test Bots
-VV_text
+VV_TEXT
 Emote
-VV_text
+VV_TEXT
 Direct
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
 Normal
-Normal
+VV_TEXT
 UI Path
-VV_text
+VV_TEXT
 Two factor authentication required.  You must login using the launcher.
 TWO_FACTOR_REQUIRED
 Two factor authentication required. You must login using the launcher.
 TWO_FACTOR_REQUIRED
 BT_00_StartBasicTutorial
-VV_text
+VV_TEXT
 BT_01_EndIntroCamera
-VV_text
+VV_TEXT
 BT_02_MovementComplete
-VV_text
+VV_TEXT
 BT_03_ReachFirstShootingRange
-VV_text
+VV_TEXT
 BT_04_MovementAbilityTriggered
-VV_text
+VV_TEXT
 BT_05_ReachSecondShootingRange
-VV_text
+VV_TEXT
 BT_06_CompleteUltimate
-VV_text
+VV_TEXT
 BT_07_PlayerJumpedOverObs
-VV_text
+VV_TEXT
 BT_08_PlayerReachCP
-VV_text
+VV_TEXT
 BT_09_FirstBotFightActivated
-VV_text
+VV_TEXT
 BT_10_SecondBotFightActivated
-VV_text
+VV_TEXT
 BT_11_TutorialComplete
-VV_text
+VV_TEXT
 Tutorial Bots
-VV_text
+VV_TEXT
 All Emotes
-Emote
+VV_TEXT
 Russia
 Sys_Site_name
 Duplicate
-VV_text
+VV_TEXT
 Elimination
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
 MVP Pose
-MVP POSE
+VV_TEXT
 Twitch_MileStone
-Twitch_MileStone
+VV_TEXT
 Legendary
-Legendary
+VV_TEXT
 There was a problem with your sell request
 Shop sell error
 A rooted unit is unable to move
 A rooted unit is unable to move
 Spray
-Spray
+VV_TEXT
 Shield Special
-VV_text
+VV_TEXT
 Marked with UI
-VV_text
+VV_TEXT
 Steam safe mode is currently active. You will be unable to purchase anything or acquire DLC through Steam until you log back in when Steam safe mode is off.
 Steam Safe Mode On
 Steam safe mode has been disabled, but you must re-login before making any purchases.
 Steam Safe Mode Off
 Boosted
-VV_text
+VV_TEXT
 Character Progression
-Character Progression
+VV_TEXT
 Quest Exclusive
-Exclusive Quest
+VV_TEXT
 Default
-Default
+VV_TEXT
 VIP Exclusive
-VIP Exclusive
+VV_TEXT
 Player XP Booster
-XP Booster
+VV_TEXT
 Char XP Booster
-Char XP Booster
+VV_TEXT
 Team Booster
-Team Booster
+VV_TEXT
 VIP Point Booster
-FP Booster
+VV_TEXT
 Team booster already active
 Match booster already active
 Spray
-VV_text
+VV_TEXT
 PaladinsProps
-VV_text
+VV_TEXT
 You cannot purchase this item from your region.
 PURCHASE_BLOCKED_BY_COUNTRY
 You must be level 10 to purchase this item.
 PURCHASE_BLOCKED_BY_LEVEL
 Twitch_Prime
-Twitch_Prime
+VV_TEXT
 Sale
-VV_text
+VV_TEXT
 Card Spray
-Card Spray
+VV_TEXT
 Your Twitch account is not properly linked to your Hi-Rez account. Please relink your accounts at https://www.hirezstudios.com/link/.
 TWITCH_ACCOUNT_NOT_LINKED
 An error occurred please try again later.
 TWITCH_ACCOUNT_ERROR
 You have successfully claimed an award.
 TWITCH_ACCOUNT_REWARD_CLAIMED
-VV_text
+VV_TEXT
 New Deck
 Deck default name
 There are no items for you to claim at this time.
@@ -141596,23 +142711,23 @@ TWITCH_REWARD_CLAIM_UNAVAILABLE
 Twitch heartbeat system is currently disabled.
 TWITCH_DROP_UNAVAILABLE
 Verified Fulfillment
-Verified Filled
+VV_TEXT
 Repaired Fulfillment
-Repaired
+VV_TEXT
 Refunded Remotely
-Refunded Remotely
+VV_TEXT
 Discountable Skins
-Discountable Skin
+VV_TEXT
 Grandmaster
-Grandmaster
+VV_TEXT
 Reduced Healing
-VV_text
+VV_TEXT
 Speaking
-Speaking
+VV_TEXT
 You cannot ban yourself.
 CLAN_NO_BAN_SELF
 Revoked
-Revoke Item
+VV_TEXT
 That player is already banned from the clan.
 CLAN_ALREADY_BANNED
 That player is not currently banned
@@ -141624,51 +142739,52 @@ CLAN_MUST_KICK_BEFORE_BAN
 You have been banned from that clan.
 CLAN_BANNED
 Card Equip Stats
-VV_text
+VV_TEXT
 Talent (Ability1)
-VV_text
+VV_TEXT
 Talent (Ability2)
-VV_text
+VV_TEXT
 Talent (Altfire)
-VV_text
+VV_TEXT
 Talent (Armor)
-VV_text
+VV_TEXT
 Talent (Weapon)
-VV_text
+VV_TEXT
 Increment Activity
-Increment Activity
+VV_TEXT
 Revoke Currency
-Revoke Currency
+VV_TEXT
 Modify Currency
-Modify Currency
+VV_TEXT
 Add Character Class
-Add Character Class
+VV_TEXT
 The Activities, goals, and groups from the DB could not be merged with in memory data.  A GSC restart will be required to pickup any changes.
 ACTIVITY_RELOAD_FAILED
 Strongest Masks
-VV_text
+VV_TEXT
 Revoke Character Class
-Revoke Character Class
+VV_TEXT
 Modify Clan Points
-Modify Clan Points
+VV_TEXT
 Upgrade Account
-Upgrade Account
+VV_TEXT
 Revoke Account Upgrade
-Revoke Account Upgrade
+VV_TEXT
 Healing Increase
-VV_text
+VV_TEXT
 Revoke New Acquisition
-Revoke New Acquisition
+VV_TEXT
 Talent (Ultimate)
-VV_text
+VV_TEXT
 Revoke Started
-Revoke Started
+VV_TEXT
 Stackable Refresh
-VV_text
+VV_TEXT
 Lawman's Mark
-VV_text
+VV_TEXT
+VV_TEXT
 Xbox
-Xbox
+VV_TEXT
 Unqueued from live spectating.
 LIVE_SPECTATOR_UNQUEUED
 This match does not allow live spectating.
@@ -141688,141 +142804,142 @@ LIVE_SPECTATOR_NO_PRIVILEGE
 You can't live spectate yourself!
 LIVE_SPECTATOR_NO_SELF
 Title
-Equipable Title
+VV_TEXT
 Item Quest
-VV_text
+VV_TEXT
 Item Quest
-Item Quest
+VV_TEXT
 Force Feedback Waveform
-VV_text
+VV_TEXT
 Gameplay Curves
-VV_text
+VV_TEXT
 Lex_Reveal
-VV_text
+VV_TEXT
 Gold Booster
-Token Booster
+VV_TEXT
 Soul Orb Stack
-VV_text
+VV_TEXT
 Closed
-Closed
+VV_TEXT
 Needs Filling
-Needs Filling
+VV_TEXT
 Filled
-Filled
+VV_TEXT
 Needs Revocation
-Needs Revocation
+VV_TEXT
 Revoked
-Revoked
+VV_TEXT
 PTS Grant
-PTS Grant
+VV_TEXT
 Instance
-Instance
+VV_TEXT
 Account Transfer
-Account Transfer
+VV_TEXT
 Weapon
-VV_text
+VV_TEXT
 Required item not owned
 Shop required item error
 PS4 Only
+VV_TEXT
 PromoCode
-PromoCode
+VV_TEXT
 This function is deprecated and may be removed.
 ADMIN_FUNCTION_DEPRECATED
 Mesmerize
-VV_text
+VV_TEXT
 This account is locked out and may not be used.
 ACCOUNT_LOCKOUT_GENERAL
 This account does not have a key associated with this game.
 Game Requires Beta Key
 PaladinsMount
-VV_text
+VV_TEXT
 Astro DOT
-VV_text
+VV_TEXT
 Closed by Support
-Closed by Support
+VV_TEXT
 Astro Heal
-VV_text
+VV_TEXT
 Astro Buff
-VV_text
+VV_TEXT
 Presence DoT
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
+VV_TEXT
 Triumph System
-Triumph System
+VV_TEXT
 Lift
-VV_text
+VV_TEXT
 Flash Bang
-VV_text
+VV_TEXT
 Login Grant
-Login Grant
+VV_TEXT
 Unable to abandon deck
 Abandon Deck Error
 The server has reached its hard login cap.  You cannot log in at this time.
 HARD_LOGIN_CAP_REACHED
 Ranked
-Ranked
+VV_TEXT
 Notified
-Notified
+VV_TEXT
 Removed Currency
-Removed Currency
+VV_TEXT
 Returned Currency
-Returned Currency
+VV_TEXT
 VIP Booster
-VV_text
+VV_TEXT
 While Dead
-VV_text
+VV_TEXT
 Function not implemented by Service.
 Admin Function Not Implemented
 Uncommon
-Uncommon
+VV_TEXT
 Rare
-Rare
+VV_TEXT
 Epic
-Epic
+VV_TEXT
 Ancient
-Ancient
+VV_TEXT
 Custom Game
-Custom Game
+VV_TEXT
 All Weapon Skins
-Weapon Skin
+VV_TEXT
 Unlocks Quest
-Unlock
+VV_TEXT
 Can't assign an owner, because none of the players are online.
 CUSTOM NO OWNER
 Failed to send match invite.
 CUSTOM INVITE FAILED
 Card
-Card
+VV_TEXT
 I dont like that.
-dont like that
+VV_TEXT
 Youre sexy. (Response)
-youre sexy response
+VV_TEXT
 Thank you.
-thank you
+VV_TEXT
 EOM Uncapped
-EOM Uncapped
+VV_TEXT
 EOM Capped
-EOM Capped
+VV_TEXT
 Vox Chatter Suffix
-VV_text
+VV_TEXT
 User Needs Filling
-User Needs Filling
+VV_TEXT
 User Declined
-User Declined
+VV_TEXT
 Sell Item
-Sell Item
+VV_TEXT
 Invalid selection
 Invalid Selection
 Please finish choosing an item.
@@ -141832,218 +142949,216 @@ XBL_AGE_RESTRICTION
 You cannot play this game due to age restrictions.
 PSN_AGE_RESTRICTION
 I will protect you.
-VV_text
+VV_TEXT
 Androxus
-VV_text
+VV_TEXT
 Are you afraid?
-VV_text
+VV_TEXT
 Are you afraid? (Response)
-VV_text
+VV_TEXT
 Bad joke.
-VV_text
+VV_TEXT
 I am scary
-VV_text
+VV_TEXT
 I am sexy.
-VV_text
+VV_TEXT
 I am sexy. (Response)
-VV_text
+VV_TEXT
 I dont like your weapon.
-VV_text
+VV_TEXT
 I dont like your weapon. (Response)
-VV_text
+VV_TEXT
 Im hungry.
-VV_text
+VV_TEXT
 Im hungry. (Response)
-VV_text
+VV_TEXT
 Im hungry. (Vegetables)
-VV_text
+VV_TEXT
 Im hungry. (Vegetables) (Response)
-VV_text
+VV_TEXT
 Im not afraid of you.
-VV_text
+VV_TEXT
 Im not afraid of you. (Response)
-VV_text
+VV_TEXT
 Im not listening to you.
-VV_text
+VV_TEXT
 Im sexy.
-VV_text
+VV_TEXT
 It is cold.
-VV_text
+VV_TEXT
 It is cold. (Response)
-VV_text
+VV_TEXT
 It is hot.
-VV_text
+VV_TEXT
 It is hot. (Response)
-VV_text
+VV_TEXT
 Leave me alone.
-VV_text
+VV_TEXT
 Leave me alone. (Response)
-VV_text
+VV_TEXT
 Thats not funny.
-VV_text
+VV_TEXT
 Thats SO funny!
-VV_text
+VV_TEXT
 This will be a good fight.
-VV_text
+VV_TEXT
 This will be a good fight. (Response)
-VV_text
+VV_TEXT
 You are skinny
-VV_text
+VV_TEXT
 You are skinny. (Response)
-VV_text
+VV_TEXT
 You are strong.
-VV_text
+VV_TEXT
 You are strong. (response)
-VV_text
+VV_TEXT
 You are tall.
-VV_text
+VV_TEXT
 You are tall. (Response)
-VV_text
+VV_TEXT
 You are unique
-VV_text
+VV_TEXT
 You are unique. (Response)
-VV_text
+VV_TEXT
 You will fight for me!
-VV_text
+VV_TEXT
 You will fight for me! (Response)
-VV_text
+VV_TEXT
 Youre sexy.
-VV_text
+VV_TEXT
 Youre short
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
 Barik
-VV_text
+VV_TEXT
 BombKing
-VV_text
+VV_TEXT
 Buck
-VV_text
+VV_TEXT
 Cassie
-VV_text
+VV_TEXT
 Drogoz
-VV_text
+VV_TEXT
 Evie
-VV_text
+VV_TEXT
 Fernando
-VV_text
+VV_TEXT
 Grohk
-VV_text
+VV_TEXT
 Grover
-VV_text
+VV_TEXT
 Inara
-VV_text
+VV_TEXT
 Jenos
-VV_text
+VV_TEXT
 Kinessa
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
 Lian
-VV_text
+VV_TEXT
 Maeve
-VV_text
+VV_TEXT
 Makoa
-VV_text
+VV_TEXT
 MalDamba
-VV_text
-VV_text
+VV_TEXT
+VV_TEXT
 Ruckus
-VV_text
+VV_TEXT
 Seris
-VV_text
+VV_TEXT
 ShaLin
-VV_text
+VV_TEXT
 Skye
-VV_text
+VV_TEXT
 Strix
-VV_text
+VV_TEXT
 Talus
-VV_text
+VV_TEXT
 Terminus
-VV_text
+VV_TEXT
 Torvald
-VV_text
+VV_TEXT
 Tyra
-VV_text
+VV_TEXT
 Viktor
-VV_text
+VV_TEXT
 Willo
-VV_text
+VV_TEXT
 Ying
-VV_text
+VV_TEXT
 Zhin
-VV_text
+VV_TEXT
 Loading Screen Bottom Tip
-VV_text
-Chest Key Pairing
-Chest Key Pairing
+VV_TEXT
 Legendary Card
-Legendary Card
+VV_TEXT
 Skill
-Skill
+VV_TEXT
 Burn Card
-Burn Card
+VV_TEXT
 Frontline Spray
-VV_text
+VV_TEXT
 Damage Spray
-VV_text
+VV_TEXT
 Support Spray
-VV_text
+VV_TEXT
 Flank Spray
-VV_text
+VV_TEXT
 Marketing Event Activities
-Marketing Event Activities
+VV_TEXT
 First Login
-First Login
+VV_TEXT
 Second Login
-Second Login
+VV_TEXT
 Horse Mount Skin
-Horse Mount Skin
+VV_TEXT
 Cat Mount Skin
-Cat Mount Skin
+VV_TEXT
 Completed Tutorial
-Completed Tutorial
+VV_TEXT
 Play a Game
-Play a Game
+VV_TEXT
 Featured
-UI_HINT_FEATURED
+VV_TEXT
 Permanent
-VV_text
+VV_TEXT
 Permanent Remove On Death
-VV_text
+VV_TEXT
 Featured New
-UI_HINT_FEATURED_NEW
+VV_TEXT
 Card Rank Common
-VV_text
+VV_TEXT
 Card Rank Rare
-VV_text
+VV_TEXT
 Card Rank Epic
-VV_text
+VV_TEXT
 VIP Tiers
-VV_text
+VV_TEXT
 Randomly Sampled
-Randomly Sampled
+VV_TEXT
 Lore
-Lore
+VV_TEXT
 Facebook_Drop
-Facebook_Drop
+VV_TEXT
 Card Rank Legendary
-VV_text
+VV_TEXT
 Conversion
-Conversion
+VV_TEXT
 @@name@@: Mismatch between user attempting to log in and user linked to account
 LINKED_ACCOUNT_USER_ID_MISMATCH
 Royale PvP
-ROYALE_PVP
+VV_TEXT
 Could not connect to @@name@@.
 NO_PORTAL_CONNECTION
 VIP Reward
-VIP Reward
+VV_TEXT
 Campaign
-Campaign
+VV_TEXT
 Campaign Violation
-Campaign Violation
+VV_TEXT
 Database Script
-Database Script
+VV_TEXT
 A map change order is pending
 MAP_CHANGE_ORDER_PENDING
 This queue does not allow Exclusive Parties.
@@ -142061,161 +143176,161 @@ Reported Player Action
 Cannot use multiple accounts to claim rewards in the same Twitch campaign.
 TWITCH_CAMPAIGN_VIOLATION
 Reach Level 5
-Reach Level 5
+VV_TEXT
 Reach Level Mid
-Reach Level Mid
+VV_TEXT
 Reach Level Max
-Reach Level Max
+VV_TEXT
 Opened In-Game Store
-Opened In-Game Store
+VV_TEXT
 First Purchase
-First Purchase
+VV_TEXT
 Purchase
-Purchase
+VV_TEXT
 Account Linking
-Account Linking
+VV_TEXT
 Clan
-Clan
+VV_TEXT
 Unable to connect to Steam. Please make sure you are launching the game from Steam and have the appropriate parental permissions to run it.
 STEAM_INIT_FAILURE
 Royale Weapon
-VV_text
+VV_TEXT
 Royale AltFire
-VV_text
+VV_TEXT
 Royale Ability Q
-VV_text
+VV_TEXT
 Royale Ability F
-VV_text
+VV_TEXT
 Recurring
-Recurring
+VV_TEXT
 ES33 (Dynamic Card 1)
-VV_text
+VV_TEXT
 ES34 (Dynamic Card 2)
-VV_text
+VV_TEXT
 ES35 (Dynamic Card 3)
-VV_text
+VV_TEXT
 ES36 (Dynamic Card 4)
-VV_text
+VV_TEXT
 ES37 (Dynamic Card 5)
-VV_text
+VV_TEXT
 ES38 (Dynamic Card 6)
-VV_text
+VV_TEXT
 ES39 (Dynamic Card 7)
-VV_text
+VV_TEXT
 ES40 (Dynamic Card 8)
-VV_text
+VV_TEXT
 ES41 (Dynamic Card 9)
-VV_text
+VV_TEXT
 ES42 (Dynamic Card 10)
-VV_text
+VV_TEXT
 ES43 (Dynamic Card 11)
-VV_text
+VV_TEXT
 ES44 (Dynamic Card 12)
-VV_text
+VV_TEXT
 ES45 (Dynamic Card 13)
-VV_text
+VV_TEXT
 ES46 (Dynamic Card 14)
-VV_text
+VV_TEXT
 ES47 (Dynamic Card 15)
-VV_text
+VV_TEXT
 ES48 (Dynamic Card 16)
-VV_text
+VV_TEXT
 PaladinsRoyaleSkills
-VV_text
+VV_TEXT
 You have a party member who is running a 32-bit game client (@@player_name@@) so you cannot join this queue.
 MATCH_TEAM_MEMBER_CLIENT_32BIT
 You are running a 32-bit game client, which is not allowed by this queue.
 NOT_ALLOWED_CLIENT_32BIT
 Produced
-PRODUCED
+VV_TEXT
 Consumed (Optional)
-CONSUMED_OPTIONAL
+VV_TEXT
 Consumed (Required)
-CONSUMED_REQUIRED
+VV_TEXT
 Required
-REQUIRED
+VV_TEXT
 Blocker
-BLOCKER
+VV_TEXT
 Transient Own
-Transient Purchase
+VV_TEXT
 Inherit Entitlement Inventory
-Inherit Entitlement Inventory
+VV_TEXT
 Loading Frame
-Loading Frame
+VV_TEXT
 Music Pack
-VV_text
+VV_TEXT
 Spray
-VV_text
+VV_TEXT
 CardDeck
-CardDeck
+VV_TEXT
 God Out of Game - Deprecated
-VV_text
+VV_TEXT
 Player Slots
-Player Slots
+VV_TEXT
 Conversion
-Conversion
+VV_TEXT
 Misc
-VV_text
+VV_TEXT
 DLC Exclusive
-DLC Exclusive
+VV_TEXT
 Character Slots
-Character Slots
+VV_TEXT
 Mount Skin
-VV_text
+VV_TEXT
 Death Stamp
-Death Stamp
+VV_TEXT
 Skin
-VV_text
+VV_TEXT
 Emote
-VV_text
+VV_TEXT
 Weapon Skin
-VV_text
+VV_TEXT
 MVP Pose
-VV_text
+VV_TEXT
 Apple
-Apple
+VV_TEXT
 Google
-Google
+VV_TEXT
 Asiatic Crest
-VV_text
+VV_TEXT
 Death Stamp
-VV_text
+VV_TEXT
 Avatar
-VV_text
+VV_TEXT
 BattlePass Levels
-VV_text
+VV_TEXT
 BattlePass Tiers
-VV_text
+VV_TEXT
 BattlePass Points
-BattlePassPoints
+VV_TEXT
 EOM Booster
-EOM_Booster
+VV_TEXT
 Portal Durable
-Portal Durable
+VV_TEXT
 Partner Achievement
-Partner Achievement
+VV_TEXT
 Export to TgClient_Oasis
-VV_text
+VV_TEXT
 Export to GFxTranslation_Oasis
-VV_text
+VV_TEXT
 Failed to Authenticate with Nintendo.
 NINTENDO_AUTH_FAILED
 Your search for @@player_name@@ had multiple results.
 PLAYER_NAME_TOO_MANY_RESULTS
 Music Pack
-MUSIC_PACK
+VV_TEXT
 Mixer Drop
-Mixer Drop
+VV_TEXT
 There was a problem communicating with the consumable service. Please try again.
 NINTENDO_WEB_CALL_ERROR
 Nintendo
-Nintendo
+VV_TEXT
 This match does not allow players from your platform.
 MATCH_INCORRECT_PORTAL
 Shard
-VV_text
-Login Failed Unexpectedly.  Please try again.
-LOGIN_FAILED_UNKNOWN
+VV_TEXT
+Unexpected login failure.
+LOGIN FAILED UNKNOWN
 This account is undergoing maintenance.  Please try again shortly.
 Login_Failed_Account_Maintenance
 This is your first time logging in.  Do you want to link to an existing account or create a new one?
@@ -142223,13 +143338,13 @@ LOGIN_PROMPT_LINK_OR_CREATE
 Your Steam Player Name needs to be changed before logging in.
 LOGIN_FAILED_STEAM_NAME_UNACCEPTABLE
 BattlePass Points Ninja
-BattlePassNinjaPoints
+VV_TEXT
 BattlePass Ninja Levels
-VV_text
+VV_TEXT
 Increment Activity
-Increment Activity
+VV_TEXT
 Loadout Slot
-Loadout Slot
+VV_TEXT
 @@PLAYER_NAME@@ has joined challenge [@@CHALLENGE_NAME@@] for a total of @@PLAYER_COUNT@@.
 QUEUE_CHALLENGE_PLAYER_ADDED
 Challenge [@@CHALLENGE_NAME@@] total @@PLAYER_COUNT@@ now meets MinPlayersInMatch [@@CUSTOM_MIN_PLAYERS_IN_MATCH@@]. You can now start match.
@@ -142249,31 +143364,31 @@ QUEUE_CHALLENGE_FULL
 Asia/Pacific Rim
 SYS_SITE_7_ALT
 Spray 3D
-VV_text
+VV_TEXT
 Level Rewards
-Level Rewards
+VV_TEXT
 Relative
-Relative
+VV_TEXT
 Absolute
-Absolute
+VV_TEXT
 Level Ref
-Level Ref
+VV_TEXT
 Realm Exclusive
-VV_text
+VV_TEXT
 Realm Limited
-VV_text
+VV_TEXT
 You were recently reported for poor behavior, with the reasoning (Teaming). Continued reports against your account can result in negative action on your account.
 Report Notification Teaming
 You were recently reported for poor behavior, with the reasoning (Stream Sniping). Continued reports against your account can result in negative action on your account.
 Report Notification Stream Sniping
 Vault Key
-VV_text
+VV_TEXT
 Summer Event Points
-VV_text
+VV_TEXT
 Summer Event Levels
-VV_text
+VV_TEXT
 Video Path
-VV_text
+VV_TEXT
 Your player not found in template.
 CUSTOM_TEMPLATE_PLAYER_NOT_FOUND
 Player duplicated in template.
@@ -142286,3 +143401,55 @@ Template includes player mapped to invalid task force.
 CUSTOM_TEMPLATE_INVALID_TASK_FORCE
 Template task force size exceeds match rules.
 CUSTOM_TEMPLATE_TASK_FORCE_TOO_LARGE
+Invalid account information.
+Login Missing Account
+Something went wrong during login.  Please try again!
+Login Failed Vague
+Servers not available
+Servers not available
+Gold Doubloon
+VV_TEXT
+Dark Doubloon
+VV_TEXT
+Generic Local
+VV_TEXT
+Generic Friendly
+VV_TEXT
+Generic Enemy
+VV_TEXT
+Login failed: This account is linked to a different Steam user.
+Login Error Account Link Mismatch
+This Steam account is linked to a different Hi-Rez account.
+Login Failed Mismatch Steam HiRez
+Unlimited
+VV_TEXT
+Stasis
+VV_TEXT
+Block Child Dev Application
+VV_TEXT
+Cannot link accounts: your account is already linked on this platform.
+Account Link Master Account Unavailable
+The email address you submitted is already in use.
+Account Create Email Unavailable
+The email address you submitted is invalid.
+Account Create Bad Email
+Your Two-Factor authentication is required.
+Login Needs TwoFactor
+You cannot create an account without meeting the age requirements.
+Account Create Age Check Failed
+That account name is unavailable.
+Account Create Name Unavailable
+That account name is invalid.
+Account Create Bad Name
+The password you submitted is invalid.
+Account Create Bad Password
+Do you want to link this user to a master account?
+Login Needs Account Link Selection
+Login failed: This Steam user is linked to a different account.
+Login Error Steam Link Mismatch
+Success!  Your account is now linked to this Steam User.
+Link Dual Auth Steam Success
+We were unable to link this Steam User to your account.
+Link Dual Auth Steam Error Vague
+Fear
+VV_text
