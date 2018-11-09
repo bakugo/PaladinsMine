@@ -123137,7 +123137,7 @@ If an enemy is close to your Sensor Drone, it explodes dealing damage and knocki
 item_short_desc
 Booby Trap
 item_name
-[Sensor Drone] Your Sensor Drones explode dealing 500 damage and knocking back when an enemy is within 20ft.
+[Sensor Drone] Your Sensor Drones explode dealing 600 damage and knocking back when an enemy is within 20ft.
 item_desc
 Champion Mastery Reward Vendor - Champion Chest
 Loot_Table_name
@@ -138667,13 +138667,13 @@ Buckules' Lion Slayer
 ITEM_name
 Hercules
 ITEM_short_desc
-Navi
+Na'Vi
 ITEM_name
 Navi
 ITEM_short_desc
 Obtainable in the 2018 Digital Loot Pack.
 ITEM_desc
-Navi Spitting Cobra
+Na'Vi Spitting Cobra
 ITEM_name
 Navi
 ITEM_short_desc
@@ -138695,7 +138695,7 @@ WIP Flagball
 map_game_name
 Mixer Khan
 ITEM_name
-Navi Maldamba
+Na'Vi
 ITEM_name
 SLT - Collection - Khan - Mixer
 Loot_Table_name
@@ -139084,11 +139084,11 @@ Heave Away
 item_name
 [Broadside] Broadside increases your reload speed by {scale=8|8}% for 5s
 item_desc
-[Harpoon] Harpoon Deals bonus Damage to Shields
+[Harpoon] Reduced Harpoon Cooldown
 item_short_desc
 Hull Piercer
 item_name
-[Harpoon] Harpoon Deals {scale=75|75}% increased Damage to Shields.
+[Harpoon] Reduce the cooldown of Harpoon by {scale=1|1}s.
 item_desc
 [Harpoon] Heal when hitting with Harpoon
 item_short_desc
@@ -139096,11 +139096,11 @@ Mortal Skewer
 item_name
 [Harpoon] Heal for {scale=80|80} Health when hitting Harpoon.
 item_desc
-[Harpoon] Using Harpoon generates ammo.
+[Harpoon] Hitting Harpoon generates ammo.
 item_short_desc
 Cursed Weaponry
 item_name
-[Harpoon] Using Harpoon generates {scale=1|1} ammo.
+[Harpoon] Hitting with Harpoon generates {scale=1|1} ammo.
 item_desc
 [Harpoon] Increase the strength of Harpoon's Slow
 item_short_desc
@@ -139208,7 +139208,7 @@ Plank Walker
 item_name
 [Short Cut] Heal for {scale=100|100} Health when traveling through a Short Cut.
 item_desc
-20% off Dark Tides Bundles
+20% Off Next Dark Tides Bundle
 ITEM_name
 Get 20% off you next Dark Tides Bundle purchase!
 ITEM_desc
@@ -139476,7 +139476,7 @@ Golden Dredge
 ITEM_name
 Golden Howitzer
 ITEM_name
-Available for purchase at Mastery Level 20.
+Available for purchase at Mastery Level 50.
 ITEM_desc
 Golden Dredge
 ITEM_name
@@ -139534,7 +139534,7 @@ The Salty
 ITEM_name
 Admiral Dredge ruled the eight oceans as as the Realm's most feared pirate, until one final treasure led to his doom. Dredge stole the Warders' relics from the Paladins, but could not tame the dragons' might. His ship was destroyed, his crew scattered, and Dredge sank to certain death in the the ocean's depths. The Abyss intervened and bore Dredge back into the Realm of the living. Now the undead admiral sails the seas again. And none will take his treasure.
 BOT_lore
-Every 0.7s fire an explosive projectile that deals 800 damage. Reloading fires a slow traveling projectile that deals 1000 damage.
+Every 0.7s fire an explosive projectile that deals 850 damage. Reloading fires a slow traveling projectile that deals 1000 damage.
 item_desc
 Fire three projectiles that each deal 950 Damage after a 2s fuse.
 item_desc
@@ -139752,6 +139752,12 @@ Dark Tides Large Exchange
 ITEM_desc
 Gold
 ITEM_name
+Marauder's Port
+map_game_friendly_name
+Practice Marauder's Port (Onslaught) 
+map_game_name
+Play 25 games in Ranked Season 2 Winter Split.
+ITEM_desc
 None
 VV_TEXT
 Patrol
@@ -143401,7 +143407,7 @@ Template includes player mapped to invalid task force.
 CUSTOM_TEMPLATE_INVALID_TASK_FORCE
 Template task force size exceeds match rules.
 CUSTOM_TEMPLATE_TASK_FORCE_TOO_LARGE
-Invalid account information.
+Unable to access account.
 Login Missing Account
 Something went wrong during login.  Please try again!
 Login Failed Vague
@@ -143453,3 +143459,15 @@ We were unable to link this Steam User to your account.
 Link Dual Auth Steam Error Vague
 Fear
 VV_text
+Requires handling in another service.
+Login Link Auth Transfer
+We were unable to link your accounts.
+Link_Internal_Accounts_Failed
+Cannot link accounts: your target account is not linked to a Hi-Rez account.
+Account Link Target Is Anonymous
+Specified two factor code @@TWO_FACTOR_CODE@@ invalid.
+LOGIN_FAILED_TWOFACTOR_INVALID
+We're currently unable to create new accounts of that type.
+Account_Create_Disabled_For_Type
+Only one of each account type may be linked together.
+Account Link Must Be Different Type
