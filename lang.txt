@@ -392,6 +392,7 @@ Help!
 VMTN_TEMP_V_HALP
 Yes.
 VMTN_TEMP_V_YES
+No.
 VMTN_TEMP_V_NO
 VoiceMacro:
 VMTN_TEMP_ROOT
@@ -636,6 +637,7 @@ SETTINGS_CHANGE_REQURES_RESTART
 Some settings will become active after restarting.
 SETTINGS_CHANGE_REQUIRES_RESTART_NAG
 GENERAL_OK
+Low
 SETTINGS_VQSLIDER_1
 Medium
 SETTINGS_VQSLIDER_2
@@ -713,6 +715,7 @@ Victory
 MISSION_END_WIN
 Defeat
 MISSION_END_LOSE
+Tie
 MISSION_END_TIE
 LOADING...
 UI_Map_Loading
@@ -1381,6 +1384,7 @@ Accepted
 LFG_MISSION_ACCEPTED
 Declined
 LFG_MISSION_DECLINED
+Dye
 ACHIEVEMENT_UNLOCK_TYPE_DYE
 Flair
 ACHIEVEMENT_UNLOCK_TYPE_FLAIR
@@ -1981,6 +1985,7 @@ Bid Price
 UII_Label_CurrentBid
 Remaining Time
 UI_Label_RemainingTime
+Bid
 UI_Label_Bid
 Place Bid
 UI_Label_PLACEBID
@@ -2048,6 +2053,7 @@ Convert To Raid
 UI_Button_ConvertToRaid
 Convert To Strikeforce
 UI_Button_ConvertToStrikeforce
+Add
 UI_Button_Add
 Player Capacity
 UI_Label_PlayerCapacity
@@ -2059,6 +2065,7 @@ Size Per
 UI_Label_SizePer
 Inventory
 UI_Label_Inventory
+GEN
 UI_Label_GEN
 ITEM
 UI_Label_ITEM
@@ -2368,6 +2375,7 @@ Damage per Second
 UI_TOOLTIP_DPSECOND
 Damage Duration
 UI_TOOLTIP_DAMDURATION
+ft.
 UI_TOOLTIP_FT
 Repair per Shot
 UI_TOOLTIP_RPSHOT
@@ -2409,6 +2417,7 @@ Teamed
 UI_STATUS_TEAMED
 No Team
 UI_STATUS_NO_TEAM
+Any
 UI_COMBO_ANY
 Armor
 UI_Armor
@@ -2516,6 +2525,7 @@ Quantity
 UI_Quantity
 Type
 UI_Type
+Gen
 UI_Gen
 Quality
 UI_Quality
@@ -2782,6 +2792,7 @@ Reply
 UI_Reply
 Take All
 UI_TakeAll
+To:
 UI_To:
 Subject:
 UI_Subject:
@@ -2795,6 +2806,7 @@ Mail
 UI_Mail
 The territory is not under attack.
 Hex no attacker
+Yes
 UI_Button_Yes
 UI_Button_No
 The territory is currently locked down, you cannot bid on it at this time.
@@ -2875,7 +2887,9 @@ Item
 UI_Item
 Time Left
 UI_TimeLeft
+Buy
 UI_Buyout
+Bid
 UI_Bid
 Press @@string_value@@ to view
 UI_COMBAT_ALERT_ACTIVATE
@@ -2963,6 +2977,7 @@ Alliance Strike Force Options
 UI_AllianceStrikeForceOptions
 AvA Looking For Group
 UI_ConquestLookingForGroup
+LFG
 UI_LFG
 Cancelling your bid will cause you to forfeit your bid money.  Are you sure you want to cancel your bid?
 UI_LABEL_CONFIRM_CANCEL_BID
@@ -3071,6 +3086,7 @@ This vendor sells Uncommon upgrade blueprints for starting crafters to use.
 ui_volume_desc
 This vendor sells Uncommon upgrade blueprints for starting crafters to use. 
 ui_volume_summary
+AvA
 UI_AvA
 Outcome
 UI_Outcome
@@ -3078,6 +3094,7 @@ Attacked By
 UI_AttackedBy
 Owners
 UI_Owners
+Hex
 UI_Hex
 Time To:
 UI_TimeTo:
@@ -3265,6 +3282,7 @@ This option will increase the game's demands on your computer's CPU and provide 
 SETTINGS_VIDEO_AMBIENTOCCLUSION_TIP
 This will reset your video settings to their default values. Proceed?
 SETTINGS_VIDEO_RESET_CONFIRM
+Low
 SETTINGS_VIDEO_COMBOBOX_LOW
 Medium
 SETTINGS_VIDEO_COMBOBOX_MEDIUM
@@ -3278,6 +3296,7 @@ Anisotropic
 SETTINGS_VIDEO_COMBOBOX_ANISOTROPIC
 SETTINGS_VIDEO_COMBOBOX_1X
 SETTINGS_VIDEO_COMBOBOX_4X
+16x
 SETTINGS_VIDEO_COMBOBOX_16X
 You cannot invite any more agencies to your alliance.  You are at the cap of @@count@@.
 ALLIANCE_OVER_AGENCY_LIMIT
@@ -3455,6 +3474,7 @@ DAMAGE_INFO_HEAL_OVERHEAL
 DAMAGE_INFO_STATUS
 ^@@int_value@@^
 DAMAGE_INFO_BONUS_POINTS
+you
 MSG_COMBAT_YOU
 your @@source_name@@
 MSG_COMBAT_SOURCE_YOU
@@ -3865,6 +3885,7 @@ Openings
 UI_Openings
 Current Agents
 UI_CureentAgents
+CTR
 UI_CTR
 Defense
 UI_Defense
@@ -4082,6 +4103,7 @@ UI_AutoGen_100
 Announcements for Global Agenda
 UI_AutoGen_101
 UI_AutoGen_102
+All
 UI_AutoGen_103
 Assign as Title
 UI_AutoGen_104
@@ -4285,6 +4307,7 @@ Component
 UI_AutoGen_203
 Required
 UI_AutoGen_204
+Own
 UI_AutoGen_205
 Tree 1
 UI_AutoGen_206
@@ -4368,6 +4391,7 @@ Mouse Sensitivity
 UI_AutoGen_245
 From:
 UI_AutoGen_246
+PvP
 UI_AutoGen_247
 MERCENARY
 UI_AutoGen_248
@@ -4379,6 +4403,7 @@ BONUS CREDITS: 0
 UI_AutoGen_251
 PvP - PAYLOAD
 UI_AutoGen_252
+PvE
 UI_AutoGen_253
 LOW SECURITY
 UI_AutoGen_254
@@ -4626,6 +4651,7 @@ Absorbed
 UI_AutoGen_375
 Class/Level/Name
 UI_AutoGen_376
+Dmg
 UI_AutoGen_377
 Buffs
 UI_AutoGen_378
@@ -4701,6 +4727,7 @@ Defended
 UI_AutoGen_413
 WWWWWWWWWW
 UI_AutoGen_414
+FCT
 UI_AutoGen_415
 00:00 a
 UI_AutoGen_416
@@ -4783,6 +4810,7 @@ UI_AutoGen_454
 UI_AutoGen_455
 Your Current Items For Sale
 UI_AutoGen_456
+MIN
 UI_AutoGen_457
 character
 UI_AutoGen_458
@@ -5020,6 +5048,7 @@ top agents
 UI_AutoGen_574
 XP from Points
 UI_AutoGen_575
+Pts
 UI_AutoGen_576
 Total Points
 UI_AutoGen_577
@@ -5353,6 +5382,7 @@ Alliance Channel - /al
 UI_AutoGen_678
 Raid Channel - /rg
 UI_AutoGen_679
+BOT
 UI_AutoGen_680
 Some general description is loaded here to describe this in some kind of detail. Yeah
 UI_AutoGen_681
@@ -5390,6 +5420,7 @@ REQUIRED SKILL
 UI_AutoGen_697
 SHOTGUN
 UI_AutoGen_698
+80%
 UI_AutoGen_699
 10 PHY
 UI_AutoGen_700
@@ -5421,6 +5452,7 @@ Stun
 UI_AutoGen_714
 550ft
 UI_AutoGen_715
+15s
 UI_AutoGen_716
 You are missing ammo for this device.
 UI_AutoGen_717
@@ -5494,6 +5526,7 @@ PASSIVE EFFECTS
 UI_AutoGen_751
 SITUATIONAL EFFECTS
 UI_AutoGen_752
+80m
 UI_AutoGen_753
 RADIUS
 UI_AutoGen_754
@@ -5501,6 +5534,7 @@ RANGE
 UI_AutoGen_755
 Pack
 UI_AutoGen_756
+Kit
 UI_AutoGen_757
 Press ESCAPE to continue
 UI_AutoGen_758
@@ -5692,6 +5726,7 @@ Speaker Volume
 UI_AutoGen_853
 Mic Gain
 UI_AutoGen_854
+Buy
 UI_AutoGen_855
 SELECT A BEACON
 UI_AutoGen_856
@@ -5713,6 +5748,7 @@ LoLIA
 UI_AutoGen_864
 KittyHero
 UI_AutoGen_865
+Nem
 UI_AutoGen_866
 Obj. Pts.
 UI_AutoGen_867
@@ -5820,6 +5856,7 @@ Please enter the name of the Player belonging to an Agency you would like to inv
 UI_AutoGen_918
 Welcome to Global Agenda!  We hope you enjoy your new agency.
 UI_AutoGen_919
+0/0
 UI_AutoGen_920
 01/01/1989
 UI_AutoGen_921
@@ -5920,6 +5957,7 @@ Mercenary
 UI_Mercenary
 30 seconds remaining to capture Particle Forge!
 UI_OpenworldPvP_PForge30secsleft
+LFG
 CC_LFG_INITIALS
 Combine
 UI_Combine
@@ -6173,6 +6211,7 @@ Test Quest Giver
 ui_volume_name
 This person wants something from you.
 ui_volume_desc
+TQG
 ui_volume_summary
 Test Quest Giver 2
 ui_volume_name
@@ -6705,6 +6744,7 @@ ui_volume_name
 ui_volume_desc
 Coming Soon - The Sonoran Wastes
 ui_volume_summary
+AvA
 UI_AvA
 Tokens
 UI_Tokens
@@ -6818,6 +6858,7 @@ This vendor sells Robotics Gear for Conquest Tokens.
 ui_volume_summary
 Mercenary:
 UI_Mercenary:
+AvA
 UI_Conquest
 Max Health
 property_ui_name
@@ -7035,6 +7076,7 @@ Please enter the amount of this time you would like to add:
 UI_CONFIRM_INVENTORY_POPUP
 Please confirm that you would like to add this item:
 UI_CONFIRM_INVENTORY_POPUP_SINGLE
+Add
 UI_CONFIRM_INVENTORY_POPUP_ADD
 Purchase
 UI_CONFIRM_PURCHASE
@@ -8204,6 +8246,7 @@ Some smidgen of dialog may go here.
 ui_volume_summary
 Test Interaction Volume
 ui_volume_name
+Hi!
 ui_volume_desc
 This volume should pop the dialog.
 ui_volume_summary
@@ -8213,11 +8256,13 @@ This one should not pop the dialog.
 ui_volume_summary
 Test Interaction Volume
 ui_volume_name
+Hi!
 ui_volume_desc
 This volume should pop the dialog.
 ui_volume_summary
 Test Interaction Volume
 ui_volume_name
+Hi!
 ui_volume_desc
 This volume should pop the dialog.
 ui_volume_summary
@@ -8707,6 +8752,7 @@ Crafting-Skills
 STAT_SCREEN_CRAFTING_SKILLS_BUTTON
 Generation
 ITEM_GENERATION
+All
 CHAT_TABS_ALL
 Agencies
 CHAT_TABS_AGENCIES
@@ -8824,6 +8870,7 @@ ThumbMouseButton2
 SETTINGS_KEY_ThumbMouseButton2
 BackSpace
 SETTINGS_KEY_BackSpace
+Tab
 SETTINGS_KEY_Tab
 Enter
 SETTINGS_KEY_Enter
@@ -8839,6 +8886,7 @@ PageUp
 SETTINGS_KEY_PageUp
 PageDown
 SETTINGS_KEY_PageDown
+End
 SETTINGS_KEY_End
 Home
 SETTINGS_KEY_Home
@@ -8865,6 +8913,7 @@ SETTINGS_KEY_Eight
 SETTINGS_KEY_Nine
 Multiply
 SETTINGS_KEY_Multiply
+Add
 SETTINGS_KEY_Add
 Subtract
 SETTINGS_KEY_Subtract
@@ -8928,6 +8977,7 @@ This terminal will change you to the opposing team.
 ui_volume_summary
 Level Required: @@Level@@
 UI_LEVEL_REQUIRED
+All
 UI_CHAT_GROUP_ALL
 Agencies
 UI_CHAT_GROUP_AGENCIES
@@ -9353,11 +9403,13 @@ UI_AutoGen_950
 UI_AutoGen_951
 CONQUEST
 UI_AutoGen_952
+PvP
 UI_AutoGen_953
 4v4 ARENA
 UI_AutoGen_954
 MERCENARY
 UI_AutoGen_955
+PvE
 UI_AutoGen_956
 DOUBLE AGENT
 UI_AutoGen_957
@@ -9423,6 +9475,7 @@ Allies Under Attack
 UI_AutoGen_987
 Power Low!
 UI_AutoGen_988
+LFG
 UI_AutoGen_989
 Blah, Blah
 UI_AutoGen_990
@@ -9942,6 +9995,7 @@ Nexus
 objective_text
 SummonersRift_NavMeshTest
 NAME_MSG_ID
+God
 2014-JAN-27-REBUILT_MSG_100649
 Zeus Charge
 2014-JAN-27-REBUILT_MSG_100650
@@ -10022,7 +10076,9 @@ Heaven's Will I
 property_ui_name
 VesuviusTESTMC
 NAME_MSG_ID
+Ves
 FRIENDLY_NAME_MSG_ID
+Ves
 FRIENDLY_NAME_MSG_ID
 Cooldown %
 property_ui_name
@@ -11285,9 +11341,11 @@ Penetration % - Physical
 property_ui_name
 Health
 property_ui_name
+HP5
 property_ui_name
 Mana
 property_ui_name
+MP5
 property_ui_name
 Phoenix
 BOT_name
@@ -11430,6 +11488,7 @@ Flaming Boulder
 item_name
 zDeprecated (Lava Flow)
 item_name
+Hel
 BOT_name
 Auto
 DEVICE_desc
@@ -11683,6 +11742,7 @@ Right
 VGS_menu
 [@@string_value@@] Gank right lane!
 VGS_output
+MIA
 VGS_menu
 MIA!
 VGS_menu
@@ -11722,9 +11782,11 @@ Help
 VGS_menu
 Help!
 VGS_output
+BRB
 VGS_menu
 [@@string_value@@] Be right back!
 VGS_output
+AFK
 VGS_menu
 [@@string_value@@] Stepping away for a moment.
 VGS_output
@@ -11840,6 +11902,7 @@ Hades
 ITEM_name
 He Bo
 ITEM_name
+Hel
 ITEM_name
 Kali
 ITEM_name
@@ -12499,6 +12562,7 @@ Thanks!
 VGS_menu
 [@@string_value@@] Thanks!
 VGS_output
+Ok!
 VGS_menu
 [@@string_value@@] Ok!
 VGS_output
@@ -12528,11 +12592,13 @@ Zoom Out
 SETTINGS_CONTROLS_MOVEMENT_ZOOM_OUT
 Free Mouse
 SETTINGS_CONTROLS_INTERFACE_FREE_MOUSE
+Map
 SETTINGS_CONTROLS_INTERFACE_MAP
 Skill Screen
 SETTINGS_CONTROLS_INTERFACE_SKILL_SCREEN
 Item Store
 SETTINGS_CONTROLS_INTERFACE_ITEM_STORE
+VGS
 SETTINGS_CONTROLS_INTERFACE_VGS
 Death Recap
 SETTINGS_CONTROLS_INTERFACE_DEATH_RECAP
@@ -12550,9 +12616,11 @@ Emotes
 VGS_menu
 Other
 VGS_menu
+Yes
 VGS_menu
 [@@string_value@@] Yes!
 VGS_output
+No!
 VGS_menu
 [@@string_value@@] No!
 VGS_output
@@ -13150,6 +13218,7 @@ Statue
 property_ui_name
 Relic
 property_ui_name
+Oil
 property_ui_name
 Incense
 property_ui_name
@@ -14233,6 +14302,7 @@ Quiet!
 VGS_menu
 [@@string_value@@] Hi!
 VGS_output
+Hi!
 VGS_menu
 [@@string_value@@] Out of mana!
 VGS_output
@@ -15199,9 +15269,13 @@ Ally structures are invulnerable
 item_short_desc
 Detonate, dealing damage to self and nearby targets (including structures)
 DEVICE_desc
+CTF
 map_game_friendly_name
+CTF
 map_game_name
+CTF
 map_game_friendly_name
+CTF
 map_game_name
 Ares throws chains out to all enemy gods in an area around him. All enemies hit by the chains are pulled to Ares after 2.5s, taking @@tooltip_hit_damage@@ (@@tooltip_hit_magical_power_bonus@@) magical damage and are stunned for 1s + .3s for each enemy god chained.
 DEVICE_desc
@@ -19658,6 +19732,7 @@ World Weaver
 item_name
 Vulcan Pet Passive Protections
 item_name
+Hit
 EFFECT_GROUP_name
 {"itemDescription":{"description":"Neith charges up and fires an arrow across the world, seeking its target through obstacles.  Enemy gods take damage and are stunned.  The arrow can be fired quicker for diminished results.","secondaryDescription":"","menuitems": [{"description":"Ability:", "value":"Projectile"},{"description":"Affects:", "value":"Enemy"},{"description":"Damage:", "value":"Physical"}],"rankitems": [{"description":"Damage:", "value":"!{rankprog:230,295,360,425,490}! (!{pexists:!{pprop:1007,1.20,+#}!,+120% of your physical power}!)"},{"description":"Stun:", "value":"!{rankprog:1.1,1.2,1.3,1.4,1.5}!s"}],"cooldown":"!{rankprog:90}!s","cost":"!{rankprog:80,90,100,110,120}!"}}
 item_desc
@@ -19950,7 +20025,9 @@ Enemy
 TOK_ENEMY
 Your
 TOK_YOUR
+`CT
 TOK_TEAM_BLUE
+`CT
 TOK_TEAM_RED
 `CT has
 TOK_TEAM_RED_HAS
@@ -20777,8 +20854,12 @@ He_Bo
 He_Bo
 Hel Act Queue Wins
 Hel Act Queue Wins
+Hel
+Hel
 Hel Act Queue Stats
 Hel Act Queue Stats
+Hel
+Hel
 Kali Act Queue Wins
 Kali Act Queue Wins
 Kali
@@ -21685,6 +21766,7 @@ Conquest Greek
 map_game_friendly_name
 Conquest Greek
 map_game_name
+Sup
 Match_Queue_desc
 BETA Conquest
 Match_Queue_name
@@ -21753,6 +21835,7 @@ Vesuvius- Tutorial
 map_game_friendly_name
 Vesuvius Tutorial
 map_game_name
+Ves
 map_game_friendly_name
 Vesuvius PIE
 map_game_name
@@ -21772,6 +21855,7 @@ Vesuvius Joust Arena
 map_game_friendly_name
 Vesuvius Joust Arena - old
 map_game_name
+Ves
 map_game_friendly_name
 Vesuvius PIE - old
 map_game_name
@@ -22389,7 +22473,9 @@ item_short_desc
 item_desc
 Shielded Recall
 item_name
+Hit
 EFFECT_GROUP_name
+Hit
 EFFECT_GROUP_name
 Yep. It's no.
 DEVICE_desc
@@ -23165,6 +23251,7 @@ Vesuvius_V5_P
 map_game_friendly_name
 Vesuvius_V5_P
 map_game_name
+Yo.
 Match_Queue_desc
 DELTA Conquest
 Match_Queue_name
@@ -23224,6 +23311,7 @@ Faerie Fire
 EFFECT_GROUP_name
 Hun Batz Basic Attack
 item_name
+Tyr
 BOT_name
 the Lawgiver
 BOT_desc
@@ -23636,6 +23724,7 @@ Tyr leaps through the air, damaging all enemies in the target area for 375 ({ppr
 DEVICE_desc
 Tyr leaps through the air, damaging all enemies in the target area for 450 ({pprop:1007,1.2,+#}) physical damage.
 DEVICE_desc
+Tyr
 ITEM_name
 Tyr Rental
 ITEM_name
@@ -27117,6 +27206,7 @@ item_name
 item_desc
 Shift
 SETTINGS_KEY_Shift_Modifier
+Alt
 SETTINGS_KEY_Alt_Modifier
 Ctrl
 SETTINGS_KEY_Control_Modifier
@@ -27412,9 +27502,11 @@ Gain lifesteal when at low health.
 item_short_desc
 {"itemDescription":{"description":"This item gives increased physical lifesteal when at low health.","menuitems": [{"value":"+15%", "description":"Physical Lifesteal"},{"value":"+30%", "description":"Attack Speed"},{"value":"+15", "description":"Physical Penetration"}],"secondaryDescription":"PASSIVE - If you drop below 35% Health, you gain an additional 25% physical lifesteal for 5 seconds.  Can only occur once every 15 seconds."}}
 item_desc
+Asi
 item_name
 Your lifesteal is increased by 25%.
 EFFECT_GROUP_desc
+Asi
 EFFECT_GROUP_name
 Gain lifesteal when at low health
 item_short_desc
@@ -27424,6 +27516,7 @@ Draining Blade
 item_name
 Your lifesteal is increased by 25%.
 EFFECT_GROUP_desc
+Asi
 EFFECT_GROUP_name
 Gain lifesteal when at low health
 item_short_desc
@@ -27553,6 +27646,7 @@ Mortal
 League_Tier_name
 Demi-God
 League_Tier_name
+God
 League_Tier_name
 Ground Speed Increased 10%
 EFFECT_GROUP_desc
@@ -28175,10 +28269,12 @@ VV_text
 Basic Attack Damage
 property_ui_name
 Nu Wa Fog Stealth
+Fog
 Stealth
 EFFECT_GROUP_name
 Prevent Stealth
 Nu Wa Fog Damage 1
+Fog
 Nu Wa Fog
 BOT_name
 Type /r [name] [msg] to reply to private messages
@@ -29449,6 +29545,7 @@ Dash hit
 EFFECT_GROUP_name
 Dash hit
 EFFECT_GROUP_name
+Geb
 BOT_name
 God of Earth
 BOT_desc
@@ -29468,6 +29565,7 @@ Immune to Crowd Control effects
 EFFECT_GROUP_desc
 Frenzy
 EFFECT_GROUP_name
+Geb
 ITEM_name
 Geb Rental
 ITEM_name
@@ -32123,6 +32221,7 @@ Next God
 ITEM_name
 Freya
 ITEM_name
+Geb
 ITEM_name
 Guan Yu
 ITEM_name
@@ -32130,6 +32229,7 @@ Hades
 ITEM_name
 He Bo
 ITEM_name
+Hel
 ITEM_name
 Hercules
 ITEM_name
@@ -32164,6 +32264,7 @@ Thanatos
 ITEM_name
 Thor
 ITEM_name
+Tyr
 ITEM_name
 Vamana
 ITEM_name
@@ -32564,6 +32665,7 @@ Cloud 9
 ITEM_name
 Coast
 ITEM_name
+COG
 ITEM_name
 Denial E Sports
 ITEM_name
@@ -34876,6 +34978,7 @@ Custom Value 1: Floor deployable id.
 Custom Value 2: Persist time. 
 Custom Value 3: Max wall portal distance.
 DEVICE_desc
+Ram
 BOT_name
 Device that the floor portal deployable uses.
 item_desc
@@ -34939,6 +35042,7 @@ Janus Floor Portal
 Deployable_desc
 Standard Ram
 ITEM_name
+Ram
 ITEM_name
 Rama Rental
 ITEM_name
@@ -35641,6 +35745,7 @@ Enemies protections are lowered
 EFFECT_GROUP_desc
 Circle of Protection
 EFFECT_GROUP_name
+Ram
 ITEM_name
 CustomValue1 - Percentage of radius for 1 ammo
 CustomValue2 - Percentage of radius for 2 ammo
@@ -36214,7 +36319,9 @@ Bomb Deployable
 Deployable_name
 Hurricane Bomb
 item_name
+CTF
 map_game_friendly_name
+CTF
 map_game_name
 Maya
 map_game_friendly_name
@@ -36460,6 +36567,7 @@ Purification Beads
 EFFECT_GROUP_name
 Protection - OnFire
 property_ui_name
+Pip
 BOT_name
 Skye
 BOT_name
@@ -36672,6 +36780,7 @@ Distant Strike
 item_name
 Increase the Assault Rifle's range by 20%, projectile speed by 100, and accuracy by +2%.
 item_desc
+SMG
 item_short_desc
 Fernando
 BOT_name
@@ -36735,9 +36844,11 @@ TEST DEVICE FOR KNOCKUP
 EFFECT_GROUP_desc
 TEST DEVICE FOR KNOCKUP
 EFFECT_GROUP_name
+EMP
 item_short_desc
 [TEST] EMP Grenade
 item_name
+EMP
 item_desc
 KNOCKBACK
 item_short_desc
@@ -36827,6 +36938,7 @@ A basic rocket launcher, effective at long range.
 item_desc
 A basic pistol, used mostly for executions.
 item_desc
+SMG
 item_desc
 A basic submachine gun, effective at short to medium range.
 item_desc
@@ -37132,6 +37244,7 @@ Cassie
 ITEM_name
 Priestess
 ITEM_name
+Pip
 ITEM_name
 Grohk
 ITEM_name
@@ -59872,6 +59985,7 @@ Page
 PALADINS_Page
 Filter
 PALADINS_Filter
+All
 PALADINS_All
 Weapon
 PALADINS_Weapon
@@ -59928,11 +60042,13 @@ Windowed
 PALADINS_Windowed
 Borderless Window
 PALADINS_Borderless
+Off
 PALADINS_Off
 Disabled
 PALADINS_Disabled
 Enabled
 PALADINS_Enabled
+Low
 PALADINS_Low
 Medium
 PALADINS_Medium
@@ -71272,6 +71388,7 @@ Weakening Poison
 EFFECT_GROUP_name
 stacking slow
 DEVICE_desc
+16%
 DEVICE_name
 Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
@@ -72097,9 +72214,11 @@ VGS_menu
 VGS_output
 Other
 VGS_menu
+BRB
 VGS_menu
 [@@string_value@@] Be right back!
 VGS_output
+AFK
 VGS_menu
 [@@string_value@@] Stepping away for a moment
 VGS_output
@@ -72107,6 +72226,7 @@ Thanks!
 VGS_menu
 [@@string_value@@] Thanks!
 VGS_output
+Ok!
 VGS_menu
 [@@string_value@@] Ok!
 VGS_output
@@ -72118,6 +72238,7 @@ Cancel that!
 VGS_menu
 [@@string_value@@] Cancel that!
 VGS_output
+Yes
 VGS_menu
 [@@string_value@@] Yes!
 VGS_output
@@ -72138,6 +72259,7 @@ VGS_menu
 VGS_output
 General
 VGS_menu
+Bye
 VGS_menu
 [@@string_value@@] Bye
 VGS_output
@@ -74336,6 +74458,7 @@ Natural Selection
 item_name
 [Nature's Grasp] Enemies take 20% increased damage for 3s after being hit by Nature's Grasp.
 item_desc
+Sap
 item_name
 [Nature's Grasp] Enemies are slowed by 30% for 3s after being hit by Nature's Grasp.
 item_desc
@@ -75108,6 +75231,7 @@ item_name
 item_desc
 Pickup/Drop Beacon
 SETTINGS_CONTROLS_INTERFACE_BEACON
+FOV
 PALADINS_FOV
 Deploy a Transporter that teleports you to its location after a short duration.
 item_desc
@@ -76645,6 +76769,7 @@ Teams
 PALADINS_TEAMS
 Combat Log
 PALADINS_COMBATLOG
+HUD
 PALADINS_HUD
 +4% Slow * Poison Bolts
 item_short_desc
@@ -77135,7 +77260,7 @@ item_desc
 Fire Spit
 item_name
 Spit out a loogie. Enemies hit by your flammable saliva take 150 damage and receive 30% additional damage from your attacks for 4s. 
-Bonus Damage: Shoot your Fire Spit to cause an explosion that deals 1000 damage.
+Bonus Damage: Shoot your Fire Spit to cause an explosion that deals 900 damage.
 item_desc
 {1} Ammo * Defiance
 item_short_desc
@@ -82882,6 +83007,7 @@ Old Weakening Poison II
 item_name
 [Poison Bolts] Poison Bolt shots apply a 8% stacking slow for 3s. Max 3 stacks.
 item_desc
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82889,6 +83015,7 @@ Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
 Weakening Poison
 EFFECT_GROUP_name
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82896,6 +83023,7 @@ Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
 Weakening Poison
 EFFECT_GROUP_name
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82903,6 +83031,7 @@ Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
 Weakening Poison
 EFFECT_GROUP_name
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82916,6 +83045,7 @@ Old Weakening Poison III
 item_name
 [Poison Bolts] Poison Bolt shots apply a 12% stacking slow for 3s. Max 3 stacks.
 item_desc
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82923,6 +83053,7 @@ Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
 Weakening Poison
 EFFECT_GROUP_name
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82930,6 +83061,7 @@ Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
 Weakening Poison
 EFFECT_GROUP_name
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82937,6 +83069,7 @@ Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
 Weakening Poison
 EFFECT_GROUP_name
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82950,6 +83083,7 @@ Old Weakening Poison IV
 item_name
 [Poison Bolts] Poison Bolt shots apply a 16% stacking slow for 3s. Max 3 stacks.
 item_desc
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82957,6 +83091,7 @@ Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
 Weakening Poison
 EFFECT_GROUP_name
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82964,6 +83099,7 @@ Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
 Weakening Poison
 EFFECT_GROUP_name
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -82971,6 +83107,7 @@ Your Movement Speed is Slowed.
 EFFECT_GROUP_desc
 Weakening Poison
 EFFECT_GROUP_name
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -85316,11 +85453,11 @@ Glacier Keep V2 CAP
 map_game_name
 ZDelete Payload
 MSL_name
-Ice (Payload)
+Rush (Siege)
 Match_Queue_short_desc
-Ice (Payload)
+Rush (Siege)
 Match_Queue_name
-Ice (Payload)
+Rush (Siege)
 Match_Queue_desc
 Cutthroat
 ITEM_desc
@@ -85452,7 +85589,9 @@ Throw a sticky bomb that will stick to any surface for 60s.
 item_desc
 Claim
 UI_CLAIM
+one
 one_label
+two
 two_label
 three
 three_label
@@ -85462,6 +85601,7 @@ four
 four_label
 five
 five_label
+six
 six_label
 seven
 seven_label
@@ -85731,7 +85871,7 @@ LIVE Test Maps
 MSL_name
 Arid v3
 Match_Queue_short_desc
-WIP Arid Siege
+WIP Arid Siege 
 Match_Queue_name
 Arid v3
 Match_Queue_desc
@@ -85965,6 +86105,7 @@ Combo - Bomb King
 item_name
 For each subsequent sticky bomb that hits a target after the first, it deals 30% more damage.
 item_desc
+New
 PALADINS_NEW
 Please wait...
 PALADINS_PLEASE_WAIT
@@ -86118,6 +86259,7 @@ E3 Digital Ticket Humble Bundle
 Loot_Table_desc
 Champion
 PALADINS_CHAMPION
+Ult
 PALADINS_ULT
 Barrage Deployable
 Deployable_name
@@ -86590,9 +86732,11 @@ Temple Ruins
 map_game_friendly_name
 Temple Ruins Survival
 map_game_name
+TRX
 map_game_friendly_name
 TRX Capture and Payload
 map_game_name
+EFX
 map_game_friendly_name
 EFX Capture and Payload
 map_game_name
@@ -87022,6 +87166,7 @@ Duration
 PALADINS_DURATION
 Details
 PALADINS_DETAILS
+Win
 PALADINS_WIN
 Loss
 PALADINS_LOSS
@@ -89794,7 +89939,7 @@ Aruba
 ITEM_desc
 Aruba Cannon
 ITEM_name
-Voodoo Totem Device
+Dread Serpent Device
 item_name
 Device for Maldune's Voodoo's Grasp (ult) Totem to fire upon spawning. Used to apply a slow and mark targets for hit replication.
 item_desc
@@ -91883,6 +92028,7 @@ Enchanted Forest
 map_game_friendly_name
 zDELETE FMv1 Survival
 map_game_name
+EFX
 map_game_friendly_name
 zDELETE EFX Siege
 map_game_name
@@ -92018,6 +92164,7 @@ SLT - Mad Scientist
 Loot_Table_name
 SLT - Raider Pip
 Loot_Table_name
+MMR
 PALADINS_MMR
 RANK
 PALADINS_RANK
@@ -92046,6 +92193,7 @@ TOTAL WINS
 PALADINS_TOTALWINS
 NEXT LEVEL
 PALADINS_NEXTLEVEL
+LVL
 PALADINS_LVL
 TIME PLAYED
 PALADINS_TIMEPLAYED
@@ -92545,6 +92693,7 @@ Obtainable in the Radiant Chest.
 ITEM_desc
 Beast Lightning Staff
 ITEM_name
+Red
 ITEM_desc
 Toadstool Lightning Staff
 ITEM_name
@@ -92606,17 +92755,17 @@ Bog_Market
 map_game_friendly_name
 Bog_Market
 map_game_name
-WIP Halloween Event
+WIP Hangar 18
 MSL_name
 Dock
 map_game_friendly_name
 F_Dock Ranked
 map_game_name
-WIP Halloween Event
+Hangar 18 (Siege)
 Match_Queue_short_desc
-Halloween Event
+Hangar 18 (Siege)
 Match_Queue_name
-WIP Halloween Event
+Hangar 18 (Siege)
 Match_Queue_desc
 Gauntlet
 map_game_friendly_name
@@ -92706,8 +92855,9 @@ Obtainable in the Radiant Chest.
 ITEM_desc
 Pride Rocket Launcher
 ITEM_name
+Red
 ITEM_desc
-Buccaneer's Howitzer
+Dredge WEP Skin
 ITEM_name
 Lust
 ITEM_desc
@@ -93646,6 +93796,7 @@ Team One
 PALADINS_TEAMONE
 Team Two
 PALADINS_TEAMTWO
+Map
 PALADINS_MAP
 Invites
 PALADINS_INVITES
@@ -94437,6 +94588,7 @@ Party Invite
 PALADINS_PARTY_INVITE
 Claim
 PALADINS_CLAIM
+Two
 PALADINS_TWO
 Voice Pack
 PALADINS_VOICEPACK
@@ -94576,6 +94728,7 @@ Ying
 item_short_desc
 Skye
 item_short_desc
+Pip
 item_short_desc
 Makoa
 item_short_desc
@@ -94587,6 +94740,7 @@ Ruckus
 item_short_desc
 Androxus
 item_short_desc
+Pip
 item_short_desc
 Drogoz
 item_short_desc
@@ -94606,6 +94760,7 @@ Makoa
 item_short_desc
 Barik
 item_short_desc
+Pip
 item_short_desc
 Ying
 item_short_desc
@@ -94839,6 +94994,7 @@ Saffron Foliage
 ITEM_name
 Obtainable in the Radiant Chest.
 ITEM_desc
+Red
 ITEM_desc
 Autumn Foliage
 ITEM_name
@@ -95300,7 +95456,7 @@ Plushy
 ITEM_name
 Obtainable in the Gold Chest.
 ITEM_desc
-Cuddly
+Cuddly Makoa
 ITEM_name
 SLT - Chest - Colossal - Rare
 Loot_Table_name
@@ -95772,6 +95928,7 @@ Serpent Beach
 map_game_friendly_name
 WIP T_Beach v04
 map_game_name
+Pip
 item_short_desc
 Smug Mug
 item_name
@@ -96059,6 +96216,7 @@ zDeprecated Shimmer IV
 item_name
 [Withdraw] Gain 40% damage reduction during Withdraw's stealth.
 item_desc
+Pip
 ITEM_short_desc
 ZZREDACTED Pip MVP 01
 ITEM_name
@@ -96475,6 +96633,7 @@ VGS_menu
 VGS_menu
 [@@string_value@@] Hi
 VGS_output
+Bye
 VGS_menu
 [@@string_value@@] Bye
 VGS_output
@@ -96499,6 +96658,7 @@ VGS_output
 VGS_menu
 [@@string_value@@] No
 VGS_output
+Yes
 VGS_menu
 [@@string_value@@] Yes
 VGS_output
@@ -96648,6 +96808,7 @@ Need Healing!
 VGS_menu
  [@@string_value@@] Need Healing!
 VGS_output
+FYI
 VGS_menu
 On my way!
 VGS_menu
@@ -96883,6 +97044,7 @@ Green
 ITEM_desc
 Gizmo Miniguns
 ITEM_name
+Red
 ITEM_desc
 Ruckus Skin00F
 ITEM_name
@@ -99253,6 +99415,7 @@ Axe Spin
 ITEM_desc
 Obtainable in the Gold Chest.
 ITEM_desc
+Bow
 ITEM_desc
 Bravado
 ITEM_desc
@@ -99494,6 +99657,7 @@ Ignignokt
 BOT_name
 Orc Shaman
 BOT_desc
+Err
 BOT_name
 Orc Shaman
 BOT_desc
@@ -100188,9 +100352,9 @@ Godslayer
 item_name
 [Reversal] Reversal now always fires back and deals a minimum of 800 damage.
 item_desc
-Heads Will Roll
+Cursed Cylinder
 item_name
-[Weapon] Headshots deal an additional 50% damage and your Revolver's ammo capacity is increased by 2.
+[Weapon] Your Revolver's ammo capacity is increased by 3.
 item_desc
 Over the Moon
 item_name
@@ -100284,7 +100448,7 @@ item_name
 item_desc
 Eagle Eye
 item_name
-[Weapon] Headshots deal an additional 50% damage.
+[Weapon] Headshots deal an additional 25% damage.
 item_desc
 zDeprecated (Deep Roots)
 item_name
@@ -101045,6 +101209,7 @@ WIP Isle PvE
 map_game_name
 PvE Energy Charge - Pip - Fast
 item_name
+Lex
 BOT_name
 The Hand of Justice
 BOT_desc
@@ -101100,6 +101265,7 @@ Bombshell
 item_name
 Obtainable in the Valentine's Chest.
 item_desc
+Lex
 ITEM_name
 PvE_CrossbowCherubic
 item_name
@@ -101682,7 +101848,7 @@ EFFECT_GROUP_name
 item_desc
 [Restore Soul] Increase the range of Restore Soul by 300% and the Duration by 1s.
 item_desc
-[Weapon] Each Soul Charge you detonate increases your Maximum Health and Weapon Damage by 2% until you die. Stacks up to 15 times.
+[Weapon] Each Soul Charge you detonate increases your Base Health and Weapon Damage by 2% until you die. Stacks up to 15 times.
 item_desc
 Forward
 map_game_friendly_name
@@ -102153,6 +102319,7 @@ SIEGE
 PALADINS_SIEGE
 SURVIVAL
 PALADINS_SURVIVAL
+WIP
 PALADINS_WIP
 Win 9 games as Kinessa after Unlocking the Nova Strike Collection.
 ITEM_desc
@@ -103464,16 +103631,19 @@ SLT - Collection - Fernando - FN-01 Helios
 Loot_Table_name
 DZ-03 Draco
 ITEM_name
+Lex
 item_short_desc
 Default Lex Emote
 item_name
 Appeal Denied
 item_desc
+Lex
 item_short_desc
 Deadshot
 item_name
 Obtainable in the Gold Chest.
 item_desc
+Lex
 item_short_desc
 Reach for the Sky
 item_name
@@ -103633,6 +103803,7 @@ Blade Assassin
 BOT_desc
 Lawman Jeff
 BOT_name
+Lex
 BOT_desc
 PvE_The Law_Free
 item_name
@@ -103640,7 +103811,7 @@ Seris Voice Pack
 ITEM_name
 CC Immunity & Health
 EFFECT_GROUP_desc
-Begin rapidly firing your Magnums at the nearest target to you with perfect aim. Deals 1050 damage over 1.4s. Acts as a weapon attack.
+Begin rapidly firing your Magnums at the nearest target to you with perfect aim. Deals 960 damage over 1.4s. Acts as a weapon attack.
 item_desc
 Release an infallible surge of judgement, executing targets at or below 65% Health. Targets above 65% Health will take 600 damage and be slowed for 1s.
 item_desc
@@ -103658,11 +103829,13 @@ Pursuit
 DEVICE_name
 Alt Fire for Lawman's Pursuit
 DEVICE_desc
+Ash
 BOT_name
 The War Machine
 BOT_desc
 Energy Charge - Flak
 item_name
+Ash
 ITEM_name
 Fast Spinfusor
 item_name
@@ -103788,6 +103961,7 @@ Obtainable in the Radiant Chest.
 item_desc
 Still Lex
 BOT_name
+Lex
 BOT_desc
 Sunken City
 map_game_friendly_name
@@ -104934,6 +105108,7 @@ Vulpen Alchemist
 BOT_desc
 Lawman Jeff
 BOT_name
+Lex
 BOT_desc
 Tin Can Man
 BOT_name
@@ -105383,6 +105558,7 @@ Energy Charge - Darklord
 item_name
 Whirl
 item_name
+Hit
 EFFECT_GROUP_name
 Billow
 item_name
@@ -105634,7 +105810,7 @@ Obtainable in the Summer Chest.
 ITEM_desc
 Obtainable in the Overgrown Weapons Chest.
 ITEM_desc
-Dragonfly Wristbow
+Dragonfly Wrist Crossbow
 ITEM_name
 Invader Voice Pack
 ITEM_name
@@ -105808,7 +105984,7 @@ of the Summer Court
 ITEM_name
 Fire a blast of Fae energy that deals 500 damage every 0.75s.
 item_desc
-Fire out a toxic spore that deals 100 damage and prevents all healing in an area for 5s. Enemies affected by the spore that move out of the infested area cannot be healed for 2s.
+Fire out a toxic spore that deals 100 damage and prevents all healing in an area for 5s. Enemies affected by the spore that move out of the infested area cannot be healed for 1s.
 item_desc
 Toss a seed that explodes after a 1 second fuse, dealing 400 damage and spawning 4 additional seeds that each explode for 400 damage after 1 second.
 item_desc
@@ -107477,6 +107653,7 @@ Drybear
 ITEM_name
 FoobarEntitlement
 ITEM_name
+%dm
 TENCENT_HACK_MSG1
 default
 TENCENT_HACK_MSG2
@@ -107493,6 +107670,7 @@ Dockwork
 map_game_friendly_name
 WIP Dockwork Casual
 map_game_name
+Ash
 item_short_desc
 Inferno
 item_name
@@ -107810,6 +107988,7 @@ Obtainable in the Dark Tides Event.
 ITEM_desc
 Death Speaker
 ITEM_name
+AWP
 item_name
 Strix
 BOT_name
@@ -107827,6 +108006,7 @@ Flashbang
 item_name
 Obtainable through the Founder's Pack.
 ITEM_desc
+Ash
 item_short_desc
 Aftermath
 item_name
@@ -107842,6 +108022,7 @@ Makoa Mastery Emote
 item_name
 Available for purchase at Mastery Level 9.
 item_desc
+Lex
 item_short_desc
 Lex Mastery Emote
 item_name
@@ -107871,6 +108052,7 @@ Drogoz Mastery Pose
 item_name
 Available for purchase at Mastery Level 5.
 item_desc
+Lex
 item_short_desc
 Lex Mastery Pose
 item_name
@@ -108434,6 +108616,7 @@ zOldEnlightenment Gun
 item_name
 Supporting device used by Princess's Enlightenment ult.
 item_desc
+Ash
 item_short_desc
 Give Me a Break
 item_name
@@ -108843,6 +109026,7 @@ ENT Ying Mastery Cosmic
 ITEM_name
 ENT Ying Mastery Obsidian
 ITEM_name
+Ash
 item_short_desc
 Default Ash Emote
 item_name
@@ -109176,6 +109360,7 @@ Skye Mastery Emote
 item_name
 Available for purchase at Mastery Level 9.
 item_desc
+Pip
 item_short_desc
 Pip Mastery Emote
 item_name
@@ -109201,6 +109386,7 @@ Zhin Mastery 01
 item_name
 Mastery Emote
 item_desc
+Ash
 item_short_desc
 Punch Out
 item_name
@@ -109246,6 +109432,7 @@ Skye Mastery Pose
 item_name
 Available for purchase at Mastery Level 5.
 item_desc
+Pip
 item_short_desc
 Pip Mastery Pose
 item_name
@@ -109269,6 +109456,7 @@ You have reached your daily gold limit
 Activity_Goal_desc
 Gold Limit Reached
 Activity_Goal_name
+Ash
 item_short_desc
 Ash MVP Mastery 01
 item_name
@@ -109378,6 +109566,7 @@ Freedom Magnums
 ITEM_name
 zOldAstroQ
 item_name
+Lex
 ITEM_short_desc
 Obtainable in the Summer Chest.
 ITEM_desc
@@ -109485,6 +109674,7 @@ ONSLAUGHT
 PALADINS_ONSLAUGHT
 Aiming Lex
 BOT_name
+Lex
 BOT_desc
 Aiming Maeve
 BOT_name
@@ -109638,6 +109828,7 @@ Blood Moon
 ITEM_name
 Quicksilver
 ITEM_name
+Ban
 PALADINS_BAN_CHAMP
 Choose a champion to ban
 PALADINS_YOURTURNTOBAN
@@ -110771,7 +110962,7 @@ Obtainable in the Festive Chest
 ITEM_desc
 OLD SLT - Chest - Festive - Epic Spray - Exclusive
 Loot_Table_name
-Celebrate the Season with Skins and Weapons filled with Holiday Cheer.
+Celebrate the Season with Skins filled with Holiday Cheer while spreading the joy yourself as a percent of every chest roll will go to Child's Play!
 ITEM_desc
 zOld Dire Wolf
 ITEM_name
@@ -110963,11 +111154,13 @@ Obtainable in the Samba Chest.
 ITEM_desc
 Sarrada
 ITEM_name
+Lex
 ITEM_short_desc
 Obtainable in the Samba Chest.
 ITEM_desc
 Sarrada Aviators
 ITEM_name
+MP5
 item_name
 Normal Form
 DEVICE_name
@@ -111537,6 +111730,7 @@ zDeprecated Infused Crystals IV
 item_name
 [Weapon] Increase the ammo count of both of your weapons by 4.
 item_desc
+Red
 ITEM_desc
 Millennium
 ITEM_name
@@ -111544,6 +111738,7 @@ Obtainable in the Radiant Chest.
 ITEM_desc
 Capricorn Visage
 ITEM_name
+Red
 ITEM_desc
 Millennium Visage
 ITEM_name
@@ -111551,6 +111746,7 @@ Obtainable in the Radiant Chest.
 ITEM_desc
 Capricorn Star Splitter
 ITEM_name
+Red
 ITEM_desc
 Millennium Star Splitter
 ITEM_name
@@ -111684,6 +111880,7 @@ Samba Auto Rifle
 ITEM_name
 Obtainable in the Samba Chest.
 ITEM_desc
+M16
 item_name
 M16A1
 item_name
@@ -112884,6 +113081,7 @@ Strix
 item_short_desc
 Default Strix Emote
 item_name
+HOG
 item_desc
 Obtainable in the VIP Store.
 ITEM_desc
@@ -113001,6 +113199,7 @@ Strix
 item_short_desc
 Owl Mastery MVP 01
 item_name
+MVP
 item_desc
 WIP TDM Spawn Test 
 map_game_friendly_name
@@ -114237,7 +114436,7 @@ Grave-robber's Spoils
 ITEM_name
 Obtainable in the Little Box of Horrors.
 ITEM_desc
-Ghoulish Goalie
+z--Unused--Ghoulish Goalie
 ITEM_name
 Obtainable in the Little Box of Horrors.
 ITEM_desc
@@ -114337,6 +114536,7 @@ Available for purchase at Mastery Level 20.
 ITEM_desc
 Cosmic Blunderbuss
 ITEM_name
+Lex
 item_short_desc
 Bad Cop
 item_name
@@ -114959,6 +115159,7 @@ z--Unused--Oni's Grin
 ITEM_name
 Obtainable in the Feudal Chest.
 ITEM_desc
+Oni
 ITEM_name
 Obtainable in the Feudal Chest.
 ITEM_desc
@@ -115126,6 +115327,7 @@ Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 Expo 2018 Trappings
 ITEM_name
+Pip
 item_short_desc
 Get Clucked
 item_name
@@ -115527,14 +115729,19 @@ Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 HRX 2018 Shackles
 ITEM_name
+HRX
 ITEM_short_desc
+HRX
 ITEM_desc
 Drogoz Skin00F
 ITEM_name
+HRX
 ITEM_short_desc
+HRX
 ITEM_desc
 Drogoz WEP Skin00I
 ITEM_name
+HRX
 ITEM_short_desc
 Obsidian Pip
 ITEM_name
@@ -115550,9 +115757,11 @@ Obtainable in a prior Digital Loot Pack.
 ITEM_desc
 HRX 2018 Rocket Launcher
 ITEM_name
+HRX
 ITEM_short_desc
 Old Glory
 ITEM_name
+USA
 ITEM_short_desc
 Obtainable in the World Wide Chest.
 ITEM_desc
@@ -116042,7 +116251,7 @@ Snow Owl
 ITEM_short_desc
 Obtainable in a prior Digital Loot Pack.
 ITEM_desc
-Coldsnap
+Coldsnap Strix
 ITEM_name
 Snow Owl
 ITEM_short_desc
@@ -116326,7 +116535,7 @@ item_name
 item_desc
 Shrapnel
 item_name
-[Frag Grenade] Increase Frag Grenade's AoE by 40% and deal 200 more damage.
+[Frag Grenade] Increase Frag Grenade's AoE by 40%.
 item_desc
 Revitalizing Link
 item_name
@@ -116542,6 +116751,7 @@ Magistrate's Archives (TDM)
 MSL_name
 SLT - Set - Terminus - Monolith
 Loot_Table_name
+Oni
 ITEM_name
 zOld Oni
 ITEM_name
@@ -117425,7 +117635,7 @@ item_name
 item_desc
 Nightshade
 item_name
-[Dead Zone] Dead Zone now deals 800 damage when the initial explosion hits an enemy.
+[Dead Zone] Dead Zone now deals 500 damage when the initial explosion hits an enemy.
 item_desc
 Unholy Strength
 item_name
@@ -118541,7 +118751,7 @@ WIP Frozen Guard (Siege Redux)
 map_game_name
 Fire a shot every 0.14s dealing 170 damage. Effective up to Medium range. While firing you move 50% slower.
 item_desc
-Summon two Sentinel Drones that fire energy blasts while you shoot your Light Machine Gun. Each Sentinel fires once per second dealing 200 damage and has 1200 health. Sentinels persist until destroyed or the player is killed.
+Summon two Sentinel Drones that fire energy blasts while you shoot your Light Machine Gun. Each Sentinel fires once per second dealing 200 damage and has 1600 health. Sentinels persist until destroyed or the player is killed.
 item_desc
 Project a frontal shield that blocks 1400 damage for 6s. You may fire while Deflector Shield is active.
 item_desc
@@ -120091,6 +120301,7 @@ zDeprecated Giga Siphon V
 item_name
 [Recovery] After Recover ends gain 40% Lifesteal for 4s.
 item_desc
+Ash
 item_short_desc
 Copy of Give Me a Break
 item_name
@@ -120718,6 +120929,7 @@ Old Weakening Poison V
 item_name
 [Poison Bolts] Poison Bolt shots apply a 16% stacking slow for 3s. Max 3 stacks.
 item_desc
+16%
 DEVICE_name
 stacking slow
 DEVICE_desc
@@ -121941,15 +122153,21 @@ Rose Petal Familiar
 ITEM_name
 Pink
 ITEM_short_desc
+Red
 ITEM_short_desc
+Red
 ITEM_desc
 Plum Hat
 ITEM_name
+Red
 ITEM_short_desc
+Red
 ITEM_desc
 Plum
 ITEM_name
+Red
 ITEM_short_desc
+Red
 ITEM_desc
 Plum Familiar
 ITEM_name
@@ -126963,6 +127181,7 @@ Chest/Key - Flair + Frontline
 Loot_Table_name
 Chest/Key - Flair + Support
 Loot_Table_name
+KRM
 map_game_friendly_name
 WIP KRM
 map_game_name
@@ -130067,7 +130286,7 @@ The Winter Wonder Witch
 ITEM_desc
 Merrymaker
 ITEM_name
-Cuddly
+Cuddly Makoa
 ITEM_name
 B.E.T.A.
 ITEM_name
@@ -130075,7 +130294,7 @@ SLT - Collection - Ruckus - B.E.T.A.
 Loot_Table_name
 SLT - Collection - Ruckus - B.E.T.A.-RENTAL
 Loot_Table_name
-Coldsnap
+Coldsnap Strix
 ITEM_name
 SLT - Collection - Strix - Coldsnap
 Loot_Table_name
@@ -132458,11 +132677,11 @@ Kills increase your damage until you die.
 item_short_desc
 Countering an attack deals more damage and no longer takes you out of your Counter State.
 item_short_desc
-Each Soul Charge you detonate increases your Maximum Health and Weapon Damage until you die. Stacks up to 15 times.
+Each Soul Charge you detonate increases your Base Health and Weapon Damage until you die. Stacks up to 15 times.
 item_short_desc
 You may hold more charges of Missile Launcher.
 item_short_desc
-Frag Grenade deals more damage and has larger AoE.
+Frag Grenade has larger AoE.
 item_short_desc
 Mending Spirits heals additional Health upfront.
 item_short_desc
@@ -132524,7 +132743,7 @@ Assert Dominance now charges {scale=12.75|.75}% faster, stuns enemies, and cause
 item_short_desc
 Pounce executes targets below 35% health.
 item_short_desc
-Headshots deal increased damage.
+Increased Ammo Capacity
 item_short_desc
 Deal more damage with Blitz Upper based on your opponent's missing health.
 item_short_desc
@@ -133196,6 +133415,7 @@ Target an enemy and drag them to you. You may move your powerless victim as you 
 item_desc
 Androxus
 item_short_desc
+Dab
 item_name
 Maeve
 item_short_desc
@@ -133245,6 +133465,7 @@ Jade Priestess
 ITEM_name
 Skye
 item_short_desc
+Coy
 item_name
 DarkLord
 item_short_desc
@@ -133564,7 +133785,7 @@ Lotus of Life
 Activity_desc
 Lotus of Life
 Activity_name
-Copy of Plated
+Golden Ash
 ITEM_name
 Available for purchase at Mastery Level 20.
 ITEM_desc
@@ -134516,6 +134737,7 @@ Obtainable from the Rise of Furia Event.
 ITEM_desc
 Abyssal Lord
 ITEM_name
+HRX
 ITEM_short_desc
 Obtainable in the Rise of Furia Event.
 ITEM_desc
@@ -134534,6 +134756,7 @@ HH Event Volume
 item_desc
 Kitten
 ITEM_short_desc
+H&H
 ITEM_short_desc
 Obtainable in the Rise of Furia Event.
 ITEM_desc
@@ -134742,6 +134965,7 @@ Complete 4
 Activity_Goal_desc
 Complete 4
 Activity_Goal_name
+VIP
 ITEM_name
 SLT - Collection - Drogoz - Abyss Lord
 Loot_Table_name
@@ -134753,6 +134977,7 @@ Covert Ops
 ITEM_name
 SND_Notify_GoToBattlePass
 SND_Notify_GoToBattlePass_Global
+H&H
 ITEM_desc
 zDelete
 ITEM_name
@@ -134782,7 +135007,7 @@ Health Nugget
 EFFECT_GROUP_name
 SLT - Collection - Androxus - Gold Set
 Loot_Table_name
-SLT - Collection - Ash - Gold Set
+zOLD SLT - Collection - Ash - Gold Set
 Loot_Table_name
 SLT - Collection - Barik - Gold Set
 Loot_Table_name
@@ -134800,7 +135025,7 @@ SLT - Collection - Fernando - Gold Set
 Loot_Table_name
 SLT - Collection - Grohk - Gold Set
 Loot_Table_name
-SLT - Collection - Grover - Gold Set
+zOLD SLT - Collection - Grover - Gold Set
 Loot_Table_name
 SLT - Collection - Inara - Gold Set
 Loot_Table_name
@@ -134830,7 +135055,7 @@ SLT - Collection - Seris - Gold Set
 Loot_Table_name
 SLT - Collection - Sha Lin - Gold Set
 Loot_Table_name
-SLT - Collection - Skye - Gold Set
+zOLD SLT - Collection - Skye - Gold Set
 Loot_Table_name
 SLT - Collection - Strix - Gold Set
 Loot_Table_name
@@ -135883,6 +136108,7 @@ Acquire 200 Abyssal Shards
 Activity_desc
 Acquire 200 Abyssal Shards
 Activity_name
+   
 ITEM_desc
 Furia's Blessing
 ITEM_name
@@ -136468,6 +136694,7 @@ Battle Pass Ninja - Free Rewards Vendor
 Loot_Table_name
 Battle Pass Ninja - Premium Rewards Vendor
 Loot_Table_name
+Red
 ITEM_short_desc
 Lore
 ITEM_desc
@@ -136505,6 +136732,7 @@ Double Barrel Test
 item_name
 Experimental Talent for Buck
 item_desc
+Ash
 item_short_desc
 Battle Hardened
 item_name
@@ -136630,7 +136858,7 @@ Exile
 ITEM_name
 Golden Koga
 ITEM_name
-Mastery/Gold
+Obtainable at Mastery Level 50.
 ITEM_desc
 [Agility] Heal yourself while Agility is active.
 item_short_desc
@@ -136800,9 +137028,9 @@ SLT - Chest - Flank Battle Chest - Skins
 Loot_Table_name
 Humble Beginnings
 Activity_title
-Skye Skin06A
+Twilight Skye
 ITEM_name
-Skye WEP Skin05A
+Twilight Wrist Crossbow
 ITEM_name
 Something to Prove
 item_name
@@ -137006,9 +137234,9 @@ Completed Ninja Battle Pass Tier 7 Challenges
 ITEM_desc
 Ninja Battle Pass Tier 7 Completion
 ITEM_name
-SLT - Collection - Skye - Lore
+SLT - Collection - Skye - Twilight
 Loot_Table_name
-Skye Lore Skin
+Twilight Skye
 ITEM_name
 Complete Challenges, Earn Experience!
 ITEM_desc
@@ -137666,6 +137894,7 @@ Vox (Hugh) ranked announcer pack.
 ITEM_short_desc
 Play 25 games in Ranked Season 2 Fall Split.
 ITEM_desc
+Vox
 ITEM_name
 Cutesy Maeve
 ITEM_name
@@ -138122,7 +138351,7 @@ Ice Payload
 map_game_friendly_name
 WIP Ice (Payload)
 map_game_name
-WIP Ice Payload
+WIP Rush (Siege)
 MSL_name
 Broadside
 item_name
@@ -138679,11 +138908,13 @@ Navi
 ITEM_short_desc
 Obtainable in the HRX Digital Loot Pack.
 ITEM_desc
+MXR
 ITEM_short_desc
 Mixer
 ITEM_name
 Mixer Heavy Repeater
 ITEM_name
+MXR
 ITEM_short_desc
 Brightmarsh
 map_game_friendly_name
@@ -138738,9 +138969,9 @@ Freebooter
 item_name
 [Short Cut] Allies may Pass through your Shortcut.
 item_desc
-Strix Skin06A
+Remix Strix
 ITEM_name
-Strix WEP Skin05A
+Remix Equalizer
 ITEM_name
 [Weapon] Your weapon no longer knocks you back and deals less self damage.
 item_short_desc
@@ -138789,6 +139020,7 @@ Summer Event Conversion - SLT - Evie Emote
 Loot_Table_name
 Summer Event Conversion - SLT - Death Stamp
 Loot_Table_name
+>:)
 ITEM_desc
 Evil Mojo
 ITEM_name
@@ -138850,7 +139082,7 @@ Mage Avatar
 BOT_name
 The Magest
 BOT_desc
-Mage
+Imani
 BOT_name
 Energy Charge - Mage
 item_name
@@ -139042,11 +139274,11 @@ item_name
 item_desc
 Evolve
 EFFECT_GROUP_name
-[Armor] While below 50% Health receive increased healing.
+[Armor] At or below 50% Health receive increased healing.
 item_short_desc
 Sea Dogs
 item_name
-[Armor] While below 50% Health receive {scale=5|5}% increased healing.
+[Armor] At 50% Health and below, receive {scale=5|5}% increased healing.
 item_desc
 [Weapon] Increase your Ammo count 
 item_short_desc
@@ -139054,11 +139286,11 @@ Gun Deck
 item_name
 [Weapon] Increase your Maximum Ammo by {scale=1|1}
 item_desc
-[Armor] Dropping below 50% of your max Health grants you a Shield.
+[Armor] Dropping to or below 50% of your max Health grants you a Shield.
 item_short_desc
 Hangman's Ire
 item_name
-[Armor] Dropping below 50% HP grants a {scale=150|150}hp Shield for 3s
+[Armor] Dropping to or below 50% HP grants a {scale=150|150}hp Shield for 3s.
 item_desc
 [Broadside] Broadside reveals enemies
 item_short_desc
@@ -139126,7 +139358,7 @@ SLT - Collection - Vivian - Halloween Recolor
 Loot_Table_name
 zDelete
 Loot_Table_name
-EDM Strix
+Remix Strix
 ITEM_name
 SLT - Collection - Strix - EDM
 Loot_Table_name
@@ -139476,7 +139708,7 @@ Golden Dredge
 ITEM_name
 Golden Howitzer
 ITEM_name
-Available for purchase at Mastery Level 50.
+Obtainable at Mastery Level 50.
 ITEM_desc
 Golden Dredge
 ITEM_name
@@ -139532,7 +139764,7 @@ Obtainable in the Dark Tides Event.
 ITEM_desc
 The Salty
 ITEM_name
-Admiral Dredge ruled the eight oceans as as the Realm's most feared pirate, until one final treasure led to his doom. Dredge stole the Warders' relics from the Paladins, but could not tame the dragons' might. His ship was destroyed, his crew scattered, and Dredge sank to certain death in the the ocean's depths. The Abyss intervened and bore Dredge back into the Realm of the living. Now the undead admiral sails the seas again. And none will take his treasure.
+Admiral Dredge ruled the eight oceans as the Realm's most feared pirate, until one final treasure led to his doom. Dredge stole the Warders' relics from the Paladins, but could not tame the dragons' might. His ship was destroyed, his crew scattered, and Dredge sank to certain death in the ocean's depths. The Abyss intervened and bore Dredge back into the Realm of the living. Now the undead admiral sails the seas again. And none will take his treasure.
 BOT_lore
 Every 0.7s fire an explosive projectile that deals 850 damage. Reloading fires a slow traveling projectile that deals 1000 damage.
 item_desc
@@ -139752,11 +139984,1874 @@ Dark Tides Large Exchange
 ITEM_desc
 Gold
 ITEM_name
+EDM
+ITEM_desc
+Remix Pepper
+ITEM_name
+EDM
+ITEM_short_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Remix Retroblaster
+ITEM_name
+EDM
+ITEM_short_desc
 Marauder's Port
 map_game_friendly_name
 Practice Marauder's Port (Onslaught) 
 map_game_name
+Red
+ITEM_short_desc
+Puppet
+ITEM_desc
+Cuddly Moji
+ITEM_name
+Puppet
+ITEM_short_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Cuddly Wugglies
+ITEM_name
+Remix Jenos
+ITEM_name
+EDM
+ITEM_short_desc
+Remix Freestyler
+ITEM_name
+EDM
+ITEM_short_desc
+SLT - Collection - Jenos - EDM
+Loot_Table_name
+Cuddly Moji
+ITEM_name
+SLT - Collection - Moji - Sock Puppet
+Loot_Table_name
+Remix Pepper
+ITEM_name
+SLT - Collection - Pip - EDM
+Loot_Table_name
+Gift Vendor
+Loot_Table_name
+Rush
+map_game_friendly_name
+WIP Rush (Siege)
+map_game_name
+Rush
+map_game_friendly_name
+WIP Rush (Siege)
+map_game_name
+Team Skin Booster
+ITEM_name
+Default
+ITEM_desc
+Default Imani Weapon
+ITEM_name
+Mage LMB2
+item_name
+Mage RMB1
+item_name
+EDM
+ITEM_short_desc
+Remix Synthesizer
+ITEM_name
+EDM
+ITEM_short_desc
+Remix Seris
+ITEM_name
+Default
+ITEM_desc
+Default Imani
+ITEM_name
+Remix Jenos
+ITEM_name
+BattlePass Points EDM
+ITEM_short_desc
+Battle Pass Experience
+ITEM_desc
+Battle Pass EDM XP
+ITEM_name
+Mage RMB2
+item_name
+Remix Seris
+ITEM_name
+SLT - Collection - Seris - EDM
+Loot_Table_name
+Mage LMB1
+item_name
+Mage Swap
+item_name
+Crossbow_Weak
+item_name
+Weak crossbow for forcefeedback testing. Deals 1 damage.
+item_desc
+Crossbow_Strong
+item_name
+Strong crossbow for forcefeedback testing. Deals 1000 damage.
+item_desc
+Battle Pass EDM - Premium Rewards Vendor
+Loot_Table_name
+Vendor containing rewards for the EDM Battle Pass
+Loot_Table_desc
+50% bonus Experience and Gold|Epic Strix Skin|Animated Loading Frame|Remix Music Pack|Unlock over 100 additional rewards just by leveling up!
+ITEM_desc
+Holiday
+ITEM_short_desc
+Lian Skin04A
+ITEM_name
+Holiday
+ITEM_desc
+Holiday
+ITEM_short_desc
+Lian WEP Skin04A
+ITEM_name
+Holiday
+ITEM_desc
+Battle Pass EDM - Free Rewards Vendor
+Loot_Table_name
+Battle Pass EDM - Prestige Rewards Vendor
+Loot_Table_name
+BattlePass Points EDM
+ITEM_short_desc
+Battle Pass Experience Free
+ITEM_desc
+Battle Pass EDM XP Free
+ITEM_name
+BattlePass Points EDM
+ITEM_short_desc
+Battle Pass Experience Prestige
+ITEM_desc
+Battle Pass EDM XP Prestige
+ITEM_name
+Tier 1 - The Intro
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Complete Challenges, Earn Experience!
+ITEM_desc
+Tier 2 - The Breakdown
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Tier 3 - The Build Up
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Tier 4 - The Drop
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Tier 5 - Encore
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Encore 1 - Royale Guard Training Regimen
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Encore 2 - R&B Flight School
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Encore 3 - Sentinels Survival Guide
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Encore 4 - Kings Combo
+ITEM_name
+Complete Challenges, Earn Experience!
+ITEM_desc
+Encore 5 - The Realms Champion
+ITEM_name
+Battle Pass Challenges - Capstone Challenge
+ITEM_name
+Encore Challenges - Capstone Challenge
+ITEM_name
+BattlePass Personal Booster
+ITEM_short_desc
+Increases total Battle Pass Boost by 5%
+ITEM_desc
+Battle Pass 5% Personal Booster
+ITEM_name
+Chest Loot Vendor - EDM Damage Battle Chest
+Loot_Table_name
+Chest Loot Vendor - EDM Flank Battle Chest
+Loot_Table_name
+Chest Loot Vendor - EDM Front Line Battle Chest
+Loot_Table_name
+Chest Loot Vendor - EDM Support Battle Chest
+Loot_Table_name
+SLT - Chest - EDM Damage Battle Chest - Skins
+Loot_Table_name
+SLT - Chest - EDM Damage Battle Chest - Voice Packs
+Loot_Table_name
+SLT - Chest - EDM Flank Battle Chest - Skins
+Loot_Table_name
+Holiday
+ITEM_desc
+Willo Skin02A
+ITEM_name
+SLT - Chest - EDM Flank Battle Chest - Voice Packs
+Loot_Table_name
+Holiday
+ITEM_desc
+Willo WEP Skin02A
+ITEM_name
+SLT - Chest - EDM Frontline Battle Chest - Skins
+Loot_Table_name
+SLT - Chest - EDM Frontline Battle Chest - Voice Packs
+Loot_Table_name
+SLT - Chest - EDM Support Battle Chest - Skins
+Loot_Table_name
+SLT - Chest - EDM Support Battle Chest - Voice Packs
+Loot_Table_name
+Coldsnap Furia
+ITEM_name
+Convention
+ITEM_desc
+Lore
+ITEM_short_desc
+Obtainable at HRX Events.
+ITEM_desc
+Coldsnap Pyreblade
+ITEM_name
+EDM
+ITEM_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+SLT - Collection - Lian - Holiday
+Loot_Table_name
+Holiday Lian
+ITEM_name
+SLT - Collection - Willo - Holiday
+Loot_Table_name
+SLT - Collection - Willo - Holiday
+Loot_Table_name
+Holiday Willo
+ITEM_name
+SLT - Collection - Furia - Convention
+Loot_Table_name
+Coldsnap Furia
+ITEM_name
+EDM Challenges Unlocked
+Activity_Goal_title
+EDM Challenges Unlocked
+Activity_Goal_desc
+EDM Challenges Unlocked
+Activity_Goal_name
+EDM Challenges Completed
+Activity_Goal_title
+EDM Challenges Completed
+Activity_Goal_desc
+EDM Challenges Completed
+Activity_Goal_name
+Complete T1 Challenges
+Activity_Goal_title
+Complete T1 Challenges
+Activity_Goal_desc
+Complete T1 Challenges 
+Activity_Goal_name
+Complete T2 Challenges
+Activity_Goal_title
+Complete T2 Challenges
+Activity_Goal_desc
+Complete T2 Challenges
+Activity_Goal_name
+Complete T3 Challenges
+Activity_Goal_title
+Complete T3 Challenges
+Activity_Goal_desc
+Complete T3 Challenges
+Activity_Goal_name
+Complete T4 Challenges
+Activity_Goal_title
+Complete T4 Challenges
+Activity_Goal_desc
+Complete T4 Challenges
+Activity_Goal_name
+Complete T5 Challenges
+Activity_Goal_title
+Complete T5 Challenges
+Activity_Goal_desc
+Complete T5 Challenges
+Activity_Goal_name
+Tier 1 Unlocked
+Activity_Goal_title
+Tier 1 Unlocked
+Activity_Goal_desc
+Tier 1 Unlocked
+Activity_Goal_name
+Tier 1 Completed
+Activity_Goal_title
+Tier 1 Completed
+Activity_Goal_desc
+Tier 1 Completed
+Activity_Goal_name
+Play a match as Skye
+Activity_Goal_title
+Play a match as Skye
+Activity_Goal_desc
+Play a match as Skye
+Activity_Goal_name
+Shield for 50,000 in a single match
+Activity_Goal_title
+Shield for 50,000 in a single match
+Activity_Goal_desc
+Shield for 50,000 in a single match
+Activity_Goal_name
+Kill %s Players with Broadside (Dredge)
+Activity_Goal_title
+Kill 10 Players with Broadside (Dredge)
+Activity_Goal_desc
+Kill 10 Players with Broadside (Dredge)
+Activity_Goal_name
+Get %s Triple Kills
+Activity_Goal_title
+Get 5 Triple Kills
+Activity_Goal_desc
+Get 5 Triple Kills
+Activity_Goal_name
+Heal %s Health
+Activity_Goal_title
+Heal 500,000 Health
+Activity_Goal_desc
+Heal 500,000 Health
+Activity_Goal_name
+Play %s Ranked matches
+Activity_Goal_title
+Play 5 Ranked matches
+Activity_Goal_desc
+Play 5 Ranked matches
+Activity_Goal_name
+Tier 2 Unlocked
+Activity_Goal_title
+Tier 2 Unlocked
+Activity_Goal_desc
+Tier 2 Unlocked
+Activity_Goal_name
+Tier 2 Completed
+Activity_Goal_title
+Tier 2 Completed
+Activity_Goal_desc
+Tier 2 Completed
+Activity_Goal_name
+Play 1 match as Moji
+Activity_Goal_title
+Play 1 match as Moji
+Activity_Goal_desc
+Play 1 match as Moji
+Activity_Goal_name
+Get %s Eliminations as Seris
+Activity_Goal_title
+Get 50 Eliminations as Seris
+Activity_Goal_desc
+Get 50 Eliminations as Seris
+Activity_Goal_name
+Shadow Travel for %s seconds (Seris)
+Activity_Goal_title
+Shadow Travel for 120 seconds (Seris)
+Activity_Goal_desc
+Shadow Travel for 120 seconds (Seris)
+Activity_Goal_name
+Deal %s Damage
+Activity_Goal_title
+Deal 750,000 Damage
+Activity_Goal_desc
+Deal 750,000 Damage
+Activity_Goal_name
+Deal 5,000 Damage in 30 seconds
+Activity_Goal_title
+Deal 5,000 Damage in 30 seconds
+Activity_Goal_desc
+Deal 5,000 Damage in 30 seconds
+Activity_Goal_name
+Play %s Team Deathmatches
+Activity_Goal_title
+Play 5 Team Deathmatches
+Activity_Goal_desc
+Play 5 Team Deathmatches
+Activity_Goal_name
+Tier 3 Unlocked
+Activity_Goal_title
+Tier 3 Unlocked
+Activity_Goal_desc
+Tier 3 Unlocked
+Activity_Goal_name
+Tier 3 Completed
+Activity_Goal_title
+Tier 3 Completed
+Activity_Goal_desc
+Tier 3 Completed
+Activity_Goal_name
+Play a match as Dredge
+Activity_Goal_title
+Play a match as Dredge
+Activity_Goal_desc
+Play a match as Dredge
+Activity_Goal_name
+Emote after getting a kill %s times with Koga
+Activity_Goal_title
+Emote after getting a kill 10 times with Koga
+Activity_Goal_desc
+Emote after getting a kill 10 times with Koga
+Activity_Goal_name
+Turn %s players into treats with Bon Appetit (Moji)
+Activity_Goal_title
+Turn 10 players into treats with Bon Appetit (Moji)
+Activity_Goal_desc
+Turn 10 players into treats with Bon Appetit (Moji)
+Activity_Goal_name
+Kill %s players while holding them with Overpower (Khan)
+Activity_Goal_title
+Kill 5 players while holding them with Overpower (Khan)
+Activity_Goal_desc
+Kill 5 players while holding them with Overpower (Khan)
+Activity_Goal_name
+Expend %s Ammunition
+Activity_Goal_title
+Expend 5,000 Ammunition
+Activity_Goal_desc
+Expend 5,000 Ammunition
+Activity_Goal_name
+Play %s Onslaught matches
+Activity_Goal_title
+Play 5 Onslaught matches
+Activity_Goal_desc
+Play 5 Onslaught matches
+Activity_Goal_name
+Tier 4 Unlocked
+Activity_Goal_title
+Tier 4 Unlocked
+Activity_Goal_desc
+Tier 4 Unlocked
+Activity_Goal_name
+Tier 4 Completed
+Activity_Goal_title
+Tier 4 Completed
+Activity_Goal_desc
+Tier 4 Completed
+Activity_Goal_name
+Hit at least 1 player with Evil Mojo %s times (Pip)
+Activity_Goal_title
+Hit at least 1 player with Evil Mojo 10 times (Pip)
+Activity_Goal_desc
+Hit at least 1 player with Evil Mojo 10 times (Pip)
+Activity_Goal_name
+Heal 5 different players within 3 seconds
+Activity_Goal_title
+Heal 5 different players within 3 seconds
+Activity_Goal_desc
+Heal 5 different players within 3 seconds
+Activity_Goal_name
+Kill 3 players within 2 seconds
+Activity_Goal_title
+Kill 3 players within 2 seconds
+Activity_Goal_desc
+Kill 3 players within 2 seconds
+Activity_Goal_name
+Go Buck Wild for %s total seconds (Buck)
+Activity_Goal_title
+Go Buck Wild for 60 total seconds (Buck)
+Activity_Goal_desc
+Go Buck Wild for 60 total seconds (Buck)
+Activity_Goal_name
+Deal 160,000 Damage in a single match
+Activity_Goal_title
+Deal 160,000 Damage in a single match
+Activity_Goal_desc
+Deal 160,000 Damage in a single match
+Activity_Goal_name
+Capture %s Siege Objective Points
+Activity_Goal_title
+Capture 15 Siege Objective Points
+Activity_Goal_desc
+Capture 15 Siege Objective Points
+Activity_Goal_name
+Tier 5 Unlocked
+Activity_Goal_title
+Tier 5 Unlocked
+Activity_Goal_desc
+Tier 5 Unlocked
+Activity_Goal_name
+Tier 5 Completed
+Activity_Goal_title
+Tier 5 Completed
+Activity_Goal_desc
+Tier 5 Completed
+Activity_Goal_name
+Earn Top Play as Jenos
+Activity_Goal_title
+Earn Top Play as Jenos
+Activity_Goal_desc
+Earn Top Play as Jenos
+Activity_Goal_name
+Earn Top Play as Seris
+Activity_Goal_title
+Earn Top Play as Seris
+Activity_Goal_desc
+Earn Top Play as Seris
+Activity_Goal_name
+Earn Top Play as Pip
+Activity_Goal_title
+Earn Top Play as Pip
+Activity_Goal_desc
+Earn Top Play as Pip
+Activity_Goal_name
+Earn Top Play as Dredge
+Activity_Goal_title
+Earn Top Play as Dredge
+Activity_Goal_desc
+Earn Top Play as Dredge
+Activity_Goal_name
+Earn Top Play as Strix
+Activity_Goal_title
+Earn Top Play as Strix
+Activity_Goal_desc
+Earn Top Play as Strix
+Activity_Goal_name
+Earn Top Play as Khan
+Activity_Goal_title
+Earn Top Play as Khan
+Activity_Goal_desc
+Earn Top Play as Khan
+Activity_Goal_name
+Encore Challenges Unlocked
+Activity_Goal_title
+Encore Challenges Unlocked
+Activity_Goal_desc
+Encore Challenges Unlocked
+Activity_Goal_name
+Encore Challenges Completed
+Activity_Goal_title
+Encore Challenges Completed
+Activity_Goal_desc
+Encore Challenges Completed
+Activity_Goal_name
+Complete Prestige T1 Challenges
+Activity_Goal_title
+Complete Prestige T1 Challenges
+Activity_Goal_desc
+Complete Prestige T1 Challenges
+Activity_Goal_name
+Complete Prestige T2 Challenges
+Activity_Goal_title
+Complete Prestige T2 Challenges
+Activity_Goal_desc
+Complete Prestige T2 Challenges
+Activity_Goal_name
+Complete Prestige T3 Challenges
+Activity_Goal_title
+Complete Prestige T3 Challenges
+Activity_Goal_desc
+Complete Prestige T3 Challenges
+Activity_Goal_name
+Complete Prestige T4 Challenges
+Activity_Goal_title
+Complete Prestige T4 Challenges
+Activity_Goal_desc
+Complete Prestige T4 Challenges
+Activity_Goal_name
+Complete Prestige T5 Challenges
+Activity_Goal_title
+Complete Prestige T5 Challenges
+Activity_Goal_desc
+Complete Prestige T5 Challenges
+Activity_Goal_name
+EDM Challenges Capstone
+Activity_title
+Remix Battle Pass Capstone Challenges
+Activity_name
+EDM Challenges Tier 1
+Activity_title
+NameEDM Challenges Tier 1
+Activity_desc
+EDM Challenges Tier 1
+Activity_title
+EDM Challenges Tier 1
+Activity_desc
+The Intro
+Activity_title
+EDM Challenges Tier 1
+Activity_desc
+EDM Challenges Tier 1
+Activity_name
+The Breakdown
+Activity_title
+EDM Challenges Tier 2
+Activity_desc
+EDM Challenges Tier 2
+Activity_name
+The Build Up
+Activity_title
+EDM Challenges Tier 3
+Activity_desc
+EDM Challenges Tier 3
+Activity_name
+The Drop
+Activity_title
+EDM Challenges Tier 4
+Activity_desc
+EDM Challenges Tier 4
+Activity_name
+Encore
+Activity_title
+EDM Challenges Tier 5
+Activity_desc
+EDM Challenges Tier 5
+Activity_name
+Remix Battle Pass Prestige Capstone Challenges
+Activity_title
+Remix Battle Pass Encore Capstone Challenges
+Activity_desc
+Remix Battle Pass Encore Capstone Challenges
+Activity_name
+Royal Guard Training Regimen
+Activity_title
+EDM Prestige Challenges Tier 1 
+Activity_desc
+EDM Prestige Challenges Tier 1 
+Activity_name
+R&B Flight School
+Activity_title
+EDM Prestige Challenges Tier 2
+Activity_desc
+EDM Prestige Challenges Tier 2
+Activity_name
+Sentinels Survival Guide
+Activity_title
+EDM Prestige Challenges Tier 3
+Activity_desc
+EDM Prestige Challenges Tier 3
+Activity_name
+Kings Combo
+Activity_title
+EDM Prestige Challenges Tier 4
+Activity_desc
+EDM Prestige Challenges Tier 4
+Activity_name
+The Realms Champion
+Activity_title
+EDM Prestige Challenges Tier 5
+Activity_desc
+EDM Prestige Challenges Tier 5
+Activity_name
+Holiday
+ITEM_desc
+Maeve Skin05A
+ITEM_name
+Kitten
+ITEM_short_desc
+Holiday
+ITEM_desc
+Maeve WEP Skin03A
+ITEM_name
+Holiday Maeve
+ITEM_name
+SLT - Collection - Maeve - Holiday
+Loot_Table_name
 Play 25 games in Ranked Season 2 Winter Split.
+ITEM_desc
+Holiday
+ITEM_desc
+Terminus Skin02A
+ITEM_name
+Holiday
+ITEM_desc
+Terminus WEP Skin02A
+ITEM_name
+SLT - Battle Pass EDM - Atomic Currency
+Loot_Table_name
+Recipe - Battle Pass EDM - Premium Currency
+Loot_Table_name
+Recipe - Battle Pass EDM - Prestige Currency
+Loot_Table_name
+Battle Pass EDM Prestige Token
+ITEM_name
+Receive upon reaching max level on the EDM Battle Pass. Spend this token to prestige. 
+ITEM_desc
+Battle Pass EDM Prestige Receipt
+ITEM_name
+Receive by consuming a prestige token. Ownership is used to check if a player has prestiged
+ITEM_desc
+Holiday Terminus
+ITEM_name
+SLT - Collection - Terminus - Holiday
+Loot_Table_name
+CrenshawTest
+map_game_friendly_name
+CrenshawTest
+map_game_name
+Gold
+ITEM_short_desc
+ImaniF
+item_name
+SLT - Steam Bundle Starter Pack
+Loot_Table_name
+Encore Tier 1 Unlocked
+Activity_Goal_title
+Encore Tier 1 Unlocked
+Activity_Goal_desc
+Encore Tier 1 Unlocked
+Activity_Goal_name
+Encore Tier 1 Completed
+Activity_Goal_title
+Encore Tier 1 Completed
+Activity_Goal_desc
+Encore Tier 1 Completed
+Activity_Goal_name
+Expend %s Ammunition
+Activity_Goal_title
+Expend 15,000 Ammunition
+Activity_Goal_desc
+Expend 15,000 Ammunition
+Activity_Goal_name
+Heal for %s Health
+Activity_Goal_title
+Heal for 1,500,000 Health
+Activity_Goal_desc
+Heal for 1,500,000 Health
+Activity_Goal_name
+Deal %s Damage
+Activity_Goal_title
+Deal 1,500,000 Damage
+Activity_Goal_desc
+Deal 1,500,000 Damage
+Activity_Goal_name
+Get %s Double Kills
+Activity_Goal_title
+Get 50 Double Kills
+Activity_Goal_desc
+Get 50 Double Kills
+Activity_Goal_name
+Capture %s Siege Objective Points
+Activity_Goal_title
+Capture 30 Siege Objective Points
+Activity_Goal_desc
+Capture 30 Siege Objective Points
+Activity_Goal_name
+Encore Tier 2 Unlock
+Activity_Goal_title
+Encore Tier 2 Unlock
+Activity_Goal_desc
+Encore Tier 2 Unlock
+Activity_Goal_name
+Encore Tier 2 Completed
+Activity_Goal_title
+Encore Tier 2 Completed
+Activity_Goal_desc
+Encore Tier 2 Completed
+Activity_Goal_name
+Soar with Evie for %s seconds
+Activity_Goal_title
+Soar with Evie for 100 seconds
+Activity_Goal_desc
+Soar with Evie for 100 seconds
+Activity_Goal_name
+Cast Fae Flight %s times (Willo)
+Activity_Goal_title
+Cast Fae Flight 5 times (Willo)
+Activity_Goal_desc
+Cast Fae Flight 5 times (Willo)
+Activity_Goal_name
+Kill %s players with Skewer (Koga)
+Activity_Goal_title
+Kill 15 players with Skewer (Koga)
+Activity_Goal_desc
+Kill 15 players with Skewer (Koga)
+Activity_Goal_name
+Hit %s players with Shoulder Bash (Ash)
+Activity_Goal_title
+Hit 20 players with Shoulder Bash (Ash)
+Activity_Goal_desc
+Hit 20 players with Shoulder Bash (Ash)
+Activity_Goal_name
+Encore Tier 3 Unlocked
+Activity_Goal_title
+Encore Tier 3 Unlocked
+Activity_Goal_desc
+Encore Tier 3 Unlocked
+Activity_Goal_name
+Encore Tier 3 Completed
+Activity_Goal_title
+Encore Tier 3 Completed
+Activity_Goal_desc
+Encore Tier 3 Completed
+Activity_Goal_name
+Shield %s players with Protection (Torvald)
+Activity_Goal_title
+Shield 50 players with Protection (Torvald)
+Activity_Goal_desc
+Shield 50 players with Protection (Torvald)
+Activity_Goal_name
+Have Impasse active for %s seconds (Inara)
+Activity_Goal_title
+Have Impasse active for 120 seconds (Inara)
+Activity_Goal_desc
+Have Impasse active for 120 seconds (Inara)
+Activity_Goal_name
+Absorb %s Damage with Shield (Fernando)
+Activity_Goal_title
+Absorb 50,000 Damage with Shield (Fernando)
+Activity_Goal_desc
+Absorb 50,000 Damage with Shield (Fernando)
+Activity_Goal_name
+Assert your Dominance %s times (Ash)
+Activity_Goal_title
+Assert your Dominance 10 times (Ash)
+Activity_Goal_desc
+Assert your Dominance 10 times (Ash)
+Activity_Goal_name
+Kill %s players with Reanimate (Terminus)
+Activity_Goal_title
+Kill 10 players with Reanimate (Terminus)
+Activity_Goal_desc
+Kill 10 players with Reanimate (Terminus)
+Activity_Goal_name
+Encore Tier 4 Unlocked
+Activity_Goal_title
+Encore Tier 4 Unlocked
+Activity_Goal_desc
+Encore Tier 4 Unlocked
+Activity_Goal_name
+Encore Tier 4 Completed
+Activity_Goal_title
+Encore Tier 4 Completed
+Activity_Goal_desc
+Encore Tier 4 Completed
+Activity_Goal_name
+Kill %s players with Charge after hitting them with Fireball (Fernando)
+Activity_Goal_title
+Kill 5 players with Charge after hitting them with Fireball (Fernando)
+Activity_Goal_desc
+Kill 5 players with Charge after hitting them with Fireball (Fernando)
+Activity_Goal_name
+Kill %s players with Harpoon after hitting them with Broadside (Dredge)
+Activity_Goal_title
+Kill 5 players with Harpoon after hitting them with Broadside (Dredge)
+Activity_Goal_desc
+Kill 5 players with Harpoon after hitting them with Broadside (Dredge)
+Activity_Goal_name
+Kill %s players with Heroic Leap after hitting them with Net Shot (Buck)
+Activity_Goal_title
+Kill 5 players with Heroic Leap after hitting them with Net Shot (Buck)
+Activity_Goal_desc
+Kill 5 players with Heroic Leap after hitting them with Net Shot (Buck)
+Activity_Goal_name
+Kill %s players with Flare after hitting them with Talon Rifle (Strix)
+Activity_Goal_title
+Kill 5 players with Flare after hitting them with Talon Rifle (Strix)
+Activity_Goal_desc
+Kill 5 players with Flare after hitting them with Talon Rifle (Strix)
+Activity_Goal_name
+Kill %s players with Pounce after hitting them with Daggers (Maeve)
+Activity_Goal_title
+Kill 5 players with Pounce after hitting them with Daggers (Maeve)
+Activity_Goal_desc
+Kill 5 players with Pounce after hitting them with Daggers (Maeve)
+Activity_Goal_name
+Kill %s players with Nade Launcher after hitting them with Fire Bomb (Tyra)
+Activity_Goal_title
+Kill 5 players with Nade Launcher after hitting them with Fire Bomb (Tyra)
+Activity_Goal_desc
+Kill 5 players with Nade Launcher after hitting them with Fire Bomb (Tyra)
+Activity_Goal_name
+Encore Tier 5 Unlocked
+Activity_Goal_title
+Encore Tier 5 Unlocked
+Activity_Goal_desc
+Encore Tier 5 Unlocked
+Activity_Goal_name
+Encore Tier 5 Completed
+Activity_Goal_title
+Encore Tier 5 Completed
+Activity_Goal_desc
+Encore Tier 5 Completed
+Activity_Goal_name
+Obtainable from Battle Pass 3.
+ITEM_desc
+Light Show
+ITEM_name
+Kill 4 players within 3 seconds
+Activity_Goal_title
+Kill 4 players within 3 seconds
+Activity_Goal_desc
+Kill 4 players within 3 seconds
+Activity_Goal_name
+Play %s matches
+Activity_Goal_title
+Play 35 matches
+Activity_Goal_desc
+Play 35 matches
+Activity_Goal_name
+Deal 30,000 damage in 60 seconds
+Activity_Goal_title
+Deal 30,000 damage in 60 seconds
+Activity_Goal_desc
+Deal 30,000 damage in 60 seconds
+Activity_Goal_name
+Kill %s players with Snake Toss (Mal'Damba)
+Activity_Goal_title
+Kill 20 players with Snake Toss (Mal'Damba)
+Activity_Goal_desc
+Kill 20 players with Snake Toss (Mal'Damba)
+Activity_Goal_name
+Earn %s Eliminations
+Activity_Goal_title
+Earn 400 Eliminations
+Activity_Goal_desc
+Earn 400 Eliminations
+Activity_Goal_name
+Damage and Heal players for 300,000 total in a single match
+Activity_Goal_title
+Damage and Heal players for 300,000 total in a single match
+Activity_Goal_desc
+Damage and Heal players for 300,000 total in a single match
+Activity_Goal_name
+Battle Pass EDM - SLT - T1 Challenge Rewards
+Loot_Table_name
+Complete Challenge Tiers 1-5 to Unlock Legendary Title "The DJ"
+ITEM_desc
+Completed Remix Battle Pass Tier 1 Challenges
+ITEM_desc
+Battle Pass EDM - Tier 1 Completed
+ITEM_name
+Completed Remix Battle Pass Tier 2 Challenges
+ITEM_desc
+Battle Pass EDM - Tier 2 Completed
+ITEM_name
+Completed Remix Battle Pass Tier 3 Challenges
+ITEM_desc
+Battle Pass EDM - Tier 3 Completed
+ITEM_name
+Completed Remix Battle Pass Tier 4 Challenges
+ITEM_desc
+Battle Pass EDM - Tier 4 Completed
+ITEM_name
+Completed Remix Battle Pass Tier 5 Challenges
+ITEM_desc
+Battle Pass EDM - Tier 5 Completed
+ITEM_name
+Complete Challenge Tiers 1-5 to Unlock Legendary Title "Beat Buster"
+ITEM_desc
+Completed Remix Battle Pass Tier 1 Prestige Challenges
+ITEM_desc
+Battle Pass EDM Prestige - Tier 1 Completed
+ITEM_name
+Completed Remix Battle Pass Tier 2 Prestige Challenges
+ITEM_desc
+Battle Pass EDM Prestige - Tier 2 Completed
+ITEM_name
+Completed Remix Battle Pass Tier 3 Prestige Challenges
+ITEM_desc
+Battle Pass EDM Prestige - Tier 3 Completed
+ITEM_name
+Completed Remix Battle Pass Tier 4 Prestige Challenges
+ITEM_desc
+Battle Pass EDM Prestige - Tier 4 Completed
+ITEM_name
+Completed Remix Battle Pass Tier 5 Prestige Challenges
+ITEM_desc
+Battle Pass EDM Prestige - Tier 5 Completed
+ITEM_name
+Copy of *BR* Ability1 Vendor
+Loot_Table_name
+Battle Pass EDM - SLT - T2 Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - T2 Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - T3 Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - T4 Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - Capstone Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - T5 Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - T1 Prestige Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - T2 Prestige Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - T3 Prestige Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - T4 Prestige Challenge Rewards
+Loot_Table_name
+Battle Pass EDM - SLT - T5 Prestige Challenge Rewards
+Loot_Table_name
+Complete all Remix Battle Pass Challenges. 
+ITEM_desc
+The DJ
+ITEM_name
+Battle Pass EDM - SLT - Capstone Prestige Challenge Rewards
+Loot_Table_name
+Dash %s times with Nether Step (Androxus)
+Activity_Goal_title
+Dash 50 times with Nether Step (Androxus)
+Activity_Goal_desc
+Dash 50 times with Nether Step (Androxus)
+Activity_Goal_name
+Heal %s Health with Tempest (Grohk)
+Activity_Goal_title
+Heal 10,000 Health with Tempest (Grohk)
+Activity_Goal_desc
+Heal 10,000 Health with Tempest (Grohk)
+Activity_Goal_name
+Has Custom Champion Icon
+property_ui_name
+WIP Hangar
+map_game_friendly_name
+WIP Hangar
+map_game_name
+WIP Hangar
+map_game_friendly_name
+WIP Hangar
+map_game_name
+WIP Hangar
+map_game_friendly_name
+WIP Hangar
+map_game_name
+WIP Hangar 18
+map_game_friendly_name
+WIP Hangar 18
+map_game_name
+Guild Wrist Crossbow
+ITEM_name
+Old Default
+ITEM_short_desc
+SLT - Collection - Skye - Guild
+Loot_Table_name
+Guild Skye
+ITEM_name
+Red Lore
+ITEM_short_desc
+Golden Skye
+ITEM_name
+Gold
+ITEM_short_desc
+Lian
+item_short_desc
+Lounge
+item_name
+Contains Common Skins, Uncommon Skins, and Voice packs for Flank Champions.
+ITEM_desc
+Remix Flank Battle Chest
+ITEM_name
+Contains Common Skins, Uncommon Skins, and Voice packs for Damage Champions.
+ITEM_desc
+Remix Damage Battle Chest
+ITEM_name
+Contains Common Skins, Uncommon Skins, and Voice packs for Front Line Champions.
+ITEM_desc
+Remix Front Line Battle Chest
+ITEM_name
+Contains Common Skins, Uncommon Skins, and Voice packs for Support Champions.
+ITEM_desc
+Remix Support Battle Chest
+ITEM_name
+Guild Skye
+ITEM_name
+Chest Loot Vendor - Rise of Furia Chest
+Loot_Table_name
+Rise of Furia Chest
+ITEM_name
+SLT - Chest - Rise of Furia Chest - Chase
+Loot_Table_name
+SLT - Chest - Rise of Furia Chest - Good
+Loot_Table_name
+SLT - Chest - Rise of Furia Chest - Common
+Loot_Table_name
+Ascension Peak Chest
+ITEM_name
+SLT - Chest - Ascension Chest - Chase
+Loot_Table_name
+SLT - Chest - Ascension Chest - Good
+Loot_Table_name
+SLT - Chest - Ascension Chest - Common
+Loot_Table_name
+Obsidian Warhorse
+ITEM_name
+Copy of Chest Loot Vendor - Rise of Furia Chest
+Loot_Table_name
+Chest Loot Vendor - Ascension Chest
+Loot_Table_name
+Dragon's Call Chest
+ITEM_name
+SLT - Chest - Dragons Call Chest - Super Chase
+Loot_Table_name
+SLT - Chest - Dragons Call Chest - Chase
+Loot_Table_name
+SLT - Chest - Dragons Call Chest - Good
+Loot_Table_name
+SLT - Chest - Dragons Call Chest - Common
+Loot_Table_name
+Chest Loot Vendor - Dragons Call Chest
+Loot_Table_name
+Battle Pass 1 Chest
+ITEM_name
+SLT - Chest - Battle Pass 1 Chest - Chase
+Loot_Table_name
+SLT - Chest - Battle Pass 1 Chest - Event
+Loot_Table_name
+SLT - Chest - Battle Pass 1 Chest - Common
+Loot_Table_name
+SLT - Chest - Battle Pass 1 Chest - Dances
+Loot_Table_name
+Obtainable in Battle Pass 3.
+ITEM_desc
+Synth
+ITEM_name
+Obtainable in Battle Pass 3.
+ITEM_desc
+Nom Nom
+ITEM_name
+Obtainable in Battle Pass 3.
+ITEM_desc
+Redux Equalizer
+ITEM_name
+EDM 2
+ITEM_desc
+Redux Strix
+ITEM_name
+Redux Strix
+ITEM_name
+SLT - Collection - Strix - Redux
+Loot_Table_name
+Chest Loot Vendor - Battle Pass 1 Chest
+Loot_Table_name
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable in the Festive Chest.
+ITEM_desc
+Complete all EDM Encore Battle Pass Challenges. 
+ITEM_desc
+Beat Buster
+ITEM_name
+Familiar Spray Alt
+item_name
+Every 0.1s deal 50 damage in a column of magical energy. Every hit applies 1 Magic Mark to the victim, stacking up to 10.
+item_desc
+ui_autogen_1026
+ui_autogen_1027
+ui_autogen_1028
+Imani Dragon Fire
+item_name
+Imani Dragon Flight
+item_name
+Dredge WEP Skin01A
+ITEM_name
+Dredge Skin01A
+ITEM_name
+Obsidian Pack DLC - Consumables
+Loot_Table_name
+Obsidian Pack DLC - Durables
+Loot_Table_name
+Obsidian Pack DLC - Inner
+Loot_Table_name
+Battle Pass XP DLC Receipt
+ITEM_name
+Chomp Chomp
+ITEM_name
+Obsidian Pack DLC - Outer
+Loot_Table_name
+Ride into battle atop a gleaming Obsidian Warhorse!
+ITEM_short_desc
+Obsidian Warhorse Mount|200 Crystals|3,000,000 Battle Pass XP
+ITEM_desc
+Obsidian Pack
+ITEM_name
+Holiday Dredge
+ITEM_name
+SLT - Collection - Dredge - Holiday
+Loot_Table_name
+Mecha
+ITEM_desc
+Furia Skin03A
+ITEM_name
+Lore
+ITEM_short_desc
+Mecha
+ITEM_desc
+Furia WEP Skin03A
+ITEM_name
+Tech
+ITEM_desc
+Terminus Skin03A
+ITEM_name
+SLT - Chest - Voice Packs - All
+Loot_Table_name
+Chest Loot Vendor - Voice Packs
+Loot_Table_name
+Voice Packs Chest
+ITEM_name
+Tech
+ITEM_desc
+Terminus WEP Skin03A
+ITEM_name
+Future Tech Terminus
+ITEM_name
+SLT - Collection - Terminus - Future Tech
+Loot_Table_name
+Mecha Furia
+ITEM_name
+SLT - Collection - Furia - Mecha
+Loot_Table_name
+Remix Music Pack
+ITEM_name
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable at Mastery Level 50.
+ITEM_desc
+Golden Grover
+ITEM_name
+Container Item
+ITEM_desc
+Battle Pass 3
+ITEM_name
+Mech
+ITEM_desc
+Androxus Skin08A
+ITEM_name
+Battle Pass 3 - Recipe
+Loot_Table_name
+Mecha
+ITEM_desc
+Androxus WEP Skin10A
+ITEM_name
+Accidental Copy of Default Mount
+ITEM_desc
+zzzzCopy of Default Horse
+ITEM_name
+Obtainable in Battle Pass 3.
+ITEM_desc
+Equalizer Frame
+ITEM_name
+SLT - Collection - Androxus - Mecha
+Loot_Table_name
+Mecha Androxus
+ITEM_name
+Daily Quest Reward - Small Rewards - Master Recipe
+Loot_Table_name
+Daily Quest Reward - Large Rewards - Master Recipe
+Loot_Table_name
+Daily Quest Reward - Large Rewards - Base - Recipe 
+Loot_Table_name
+Active for Summon Duration
+EFFECT_GROUP_name
+ Daily Quest Reward - Small Rewards - Tier 1 - Recipe 
+Loot_Table_name
+ Daily Quest Reward - Small Rewards - Base - Recipe 
+Loot_Table_name
+Khan
+item_short_desc
+Sentinel
+item_name
+Obtainable in Battle Pass 3.
+item_desc
+Strix
+item_short_desc
+Recline
+item_name
+Obtainable in Battle Pass 3.
+item_desc
+Copy of ENT SLT Founder's Pack
+Loot_Table_name
+Mecha
+ITEM_desc
+Kinessa Skin04A
+ITEM_name
+Mecha
+ITEM_short_desc
+Mecha
+ITEM_desc
+Kinessa WEP Skin04A
+ITEM_name
+Mecha
+ITEM_short_desc
+Jenos Skin07A
+ITEM_name
+Anime
+ITEM_short_desc
+Anime
+ITEM_desc
+Jenos WEP Skin06A
+ITEM_name
+Anime
+ITEM_short_desc
+Anime
+ITEM_desc
+Mecha Kinessa
+ITEM_name
+SLT - Collection - Kinessa - Mecha
+Loot_Table_name
+Tuxedo Jenos
+ITEM_name
+SLT - Collection - Jenos - Tuxedo
+Loot_Table_name
+Future
+ITEM_desc
+Shalin WEP Skin05A
+ITEM_name
+Future
+ITEM_desc
+Shalin Skin06A
+ITEM_name
+Future Tech Sha Lin
+ITEM_name
+SLT - Collection - ShaLin - Future Tech
+Loot_Table_name
+Earn %s Credits
+Activity_Goal_title
+Earn 50,000 Credits
+Activity_Goal_desc
+Earn 50,000 Credits
+Activity_Goal_name
+Deploy Dome Shield %s times (Barik)
+Activity_Goal_title
+Deploy Dome Shield 15 times (Barik)
+Activity_Goal_desc
+Deploy Dome Shield 15 times (Barik)
+Activity_Goal_name
+EDM Battle Pass Free Level Ref
+ITEM_name
+EDM Battle Pass Paid Level Ref
+ITEM_name
+Copy of  Daily Quest Reward - Day 1 - Tier 1 - Recipe 
+Loot_Table_name
+Daily Quest Reward - Day 1 - Tier 2 - Recipe 
+Loot_Table_name
+Daily Quest Reward - Small Rewards - Tier 2 - Recipe 
+Loot_Table_name
+Daily Quest Reward - Large Rewards - Tier 1 - Recipe 
+Loot_Table_name
+Daily Quest Reward - Large Rewards - Tier 2 - Recipe 
+Loot_Table_name
+Daily Quest Reward - Large Rewards - Prestige Base - Recipe 
+Loot_Table_name
+Daily Quest Reward - Small Rewards - Prestige Base - Recipe 
+Loot_Table_name
+Copy of Daily Quest Reward - Small Rewards - Prestige Base - Recipe 
+Loot_Table_name
+Daily Quest Reward - Small Rewards - Prestige 1 - Recipe 
+Loot_Table_name
+Daily Quest Reward - Small Rewards - Prestige 2 - Recipe 
+Loot_Table_name
+Daily Quest Reward - Large Rewards - Prestige 1 - Recipe
+Loot_Table_name
+Daily Quest Reward - Large Rewards - Prestige 2 - Recipe
+Loot_Table_name
+Moji
+item_short_desc
+Good Boys
+item_name
+Contains Epic and Legendary Collections and Mounts.
+ITEM_desc
+Large Gift
+ITEM_name
+Contains Rare/Epic Cosmetics and Flair.
+ITEM_desc
+Medium Gift
+ITEM_name
+Contains Emotes, Poses, Sprays, and Titles.
+ITEM_desc
+Small Gift
+ITEM_name
+Chest Loot Vendor - Gift - Big
+Loot_Table_name
+Chest Loot Vendor - Gift - Medium
+Loot_Table_name
+Chest Loot Vendor - Gift - Small
+Loot_Table_name
+SLT - Chest - Small Gift - Infinites
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infintes
+Loot_Table_name
+Copy of SLT - Chest - Small Gift - Infintes
+Loot_Table_name
+SLT - Chest - Medium Gift - Infinites
+Loot_Table_name
+SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+HRX Mixer Drops
+Activity_title
+HRX Mixer Drops
+Activity_desc
+HRX Mixer Drops
+Activity_name
+1 Hour Watched
+Activity_Goal_title
+1 Hour Watched
+Activity_Goal_desc
+1 Hour Watched
+Activity_Goal_name
+HRX Dreamhack Mixer Vendor
+Loot_Table_name
+2 Hours Watched
+Activity_Goal_title
+2 Hours Watched
+Activity_Goal_desc
+2 Hours Watched
+Activity_Goal_name
+3 Hours Watched
+Activity_Goal_title
+3 Hours Watched
+Activity_Goal_desc
+3 Hours Watched
+Activity_Goal_name
+4 Hours Watched
+Activity_Goal_title
+4 Hours Watched
+Activity_Goal_desc
+4 Hours Watched
+Activity_Goal_name
+5 Hours Watched
+Activity_Goal_title
+5 Hours Watched
+Activity_Goal_desc
+5 Hours Watched
+Activity_Goal_name
+6 Hours Watched
+Activity_Goal_title
+6 Hours Watched
+Activity_Goal_desc
+6 Hours Watched
+Activity_Goal_name
+7 Hours Watched
+Activity_Goal_title
+7 Hours Watch
+Activity_Goal_desc
+7 Hours Watched
+Activity_Goal_name
+8 Hours Watched
+Activity_Goal_title
+8 Hours Watched
+Activity_Goal_desc
+8 Hours Watched
+Activity_Goal_name
+9 Hours Watched
+Activity_Goal_title
+9 Hours Watched
+Activity_Goal_desc
+9 Hours Watched
+Activity_Goal_name
+10 Hours Watched
+Activity_Goal_title
+10 Hours Watched
+Activity_Goal_desc
+10 Hours Watched
+Activity_Goal_name
+11 Hours Watched
+Activity_Goal_title
+11 Hours Watched
+Activity_Goal_desc
+11 Hours Watched
+Activity_Goal_name
+12 Hours Watched
+Activity_Goal_title
+12 Hours Watched
+Activity_Goal_desc
+12 Hours Watched
+Activity_Goal_name
+13 Hours Watched
+Activity_Goal_title
+13 Hours Watched
+Activity_Goal_desc
+13 Hours Watched
+Activity_Goal_name
+14 Hours Watched
+Activity_Goal_title
+14 Hours Watched
+Activity_Goal_desc
+14 Hours Watched
+Activity_Goal_name
+Long Bow MultiHit
+item_name
+A long bow that draws back an arrow and releases it for up to 1000 damage every 1.5s.
+item_desc
+HRX Mixer 1 Hour Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 2 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 3 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 13 Hours Watched
+ITEM_name
+HRX Mixer - SLT - Hours Watched Triggers
+Loot_Table_name
+HRX Dreamhack Mixer - SLT - Hours Watched Triggers
+Loot_Table_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 4 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 5 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 6 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 7 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 8 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 9 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 10 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 11 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 12 Hours Watched
+ITEM_name
+You've watched 10 minutes of Paladins on Mixer!
+ITEM_desc
+HRX Mixer 14 Hours Watched
+ITEM_name
+Arid V3 (Siege)
+map_game_friendly_name
+WIP Arid V3 (Siege)
+map_game_name
+WIP Arid V3 (Siege)
+map_game_friendly_name
+WIP Arid V3 (Siege)
+map_game_name
+WIP Rush
+map_game_friendly_name
+WIP Rush (Siege)
+map_game_name
+WIP Hangar 18
+map_game_friendly_name
+WIP Hangar 18 (Siege)
+map_game_name
+Supa Rift (Siege)
+map_game_friendly_name
+WIP Supa Rift
+map_game_name
+WIP Arid V3
+map_game_friendly_name
+WIP Arid V3 (Siege)
+map_game_name
+WIP Supa Rift
+map_game_friendly_name
+WIP Supa Rift
+map_game_name
+WIP Supa Rift
+map_game_friendly_name
+WIP Supa Rift (Siege)
+map_game_name
+SLT - Chest - Diamond Chest - Rotated Out Skins
+Loot_Table_name
+Copy of SLT - Collection - Skye - Gold Set
+Loot_Table_name
+Copy of SLT - Collection - Skye - Gold Set
+Loot_Table_name
+SLT - Collection - Skye - Gold Set
+Loot_Table_name
+SLT - Collection - Grover - Gold Set
+Loot_Table_name
+SLT - Collection - Ash - Gold Set
+Loot_Table_name
+Copy of zOLD SLT - Collection - Skye - Gold Set
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Chicken Pet test
+item_name
+Chicken pet bot
+BOT_name
+The Unyielding
+BOT_desc
+Split 3 Qualified Trigger
+ITEM_name
+God of War
+ITEM_name
+Bass Bump Spray
+item_name
+10 minutes watched on Paladins
+ITEM_name
+S3R1S Spray
+item_name
+Seris
+item_short_desc
+Drop the Beat
+item_name
+Copy of Battle Pass 3 - Recipe
+Loot_Table_name
+Recuring reward for winning first training siege match of the day
+Activity_desc
+FWOTD - Training Siege
+Activity_name
+Recuring reward for winning first training TDM match of the day
+Activity_desc
+FWOTD - Training TDM
+Activity_name
+Recuring reward for winning first training onslaught match of the day
+Activity_desc
+FWOTD - Training Onslaught
+Activity_name
+Retro Rampage
+item_name
+Obtainable from Battle Pass 3.
+item_desc
+Pepper
+item_short_desc
+Pepper Step
+item_name
+Dredge
+item_short_desc
+Jolly Jig
+item_name
+Obtainable in Battle Pass 3.
+item_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Corgi Pet test
+item_name
+Corgi pet bot
+BOT_name
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable from Battle Pass 3.
+ITEM_desc
+Obtainable from Battle Pass 3.
+ITEM_desc
+Unlocks all non-limited skins for your team this match.
+ITEM_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Obtainable in Battle Pass 3.
+ITEM_desc
+Copy of Battle Pass 3 - Recipe
+Loot_Table_name
+Battle Pass 3 - Recipe - Conversion
+Loot_Table_name
+SND_Notify_GoToBattlePassEncore_Global
+SND_Notify_GoToBattlePassEncore
+SND_Notify_Menu_UI_Battlepass_Purchase
+SND_Notify_Menu_UI_Battlepass_LevelUp
+SND_Notify_Menu_UI_Battlepass_Booster
+SND_Notify_Menu_UI_Battlepass_Encore
+SND_Notify_Menu_UI_Chest_Purchase_Start
+SND_Notify_Menu_UI_Chest_Purchase_Loop
+SND_Notify_Menu_UI_Chest_Purchase_End
+SND_Notify_Menu_UI_Gifting_Purchase
+SND_Notify_Menu_UI_Gifting_Receive
+Dragon (TDM)
+map_game_friendly_name
+LIVE Dragon (TDM)
+map_game_name
+Custom DM_Dragon Arena
+MSL_name
+@@source_name@@ is at @@int_value@@ energy for their ultimate.
+MSG_COMBAT_ULT_CHARGED
+Dragon
+Match_Queue_short_desc
+Dragon
+Match_Queue_name
+Dragon
+Match_Queue_desc
+Dragon (TDM)
+map_game_friendly_name
+LIVE Dragon (TDM)
+map_game_name
+Dragon
+map_game_friendly_name
+Practice Dragon (TDM) 
+map_game_name
+Mecha
+ITEM_short_desc
+WIP Arid V3
+map_game_friendly_name
+WIP Arid V3 (Siege)
+map_game_name
+WIP Hangar 18
+map_game_friendly_name
+WIP Hangar 18 (Siege)
+map_game_name
+WIP Rush
+map_game_friendly_name
+WIP Rush (Siege)
+map_game_name
+Dragon Arena
+Match_Queue_name
+Dragon Arena
+Match_Queue_desc
+Dragon Arena
+Match_Queue_short_desc
+Obtainable at Mastery Level 50.
+ITEM_desc
+Obtainable at Mastery Level 50.
+ITEM_desc
+Obtainable at Mastery Level 50.
+ITEM_desc
+'Tis the season for giving& and getting a great deal!
+ITEM_short_desc
+Merrymaker Willo|2x Large Gifts|200 Crystals
+ITEM_desc
+Gift Giving Bundle
+ITEM_name
+Gift Giving Bundle Receipt
+ITEM_name
+Copy of Battle Pass XP DLC - Consumables
+Loot_Table_name
+Gift Giving DLC - Consumables
+Loot_Table_name
+Gift Giving DLC - Durables
+Loot_Table_name
+Gift Giving DLC - Inner
+Loot_Table_name
+Gift Giving DLC - Outer
+Loot_Table_name
+zDelete
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Copy of Daily Quest Reward - Large Rewards - Master Recipe
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Copy of SLT - Chest - Big Gift - Infinites
+Loot_Table_name
+Dragon Arena
+map_game_friendly_name
+LIVE Dragon (TDM)
+map_game_name
+Dragon Arena
+map_game_friendly_name
+LIVE Dragon Arena (TDM)
+map_game_name
+SND_Notify_Menu_UI_Chest_Purchase_Loop_End
+Watched 1 Hour
+Activity_Goal_title
+Watched 1 Hour
+Activity_Goal_desc
+Watched 2 Hours
+Activity_Goal_title
+Watched 2 Hours
+Activity_Goal_desc
+Watched 3 Hours
+Activity_Goal_title
+Watched 3 Hours
+Activity_Goal_desc
+Watched 4 Hours
+Activity_Goal_title
+Watched 4 Hours
+Activity_Goal_desc
+Watched 5 Hours
+Activity_Goal_title
+Watched 5 Hours
+Activity_Goal_desc
+Watched 6 Hours
+Activity_Goal_title
+Watched 6 Hours
+Activity_Goal_desc
+Watched 7 Hours
+Activity_Goal_title
+Watched 7 Hours
+Activity_Goal_desc
+Watched 7 Hours
+Activity_Goal_name
+Watched 8 Hours
+Activity_Goal_title
+Watched 8 Hours
+Activity_Goal_desc
+Watched 8 Hours
+Activity_Goal_name
+Watched 9 Hours
+Activity_Goal_title
+Watched 9 Hours
+Activity_Goal_desc
+Watched 9 Hours
+Activity_Goal_name
+Watched 10 Hours
+Activity_Goal_title
+Watched 10 Hours
+Activity_Goal_desc
+Watched 10 Hours
+Activity_Goal_name
+Watched 11 Hours
+Activity_Goal_title
+Watched 11 Hours
+Activity_Goal_desc
+Watched 11 Hours
+Activity_Goal_name
+Watched 12 Hours
+Activity_Goal_title
+Watched 12 Hours
+Activity_Goal_desc
+Watched 12 Hours
+Activity_Goal_name
+Watched 13 Hours
+Activity_Goal_title
+Watched 13 Hours
+Activity_Goal_desc
+Watched 13 Hours
+Activity_Goal_name
+Watched 14 Hours
+Activity_Goal_title
+Watched 14 Hours
+Activity_Goal_desc
+Watched 14 Hours
+Activity_Goal_name
+HRX Mixer Drops
+Activity_title
+HRX Mixer Drops
+Activity_desc
+HRX Mixer Drops v2
+Activity_name
+Missed Battle Pass 1? Now's your chance to grab an upgrade and turn into a Technological Terror with these Hi-Tech Skins.
+ITEM_desc
+Join the clash between the Pyre and Abyss in colorfully contrasted sets of Angelic and Demonic Skins.
+ITEM_desc
+Relive the Assault of Ascension Peak with Exclusive Event Skins and the first ever Roaming Emotes to grace the Realm.
+ITEM_desc
+Dare to delve where Dragons lie donned Skins fit for true adventurers.
+ITEM_desc
+Make your mark on this Dark Dystopia with the most cutting-edge Cybernetic Skins in the Realm.
+ITEM_desc
+Unleash the vocals of your champions and their epic skins!
 ITEM_desc
 None
 VV_TEXT
@@ -139768,6 +141863,7 @@ None
 VV_TEXT
 Use Device
 VV_TEXT
+Yes
 VV_TEXT
 VV_TEXT
 Add (+)
@@ -139790,9 +141886,11 @@ Num/Sec
 VV_TEXT
 Ft/Sec
 VV_TEXT
+N/A
 VV_TEXT
 Instant Ranged Attack
 VV_TEXT
+N/A
 VV_TEXT
 True
 VV_TEXT
@@ -139837,6 +141935,7 @@ Impact Material
 VV_TEXT
 Projectile Class
 VV_TEXT
+Int
 VV_TEXT
 Projectile Ranged Attack
 VV_TEXT
@@ -139934,6 +142033,7 @@ Buildup
 VV_TEXT
 While Firing
 VV_TEXT
+Hit
 VV_TEXT
 Friends In Vision Range (#)
 VV_TEXT
@@ -140001,6 +142101,7 @@ Deployables
 VV_TEXT
 Target Is Last Attacker (0/1)
 VV_TEXT
+Run
 VV_TEXT
 Walk
 VV_TEXT
@@ -140450,6 +142551,10 @@ I Am Invincible (0/1)
 VV_text
 I Am Poisoned (0/1)
 VV_text
+PvP
+PVP
+PvE
+PvE
 Is Behind Target (0/1)
 VV_text
 Your party is too large for the selected match queue.
@@ -140548,6 +142653,7 @@ Your clan has been disbanded.
 CLAN_DISBANDED
 You are not authorized to send on this channel.
 Chat send not allowed
+Dye
 VV_TEXT
 Your party is too small to join this queue.
 Match Team too small
@@ -140606,6 +142712,7 @@ VOIP
 CC VOIP
 Unknown
 CC Unknown
+VIP
 CC VIP
 Enemy Recently Unstealthed (0/1)
 VV_text
@@ -140665,6 +142772,7 @@ Number Of Human Friends (#)
 VV_text
 Combat
 CC_Combat
+AvA
 VV_text
 You cannot join the queue yet, you are a deserter.
 Match Deserter
@@ -140829,6 +142937,7 @@ Your account is suspended for @@hours@@ hour(s) and @@minutes@@ minute(s)
 SUSPENDED_CANT_LOGIN
 Your chat session with @@PLAYER_NAME@@ has not started yet or has been ended.
 CHAT_MSG_IGNORED_BY_GM
+Pet
 VV_TEXT
 All Profile Types
 VV_TEXT
@@ -140866,9 +142975,13 @@ Gold
 VV_TEXT
 Crystals
 VV_TEXT
+USD
 VV_text
+EUR
 VV_text
+GBP
 VV_text
+RUB
 VV_text
 Jetpack Trail
 VV_TEXT
@@ -140876,7 +142989,7 @@ Container
 VV_TEXT
 Promotion
 VV_TEXT
-Smite Normal
+LOBBYCLASS PVP
 VV_TEXT
 Apply Self
 VV_text
@@ -141021,6 +143134,7 @@ Guardian
 VV_TEXT
 Phoenix
 VV_TEXT
+God
 VV_TEXT
 Tower
 VV_TEXT
@@ -141052,6 +143166,7 @@ Black
 VV_TEXT
 Reserved
 VV_TEXT
+Own
 VV_TEXT
 Rent
 VV_TEXT
@@ -141218,7 +143333,7 @@ Champion Mastery
 VV_TEXT
 Setting
 VV_TEXT
-Activity Trigger Type
+Activity Trigger
 VV_TEXT
 Behavior Location
 VV_TEXT
@@ -141226,7 +143341,7 @@ Behavior Actor
 VV_TEXT
 This match queue is not available, please try back later.
 QUEUE_CLOSED
-Smite PvE
+LobbyClass PVE
 VV_TEXT
 Smite Demo
 VV_TEXT
@@ -141468,6 +143583,7 @@ Buffs
 VV_TEXT
 You have pending friend requests.
 CHAT_MSG_FRIEND_PENDING_INVITES
+New
 VV_TEXT
 Reduced
 VV_TEXT
@@ -141491,11 +143607,11 @@ Guardian
 VV_TEXT
 Mage
 VV_TEXT
-[TAG] PlayerName
+[[TAG]] PlayerName
 VV_TEXT
 <TAG> PlayerName
 VV_TEXT
-PlayerName [TAG]
+PlayerName [[TAG]]
 VV_TEXT
 PlayerName <TAG>
 VV_TEXT
@@ -141521,6 +143637,7 @@ TAG.PlayerName
 VV_TEXT
 @@PLAYER_NAME@@ is DND: Do Not Disturb.
 PLAYER_IS_DND
+DND
 STATUS_DND
 You are now DND: Do Not Disturb.
 UPDATED_DND_ON
@@ -141658,6 +143775,7 @@ Offline
 VV_TEXT
 High Mobility
 VV_TEXT
+Hud
 VV_TEXT
 Loading
 VV_TEXT
@@ -141765,6 +143883,7 @@ Promo Skin
 VV_TEXT
 Completed
 VV_TEXT
+DNQ
 VV_TEXT
 You may message only friends while you are "Do Not Disturb".
 CHAT_MSG_NO_NONFRIENDS_WHILE_DND
@@ -142100,6 +144219,7 @@ ES32 (** Unused **)
 VV_TEXT
 Ability
 VV_TEXT
+Set
 VV_TEXT
 Set (%)
 VV_TEXT
@@ -142113,6 +144233,7 @@ Sub Devices
 VV_TEXT
 @@player_name@@ is in a match and cannot be invited.
 TEAM_INVITE_ALREADY_IN_MATCH
+New
 VV_TEXT
 Locked
 VV_TEXT
@@ -142366,6 +144487,7 @@ VV_TEXT
 VV_TEXT
 Practice
 VV_TEXT
+PvE
 VV_TEXT
 Casual
 VV_TEXT
@@ -142471,6 +144593,7 @@ Connection to Steam timed out during finalize.
 STEAM_TIMEOUT_ON_CONSUME
 Hard
 VV_TEXT
+Pro
 VV_TEXT
 Promotional Crystals
 VV_TEXT
@@ -142502,6 +144625,7 @@ Hud Special
 VV_TEXT
 Used Coupon
 VV_TEXT
+All
 VV_TEXT
 All Skins
 VV_TEXT
@@ -142603,6 +144727,7 @@ Emote
 VV_TEXT
 Direct
 VV_TEXT
+AoE
 VV_TEXT
 Normal
 VV_TEXT
@@ -142646,6 +144771,7 @@ Duplicate
 VV_TEXT
 Elimination
 VV_TEXT
+MVP
 VV_TEXT
 MVP Pose
 VV_TEXT
@@ -142707,6 +144833,7 @@ An error occurred please try again later.
 TWITCH_ACCOUNT_ERROR
 You have successfully claimed an award.
 TWITCH_ACCOUNT_REWARD_CLAIMED
+New
 VV_TEXT
 New Deck
 Deck default name
@@ -142788,6 +144915,7 @@ Stackable Refresh
 VV_TEXT
 Lawman's Mark
 VV_TEXT
+PSN
 VV_TEXT
 Xbox
 VV_TEXT
@@ -142869,18 +144997,31 @@ Astro Buff
 VV_TEXT
 Presence DoT
 VV_TEXT
+ARS
 VV_TEXT
+BRL
 VV_TEXT
+CLP
 VV_TEXT
+COP
 VV_TEXT
+IDR
 VV_TEXT
+MXN
 VV_TEXT
+MYR
 VV_TEXT
+PEN
 VV_TEXT
+PHP
 VV_TEXT
+SGD
 VV_TEXT
+THB
 VV_TEXT
+TRY
 VV_TEXT
+UAH
 VV_TEXT
 Triumph System
 VV_TEXT
@@ -142896,7 +145037,11 @@ The server has reached its hard login cap.  You cannot log in at this time.
 HARD_LOGIN_CAP_REACHED
 Ranked
 VV_TEXT
+All Skin Booster
+VV_TEXT
 Notified
+VV_TEXT
+Currency Unique Fill
 VV_TEXT
 Removed Currency
 VV_TEXT
@@ -142939,6 +145084,8 @@ VV_TEXT
 EOM Capped
 VV_TEXT
 Vox Chatter Suffix
+VV_TEXT
+Chest Choice
 VV_TEXT
 User Needs Filling
 VV_TEXT
@@ -143034,6 +145181,7 @@ Youre sexy.
 VV_TEXT
 Youre short
 VV_TEXT
+Ash
 VV_TEXT
 Barik
 VV_TEXT
@@ -143059,6 +145207,7 @@ Jenos
 VV_TEXT
 Kinessa
 VV_TEXT
+Lex
 VV_TEXT
 Lian
 VV_TEXT
@@ -143068,6 +145217,7 @@ Makoa
 VV_TEXT
 MalDamba
 VV_TEXT
+Pip
 VV_TEXT
 Ruckus
 VV_TEXT
@@ -143261,11 +145411,15 @@ Transient Own
 VV_TEXT
 Inherit Entitlement Inventory
 VV_TEXT
+Announcer Pack
+VV_TEXT
 Loading Frame
 VV_TEXT
 Music Pack
 VV_TEXT
 Spray
+VV_TEXT
+Title
 VV_TEXT
 CardDeck
 VV_TEXT
@@ -143459,12 +145613,34 @@ We were unable to link this Steam User to your account.
 Link Dual Auth Steam Error Vague
 Fear
 VV_text
+BattlePass Points EDM
+VV_text
+BattlePass EDM Levels
+VV_text
+BattlePass Points EDM Free
+VV_text
+BattlePass Points EDM Prestige
+VV_text
 Requires handling in another service.
 Login Link Auth Transfer
 We were unable to link your accounts.
 Link_Internal_Accounts_Failed
+Item is not available for gifting.
+ITEM_NOT_GIFTABLE
+BattlePass Prestige Token
+VV_text
 Cannot link accounts: your target account is not linked to a Hi-Rez account.
 Account Link Target Is Anonymous
+BattlePass EDM Free Levels
+VV_text
+Congratulations! You just won @@name@@. This has been automatically added to your account.
+Stream Drop Reward Notification
+The player you are trying to send a gift to does not meet the level requirements for gifting.
+Gift error target minimum level
+Needs Redemption
+VV_text
+Player Merge
+VV_text
 Specified two factor code @@TWO_FACTOR_CODE@@ invalid.
 LOGIN_FAILED_TWOFACTOR_INVALID
 We're currently unable to create new accounts of that type.
