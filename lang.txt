@@ -74514,7 +74514,7 @@ Enchanted Forest Grim Reaper
 map_game_friendly_name
 Enchanted Forest Grim Reaper
 map_game_name
-WIP Tencent_TDM_A
+zDELETE Tencent_TDM_A
 MSL_name
 Capture only game mode with no respawning until a point is captured.
 MSL_desc
@@ -84191,7 +84191,7 @@ Sinistral New Bases
 map_game_friendly_name
 Sinistral New Bases
 map_game_name
-WIP Supa Rift (Siege)
+WIP Dragon (Siege)
 MSL_name
 Skirmish Survival
 Match_Queue_short_desc
@@ -84413,7 +84413,7 @@ Glacier Keep Capture and Payload
 map_game_friendly_name
 Glacier Keep Capture and Payload
 map_game_name
-WIP DM Junction
+zDELETE DM Junction
 MSL_name
 Glacier Keep Capture And Payload
 map_game_friendly_name
@@ -84889,7 +84889,7 @@ District Capture and Payload
 map_game_friendly_name
 District Capture and Payload
 map_game_name
-WIP Asiatic Map (Onslaught)
+WIP Siege02Use
 MSL_name
 Barrier (TDM)
 Match_Queue_short_desc
@@ -85869,11 +85869,11 @@ Hangar Capture and Payload
 map_game_name
 LIVE Test Maps
 MSL_name
-Arid v3
+WIP Arid v3 (Siege)
 Match_Queue_short_desc
-WIP Arid Siege 
+WIP Arid v3 (Siege)
 Match_Queue_name
-Arid v3
+WIP Arid v3 (Siege)
 Match_Queue_desc
 Core
 CHAOSCAPTURE_HangarA
@@ -86503,7 +86503,7 @@ Hexed
 PALADINS_STATUS_HEXED
 Attack Slowed
 PALADINS_STATUS_ATTACKSLOWED
-DAMAGE\nTOTAL
+DAMAGE TOTAL
 PALADINS_DAMAGE_TOTAL
 Frostbite Caverns
 map_game_friendly_name
@@ -91720,7 +91720,7 @@ TR V2 Siege Ranked
 map_game_name
 zOLD WIP Frozen Guard (Siege Redux)
 MSL_name
-WIP Tencent_TDM_B
+zDELETE Tencent_TDM_B
 MSL_name
 Ranked version of the Siege (Capture and Payload) game mode.
 MSL_desc
@@ -92727,7 +92727,7 @@ Mine
 map_game_friendly_name
 I_Mine
 map_game_name
-WIP Waterway (Siege)
+zDELETE Waterway (Siege)
 MSL_name
 Waterfall
 map_game_friendly_name
@@ -92755,7 +92755,7 @@ Bog_Market
 map_game_friendly_name
 Bog_Market
 map_game_name
-WIP Hangar 18
+WIP Hangar 18 (Siege)
 MSL_name
 Dock
 map_game_friendly_name
@@ -92789,7 +92789,7 @@ Igloo
 map_game_friendly_name
 I_Igloo Ranked
 map_game_name
-WIP Arid v3
+WIP Arid v3 (Siege)
 MSL_name
 Mine
 map_game_friendly_name
@@ -93681,10 +93681,11 @@ zDeprecated Lighter Gourd IV
 item_name
 [Gourd] Gourd gains 40% projectile speed.
 item_desc
-WIP BR
+WIP Siege02Use
 Match_Queue_short_desc
+WIP Siege02Use
 Match_Queue_name
-WIP BR
+WIP Siege02Use
 Match_Queue_desc
 WIP Pirate (Onslaught)
 MSL_name
@@ -94890,7 +94891,7 @@ IMM_P_Igloo_v02 One Push
 map_game_friendly_name
 IMM_P_Igloo_v02 One Push
 map_game_name
-WIP District (Siege)
+WIP Thrones (Siege)
 MSL_name
 Capture and Payload variant.  One team wins when they push the payload to the enemy base once.
 MSL_desc
@@ -95554,11 +95555,11 @@ Waterfall
 map_game_friendly_name
 Old Survival Waterfall 
 map_game_name
-Supa Rift (Siege)
+Dragon (Siege)
 Match_Queue_short_desc
-Supa Rift (Siege)
+Dragon (Siege)
 Match_Queue_name
-Supa Rift (Siege)
+Dragon (Siege)
 Match_Queue_desc
 Waterfall
 map_game_friendly_name
@@ -97132,7 +97133,7 @@ Chillweave Beanie
 ITEM_name
 Obtainable in the Festive Chest
 ITEM_desc
-Jolly Long bow
+Jolly Long Bow
 ITEM_name
 [Weapon] Increase your Ammo count 
 item_short_desc
@@ -97584,11 +97585,11 @@ WIP Frozen_Guard
 map_game_friendly_name
 WIP Frozen_Guard
 map_game_name
-Hidden Temple (Payload)
+WIP Deathgate (Siege)
 Match_Queue_short_desc
-Hidden Temple (Payload)
+Deathgate (Siege)
 Match_Queue_name
-Hidden Temple (Payload)
+WIP Deathgate (Siege)
 Match_Queue_desc
 Jaguar Falls
 map_game_friendly_name
@@ -106553,13 +106554,13 @@ Arc Lightning Spray
 item_name
 Obtainable in the Radiant Chest.
 item_desc
-Flagball!
+Thrones (Siege)
 Match_Queue_short_desc
-Flagball
+Thrones (Siege)
 Match_Queue_name
-Flagball!
+Thrones (Siege)
 Match_Queue_desc
-WIP Flagball
+zDELETE Flagball
 MSL_name
 Copy of Gale
 item_name
@@ -110962,7 +110963,7 @@ Obtainable in the Festive Chest
 ITEM_desc
 OLD SLT - Chest - Festive - Epic Spray - Exclusive
 Loot_Table_name
-Celebrate the Season with Skins filled with Holiday Cheer while spreading the joy yourself as a percent of every chest roll will go to Child's Play!
+Celebrate the Season with Skins filled with Holiday Cheer. A percent of every chest roll will go to Child's Play!
 ITEM_desc
 zOld Dire Wolf
 ITEM_name
@@ -113303,17 +113304,17 @@ View Offers
 PALADINS_VIEW_OFFERS
 VIP DLC Receipt
 ITEM_name
-Quarry (Onslaught)
+WIP Siege05Use
 Match_Queue_short_desc
-Quarry (Onslaught)
+WIP Siege05Use
 Match_Queue_name
-Quarry (Onslaught)
+WIP Siege05Use
 Match_Queue_desc
-Keep (TDM)
+WIP Siege04Use
 Match_Queue_short_desc
-Trade District
+WIP Siege04Use
 Match_Queue_name
-Keep (TDM)
+WIP Siege04Use
 Match_Queue_desc
 SLT - Spray Rental - Summer Chest
 Loot_Table_name
@@ -115797,7 +115798,7 @@ Primal Court (Onslaught)
 map_game_friendly_name
 WIP Onslaught Tutorial Skipped
 map_game_name
-WIP Tutorial Skipped (Onslaught)
+zDELETE WIP Tutorial Skipped (Onslaught)
 MSL_name
 Local Onslaught played when a player skips the tutorial
 MSL_desc
@@ -116365,7 +116366,7 @@ Bash (Siege)
 map_game_friendly_name
 WIP Bash (Siege) 
 map_game_name
-WIP Enchanted Forest (Conquest)
+zDELETE Enchanted Forest (Conquest)
 MSL_name
 Churchill Shield Subdevice
 item_name
@@ -118375,7 +118376,7 @@ Keep Map (TDM)
 map_game_friendly_name
 WIP Keep Map (TDM)
 map_game_name
-WIP Keep Map (TDM)
+zDELETE Keep Map (TDM)
 MSL_name
 Obtainable in the Lunar Chest.
 ITEM_desc
@@ -118719,13 +118720,13 @@ Enchanted Forest (Siege Redux)
 map_game_friendly_name
 WIP Enchanted Forest (Siege Redux)
 map_game_name
-WIP Enchanted Forest SiegeRedux
+zDELETE Enchanted Forest SiegeRedux
 MSL_name
-Enchanted Forest (Siege Redux)
+WIP Siege03Use
 Match_Queue_short_desc
-Enchanted Forest (Siege Redux)
+WIP Siege03Use
 Match_Queue_name
-Enchanted Forest (Siege Redux)
+WIP Siege03Use
 Match_Queue_desc
 Red/Orange
 ITEM_desc
@@ -123375,7 +123376,7 @@ WIP Ice Royale
 map_game_name
 WIP Ice Royale
 MSL_name
-WIP BG
+WIP Siege03Use
 MSL_name
 Salty Springs (Siege)
 map_game_friendly_name
@@ -127099,7 +127100,7 @@ Royale Death Fog
 item_name
 Seris
 item_short_desc
-Gypsy Dance
+Caravan Dance
 item_name
 Arid
 map_game_friendly_name
@@ -130184,7 +130185,7 @@ map_game_name
 map_game_friendly_name
 WIP BR
 map_game_name
-WIP BR
+WIP Siege05Use
 MSL_name
 SLT - TC Chest - Diamond Chest - Legendary Collection
 Loot_Table_name
@@ -131319,7 +131320,7 @@ The Untamed
 BOT_desc
 Battlegrounds Yolo
 Match_Queue_name
-WIP BG YOLO
+WIP Siege04Use
 MSL_name
 BG YOLO
 map_game_friendly_name
@@ -133343,13 +133344,13 @@ Ascension Peak (AA)
 map_game_friendly_name
 WIP Asiatic Map (Ascended Assault)
 map_game_name
-WIP Asiatic Map (AA)
+WIP Deathgate (Siege)
 MSL_name
-Siege of Ascension Peak
+WIP Siege01Use
 Match_Queue_short_desc
-Siege of Ascension Peak
+WIP Siege01Use
 Match_Queue_name
-Siege of Ascension Peak
+WIP Siege01Use
 Match_Queue_desc
 SLT - Collection - Pip - Arctic - Rental
 Loot_Table_name
@@ -136010,7 +136011,7 @@ Channel the Pyre and become untargetable for 2s. Afterward, you and allies withi
 item_desc
 Powerup - Full Energy
 Deployable_name
-SLT - Collection - Furia - Recolor
+SLT - Collection - Furia - Iron Maiden
 Loot_Table_name
 Iron Maiden
 ITEM_name
@@ -136124,7 +136125,7 @@ Dominator
 item_name
 Obtainable from the Rise of Furia Event.
 item_desc
-SLT - Collection - Furia - Recolor - RENTAL - 1 Day
+SLT - Collection - Furia - Iron Maiden - RENTAL - 1 Day
 Loot_Table_name
 SLT - Collection - Maeve - Demon - RENTAL - 1 Day
 Loot_Table_name
@@ -138935,7 +138936,7 @@ Loot_Table_name
 Use to unlock an exclusive skin in the Vault.
 ITEM_desc
 ui_autogen_1025
-SLT - Collection - Inara - Iron Maiden
+SLT - Collection - Inara - Iron Madam
 Loot_Table_name
 Iron Madam
 ITEM_name
@@ -139078,7 +139079,7 @@ SLT - Dark Tidings Bundle - Vivian - Halloween
 Loot_Table_name
 SLT - Dark Tidings Bundle - Viktor - Halloween
 Loot_Table_name
-Mage Avatar
+Imani Avatar
 BOT_name
 The Magest
 BOT_desc
@@ -139104,7 +139105,7 @@ Day Walker
 ITEM_name
 Harbinger
 ITEM_name
-Mage Ult
+Imani Ult
 item_name
 Spawn Avatar
 DEVICE_name
@@ -139904,7 +139905,7 @@ Cosplay
 ITEM_name
 Unlocked through promotional Cosplay events.
 ITEM_desc
-Holiday 2018 Event Conversion - SLT - Master
+Winter Event Conversion - SLT - Master
 Loot_Table_name
 Dragon's Call
 map_game_friendly_name
@@ -140008,7 +140009,7 @@ Cuddly Moji
 ITEM_name
 Puppet
 ITEM_short_desc
-Obtainable in Battle Pass 3.
+Obtainable in the Festive Chest.
 ITEM_desc
 Cuddly Wugglies
 ITEM_name
@@ -140046,9 +140047,9 @@ Default
 ITEM_desc
 Default Imani Weapon
 ITEM_name
-Mage LMB2
+Imani LMB2
 item_name
-Mage RMB1
+Imani RMB1
 item_name
 EDM
 ITEM_short_desc
@@ -140070,15 +140071,15 @@ Battle Pass Experience
 ITEM_desc
 Battle Pass EDM XP
 ITEM_name
-Mage RMB2
+Imani RMB2
 item_name
 Remix Seris
 ITEM_name
 SLT - Collection - Seris - EDM
 Loot_Table_name
-Mage LMB1
+Imani LMB1
 item_name
-Mage Swap
+Imani Swap
 item_name
 Crossbow_Weak
 item_name
@@ -140096,15 +140097,15 @@ Loot_Table_desc
 ITEM_desc
 Holiday
 ITEM_short_desc
-Lian Skin04A
+Merrymaker Lian
 ITEM_name
-Holiday
+Obtainable in the Merry Mayhem event.
 ITEM_desc
 Holiday
 ITEM_short_desc
-Lian WEP Skin04A
+Merrymaker's Yeti Slayer
 ITEM_name
-Holiday
+Obtainable in the Merry Mayhem event.
 ITEM_desc
 Battle Pass EDM - Free Rewards Vendor
 Loot_Table_name
@@ -140186,15 +140187,15 @@ SLT - Chest - EDM Damage Battle Chest - Voice Packs
 Loot_Table_name
 SLT - Chest - EDM Flank Battle Chest - Skins
 Loot_Table_name
-Holiday
+Obtainable in the Gift Giving Bundle.
 ITEM_desc
-Willo Skin02A
+Sugar Plum Willo
 ITEM_name
 SLT - Chest - EDM Flank Battle Chest - Voice Packs
 Loot_Table_name
-Holiday
+Obtainable in the Gift Giving Bundle.
 ITEM_desc
-Willo WEP Skin02A
+Sugar Plum's Starlight
 ITEM_name
 SLT - Chest - EDM Frontline Battle Chest - Skins
 Loot_Table_name
@@ -140218,15 +140219,15 @@ EDM
 ITEM_desc
 Obtainable in Battle Pass 3.
 ITEM_desc
-SLT - Collection - Lian - Holiday
+SLT - Collection - Lian - Merrymaker
 Loot_Table_name
-Holiday Lian
+Merrymaker Lian
 ITEM_name
 SLT - Collection - Willo - Holiday
 Loot_Table_name
-SLT - Collection - Willo - Holiday
+SLT - Collection - Willo - Sugar Plum
 Loot_Table_name
-Holiday Willo
+Sugar Plum Willo
 ITEM_name
 SLT - Collection - Furia - Convention
 Loot_Table_name
@@ -140634,29 +140635,29 @@ EDM Prestige Challenges Tier 5
 Activity_desc
 EDM Prestige Challenges Tier 5
 Activity_name
-Holiday
+Obtainable in the Merry Mayhem event.
 ITEM_desc
-Maeve Skin05A
+Merrymaker Maeve
 ITEM_name
 Kitten
 ITEM_short_desc
-Holiday
+Obtainable in the Marry Mayhem event.
 ITEM_desc
-Maeve WEP Skin03A
+Merrymaker's Candy Cutters
 ITEM_name
-Holiday Maeve
+Merrymaker Maeve
 ITEM_name
-SLT - Collection - Maeve - Holiday
+SLT - Collection - Maeve - Merrymaker
 Loot_Table_name
 Play 25 games in Ranked Season 2 Winter Split.
 ITEM_desc
-Holiday
+Obtainable in the Merry Mayhem event.
 ITEM_desc
-Terminus Skin02A
+Abominable Terminus
 ITEM_name
-Holiday
+Obtainable in the Merry Mayhem event.
 ITEM_desc
-Terminus WEP Skin02A
+Abominable Ice Breaker
 ITEM_name
 SLT - Battle Pass EDM - Atomic Currency
 Loot_Table_name
@@ -140672,9 +140673,9 @@ Battle Pass EDM Prestige Receipt
 ITEM_name
 Receive by consuming a prestige token. Ownership is used to check if a player has prestiged
 ITEM_desc
-Holiday Terminus
+Abominable Terminus
 ITEM_name
-SLT - Collection - Terminus - Holiday
+SLT - Collection - Terminus - Abominable
 Loot_Table_name
 CrenshawTest
 map_game_friendly_name
@@ -140682,7 +140683,7 @@ CrenshawTest
 map_game_name
 Gold
 ITEM_short_desc
-ImaniF
+Imani F
 item_name
 SLT - Steam Bundle Starter Pack
 Loot_Table_name
@@ -141143,13 +141144,13 @@ item_desc
 ui_autogen_1026
 ui_autogen_1027
 ui_autogen_1028
-Imani Dragon Fire
+Imani Ult Fire
 item_name
-Imani Dragon Flight
+Imani Ult Flight
 item_name
-Dredge WEP Skin01A
+Merrymaker's Blitz-en
 ITEM_name
-Dredge Skin01A
+Merrymaker Dredge
 ITEM_name
 Obsidian Pack DLC - Consumables
 Loot_Table_name
@@ -141169,9 +141170,9 @@ Obsidian Warhorse Mount|200 Crystals|3,000,000 Battle Pass XP
 ITEM_desc
 Obsidian Pack
 ITEM_name
-Holiday Dredge
+Merrymaker Dredge
 ITEM_name
-SLT - Collection - Dredge - Holiday
+SLT - Collection - Dredge - Merrymaker
 Loot_Table_name
 Mecha
 ITEM_desc
@@ -141213,7 +141214,7 @@ Obtainable at Mastery Level 50.
 ITEM_desc
 Golden Grover
 ITEM_name
-Container Item
+Battle Pass Upgrade Item
 ITEM_desc
 Battle Pass 3
 ITEM_name
@@ -141477,21 +141478,21 @@ Long Bow MultiHit
 item_name
 A long bow that draws back an arrow and releases it for up to 1000 damage every 1.5s.
 item_desc
-HRX Mixer 1 Hour Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 2 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 3 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 13 Hours Watched
+Esports Chest
 ITEM_name
 HRX Mixer - SLT - Hours Watched Triggers
 Loot_Table_name
@@ -141499,43 +141500,43 @@ HRX Dreamhack Mixer - SLT - Hours Watched Triggers
 Loot_Table_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 4 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 5 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 6 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 7 Hours Watched
+DreamHack Maeve
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 8 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 9 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 10 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 11 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 12 Hours Watched
+Esports Chest
 ITEM_name
 You've watched 10 minutes of Paladins on Mixer!
 ITEM_desc
-HRX Mixer 14 Hours Watched
+Coldsnap Furia
 ITEM_name
 Arid V3 (Siege)
 map_game_friendly_name
@@ -141718,7 +141719,7 @@ Obtainable at Mastery Level 50.
 ITEM_desc
 'Tis the season for giving& and getting a great deal!
 ITEM_short_desc
-Merrymaker Willo|2x Large Gifts|200 Crystals
+Sugar Plum Willo|2x Large Gift Tokens|200 Crystals
 ITEM_desc
 Gift Giving Bundle
 ITEM_name
@@ -141762,31 +141763,79 @@ Dragon Arena
 map_game_friendly_name
 LIVE Dragon Arena (TDM)
 map_game_name
+The objective point was captured!
+MSG_COMBAT_OBJECTIVE_CAPTURED
+@@target_name@@ is capturing the objective.
+MSG_COMBAT_OBJECTIVE_CAPTURING
+@@target_name@@ is contesting the objective.
+MSG_COMBAT_OBJECTIVE_CONTESTING
+@@target_name@@ is pushing the payload.
+MSG_COMBAT_PAYLOAD_PUSHING
+@@target_name@@ is contesting the payload.
+MSG_COMBAT_PAYLOAD_CONTESTING
+Succeeded in preventing the payload from arriving!
+MSG_COMBAT_PAYLOAD_DEFENSE_SUCCESS
+Successfully pushed the payload!
+MSG_COMBAT_PAYLOAD_PUSH_SUCCESS
+@@target_name@@ was resurrected!
+MSG_COMBAT_RESURRECTION_EFFECT
+@@target_name@@ received @@int_value@@ credits from @@source_name@@ (reward type @@int_value2@@).
+MSG_COMBAT_CREDITS_RECIEVED
+@@target_name@@ received @@int_value@@ credits (reward type @@int_value2@@).
+MSG_COMBAT_CREDITS_RECIEVED_NOSOURCELOCAL
+Dredge Skin02A
+ITEM_name
+Dredge WEP Skin02A
+ITEM_name
+Makoa WEP Skin07A
+ITEM_name
+Makoa Skin06A
+ITEM_name
+@@target_name@@ took @@int_value@@ damage from @@source_name@@.
+MSG_COMBAT_DEPLOYABLE_DAMAGE
+@@target_name@@ took @@int_value@@ damage.
+MSG_COMBAT_DEPLOYABLE_DAMAGE_NOSOURCELOCAL
+WIP Thrones
+map_game_friendly_name
+WIP Thrones (Siege)
+map_game_name
 SND_Notify_Menu_UI_Chest_Purchase_Loop_End
 Watched 1 Hour
 Activity_Goal_title
 Watched 1 Hour
 Activity_Goal_desc
+Watched 1 Hour
+Activity_Goal_name
 Watched 2 Hours
 Activity_Goal_title
 Watched 2 Hours
 Activity_Goal_desc
+Watched 2 Hours
+Activity_Goal_name
 Watched 3 Hours
 Activity_Goal_title
 Watched 3 Hours
 Activity_Goal_desc
+Watched 3 Hours
+Activity_Goal_name
 Watched 4 Hours
 Activity_Goal_title
 Watched 4 Hours
 Activity_Goal_desc
+Watched 4 Hours
+Activity_Goal_name
 Watched 5 Hours
 Activity_Goal_title
 Watched 5 Hours
 Activity_Goal_desc
+Watched 5 Hours
+Activity_Goal_name
 Watched 6 Hours
 Activity_Goal_title
 Watched 6 Hours
 Activity_Goal_desc
+Watched 6 Hours
+Activity_Goal_name
 Watched 7 Hours
 Activity_Goal_title
 Watched 7 Hours
@@ -141841,11 +141890,11 @@ HRX Mixer Drops
 Activity_desc
 HRX Mixer Drops v2
 Activity_name
-Missed Battle Pass 1? Now's your chance to grab an upgrade and turn into a Technological Terror with these Hi-Tech Skins.
+Grab an upgrade and turn into a Technological Terror with these Hi-Tech Skins.
 ITEM_desc
 Join the clash between the Pyre and Abyss in colorfully contrasted sets of Angelic and Demonic Skins.
 ITEM_desc
-Relive the Assault of Ascension Peak with Exclusive Event Skins and the first ever Roaming Emotes to grace the Realm.
+Relive the Assault of Ascension Peak with Exclusive Event Skins and the first ever Roaming Emotes.
 ITEM_desc
 Dare to delve where Dragons lie donned Skins fit for true adventurers.
 ITEM_desc
@@ -141853,6 +141902,741 @@ Make your mark on this Dark Dystopia with the most cutting-edge Cybernetic Skins
 ITEM_desc
 Unleash the vocals of your champions and their epic skins!
 ITEM_desc
+Hearts
+ITEM_short_desc
+Tyra WEP Skin06A
+ITEM_name
+Hearts
+ITEM_short_desc
+Tyra Skin06A
+ITEM_name
+ui_autogen_1029
+Large Gift Token
+ITEM_name
+This token allows the user to send a Large Gift.
+ITEM_desc
+Ticket
+ITEM_name
+This ticket allows the user to claim the current Deal of the Day.
+ITEM_desc
+1 Token
+Loot_Table_desc
+Web Store - Daily Deal Token
+Loot_Table_name
+Warder's Duty
+ITEM_short_desc
+Fulfill your Warder's Duty and Protect the Realm
+ITEM_desc
+Imani_Deck
+ITEM_name
+[Armor] Increase your base maximum Health.
+item_short_desc
+Ancient Duty
+item_name
+[Armor] Increase your base maximum Health by {scale=50|50}.
+item_desc
+Evolve
+EFFECT_GROUP_name
+[Armor] Dropping to or below 50% of your max Health grants you a Shield.
+item_short_desc
+Elements Grace
+item_name
+[Armor] Dropping to or below 50% HP grants a {scale=150|150}hp Shield for 3s.
+item_desc
+Pyreball hits reduce the Cooldown of Frost Bomb
+item_short_desc
+Heat Sink
+item_name
+[Pyreball] Dealing damage with Pyreball reduces the Cooldown of Frost Bomb by {0.5|0.5}s.
+item_desc
+Viktor WEP Skin11A
+ITEM_name
+[Frost Bomb] Increase the root duration of Frost Bomb.
+item_short_desc
+Permafrost
+item_name
+[Frost Bomb] Increase the root duration of Frost Bomb by {scale=0.2|0.2}s.
+item_desc
+Viktor Skin09A
+ITEM_name
+[Inferno Cannon] Increase your movement speed in Inferno Cannon.
+item_short_desc
+Swift Sear
+item_name
+[Inferno Cannon] Increase your movement speed while casting inferno cannon by {scale=10|10}%. 
+item_desc
+[Elemental Shift] Reduce the Cooldown of Elemental Shift
+item_short_desc
+Affinity
+item_name
+[Elemental Shift] Reduce the Cooldown of Elemental Shift by {scale=1|1}s.
+item_desc
+Pilgrimage
+item_name
+[Frostfire Glide] Increase Frostfire Glide's duration by {scale=0.5|0.5}s.
+item_desc
+[Frostfire Glide] Increase Frostfire Glide's duration
+item_short_desc
+[Frostfire Glide] Frostfire Glide Travels faster
+item_short_desc
+Pyretic Momentum
+item_name
+[Frostfire Glide] Frostfire Glide Travels {scale=5|5}% faster.
+item_desc
+Lian
+item_short_desc
+Poise
+item_name
+[Dead Zone] Dead Zone Heal talent test
+item_short_desc
+Scorched Earth v2
+item_name
+[Dead Zone] Dead Zone Heal talent test
+item_desc
+Ranked
+ITEM_desc
+Grohk Skin04A
+ITEM_name
+Ranked
+ITEM_short_desc
+Grohk WEP Skin05A
+ITEM_name
+Ranked
+ITEM_short_desc
+Ranked
+ITEM_desc
+Horse Mount Skin06A
+ITEM_name
+Armored
+ITEM_short_desc
+Armored
+ITEM_desc
+Winter Event Bundles Vendor
+Loot_Table_name
+Winter Event Store Vendor
+Loot_Table_name
+Merrymaker Dredge Bundle
+ITEM_name
+Abominable Terminus Bundle
+ITEM_name
+Merrymaker Lian Bundle
+ITEM_name
+Merrymaker Maeve Bundle
+ITEM_name
+SLT - Winter Event Bundle - Dredge
+Loot_Table_name
+SLT - Winter Event Bundle - Terminus
+Loot_Table_name
+SLT - Winter Event Bundle - Lian
+Loot_Table_name
+SLT - Winter Event Bundle - Lian
+Loot_Table_name
+SLT - Winter Event Bundle - Maeve
+Loot_Table_name
+Sweets
+ITEM_name
+Stocking
+ITEM_name
+Iced Out
+ITEM_name
+Obtainable in the Merry Mayhem Event.
+ITEM_desc
+Recipe - Winter Event Bonus Bundle - Produce
+Loot_Table_name
+SLT - Winter Event Full Purchase Bundle
+Loot_Table_name
+Atlas
+BOT_name
+Royal Cartographer
+BOT_desc
+Energy Charge - Atlas
+item_name
+Atlas Inhand
+item_name
+Fire one 200 damage shot every 0.26s.
+item_desc
+Ice Palace Frame
+ITEM_name
+Default
+ITEM_desc
+Default Atlas
+ITEM_name
+Default
+ITEM_desc
+Default Atlas WEP
+ITEM_name
+Imani Ult Cancel
+item_name
+Mixer Store Vendor
+Loot_Table_name
+Mixer Points
+ITEM_name
+Future Tech Makoa
+ITEM_name
+SLT - Collection - Makoa - Future Tech
+Loot_Table_name
+Future Tech Dredge
+ITEM_name
+SLT - Collection - Dredge - Future Tech
+Loot_Table_name
+Atlas RMB
+item_name
+Valentines Tyra
+ITEM_name
+SLT - Collection - Tyra - Valentines
+Loot_Table_name
+Atlas RMB Inhand
+item_name
+Armored Viktor
+ITEM_name
+SLT - Collection - Viktor - Armored
+Loot_Table_name
+Ranked Grohk
+ITEM_name
+SLT - Collection - Grohk - Ranked
+Loot_Table_name
+[Frostfire Glide] While in Frostfire Glide heal every second.
+item_short_desc
+Ice in her Veins
+item_name
+[Frostfire Glide] While in Frostfire Glide heal for {scale=50|50} health every second.
+item_desc
+Imani XP
+ITEM_name
+Gingerdead House
+ITEM_name
+Naughty Yeti
+item_name
+Chibi
+item_short_desc
+Festive Furia
+item_name
+Winter Event Quest Chain 1
+Activity_name
+Winter Event Quest Chain 2
+Activity_name
+Winter Event Quest Chain 3
+Activity_name
+Stocking Stuffer Quest Chain
+Activity_title
+Stocking Stuffer Quest Chain
+Activity_desc
+Candy Connoisseur Quest Chain
+Activity_title
+Candy Connoisseur Quest Chain
+Activity_desc
+Sweet Collector Quest Chain
+Activity_title
+Sweet Collector Quest Chain
+Activity_desc
+Winter Event Rewards Vendor
+Loot_Table_name
+Winter Event Rewards Vendor
+Loot_Table_name
+Sweet Collector Unlocked
+Activity_Goal_title
+Sweet Collector Unlocked
+Activity_Goal_desc
+Sweet Collector Unlocked
+Activity_Goal_name
+Bad Dredge 1 Completed
+Activity_Goal_title
+Bad Dredge 1 Completed
+Activity_Goal_desc
+Bad Dredge 1 Completed
+Activity_Goal_name
+Candy Connoisseur Unlocked
+Activity_Goal_title
+Candy Connoisseur Unlocked
+Activity_Goal_desc
+Candy Connoisseur Unlocked
+Activity_Goal_name
+Bad Dredge 2 Completed
+Activity_Goal_title
+Bad Dredge 2 Completed
+Activity_Goal_desc
+Bad Dredge 2 Completed
+Activity_Goal_name
+Stocking Stuffer Unlocked
+Activity_Goal_title
+Stocking Stuffer Unlocked
+Activity_Goal_desc
+Stocking Stuffer Unlocked
+Activity_Goal_name
+Bad Dredge 3 Completed
+Activity_Goal_title
+Bad Dredge 3 Completed
+Activity_Goal_desc
+Bad Dredge 3 Completed
+Activity_Goal_name
+Play 1 Match
+Activity_Goal_title
+Play 1 Match
+Activity_Goal_desc
+Play 1 Match
+Activity_Goal_name
+Capture 2 Siege Objectives
+Activity_Goal_title
+Capture 2 Siege Objectives
+Activity_Goal_desc
+Capture 2 Siege Objectives
+Activity_Goal_name
+Heal 30,000 Health in a single match
+Activity_Goal_title
+Heal 30,000 Health in a single match
+Activity_Goal_desc
+Heal 30,000 Health in a single match
+Activity_Goal_name
+Deal 50,000 Damage in a single match
+Activity_Goal_title
+Deal 50,000 Damage in a single match
+Activity_Goal_desc
+Deal 50,000 Damage in a single match
+Activity_Goal_name
+Play 25 Matches
+Activity_Goal_title
+Play 25 Matches
+Activity_Goal_desc
+Play 25 Matches
+Activity_Goal_name
+Sweet Collector
+ITEM_name
+Merrymaker Dredge forgot to grab sweets for the children's stocking, and is holding your gifts ransom unless you find some! Finish 5 of his challenges to unlock an exclusive Avatar.
+ITEM_desc
+Unlocks Dec. 19, 4:00 AM EST
+ITEM_desc
+Candy Connoisseur
+ITEM_name
+Unlocks Dec. 26, 4:00 AM EST
+ITEM_desc
+Stocking Stuffer
+ITEM_name
+Atlas Q
+item_name
+Atlas Q Deployable
+Deployable_name
+Win 1 Match
+Activity_Goal_title
+Win 1 Match
+Activity_Goal_desc
+Win 1 Match
+Activity_Goal_name
+Shield for 40,000 in a single match
+Activity_Goal_title
+Shield for 40,000 in a single match
+Activity_Goal_desc
+Shield for 40,000 in a single match
+Activity_Goal_name
+Earn best in Role 3 times
+Activity_Goal_title
+Earn best in Role 3 times
+Activity_Goal_desc
+Earn best in Role 3 times
+Activity_Goal_name
+Capture 5 Siege Objectives
+Activity_Goal_title
+Capture 5 Siege Objectives
+Activity_Goal_desc
+Capture 5 Siege Objectives
+Activity_Goal_name
+Win 15 Matches
+Activity_Goal_title
+Win 15 Matches
+Activity_Goal_desc
+Win 15 Matches
+Activity_Goal_name
+Deal 200,000 Damage
+Activity_Goal_title
+Deal 200,000 Damage
+Activity_Goal_desc
+Deal 200,000 Damage
+Activity_Goal_name
+Win 3 Team Deathmatch games
+Activity_Goal_title
+Win 3 Team Deathmatch games
+Activity_Goal_desc
+Win 3 Team Deathmatch games
+Activity_Goal_name
+Earn 10,000 Credits in matches
+Activity_Goal_title
+Earn 10,000 Credits in matches
+Activity_Goal_desc
+Earn 10,000 Credits in matches
+Activity_Goal_name
+Damage and Heal players for 120,000 total in a single match
+Activity_Goal_title
+Damage and Heal players for 120,000 total in a single match
+Activity_Goal_desc
+Damage and Heal players for 120,000 total in a single match
+Activity_Goal_name
+WIP Deathgate
+map_game_friendly_name
+WIP Deathgate (Siege)
+map_game_name
+Earn 150 Eliminations
+Activity_Goal_title
+Earn 150 Eliminations
+Activity_Goal_desc
+Earn 150 Eliminations
+Activity_Goal_name
+Dredge
+item_short_desc
+The Captain
+item_name
+Obtainable in the Merry Mayhem event.
+item_desc
+Terminus
+item_short_desc
+Rage
+item_name
+Obtainable in the Merry Mayhem event.
+item_desc
+WIP Dragon
+map_game_friendly_name
+WIP Dragon (Siege)
+map_game_name
+Maeve
+item_short_desc
+Ambush
+item_name
+Obtainable in the Merrymaker Maeve Bundle.
+item_desc
+Always On
+EFFECT_GROUP_name
+Always On
+EFFECT_GROUP_name
+Flank CC/Dmg Volume Device
+item_name
+CC/DMG volume for flank routes in the map.
+item_desc
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Obtainable in the Merry Mayhem event. 
+ITEM_desc
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Obtainable in the Gift Giving Bundle.
+ITEM_desc
+winter 3D spray
+ITEM_short_desc
+Mistletoe Spray
+ITEM_name
+Winter Event Calendar Vendor
+Loot_Table_name
+100% Bonus Battle Pass Experience
+ITEM_name
+Winter Event Dec 17
+ITEM_desc
+First Win of the Day - Chibi Grover Spray
+ITEM_name
+Winter Event Dec 18
+ITEM_desc
+All Support & Damage Champions Free
+ITEM_name
+Winter Event Dec 19
+ITEM_desc
+2x All End of Match Rewards
+ITEM_name
+Winter Event Dec 20
+ITEM_desc
+First Win of the Day Reward - Chibi Bomb King Spray
+ITEM_name
+Winter Event Dec 21
+ITEM_desc
+Bonus Performance Gold
+ITEM_name
+Winter Event Dec 22
+ITEM_desc
+200% Battle Pass Experience
+ITEM_name
+Winter Event Dec 23
+ITEM_desc
+First Win of the Day Reward - Chibi Evie Spray
+ITEM_name
+Winter Event Dec 24
+ITEM_desc
+All Champions Free
+ITEM_name
+Winter Event Dec 25
+ITEM_desc
+Bonus Performance Gold
+ITEM_name
+Winter Event Dec 26
+ITEM_desc
+First Win of the Day Reward - Chibi Makoa Spray
+ITEM_name
+Winter Event Dec 27
+ITEM_desc
+100% Battle Pass Experience
+ITEM_name
+Winter Event Dec 28
+ITEM_desc
+All Flank & Frontline Champions Free
+ITEM_name
+Winter Event Dec 29
+ITEM_desc
+First Win of the Day Reward - Chibi Kinessa Spray
+ITEM_name
+Winter Event Dec 30
+ITEM_desc
+This ticket allows the user to claim the current Deal of the Day.
+ITEM_short_desc
+Astro
+item_short_desc
+Tranquil Breeze
+item_name
+Obtainable in the Merry Mayhem event.
+item_desc
+Obtainable from the Merry Mayhem event.
+ITEM_desc
+Furia
+item_short_desc
+Judgment
+item_name
+Obtainable in the Merry Mayhem event.
+item_desc
+Unrefined
+item_name
+Vehicle Mount Skin00A
+ITEM_name
+You are revealed.
+EFFECT_GROUP_desc
+Nothing Personal
+EFFECT_GROUP_name
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Cutesy Yeti
+ITEM_name
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Cutesy Lian
+ITEM_name
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Rowdy Corsair
+ITEM_name
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Imani Voice Pack
+ITEM_name
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Winter Event Conversion - SLT - 1 Sweet
+Loot_Table_name
+Tencent Cyber Spray Rental
+ITEM_name
+Tencent Cyber Chest
+ITEM_desc
+Make your mark on this Dark Dystopia with the most cutting-edge Cybernetic Skins in the Realm.
+ITEM_desc
+Tencent Cyber Spray Rental Chest
+ITEM_name
+SLT - Spray Rental - Cyber Chest
+Loot_Table_name
+WIP Deathgate
+map_game_friendly_name
+WIP Deathgate (Siege)
+map_game_name
+Battle Pass 3
+ITEM_short_desc
+PS+ Pack DLC
+Loot_Table_name
+PS+ Pack
+ITEM_name
+Dredge's Secret Gift
+Activity_Goal_title
+Dredge's Secret Gift
+Activity_Goal_desc
+Dredge's Secret Gift
+Activity_Goal_name
+Hidden Winter Quest
+Activity_title
+Hidden Winter Quest
+Activity_desc
+Hidden Winter Quest
+Activity_name
+PS+ Pack Receipt
+ITEM_name
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Winter Workout
+ITEM_name
+Merrymaker Maeve Bundle
+ITEM_name
+Tech
+ITEM_short_desc
+Vivian WEP Skin03A
+ITEM_name
+Tech
+ITEM_short_desc
+ITEM_desc
+Vivian Skin03A
+ITEM_name
+Mixer Points SLT
+Loot_Table_name
+Acquire 600 Mixer Points
+Activity_Goal_title
+Acquire 600 Mixer Points
+Activity_Goal_desc
+Acquire 600 Mixer Points
+Activity_Goal_name
+Acquire 600 Mixer Points
+Activity_title
+Acquire 600 Mixer Points
+Activity_desc
+Acquire 600 Mixer Points
+Activity_name
+Zhin Skin04A
+ITEM_name
+Future Tech
+ITEM_desc
+Zhin WEP Skin05A
+ITEM_name
+Future Tech
+ITEM_desc
+Kitten
+Activity_Goal_title
+Kitten
+Activity_Goal_desc
+Kitten
+Activity_Goal_name
+Fallen
+Activity_Goal_title
+Fallen
+Activity_Goal_desc
+Fallen
+Activity_Goal_name
+Princess
+Activity_Goal_title
+Princess
+Activity_Goal_desc
+Princess
+Activity_Goal_name
+Angel
+Activity_Goal_title
+Angel
+Activity_Goal_desc
+Angel
+Activity_Goal_name
+Ancient
+Activity_Goal_title
+Ancient
+Activity_Goal_desc
+Ancient
+Activity_Goal_name
+Assassin
+Activity_Goal_title
+Assassin
+Activity_Goal_desc
+Assassin
+Activity_Goal_name
+Primus
+Activity_Goal_title
+Primus
+Activity_Goal_desc
+Primus
+Activity_Goal_name
+SND_Notify_WinterEventCompletePurchase
+Fairy
+Activity_Goal_title
+Fairy
+Activity_Goal_desc
+Fairy
+Activity_Goal_name
+Ascended
+Activity_Goal_title
+Ascended
+Activity_Goal_desc
+Ascended
+Activity_Goal_name
+Pirate
+Activity_Goal_title
+Pirate
+Activity_Goal_desc
+Pirate
+Activity_Goal_name
+Kittens Lost Note
+ITEM_name
+A mind lost, a body reborn.
+ITEM_desc
+Atop the throne the pompous reign.
+ITEM_desc
+Fallens Lost Note
+ITEM_name
+The sister born of flame. 
+ITEM_desc
+Princess' Lost Note
+ITEM_name
+From the depths the Ancient wakes.
+ITEM_desc
+Angels Lost Note
+ITEM_name
+Hiding from borrowed time.
+ITEM_desc
+Ancients Lost Note
+ITEM_name
+Bloodlust shrouded in darkness. 
+ITEM_desc
+Copy of Ancients Lost Note
+ITEM_name
+A line of red guarded.
+ITEM_desc
+Assassins Lost Note
+ITEM_name
+Ambassador of a seasons gathering.
+ITEM_desc
+Primus' Lost Note
+ITEM_name
+A monk ascended.
+ITEM_desc
+Fairys Lost Note
+ITEM_name
+Your secret gift awaits, just look to the man who traveled all eight.
+ITEM_desc
+Ascendeds Lost Note
+ITEM_name
+Earn 600 Mixer Points by Watching Mixer.com/PaladinsGame
+ITEM_desc
+Earn 600 Mixer Points by Watching Mixer.com/PaladinsGame
+ITEM_desc
+Obtainable in the Mixer Store
+ITEM_short_desc
+Warder's Gate
+map_game_friendly_name
+LIVE Warder's Gate
+map_game_name
+Warder's Gate
+map_game_friendly_name
+Practice Warder's Gate
+map_game_name
+Warder's Gate
+map_game_friendly_name
+Ranked Warder's Gate
+map_game_name
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Warder's Gate
+Match_Queue_name
+Capture Objectives and push the Payload to the enemy base.
+Match_Queue_desc
+Capture Objectives and push the Payload to the enemy base.
+Match_Queue_short_desc
+Merry Mayhem
+ITEM_name
+Mixer Points Drop
+ITEM_name
+Holiday NoScope
+ITEM_short_desc
+Obtainable in the Merry Mayhem event.
+ITEM_desc
+Merrymaker's Yeti Slayer No Scope
+ITEM_name
 None
 VV_TEXT
 Patrol
@@ -143377,7 +144161,7 @@ Offering Pages
 VV_TEXT
 Offering
 VV_TEXT
-You are suspended for match griefing for @@hours@@ hour(s) and @@minutes@@ minute(s)
+Your account is temporarily suspended
 SUSPENDED_GAME
 Harassment
 VV_TEXT
@@ -145357,8 +146141,6 @@ Royale Ability Q
 VV_TEXT
 Royale Ability F
 VV_TEXT
-Recurring
-VV_TEXT
 ES33 (Dynamic Card 1)
 VV_TEXT
 ES34 (Dynamic Card 2)
@@ -145647,3 +146429,23 @@ We're currently unable to create new accounts of that type.
 Account_Create_Disabled_For_Type
 Only one of each account type may be linked together.
 Account Link Must Be Different Type
+A player has redeemed your gift
+PLAYER_GIFT_REDEEMED
+Large Gift Token
+VV_text
+DotD Token
+VV_text
+Create your player name.
+NEEDS_NEW_PLAYER_NAME
+Candy Pieces
+VV_text
+The player is incompatible with this version of the game.
+PLAYER_VERSION_INCOMPATIBLE
+Mixer Points
+VV_text
+Failed to convert player to this version of the game.
+PLAYER_CONVERSION_FAILED
+Sorry, we're unable to connect to the login service.
+Login Failed Service Not Connected
+Vehicle Mount Skin
+VV_text
