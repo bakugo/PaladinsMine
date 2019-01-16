@@ -139297,7 +139297,7 @@ item_desc
 item_short_desc
 Crow's Nest
 item_name
-[Broadside] Broadside knocks you up for {scale=600|200}.
+[Broadside] Broadside knocks you up for {scale=500|100}.
 item_desc
 [Broadside] Hitting with Broadside heals you
 item_short_desc
@@ -141963,7 +141963,7 @@ ITEM_name
 item_short_desc
 Swift Sear
 item_name
-[Inferno Cannon] Increase your movement speed while casting Inferno Cannon by {scale=10|10}%. 
+[Inferno Cannon] Increase your movement speed while casting Inferno Cannon by {scale=20|20}%. 
 item_desc
 [Elemental Shift] Reduce the Cooldown of Elemental Shift
 item_short_desc
@@ -142841,7 +142841,7 @@ Recipe - Battle Pass 4 - Paid Currency
 Loot_Table_name
 SLT - Battle Pass 4 - Atomic Currency
 Loot_Table_name
-Imani channels both elements, gliding through the air for 2.5s.
+Imani channels both elements, gliding through the air for 3s.
 item_desc
 Battle Pass 4 Capstone Challenges
 Activity_title
@@ -143100,7 +143100,7 @@ ITEM_name
 item_desc
 [Splitting Ice] Frost Bolt bounces to an additional enemy.
 item_desc
-[Mana Rift] After standing still for 2s create a Mana Rift around you that generates Mana. Leaving the Mana Rift destroys it.
+[Mana Rift] After standing still for 1s create a Mana Rift around you that generates Mana. Leaving the Mana Rift destroys it.
 item_desc
 Bombking
 item_short_desc
