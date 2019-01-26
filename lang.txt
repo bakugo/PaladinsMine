@@ -75385,7 +75385,7 @@ item_name
 item_short_desc
 Bulldozer
 item_name
-[Weapon] Your weapon shots deal {50}% increased Damage to Deployables.
+[Weapon] Your weapon shots deal {50}% increased Damage to Deployables, Pets, and Illusions.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -101131,7 +101131,7 @@ Shoot out a short range blast that knocks back you and enemies.
 item_desc
 Combustible
 item_name
-[Fire Spit] Fire Spit now knocks back and deals an additional 30% of its damage to targets hit over 2s.
+[Fire Spit] Fire Spit now knocks back and deals an additional 300 damage over 2s.
 item_desc
 Glide
 item_name
@@ -116310,7 +116310,7 @@ ITEM_desc
 ITEM_desc
 [Calamity Blast] Successful hits with Calamity Blast grant Power Siphon charge.
 ITEM_short_desc
-[Calamity Blast] Successful hits with Calamity Blast grant {scale=2|2}% Power Siphon charge.
+[Calamity Blast] Successful hits with Calamity Blast grant {scale=1|1}% Power Siphon charge.
 ITEM_desc
 [Calamity Blast] Calamity Blast shots reduce healing for 2s by 8% per Charge.
 ITEM_desc
@@ -141993,7 +141993,7 @@ Scorched Earth v2
 item_name
 [Dead Zone] Dead Zone Heal talent test
 item_desc
-Play 200 Games in Ranked Season 2 to Unlock.
+Win 200 Games in Ranked Season 2 to Unlock.
 ITEM_desc
 Chieftain Grohk
 ITEM_name
@@ -142003,7 +142003,7 @@ Chieftain's Honor
 ITEM_name
 Ranked
 ITEM_short_desc
-Play 200 Games in Ranked Season 3 to Unlock.
+Win 200 Games in Ranked Season 2 to Unlock.
 ITEM_desc
 Legionnaire Warhorse
 ITEM_name
@@ -142903,13 +142903,13 @@ Ranked Rewards - SLT - Season 2
 Loot_Table_name
 Ranked Rewards - SLT - Season 2
 Loot_Table_name
-Win 100 Games
+Play 100 Games
 Activity_Goal_title
-Win 100 Games
+Play 100 Games
 Activity_Goal_name
-Win 200 Games
+Play 200 Games
 Activity_Goal_title
-Win 200 Games
+Play 200 Games
 Activity_Goal_name
 Play 10 Placement Matches
 Activity_Goal_title
@@ -143272,7 +143272,7 @@ Obtainable in the 2019 Season Pass.
 ITEM_desc
 Obtainable in the Valentines Chest.
 ITEM_desc
-Play 200 Games in Ranked Season 2 to Unlock.
+Win 200 Games in Ranked Season 2 to Unlock.
 ITEM_desc
 Obtainable in the Battlesuit Battle Pass.
 ITEM_desc
