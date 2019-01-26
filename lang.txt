@@ -21698,7 +21698,7 @@ We hope we'll see you at HRX this year!
 Game_Tip_tip
 Loading17
 Game_Tip_title
-Check out PaladinsGame on Twitch.tv!
+Check out Paladins on Mixer.com/PaladinsGame!
 Game_Tip_tip
 Loading18
 Game_Tip_title
@@ -21718,11 +21718,11 @@ A Hi-Rez employee will NEVER ask for your password.
 Game_Tip_tip
 Loading11
 Game_Tip_title
-You will earn 10% more Gold, Account Experience, and Champion Experience when playing in a party.
+You earn bonus Gold, Account Experience, and Champion Experience when playing in a party.
 Game_Tip_tip
 Loading20
 Game_Tip_title
-You can check a Champion's Skills screen inside a match.
+You can check a Champion's Skills screen inside a match by pressing <Cmd=GBA_SkillInfo>.
 Game_Tip_tip
 Loading21
 Game_Tip_title
@@ -33829,7 +33829,7 @@ Axe Stance
 EFFECT_GROUP_name
 Strider
 ITEM_name
-Champions can only purchase one item in each category.
+Access your in match item store by pressing <Cmd=GBA_CommonCards>.
 Game_Tip_tip
 Loading9
 Game_Tip_title
@@ -91523,7 +91523,7 @@ TencentTemp-NoDelete
 Loot_Table_name
 Throw an axe dealing 400 damage and crippling affected enemies for 2s.
 item_desc
-Rapidly heal nearby allies for 2500 health per second for 5s.
+Rapidly heal nearby allies for 2500 health per second for 4s.
 item_desc
 Deploy a device that counts as an temporary objective for the purpose of activating your abilities passives. Lasts 8s.
 item_desc
@@ -95739,7 +95739,7 @@ EFFECT_GROUP_name
 item_short_desc
 Poise
 item_name
-[Armor] Reduced the movement speed penalty while drawing your Long Bow by  {20|20}%
+[Armor] Reduced the movement speed penalty while drawing your Long Bow by {scale=20|20}%.
 item_desc
 +250% * Proj. Speed stim
 DEVICE_name
@@ -99144,7 +99144,7 @@ item_desc
 item_short_desc
 Hearthwarder
 item_name
-[Protection] Activating Protection grants you {scale=100|100} Shield.
+[Protection] Protection grants you {scale=100|100} Shield.
 item_desc
 PvE - King Bomb Max Range
 item_name
@@ -99213,7 +99213,7 @@ item_desc
 item_short_desc
 Lifegiver
 item_name
-[Protection] Activating Protection heals you for {scale=50|50}.
+[Protection] Protection heals you for {scale=50|50}.
 item_desc
 zDeprecated Lifegiver II
 item_name
@@ -100445,7 +100445,7 @@ Weapon shots travel 250% faster while your stim is active.
 DEVICE_desc
 Ensnare
 item_name
-[Net Shot] Net Shot grants 30% bonus damage for as long as the target is slowed.
+[Net Shot] Net Shot grants 30% bonus damage for as long as the target is slowed. Lasts a minimum of 2s.
 item_desc
 Eagle Eye
 item_name
@@ -101220,7 +101220,7 @@ Energy charge device for the Lawman character.
 item_desc
 Magnums
 item_name
-Dual semi-automatic magnums that deal 350 damage per shot. Effective up to Medium range.
+Dual semi-automatic magnums that deal 320 damage per shot. Effective up to Medium range.
 item_desc
 Pistols
 DEVICE_name
@@ -105239,7 +105239,7 @@ Fire a Stream of magic projectiles from your hand that deal 210 damage every 0.3
 item_desc
 Step into another plane of reality for 4s. While this ability is active you are in stealth and immune to all harmful effects.
 item_desc
-Restore the soul of an ally, Healing them for 1000 health every second for 2s.
+Restore the soul of an ally, Healing them for 1000 health every second for 1.5s and adjacent allies for 30% of the healing value.
 item_desc
 Detonate all of your active Soul Charges. Deal 100 damage to the afflicted enemy for every charge detonated. Every charge detonated also heals you for 15% of your maximum life.
 item_desc
@@ -105773,15 +105773,15 @@ Stun
 EFFECT_GROUP_name
 Stun
 EFFECT_GROUP_name
-Obtainable in the Overgrown Weapons Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 Monarch Revolver
 ITEM_name
-Obtainable in the Overgrown Weapons Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 Splinter-Blades
 ITEM_name
-Obtainable in the Overgrown Weapons Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 Caecilian Rocket Launcher
 ITEM_name
@@ -107264,7 +107264,7 @@ item_name
 item_desc
 Master Stance
 item_name
-[Counter] Successfully hits with Counter reduces the cooldown of Whirl by {scale=1|1}s.
+[Counter] Successful hits with Counter reduce the cooldown of Whirl by {scale=1|1}s.
 item_desc
 [Counter] Countering attacks reduces Whirl CD
 item_short_desc
@@ -109593,7 +109593,7 @@ Capture the Objective to Win
 PALADINS_ALERT_CAPTURE_OBJECTIVE_TO_WIN
 Within 2s, Hurl burning oil with two quick swings that deal 400 damage and a heavy swing that deals 700 damage.
 item_desc
-Enter a counter stance for 1.5s. If you take an enemy hit to the front of your character you negate any effects of the hit and counter attack with dealing 560 damage.
+Enter a counter stance for 1.5s. If you take an enemy hit to the front of your character you negate any effects of the hit and counter attack with dealing 600 damage.
 item_desc
 Disperse into smoke, become un-targetable and gain +20% movement speed for 2s.
 item_desc
@@ -110566,7 +110566,7 @@ DemonWave
 item_name
 Eroded Oath
 ITEM_name
-Obtainable in the Necromancer's Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 Copy of Buck Wild
 item_name
@@ -110578,7 +110578,7 @@ Reduce active cooldowns
 EFFECT_GROUP_name
 Ranked
 League_name
-Obtainable in the Necromancer's Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 Gaze of Nergal
 ITEM_name
@@ -110592,7 +110592,7 @@ Bronze III
 League_Tier_name
 Talus
 ITEM_name
-Obtainable in the Necromancer's Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 Deathbringer
 ITEM_name
@@ -111865,21 +111865,21 @@ Win 200 Ranked Games
 ITEM_desc
 SLT - Chest - Flair Chest - Epic Exclusive
 Loot_Table_name
-Obtainable in the Samba Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 Samba Rocket Launcher
 ITEM_name
-Obtainable in the Samba Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 Samba Sniper Rifle
 ITEM_name
-Obtainable in the Samba Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 Samba Wrist Crossbow
 ITEM_name
 Samba Auto Rifle
 ITEM_name
-Obtainable in the Samba Chest.
+Obtainable in the Mixer Store.
 ITEM_desc
 M16
 item_name
@@ -117960,7 +117960,7 @@ Life Exchange
 DEVICE_name
 Life Exchange
 item_name
-[Shatter] Shatters now instantly heals your target for 800 health but no longer explodes Illusions, and the cooldown is increased by 1s.
+[Shatter] Shatter now instantly heals your target for 800 health but no longer explodes Illusions, and the cooldown is increased by 1s.
 item_desc
 Diana Test Map
 map_game_friendly_name
@@ -133410,7 +133410,7 @@ Fire one 200 damage shot every 0.26s.
 item_desc
 Let out a fearsome shout, briefly granting damage immunity to yourself. Additionally, heal yourself and nearby allies for 1000 health.
 item_desc
-Activate your gauntlets Bulwark with 6000 Health. Regenerates while inactive.
+Activate your gauntlet's Bulwark with 6000 Health. Regenerates while inactive.
 item_desc
 Target an enemy and drag them to you. You may move your powerless victim as you see fit or send them flying with a mighty blast.
 item_desc
@@ -135107,7 +135107,7 @@ SLT - Collection - Grohk - Neon Demon
 Loot_Table_name
 SLT - Collection - Androxus - Huntsman
 Loot_Table_name
-Crazy King
+End Times
 map_game_friendly_name
 WIP Crazy King
 map_game_name
@@ -135564,7 +135564,7 @@ Epic
 ITEM_name
 Ninja
 ITEM_name
-Crazy King
+End Times
 map_game_friendly_name
 WIP Crazy King
 map_game_name
@@ -139113,7 +139113,7 @@ Banshee
 ITEM_name
 SLT - Collection - Ying - Halloween Recolor
 Loot_Table_name
-Squid Fireball
+Wraith Fireball
 item_name
 Shoot a ball of fire that Fears an enemy for 2s.
 item_desc
@@ -139773,7 +139773,7 @@ Fire three projectiles that each deal 950 Damage after a 2s fuse.
 item_desc
 Hurl a piercing harpoon. Enemies hit by the harpoon take 800 damage and are slowed by 50% for 2s.
 item_desc
-Deploy up to two portals that you can travel between.
+Deploy up to two portals that you and your allies can travel between.
 item_desc
 Create a rift, after 2s Abyssal tentacles rip through reality dealing 4000 Damage in an area.
 item_desc
@@ -141184,9 +141184,9 @@ Mecha
 ITEM_desc
 Angel's Star Sabre
 ITEM_name
-Tech
+Future Tech
 ITEM_desc
-Terminus Skin03A
+Omega Terminus
 ITEM_name
 SLT - Chest - Voice Packs - All
 Loot_Table_name
@@ -141194,11 +141194,11 @@ Chest Loot Vendor - Voice Packs
 Loot_Table_name
 Voice Packs Chest
 ITEM_name
-Tech
+Future Tech
 ITEM_desc
-Terminus WEP Skin03A
+Omega Gut Shredder
 ITEM_name
-Future Tech Terminus
+Omega Terminus
 ITEM_name
 SLT - Collection - Terminus - Future Tech
 Loot_Table_name
@@ -141278,35 +141278,35 @@ Eagle Eye's Binary Blaster
 ITEM_name
 Mecha
 ITEM_short_desc
-Jenos Skin07A
+Gentleman
 ITEM_name
 Anime
 ITEM_short_desc
 Anime
 ITEM_desc
-Jenos WEP Skin06A
+Gentleman's Courtesy
 ITEM_name
 Anime
 ITEM_short_desc
-Anime
+Obtainable in the Anime Chest.
 ITEM_desc
 Battlesuit Eagle Eye
 ITEM_name
 SLT - Collection - Kinessa - Mecha
 Loot_Table_name
-Tuxedo Jenos
+Gentleman Jenos
 ITEM_name
 SLT - Collection - Jenos - Tuxedo
 Loot_Table_name
-Future
+Future Tech
 ITEM_desc
-Shalin WEP Skin05A
+Omega Impaler
 ITEM_name
-Future
+Future Tech
 ITEM_desc
-Shalin Skin06A
+Omega Sha Lin
 ITEM_name
-Future Tech Sha Lin
+Omega Sha Lin
 ITEM_name
 SLT - Collection - ShaLin - Future Tech
 Loot_Table_name
@@ -141783,13 +141783,13 @@ MSG_COMBAT_RESURRECTION_EFFECT
 MSG_COMBAT_CREDITS_RECIEVED
 @@target_name@@ received @@int_value@@ credits (reward type @@int_value2@@).
 MSG_COMBAT_CREDITS_RECIEVED_NOSOURCELOCAL
-Dredge Skin02A
+Omega Dredge
 ITEM_name
-Dredge WEP Skin02A
+Omega Leviathan
 ITEM_name
-Makoa WEP Skin07A
+Omega Devastator
 ITEM_name
-Makoa Skin06A
+Omega Makoa
 ITEM_name
 @@target_name@@ took @@int_value@@ damage from @@source_name@@.
 MSG_COMBAT_DEPLOYABLE_DAMAGE
@@ -141947,7 +141947,7 @@ Pyreball hits reduce the Cooldown of Frost Bomb
 item_short_desc
 Heat Sink
 item_name
-[Pyreball] Dealing damage with Pyreball reduces the Cooldown of Frost Bomb by {scale=0.5|0.5}s.
+[Pyreball] Dealing damage with Pyre Ball reduces the Cooldown of Frost Bomb by {scale=0.5|0.5}s.
 item_desc
 Legionnaire's Glory
 ITEM_name
@@ -142047,7 +142047,7 @@ SLT - Winter Event Full Purchase Bundle
 Loot_Table_name
 Atlas
 BOT_name
-Royal Cartographer
+The Man Out of Time
 BOT_desc
 Energy Charge - Atlas
 item_name
@@ -142071,11 +142071,11 @@ Mixer Store Vendor
 Loot_Table_name
 Mixer Points
 ITEM_name
-Future Tech Makoa
+Omega Makoa
 ITEM_name
 SLT - Collection - Makoa - Future Tech
 Loot_Table_name
-Future Tech Dredge
+Omega Dredge
 ITEM_name
 SLT - Collection - Dredge - Future Tech
 Loot_Table_name
@@ -142305,7 +142305,7 @@ Always On
 EFFECT_GROUP_name
 Always On
 EFFECT_GROUP_name
-Flank CC/Dmg Volume Device
+Shattered Desert Quicksand Minor
 item_name
 CC/DMG volume for flank routes in the map.
 item_desc
@@ -142471,12 +142471,13 @@ Merrymaker Maeve Bundle
 ITEM_name
 Tech
 ITEM_short_desc
-Vivian WEP Skin03A
+Omega Kill Switch
 ITEM_name
 Tech
 ITEM_short_desc
+Future Tech
 ITEM_desc
-Vivian Skin03A
+Omega Vivian
 ITEM_name
 Mixer Points SLT
 Loot_Table_name
@@ -142492,11 +142493,11 @@ Acquire 600 Mixer Points
 Activity_desc
 Acquire 600 Mixer Points
 Activity_name
-Zhin Skin04A
+Omega Zhin
 ITEM_name
 Future Tech
 ITEM_desc
-Zhin WEP Skin05A
+Omega Ripper
 ITEM_name
 Future Tech
 ITEM_desc
@@ -142611,9 +142612,9 @@ item_name
 item_short_desc
 Obtainable in the Mixer Store
 ITEM_short_desc
-Future Tech Vivian
+Omega Vivian
 ITEM_name
-Future Tech Zhin
+Omega Zhin
 ITEM_name
 SLT - Collection - Vivian - Future Tech
 Loot_Table_name
@@ -142675,13 +142676,13 @@ Capture Objectives and push the Payload to the enemy base.
 Match_Queue_short_desc
 Future Tech
 ITEM_short_desc
-Koga Skin02A
+Omega Koga
 ITEM_name
 Future Tech
 ITEM_desc
 Future Tech
 ITEM_short_desc
-Koga WEP Skin02A
+Omega Dusters
 ITEM_name
 Future Tech
 ITEM_desc
@@ -142855,7 +142856,7 @@ Eagle Eye's Shooting Range
 Activity_title
 Battle Pass 4 Challenges Tier 2
 Activity_name
-Frost Bolt deals 650 Damage and slows every 0.8s:Pyre Ball deals 1000 Damage after 1.6s of Charging. Dealing Damage generates Mana. At Full Mana your next attack is instant. 
+Frost Bolt deals 650 Damage and slows every 0.8s:Pyre Ball deals 1000 Damage after 1.2s of Charging. Dealing Damage generates Mana. At Full Mana your next attack is instant. 
 item_desc
 Operation Fireball
 Activity_title
@@ -142970,7 +142971,7 @@ Obtainable from the Battlesuit Battle Pass.
 ITEM_desc
 Imperial Rule
 ITEM_name
-Horde Boar
+Horde Tusker
 BOT_name
 Boar Attack
 item_name
@@ -142986,7 +142987,7 @@ Breath Of Fire
 item_name
 Obtainable in the Gold Chest.
 item_desc
-Horde Squid
+Horde Hellion Wraith
 BOT_name
 Imani MVP
 item_short_desc
@@ -143162,7 +143163,7 @@ Misaza Test
 map_game_friendly_name
 Active Misaza Test
 map_game_name
-Future Tech Koga
+Omega Koga
 ITEM_name
 SLT - Collection - Koga - Future Tech
 Loot_Table_name
@@ -144372,8 +144373,781 @@ Obtainable from the Battlesuit Battle Pass.
 ITEM_desc
 Copy of Inferno Cannon
 item_name
+Free
+ITEM_desc
+Premium
+ITEM_desc
+Free
+ITEM_desc
+Premium
+ITEM_desc
+Future Tech
+ITEM_desc
+Future Tech
+ITEM_desc
 Obtainable from the Battlesuit Battle Pass.
 ITEM_desc
+Iron Maiden
+ITEM_short_desc
+Inara WEP Skin03A
+ITEM_name
+Byte
+ITEM_short_desc
+Inara Skin03A
+ITEM_name
+Battle Byte
+ITEM_short_desc
+Fernando Skin08A
+ITEM_name
+Battle Byte
+ITEM_short_desc
+Fernando WEP Skin08A
+ITEM_name
+Vehicle Mount Skin01A
+ITEM_name
+Future
+ITEM_short_desc
+Omega Cyberwing
+ITEM_name
+Omega Imani
+ITEM_name
+Future
+ITEM_short_desc
+Atlas F Subdevice
+item_name
+Omega Imani
+ITEM_name
+SLT - Collection - Imani - Future Tech
+Loot_Table_name
+Battle Byte Fernando
+ITEM_name
+SLT - Collection - Fernando - Battle Byte
+Loot_Table_name
+CK Cooldown
+item_name
+Increased cooldown speed buff for the Crazy King game mode. Applied randomly when a new point is selected.
+item_desc
+CK Ult Charge
+item_name
+Partial ult charged for the Crazy King game mode. Applied randomly when a new point is selected.
+item_desc
+CK Groundspeed
+item_name
+Increased movement speed buff for the Crazy King game mode. Applied randomly when a new point is selected.
+item_desc
+CK Jump Buff
+item_name
+Increased jump height and slow fall buff for the Crazy King game mode. Applied randomly when a new point is selected.
+item_desc
+Bombking Wep Skin08A
+ITEM_name
+Byte
+ITEM_short_desc
+CK Inhand Damage
+item_name
+Increased inhand damage buff for the Crazy King game mode. Applied randomly when a new point is selected.
+item_desc
+Bombking Skin10A
+ITEM_name
+Byte
+ITEM_short_desc
+CK Max Health
+item_name
+Increased max health buff for the Crazy King game mode. Applied randomly when a new point is selected.
+item_desc
+Bunny
+ITEM_desc
+Seris Skin08A
+ITEM_name
+Bunny
+ITEM_short_desc
+Bunny
+ITEM_short_desc
+Bunny
+ITEM_desc
+Seris WEP Skin08A
+ITEM_name
+Battle Byte Bomb King
+ITEM_name
+SLT - Collection - Bomb King - Battle Byte
+Loot_Table_name
+Battle Byte Inara
+ITEM_name
+SLT - Collection - Inara - Battle Byte
+Loot_Table_name
+Korean
+ITEM_desc
+Ying Skin08A
+ITEM_name
+Korean
+ITEM_short_desc
+Korean
+ITEM_desc
+Ying WEP Skin09A
+ITEM_name
+Korean
+ITEM_short_desc
+Tyra
+item_short_desc
+Hunter's Cry
+item_name
+Tyra Emote
+item_desc
+IoAbilityMovement
+item_name
+Buck leaps an incredible height and distance.
+item_desc
+longer bow
+item_name
+A long bow that draws back an arrow and releases it for up to 1000 damage every 1.5s.
+item_desc
+IoAbilityLMB
+item_name
+A crossbow that deals 680 damage every .75 seconds.
+item_desc
+BOT_name
+The Hunter's Daughter
+BOT_desc
+Future Tech
+ITEM_desc
+Future Tech
+ITEM_desc
+Future Tech
+ITEM_desc
+Future Tech
+ITEM_desc
+Future Tech
+ITEM_desc
+Obtainable in the Anime Chest.
+ITEM_desc
+IoAbilityTest
+item_name
+IoAbilityRMB
+item_name
+Ash Skin04A
+ITEM_name
+IoAbilityUltimate
+item_name
+Knockback Hit
+EFFECT_GROUP_name
+Lift target
+EFFECT_GROUP_name
+Stealth/Hide
+EFFECT_GROUP_name
+Ash WEP Skin03A
+ITEM_name
+IoAbilityGuardian
+item_name
+Guardian
+BOT_name
+Skye Skin08A
+ITEM_name
+Skye WEP Skin06A
+ITEM_name
+IoAbilityGuardianHeal
+item_name
+Maeve Skin06A
+ITEM_name
+Maeve WEP Skin04A
+ITEM_name
+IoAbilityUltimateV2
+item_name
+Burst Heal
+EFFECT_GROUP_name
+Attack Boost
+EFFECT_GROUP_name
+Atlas
+ITEM_name
+Emote
+item_short_desc
+Guffaw
+item_name
+Obtainable from the End Times event.
+item_desc
+Emote
+item_short_desc
+Fist Bump
+item_name
+Emote
+item_desc
+[Armor] Increase your base maximum Health.
+item_short_desc
+Old Wounds
+item_name
+[Armor] Increase your base maximum Health by {scale=150|150}.
+item_desc
+Evolve
+EFFECT_GROUP_name
+MVP
+item_short_desc
+Loose
+item_name
+MVP
+item_desc
+[Armor] Increased ammo count
+item_short_desc
+Lost Legacy
+item_name
+[Armor] Increase your ammo count by {scale=1|1}
+item_desc
+Distant Memory
+item_name
+[Armor] While below 50% Health receive {scale=5|5}% increased healing from other players.
+item_desc
+[Armor] Eliminations grant ultimate charge.
+item_short_desc
+Ravages of Time
+item_name
+[Armor] Eliminations grant {scale=1|1}% ultimate charge.
+item_desc
+Generate ammo when activating Q
+item_short_desc
+Infinity Engine
+item_name
+[Atlas Q] Activating Q generates {scale=1|1} Ammo.
+item_desc
+Drive back the coming darkness before it's too late.
+ITEM_desc
+Atlas_Deck
+ITEM_name
+SLT - Autobuy - Atlas
+Loot_Table_name
+Heal yourself when activating Q
+item_short_desc
+Lessons of the Past
+item_name
+[Atlas Q] Activating Q grants {scale=100|100} Health.
+item_desc
+MVP
+item_short_desc
+Headsman
+item_name
+MVP
+item_desc
+MVP
+item_short_desc
+Terminus MVP 03
+item_name
+MVP
+item_desc
+Kawaii Maeve
+ITEM_name
+SLT - Collection - Maeve - Kawaii
+Loot_Table_name
+Kawaii Skye
+ITEM_name
+SLT - Collection - Skye - Kawaii
+Loot_Table_name
+Bunny Seris
+ITEM_name
+Kawaii Ash
+ITEM_name
+SLT - Collection - Ash - Kawaii
+Loot_Table_name
+SLT - Collection - Seris - Bunny
+Loot_Table_name
+Kawaii Ying
+ITEM_name
+SLT - Collection - Ying - Kawaii
+Loot_Table_name
+Makoa MVP
+item_short_desc
+Windup
+item_name
+Makoa MVP
+item_desc
+Zhin MVP
+item_short_desc
+Kamae
+item_name
+Obtainable in the End Times Event.
+item_desc
+Vivian MVP
+item_short_desc
+Audacity
+item_name
+Vivian
+item_desc
+Time Slow
+item_name
+shields.
+item_desc
+End Times Bundles Vendor
+Loot_Table_name
+End Times Rewards Vendor
+Loot_Table_name
+Chrono-Shards
+ITEM_name
+End Times Bundle - Omega Sha Lin
+Loot_Table_name
+End Times Bundle - Omega Terminus
+Loot_Table_name
+End Times Bundle - Omega Dredge
+Loot_Table_name
+End Times Bundle - Omega Vivian
+Loot_Table_name
+End Times Bundle - Omega Zhin
+Loot_Table_name
+End Times Bundle - Omega Koga
+Loot_Table_name
+Omega Dredge
+ITEM_name
+Contains 40 Chrono-Shards
+ITEM_desc
+Omega Koga
+ITEM_name
+Contains 40 Chrono-Shards
+ITEM_desc
+Omega Sha Lin
+ITEM_name
+Contains 40 Chrono-Shards
+ITEM_desc
+Omega Terminus
+ITEM_name
+Contains 40 Chrono-Shards
+ITEM_desc
+Omega Vivian
+ITEM_name
+Contains 40 Chrono-Shards
+ITEM_desc
+Omega Zhin
+ITEM_name
+Contains 40 Chrono-Shards
+ITEM_desc
+Ohhhh I'm so excited. There's so many things to blow up.
+ITEM_desc
+Coming Soon
+ITEM_name
+Bio-sensor detecting life forms in this area. Searching for resistance targets.
+ITEM_desc
+Coming Soon
+ITEM_name
+Every system has a weak point. Now lets finish this.
+ITEM_desc
+Coming Soon
+ITEM_name
+Our Opponents systems are quite malicious, but have not fret, for I am present! 
+ITEM_desc
+Coming Soon
+ITEM_name
+You have exceeded the population limit and must be culled.
+ITEM_desc
+Coming Soon
+ITEM_name
+Which do you prefer? burned, frozen, or shredded to bits? I have so many tools to test
+ITEM_desc
+Coming Soon
+ITEM_name
+Fist Bump
+item_name
+Ruckus Emote
+item_short_desc
+Ruckus Emote
+item_desc
+Atlas Gold Mastery
+ITEM_name
+Atlas WEP Skin Mastery Gold
+ITEM_name
+WIP Crazy King
+map_game_friendly_name
+WIP Crazy King
+map_game_name
+WIP Crazy King
+map_game_friendly_name
+WIP Crazy King
+map_game_name
+WIP Crazy King
+MSL_name
+WIP Crazy King
+Match_Queue_short_desc
+WIP Crazy King
+Match_Queue_name
+WIP Crazy King
+Match_Queue_desc
+Chuckle
+item_name
+Swig
+item_name
+Shimmy
+item_name
+Omega Wind
+item_name
+Dredge
+item_short_desc
+Dredge Emote
+item_desc
+Lunar Altar
+ITEM_name
+End Times Event
+ITEM_short_desc
+Omega Tear
+ITEM_name
+Limit Gem Spending on Gifting
+Activity_Goal_name
+Limit Gems Spent on Gifting
+Activity_name
+Omega Frame
+ITEM_name
+Queen of Hearts
+ITEM_name
+Omega Crusher
+item_name
+Gentleman Junior
+item_name
+Gold
+ITEM_short_desc
+Vivian Mastery Gold
+ITEM_name
+Shattered Desert
+map_game_friendly_name
+LIVE Shattered Desert
+map_game_name
+Shattered Desert
+map_game_friendly_name
+Practice Shattered Desert
+map_game_name
+Shattered Desert
+map_game_friendly_name
+Ranked Shattered Desert
+map_game_name
+Custom S_ShatteredDesert
+MSL_name
+Capture Objectives and push the Payload to the enemy base.
+Match_Queue_short_desc
+Shattered Desert
+Match_Queue_name
+Capture Objectives and push the Payload to the enemy base.
+Match_Queue_desc
+Futures Protector
+ITEM_name
+Squidly
+ITEM_name
+Forlorn Future
+ITEM_name
+Copy of PS+ Pack DLC
+Loot_Table_name
+Shattered Desert
+Match_Queue_name
+Capture Objectives and push the Payload to the enemy base.
+Match_Queue_desc
+Capture Objectives and push the Payload to the enemy base.
+Match_Queue_short_desc
+Golden Atlas
+ITEM_name
+SLT - Collection - Atlas - Golden
+Loot_Table_name
+SND_Notify_Respawn_Player
+Become your own protagonist with completely envisioned personalities of your favorite Paladins Champions. 
+ITEM_desc
+Senpai Chest
+ITEM_name
+Chest Loot Vendor - Senpai Chest
+Loot_Table_name
+SLT - Chest - Senpai Chest - Chase
+Loot_Table_name
+Obtainable in the Senpai Chest.
+ITEM_desc
+was a mistake
+ITEM_name
+zzzz
+Loot_Table_name
+SLT - Chest - Senpai Chest - Good
+Loot_Table_name
+SLT - Chest - Senpai Chest - Common
+Loot_Table_name
+Shattered Desert Rune Damage
+item_name
+Point Spawned
+PALADINS_ALERT_PointSpawnedCooldownBuff
+Point Spawned
+PALADINS_ALERT_PointSpawnedGroundspeedBuff
+Point Spawned
+PALADINS_ALERT_PointSpawnedJumpBuff
+Point Spawned
+PALADINS_ALERT_PointSpawnedUltBuff
+Anomaly
+Activity_title
+Play 5 End Times Matches
+Activity_desc
+End Times - Anomaly
+Activity_name
+Anomaly
+Activity_Goal_title
+Play 5 End Times Matches
+Activity_Goal_desc
+Anomaly
+Activity_Goal_name
+End Times Quest Rewards Vendor
+Loot_Table_name
+Final Days
+Activity_Goal_title
+Earn 4 Triple Kills
+Activity_Goal_desc
+Final Days
+Activity_Goal_name
+Unleash the Beast
+Activity_Goal_title
+Deal 1,000,000 Damage
+Activity_Goal_desc
+Unleash the Beast
+Activity_Goal_name
+Stand Your Ground
+Activity_Goal_title
+Gain a total of 900 Objective Time
+Activity_Goal_desc
+Stand Your Ground
+Activity_Goal_name
+Restless Graves
+Activity_Goal_title
+Kill 10 Enemies with Dredge's Harpoon
+Activity_Goal_desc
+Restless Graves
+Activity_Goal_name
+End Times - Final Days
+Activity_name
+End Times - Unleash the Beast
+Activity_name
+End Times - Stand Your Ground
+Activity_name
+End Times - Restless Graves
+Activity_name
+Doom Denied
+Activity_Goal_title
+Heal 1,000,000 Health
+Activity_Goal_desc
+Doom Denied
+Activity_Goal_name
+Doom Denied
+Activity_title
+Heal 1,000,000 Health
+Activity_desc
+End Times - Doom Denied
+Activity_name
+Stand Your Ground
+Activity_title
+Gain a total of 900 Objective Time.
+Activity_desc
+Shield of the Realm
+Activity_Goal_title
+Play 15 games as a Front Line Champion
+Activity_Goal_desc
+Shield of the Realm
+Activity_Goal_name
+Shield of the Realm
+Activity_title
+Play 15 games as a Front Line
+Activity_desc
+End Times - Shield of the Realm
+Activity_name
+Sword of the Realm
+Activity_Goal_title
+Play 15 games as a Damage Champion
+Activity_Goal_desc
+Sword of the Realm
+Activity_Goal_name
+Sword of the Realm
+Activity_title
+Play 15 games as a Damage champion
+Activity_desc
+End Times - Sword of the Realm
+Activity_name
+Heart of the Realm
+Activity_Goal_title
+Play 10 games as a Support champion
+Activity_Goal_desc
+Heart of the Realm
+Activity_Goal_name
+Heart of the Realm
+Activity_title
+Play 10 games as a Support champion
+Activity_desc
+End Times - Heart of the Realm
+Activity_name
+Purifier
+Activity_Goal_title
+Play 50 Games
+Activity_Goal_desc
+Purifier
+Activity_Goal_name
+Purifier
+Activity_title
+Play 50 Games
+Activity_desc
+End Times - Purifier
+Activity_name
+Cleansing Fire
+Activity_Goal_title
+Kill 50 Enemies with Imani's Dragon
+Activity_Goal_desc
+Cleansing Fire
+Activity_Goal_name
+The King
+Activity_Goal_title
+Win 15 End Times Matches
+Activity_Goal_desc
+The King
+Activity_Goal_name
+Cleansing Fire
+Activity_title
+Kill 50 Enemies with Imani's Dragon
+Activity_desc
+End Times - Cleansing Fire
+Activity_name
+The King
+Activity_title
+Win 15 End Times Matches
+Activity_desc
+End Times - The King
+Activity_name
+End Times
+map_game_friendly_name
+LIVE Crazy King
+map_game_name
+LIVE Crazy King
+MSL_name
+Custom Crazy King
+MSL_name
+End Times
+Match_Queue_short_desc
+End Times
+Match_Queue_name
+End Times
+Match_Queue_short_desc
+End Times
+Match_Queue_name
+Horde Unstable Tusker
+BOT_name
+Horde Charging Tusker
+BOT_name
+Horde Wraith
+BOT_name
+Horde Dark Wraith
+BOT_name
+Wraith Howitzer
+item_name
+Every 0.7s fire an explosive projectile that deals 850 damage. Reloading fires a slow traveling projectile that deals 1000 damage.
+item_desc
+Wraith Beam
+item_name
+A medium range staff that creates a channeled beam of lightning dealing 75 damage per hit every 0.1 seconds. Deals up to 30% more damage the longer you are on target.
+item_desc
+Firemode for Spirit's Domain Talent - Heals friendly allies. Update with base Lightning Staff.
+DEVICE_desc
+Covert Ops DLC - Outer
+Loot_Table_name
+Covert Ops DLC - Inner
+Loot_Table_name
+Covert Ops DLC - Consumables
+Loot_Table_name
+Covert Ops DLC - Durables
+Loot_Table_name
+Covert Ops DLC Receipt
+ITEM_name
+Atlas Emporium DLC Receipt
+ITEM_name
+Jade Pack DLC Receipt
+ITEM_name
+Atlas Emporium DLC - Outer
+Loot_Table_name
+Atlas Emporium DLC - Consumables
+Loot_Table_name
+Atlas Emporium DLC - Durable
+Loot_Table_name
+Atlas Emporium DLC - Inner
+Loot_Table_name
+Jade Pack DLC - Consumables
+Loot_Table_name
+Jade Pack DLC - Durables
+Loot_Table_name
+Jade Pack DLC - Inner
+Loot_Table_name
+Jade Pack DLC - Outer
+Loot_Table_name
+Covert Ops Lex|200x Crystals
+ITEM_desc
+Covert Ops Pack
+ITEM_name
+Emporium Atlas|200x Crystals|1x Gold Chest
+ITEM_desc
+Emporium Atlas Pack
+ITEM_name
+Jade Prowler Mount|200x Crystals|1x Diamond Chest
+ITEM_desc
+Jade Prowler Pack
+ITEM_name
+Emporium
+ITEM_desc
+Atlas Skin02A
+ITEM_name
+Emporium
+ITEM_short_desc
+Senpai Jenos - Spray Quest 
+Activity_name
+Play Jenos 3 times
+Activity_Goal_title
+Play Jenos 3 times
+Activity_Goal_desc
+Play Jenos 3 times
+Activity_Goal_name
+SND_Notify_CK_Intro
+SND_Notify_CK_PointSwitch
+SND_Notify_CK_Buff_Speed
+SND_Notify_CK_Buff_Damage
+SND_Notify_CK_Buff_Health
+SND_Notify_CK_Buff_Jump
+SND_Notify_CK_Buff_Cooldown
+SND_Notify_CK_Buff_Ultimate
+SND_Notify_CK_75Percent
+End Times
+Match_Queue_short_desc
+End Times
+Match_Queue_name
+End Times
+Match_Queue_short_desc
+End Times
+Match_Queue_name
+Time Portal 3D Spray
+ITEM_name
+Time Portal 3D Spray
+ITEM_name
+Emporium
+ITEM_desc
+Atlas WEP Skin02A
+ITEM_name
+SLT - Collection - Atlas - Emporium
+Loot_Table_name
+Obtainable in the Emporium Pack.
+ITEM_desc
+Emporium
+ITEM_name
+Skye Emote
+item_short_desc
+Obtainable in the End Times Event.
+item_desc
+Shattered Desert Rune Damage Major
+item_name
+Obtainable from a special Valentine's Day event.
+ITEM_desc
+Dragon Queen
+ITEM_name
+Obtainable from the End Times Event.
+ITEM_desc
+Obtainable from the End Times Event.
+ITEM_desc
+Obtainable from the End Times Event.
+ITEM_desc
+Obtainable in the End Times Event.
+ITEM_desc
+Obtainable in the End Times Event.
+ITEM_desc
+Obtainable in the End Times Event.
+ITEM_desc
+Obtainable from the End Times Event.
+ITEM_desc
+Maintain control of a tear in reality as it hops across the map.
+Match_Queue_desc
+Senpai Jenos
+Activity_title
 None
 VV_TEXT
 Patrol
@@ -146673,13 +147447,13 @@ Please connect to Xbox Live to continue.
 XBL_NOT_LOGGED_IN
 You do not have an Xbox Live Gold subscription.
 XBL_NOT_SUBSCRIBER
-Not signed in to "PlayStation"! Network".
+Not signed in to "PlayStation Network".
 PSN_NOT_LOGGED_IN
 NOT_SUBSCRIBER
 PSN_NOT_SUBSCRIBER
 Could not connect to Xbox Live.
 XBL_NO_PORTAL_CONNECTION
-Unable to connect to "PlayStation"! Network".
+Unable to connect to "PlayStation Network".
 PSN_NO_PORTAL_CONNECTION
 Exclusive
 VV_TEXT
@@ -147018,11 +147792,11 @@ Tutorial
 VV_TEXT
 Custom
 VV_TEXT
-Failed to Authenticate with "PlayStation"! Network".
+Failed to Authenticate with "PlayStation Network".
 PSN_AUTH_FAILED
-Unable to Authenticate with "PlayStation"! Network".
+Unable to Authenticate with "PlayStation Network".
 PSN_AUTH_ERROR
-There was a problem communicating with "PlayStation"! Network".  Please try again.
+There was a problem communicating with "PlayStation Network".  Please try again.
 PSN_WEB_CALL_ERROR
 There was a problem with your transaction.  Please contact Hi-Rez support for assistance.
 PSN_WEB_CALL_ERROR_NEED_SUPPORT
@@ -147172,7 +147946,7 @@ Send Gift
 VV_TEXT
 Receive Gift
 VV_TEXT
-You haven't reached the minimum required for gifting.
+You haven't reached the minimum level required for gifting.
 Gift error minimum level
 Gifting is only allowed between friends.
 Gift error friend
@@ -148203,4 +148977,54 @@ LOGIN_FAILED_PORTAL_NOT_ALLOWED
 BattlePass 4 Free Levels
 VV_text
 BattlePass 4 Paid Levels
+VV_text
+Player or party's Crossplay Options are not valid for this queue.
+CROSSPLAY_OPTIONS_MISMATCH
+Adventure Points
+VV_text
+End Times Reward Levels
+VV_text
+First Login Grant
+VV_text
+You have reached the limit to the number of gifts you can send
+GIFT_ERROR_QUANTITY_LIMIT_REACHED
+You have reached the limit to the amount you may spend on gifts
+GIFT_ERROR_SPENDING_LIMIT_REACHED
+Started
+VV_text
+Success
+VV_text
+Failed
+VV_text
+Inventory
+VV_text
+Owner Swap
+VV_text
+Update Player
+VV_text
+Account Link Locked
+VV_text
+SQL Error
+VV_text
+Name History
+VV_text
+Absorb Player
+VV_text
+Update Acquisition Secondary Ids
+VV_text
+Codepath
+VV_text
+Codepath exit
+VV_text
+Error
+VV_text
+General
+VV_text
+Added Acquisition
+VV_text
+Activity
+VV_text
+Disable Player
+VV_text
+Event
 VV_text
