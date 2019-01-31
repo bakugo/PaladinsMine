@@ -105239,7 +105239,7 @@ Fire a Stream of magic projectiles from your hand that deal 210 damage every 0.3
 item_desc
 Step into another plane of reality for 4s. While this ability is active you are in stealth and immune to all harmful effects.
 item_desc
-Restore the soul of an ally, Healing them for 1000 health every second for 1.5s and adjacent allies for 30% of the healing value.
+Restore the soul of an ally, Healing them for 2000 health over 1.5s and adjacent allies for 30% of the healing value.
 item_desc
 Detonate all of your active Soul Charges. Deal 100 damage to the afflicted enemy for every charge detonated. Every charge detonated also heals you for 15% of your maximum life.
 item_desc
@@ -141184,7 +141184,6 @@ Mecha
 ITEM_desc
 Angel's Star Sabre
 ITEM_name
-Future Tech
 ITEM_desc
 Omega Terminus
 ITEM_name
@@ -141194,7 +141193,6 @@ Chest Loot Vendor - Voice Packs
 Loot_Table_name
 Voice Packs Chest
 ITEM_name
-Future Tech
 ITEM_desc
 Omega Gut Shredder
 ITEM_name
@@ -141288,7 +141286,7 @@ Gentleman's Courtesy
 ITEM_name
 Anime
 ITEM_short_desc
-Obtainable in the Anime Chest.
+Obtainable in the Senpai Chest.
 ITEM_desc
 Battlesuit Eagle Eye
 ITEM_name
@@ -141298,7 +141296,6 @@ Gentleman Jenos
 ITEM_name
 SLT - Collection - Jenos - Tuxedo
 Loot_Table_name
-Future Tech
 ITEM_desc
 Omega Impaler
 ITEM_name
@@ -142475,7 +142472,6 @@ Omega Kill Switch
 ITEM_name
 Tech
 ITEM_short_desc
-Future Tech
 ITEM_desc
 Omega Vivian
 ITEM_name
@@ -142495,11 +142491,9 @@ Acquire 600 Mixer Points
 Activity_name
 Omega Zhin
 ITEM_name
-Future Tech
 ITEM_desc
 Omega Ripper
 ITEM_name
-Future Tech
 ITEM_desc
 Kitten
 Activity_Goal_title
@@ -142678,13 +142672,11 @@ Future Tech
 ITEM_short_desc
 Omega Koga
 ITEM_name
-Future Tech
 ITEM_desc
 Future Tech
 ITEM_short_desc
 Omega Dusters
 ITEM_name
-Future Tech
 ITEM_desc
 Frost Bolt hits reduce the Cooldown of Inferno Cannon
 item_short_desc
@@ -144381,9 +144373,7 @@ Free
 ITEM_desc
 Premium
 ITEM_desc
-Future Tech
 ITEM_desc
-Future Tech
 ITEM_desc
 Obtainable from the Battlesuit Battle Pass.
 ITEM_desc
@@ -144508,17 +144498,14 @@ item_desc
 BOT_name
 The Hunter's Daughter
 BOT_desc
-Future Tech
+ITEM_desc
+ITEM_desc
 ITEM_desc
 Future Tech
 ITEM_desc
 Future Tech
 ITEM_desc
-Future Tech
-ITEM_desc
-Future Tech
-ITEM_desc
-Obtainable in the Anime Chest.
+Obtainable in the Senpai Chest.
 ITEM_desc
 IoAbilityTest
 item_name
@@ -144718,15 +144705,15 @@ Ohhhh I'm so excited. There's so many things to blow up.
 ITEM_desc
 Coming Soon
 ITEM_name
-Bio-sensor detecting life forms in this area. Searching for resistance targets.
+Bio-sensor detecting life forms.
 ITEM_desc
 Coming Soon
 ITEM_name
-Every system has a weak point. Now lets finish this.
+Every system has a weak point.
 ITEM_desc
 Coming Soon
 ITEM_name
-Our Opponents systems are quite malicious, but have not fret, for I am present! 
+With great power, comes great processing capabilities.
 ITEM_desc
 Coming Soon
 ITEM_name
@@ -144818,7 +144805,7 @@ Shattered Desert
 Match_Queue_name
 Capture Objectives and push the Payload to the enemy base.
 Match_Queue_desc
-Futures Protector
+Future's Protector
 ITEM_name
 Squidly
 ITEM_name
@@ -144857,13 +144844,13 @@ SLT - Chest - Senpai Chest - Common
 Loot_Table_name
 Shattered Desert Rune Damage
 item_name
-Point Spawned
+The Tear Has Moved
 PALADINS_ALERT_PointSpawnedCooldownBuff
-Point Spawned
+The Tear Has Moved
 PALADINS_ALERT_PointSpawnedGroundspeedBuff
-Point Spawned
+The Tear Has Moved
 PALADINS_ALERT_PointSpawnedJumpBuff
-Point Spawned
+The Tear Has Moved
 PALADINS_ALERT_PointSpawnedUltBuff
 Anomaly
 Activity_title
